@@ -23,6 +23,7 @@ import seaborn as sns
 from shapely.geometry import Point
 from geopy.geocoders import Nominatim
 # import plotly.express as px
+import os
 
 supported_drivers['KML'] = 'rw'
 
@@ -73,11 +74,6 @@ six_month_data['day_of_week'] = [d.weekday() for d in six_month_data['date_time'
 # hawker_df = pd.DataFrame(hawker_geo_df)
 # taxi_stop_df = pd.DataFrame(taxi_stop_geo_df)
 # singapore_subzones_df = pd.DataFrame(singapore_subzones)
-
-#Get taxi availability
-response = requests.get("https://api.data.gov.sg/v1/transport/taxi-availability?date_time=2023-01-10T12%3A00%3A00")
-data = response.json()
-taxi_available_df = gpd.GeoDataFrame.from_features(data)
 
 #Function to get taxi_count of June 2023
 def getTaxiCounts():
@@ -857,15 +853,18 @@ def getSentosaAddresses(date, hour, day_type):
         cluster_list = list(clusters)
         
         for cluster in cluster_list:
-            locname = geoLoc.reverse(list(cluster)[0])
-            address = locname.address
-            if address.partition(',')[0].isnumeric():
-                first_two = address.split(',',9)[1:2]
-                address_name = ','.join(first_two).strip(' ')
-                data_rows.append([date, time, len(cluster), address_name, day_type])
-            else:
-               address_name = address.partition(',')[0] 
-               data_rows.append([date, time, len(cluster), address_name, day_type])
+            try:
+                locname = geoLoc.reverse(list(cluster)[0])
+                address = locname.address
+                if address.partition(',')[0].isnumeric():
+                    first_two = address.split(',',9)[1:2]
+                    address_name = ','.join(first_two).strip(' ')
+                    data_rows.append([date, time, len(cluster), address_name, day_type])
+                else:
+                   address_name = address.partition(',')[0] 
+                   data_rows.append([date, time, len(cluster), address_name, day_type])
+            except:
+                data_rows.append([date, time, len(cluster), "", day_type])
             
     return(data_rows)
     
@@ -883,28 +882,35 @@ def getSentosaAddresses(date, hour, day_type):
 def writingToCSVFile():
     fields = ['date', 'time', 'cluster_size', 'address', 'day_type']
     
-    date = '2023-05-29'
-    hour = '02'
+    save_path = 'sentosa'
+    
+    date = '2021-07-14'
     day_type = 'weekday'
     
-    #creating rows
-    data_rows = getSentosaAddresses(date, hour, day_type)
+    hours = ['00','01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23']
     
-    # name of csv file 
-    filename = "Sentosa_" + date + "_" + hour + ".csv"
+    for hour in hours:
+        #creating rows
+        data_rows = getSentosaAddresses(date, hour, day_type)
         
-    # writing to csv file 
-    with open(filename, 'w') as csvfile: 
-        # creating a csv writer object 
-        csvwriter = csv.writer(csvfile) 
+        # name of csv file 
+        filename = "sentosa_" + date + "_" + hour + ".csv"
+        
+        completeName = os.path.join(save_path, date, filename)
             
-        # writing the fields 
-        csvwriter.writerow(fields) 
-            
-        # writing the data rows 
-        csvwriter.writerows(data_rows)
+        # writing to csv file 
+        with open(completeName, 'w') as csvfile: 
+            # creating a csv writer object 
+            csvwriter = csv.writer(csvfile) 
+                
+            # writing the fields 
+            csvwriter.writerow(fields) 
+                
+            # writing the data rows 
+            csvwriter.writerows(data_rows)
 
 writingToCSVFile()
+
 # print(geopy.distance.geodesic((1.25415, 103.82563), (1.25439891666667, 103.8256399)).m)
 
 

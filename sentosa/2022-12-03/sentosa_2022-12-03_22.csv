@@ -1,0 +1,690 @@
+date,time,cluster_size,address,day_type
+2022-12-03,22:00:00,1,Fort Siloso,weekend
+2022-12-03,22:00:00,1,Beach View,weekend
+2022-12-03,22:00:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:00:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:00:00,1,Sentosa Gateway,weekend
+2022-12-03,22:00:00,1,Sentosa Gateway,weekend
+2022-12-03,22:00:00,1,Ironside Road,weekend
+2022-12-03,22:00:00,2,Gateway Avenue,weekend
+2022-12-03,22:00:00,3,Serapong Course,weekend
+2022-12-03,22:00:00,1,Ironside Link,weekend
+2022-12-03,22:00:00,1,Serapong Course,weekend
+2022-12-03,22:00:00,1,Cove Avenue,weekend
+2022-12-03,22:01:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2022-12-03,22:01:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:01:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:01:00,1,Gateway Avenue,weekend
+2022-12-03,22:01:00,1,Sentosa Gateway,weekend
+2022-12-03,22:01:00,1,Ironside Road,weekend
+2022-12-03,22:01:00,4,Ironside Link,weekend
+2022-12-03,22:01:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:01:00,2,Gateway Avenue,weekend
+2022-12-03,22:01:00,4,Serapong Course,weekend
+2022-12-03,22:01:00,1,Serapong Course,weekend
+2022-12-03,22:01:00,1,Gateway Avenue,weekend
+2022-12-03,22:01:00,1,Allanbrooke Road,weekend
+2022-12-03,22:01:00,1,Allanbrooke Road,weekend
+2022-12-03,22:01:00,1,Treasure Island,weekend
+2022-12-03,22:01:00,1,The Berth by the Cove,weekend
+2022-12-03,22:01:00,1,Sentosa Gateway,weekend
+2022-12-03,22:02:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2022-12-03,22:02:00,1,Siloso Road,weekend
+2022-12-03,22:02:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:02:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:02:00,1,Ironside Road,weekend
+2022-12-03,22:02:00,1,Gateway Avenue,weekend
+2022-12-03,22:02:00,4,Ironside Link,weekend
+2022-12-03,22:02:00,2,Gateway Avenue,weekend
+2022-12-03,22:02:00,2,Serapong Course,weekend
+2022-12-03,22:02:00,1,Artillery Avenue,weekend
+2022-12-03,22:02:00,1,Allanbrooke Road,weekend
+2022-12-03,22:02:00,1,Allanbrooke Road,weekend
+2022-12-03,22:02:00,1,Cove Way,weekend
+2022-12-03,22:02:00,1,Ocean Drive,weekend
+2022-12-03,22:02:00,1,Sentosa Gateway,weekend
+2022-12-03,22:03:00,1,Fort Siloso,weekend
+2022-12-03,22:03:00,1,51B,weekend
+2022-12-03,22:03:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:03:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:03:00,1,Sentosa Gateway,weekend
+2022-12-03,22:03:00,1,Gateway Avenue,weekend
+2022-12-03,22:03:00,1,Serapong Course,weekend
+2022-12-03,22:03:00,1,Gateway Avenue,weekend
+2022-12-03,22:03:00,1,Artillery Avenue,weekend
+2022-12-03,22:03:00,1,Serapong Course,weekend
+2022-12-03,22:03:00,1,Allanbrooke Road,weekend
+2022-12-03,22:03:00,1,Cove Way,weekend
+2022-12-03,22:03:00,1,Ocean Drive,weekend
+2022-12-03,22:03:00,1,Sentosa Gateway,weekend
+2022-12-03,22:04:00,1,Fort Siloso,weekend
+2022-12-03,22:04:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:04:00,1,Sentosa Gateway,weekend
+2022-12-03,22:04:00,1,Sentosa Gateway,weekend
+2022-12-03,22:04:00,2,Gateway Avenue,weekend
+2022-12-03,22:04:00,3,Ironside Link,weekend
+2022-12-03,22:04:00,3,Serapong Course,weekend
+2022-12-03,22:04:00,1,Gateway Avenue,weekend
+2022-12-03,22:04:00,1,Allanbrooke Road,weekend
+2022-12-03,22:04:00,1,Cove Drive,weekend
+2022-12-03,22:04:00,1,Ocean Drive,weekend
+2022-12-03,22:04:00,1,Sentosa Gateway,weekend
+2022-12-03,22:05:00,1,Siloso Road,weekend
+2022-12-03,22:05:00,1,Siloso Road,weekend
+2022-12-03,22:05:00,1,7-Eleven,weekend
+2022-12-03,22:05:00,1,Sentosa Gateway,weekend
+2022-12-03,22:05:00,1,Ironside Road,weekend
+2022-12-03,22:05:00,1,Gateway Avenue,weekend
+2022-12-03,22:05:00,1,Gateway Avenue,weekend
+2022-12-03,22:05:00,1,Ironside Link,weekend
+2022-12-03,22:05:00,1,Serapong Course,weekend
+2022-12-03,22:05:00,1,Ironside Link,weekend
+2022-12-03,22:05:00,1,Serapong Course,weekend
+2022-12-03,22:05:00,1,Gateway Avenue,weekend
+2022-12-03,22:05:00,1,Allanbrooke Road,weekend
+2022-12-03,22:05:00,1,Sentosa Gateway,weekend
+2022-12-03,22:06:00,1,Siloso Road,weekend
+2022-12-03,22:06:00,1,Siloso Road,weekend
+2022-12-03,22:06:00,1,Siloso Road,weekend
+2022-12-03,22:06:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:06:00,1,Sentosa Gateway,weekend
+2022-12-03,22:06:00,1,Gateway Avenue,weekend
+2022-12-03,22:06:00,1,Ironside Link,weekend
+2022-12-03,22:06:00,1,Serapong Course,weekend
+2022-12-03,22:06:00,1,Gateway Avenue,weekend
+2022-12-03,22:06:00,1,Ironside Link,weekend
+2022-12-03,22:06:00,1,,weekend
+2022-12-03,22:06:00,1,Allanbrooke Road,weekend
+2022-12-03,22:06:00,1,Ocean Way,weekend
+2022-12-03,22:06:00,2,Sentosa Gateway,weekend
+2022-12-03,22:07:00,1,Siloso Road,weekend
+2022-12-03,22:07:00,1,Siloso Road,weekend
+2022-12-03,22:07:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:07:00,1,Gateway Avenue,weekend
+2022-12-03,22:07:00,1,Ironside Link,weekend
+2022-12-03,22:07:00,2,Serapong Course,weekend
+2022-12-03,22:07:00,2,Gateway Avenue,weekend
+2022-12-03,22:07:00,1,Artillery Avenue,weekend
+2022-12-03,22:07:00,1,Allanbrooke Road,weekend
+2022-12-03,22:07:00,1,Ocean Drive,weekend
+2022-12-03,22:07:00,1,Ocean Way,weekend
+2022-12-03,22:07:00,2,Sentosa Gateway,weekend
+2022-12-03,22:08:00,1,Siloso Road,weekend
+2022-12-03,22:08:00,1,Siloso Road,weekend
+2022-12-03,22:08:00,1,Siloso Road,weekend
+2022-12-03,22:08:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:08:00,1,Gateway Avenue,weekend
+2022-12-03,22:08:00,2,Gateway Avenue,weekend
+2022-12-03,22:08:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:08:00,1,Gateway Avenue,weekend
+2022-12-03,22:08:00,1,Ocean Drive,weekend
+2022-12-03,22:08:00,1,Ocean Way,weekend
+2022-12-03,22:08:00,2,Sentosa Gateway,weekend
+2022-12-03,22:09:00,1,Siloso Road,weekend
+2022-12-03,22:09:00,1,Siloso Road,weekend
+2022-12-03,22:09:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:09:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:09:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:09:00,1,Sentosa Gateway,weekend
+2022-12-03,22:09:00,1,Sentosa Gateway,weekend
+2022-12-03,22:09:00,1,Gateway Avenue,weekend
+2022-12-03,22:09:00,1,Gateway Avenue,weekend
+2022-12-03,22:09:00,2,Serapong Course,weekend
+2022-12-03,22:09:00,1,Ironside Link,weekend
+2022-12-03,22:09:00,1,Gateway Avenue,weekend
+2022-12-03,22:09:00,1,Ocean Drive,weekend
+2022-12-03,22:09:00,1,Ocean Drive,weekend
+2022-12-03,22:09:00,1,Sentosa Gateway,weekend
+2022-12-03,22:10:00,1,Artillery Avenue,weekend
+2022-12-03,22:10:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:10:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:10:00,1,Ironside Link,weekend
+2022-12-03,22:10:00,2,Serapong Course,weekend
+2022-12-03,22:10:00,1,Gateway Avenue,weekend
+2022-12-03,22:10:00,1,Allanbrooke Road,weekend
+2022-12-03,22:10:00,1,Cove Drive,weekend
+2022-12-03,22:10:00,1,Ocean Drive,weekend
+2022-12-03,22:11:00,1,Artillery Avenue,weekend
+2022-12-03,22:11:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:11:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:11:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:11:00,1,Ironside Link,weekend
+2022-12-03,22:11:00,2,Serapong Course,weekend
+2022-12-03,22:11:00,1,Gateway Avenue,weekend
+2022-12-03,22:11:00,1,Allanbrooke Road,weekend
+2022-12-03,22:11:00,1,Allanbrooke Road,weekend
+2022-12-03,22:11:00,1,Ocean Drive,weekend
+2022-12-03,22:12:00,1,Beach View,weekend
+2022-12-03,22:12:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:12:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:12:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:12:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:12:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:12:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:12:00,1,Ironside Link,weekend
+2022-12-03,22:12:00,1,Serapong Course,weekend
+2022-12-03,22:12:00,1,Gateway Avenue,weekend
+2022-12-03,22:12:00,1,Allanbrooke Road,weekend
+2022-12-03,22:12:00,1,Allanbrooke Road,weekend
+2022-12-03,22:12:00,1,Allanbrooke Road,weekend
+2022-12-03,22:12:00,1,ONE ̊15 Marina,weekend
+2022-12-03,22:12:00,1,Ocean Drive,weekend
+2022-12-03,22:13:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:13:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:13:00,2,Gateway Avenue,weekend
+2022-12-03,22:13:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:13:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:13:00,1,Gateway Avenue,weekend
+2022-12-03,22:13:00,2,Serapong Course,weekend
+2022-12-03,22:13:00,1,Allanbrooke Road,weekend
+2022-12-03,22:13:00,1,Allanbrooke Road,weekend
+2022-12-03,22:13:00,1,Allanbrooke Road,weekend
+2022-12-03,22:13:00,1,Ocean Drive,weekend
+2022-12-03,22:13:00,1,Ocean Drive,weekend
+2022-12-03,22:13:00,1,Sentosa Gateway,weekend
+2022-12-03,22:13:00,1,Sentosa Gateway,weekend
+2022-12-03,22:14:00,1,Imbiah,weekend
+2022-12-03,22:14:00,1,Village Hotel @ Sentosa,weekend
+2022-12-03,22:14:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:14:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:14:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:14:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:14:00,1,Gateway Avenue,weekend
+2022-12-03,22:14:00,1,Artillery Avenue,weekend
+2022-12-03,22:14:00,2,Serapong Course,weekend
+2022-12-03,22:14:00,1,Sofitel Sentosa Resort & Spa,weekend
+2022-12-03,22:14:00,1,Allanbrooke Road,weekend
+2022-12-03,22:14:00,1,Cove Avenue,weekend
+2022-12-03,22:14:00,1,Ocean Drive,weekend
+2022-12-03,22:14:00,1,Treasure Island,weekend
+2022-12-03,22:14:00,1,Sentosa Gateway,weekend
+2022-12-03,22:15:00,1,Village Hotel @ Sentosa,weekend
+2022-12-03,22:15:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:15:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:15:00,1,Serapong Course,weekend
+2022-12-03,22:15:00,1,Allanbrooke Road,weekend
+2022-12-03,22:15:00,1,Cove Drive,weekend
+2022-12-03,22:15:00,1,Ocean Drive,weekend
+2022-12-03,22:15:00,1,Sentosa Gateway,weekend
+2022-12-03,22:16:00,1,Siloso Point,weekend
+2022-12-03,22:16:00,1,Artillery Avenue,weekend
+2022-12-03,22:16:00,1,Gateway Avenue,weekend
+2022-12-03,22:16:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:16:00,1,Artillery Avenue,weekend
+2022-12-03,22:16:00,1,Bukit Manis Road,weekend
+2022-12-03,22:16:00,1,Sentosa Cove,weekend
+2022-12-03,22:16:00,1,Sentosa Cove Arrival Plaza,weekend
+2022-12-03,22:16:00,1,Cove Drive,weekend
+2022-12-03,22:16:00,1,Ocean Drive,weekend
+2022-12-03,22:16:00,1,Sentosa Gateway,weekend
+2022-12-03,22:17:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:17:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:17:00,1,Sentosa Gateway,weekend
+2022-12-03,22:17:00,2,Gateway Avenue,weekend
+2022-12-03,22:17:00,1,Artillery Avenue,weekend
+2022-12-03,22:17:00,1,Bukit Manis Road,weekend
+2022-12-03,22:17:00,1,Allanbrooke Road,weekend
+2022-12-03,22:17:00,1,Cove Drive,weekend
+2022-12-03,22:17:00,1,Ocean Drive,weekend
+2022-12-03,22:17:00,2,Sentosa Gateway,weekend
+2022-12-03,22:18:00,1,Siloso Road,weekend
+2022-12-03,22:18:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:18:00,1,Gunner Lane,weekend
+2022-12-03,22:18:00,1,Gateway Avenue,weekend
+2022-12-03,22:18:00,1,Gateway Avenue,weekend
+2022-12-03,22:18:00,1,Serapong Course,weekend
+2022-12-03,22:18:00,1,Gateway Avenue,weekend
+2022-12-03,22:18:00,1,Bukit Manis Road,weekend
+2022-12-03,22:18:00,1,Allanbrooke Road,weekend
+2022-12-03,22:18:00,1,Sentosa Gateway,weekend
+2022-12-03,22:19:00,1,Siloso Road,weekend
+2022-12-03,22:19:00,1,Mess Hall,weekend
+2022-12-03,22:19:00,1,Gunner Lane,weekend
+2022-12-03,22:19:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:19:00,1,Gateway Avenue,weekend
+2022-12-03,22:19:00,3,Serapong Course,weekend
+2022-12-03,22:19:00,1,Artillery Avenue,weekend
+2022-12-03,22:19:00,1,Gateway Avenue,weekend
+2022-12-03,22:19:00,1,Bukit Manis Road,weekend
+2022-12-03,22:19:00,1,Ocean Drive,weekend
+2022-12-03,22:19:00,1,Sentosa Gateway,weekend
+2022-12-03,22:20:00,1,Beach Arrival Plaza,weekend
+2022-12-03,22:20:00,1,Gunner Lane,weekend
+2022-12-03,22:20:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:20:00,1,Gateway Avenue,weekend
+2022-12-03,22:20:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:20:00,2,Serapong Course,weekend
+2022-12-03,22:20:00,1,Ironside Link,weekend
+2022-12-03,22:20:00,1,Sentosa Gateway,weekend
+2022-12-03,22:21:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2022-12-03,22:21:00,1,Beach View,weekend
+2022-12-03,22:21:00,1,Gunner Lane,weekend
+2022-12-03,22:21:00,4,Gateway Avenue,weekend
+2022-12-03,22:21:00,1,Artillery Avenue,weekend
+2022-12-03,22:21:00,1,Gateway Avenue,weekend
+2022-12-03,22:21:00,2,Serapong Course,weekend
+2022-12-03,22:21:00,1,Southern Islands,weekend
+2022-12-03,22:21:00,1,Sentosa Gateway,weekend
+2022-12-03,22:22:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2022-12-03,22:22:00,1,Artillery Avenue,weekend
+2022-12-03,22:22:00,1,Artillery Avenue,weekend
+2022-12-03,22:22:00,3,Gateway Avenue,weekend
+2022-12-03,22:22:00,1,Ironside Road,weekend
+2022-12-03,22:22:00,1,Ironside Link,weekend
+2022-12-03,22:22:00,1,Sentosa Gateway,weekend
+2022-12-03,22:23:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:23:00,2,Gateway Avenue,weekend
+2022-12-03,22:23:00,2,Serapong Course,weekend
+2022-12-03,22:23:00,1,Sentosa Gateway,weekend
+2022-12-03,22:23:00,1,Sentosa Gateway,weekend
+2022-12-03,22:24:00,1,Costa Sands Resort (Sentosa),weekend
+2022-12-03,22:24:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:24:00,1,Serapong Course,weekend
+2022-12-03,22:24:00,1,Serapong Course,weekend
+2022-12-03,22:24:00,1,Cove Drive,weekend
+2022-12-03,22:25:00,1,Artillery Avenue,weekend
+2022-12-03,22:25:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:25:00,1,Gateway Avenue,weekend
+2022-12-03,22:26:00,1,Siloso Road,weekend
+2022-12-03,22:26:00,1,Artillery Avenue,weekend
+2022-12-03,22:26:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:26:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:26:00,4,Resorts World Sentosa,weekend
+2022-12-03,22:26:00,1,Gateway Avenue,weekend
+2022-12-03,22:26:00,1,Serapong Course,weekend
+2022-12-03,22:27:00,1,Siloso Road,weekend
+2022-12-03,22:27:00,1,Beach View,weekend
+2022-12-03,22:27:00,4,Resorts World Sentosa,weekend
+2022-12-03,22:28:00,1,Gateway Avenue,weekend
+2022-12-03,22:29:00,1,Siloso Road,weekend
+2022-12-03,22:29:00,1,Siloso Road,weekend
+2022-12-03,22:29:00,1,Siloso Road,weekend
+2022-12-03,22:29:00,1,Siloso Road,weekend
+2022-12-03,22:29:00,1,Beach View,weekend
+2022-12-03,22:29:00,1,Siloso Road,weekend
+2022-12-03,22:29:00,1,Sentosa Gateway,weekend
+2022-12-03,22:29:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:29:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:29:00,1,Gateway Avenue,weekend
+2022-12-03,22:29:00,1,Ironside Link,weekend
+2022-12-03,22:30:00,1,Siloso Road,weekend
+2022-12-03,22:30:00,1,Siloso Road,weekend
+2022-12-03,22:30:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:30:00,1,Beach View,weekend
+2022-12-03,22:30:00,1,Siloso Road,weekend
+2022-12-03,22:30:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:30:00,1,Gateway Avenue,weekend
+2022-12-03,22:30:00,1,Ironside Link,weekend
+2022-12-03,22:30:00,1,Gateway Avenue,weekend
+2022-12-03,22:30:00,1,Ocean Drive,weekend
+2022-12-03,22:31:00,1,Siloso Road,weekend
+2022-12-03,22:31:00,1,Siloso Road,weekend
+2022-12-03,22:31:00,1,Southern Islands,weekend
+2022-12-03,22:31:00,1,Mess Hall,weekend
+2022-12-03,22:31:00,1,Artillery Avenue,weekend
+2022-12-03,22:31:00,1,Sentosa Gateway,weekend
+2022-12-03,22:31:00,1,Sentosa Gateway,weekend
+2022-12-03,22:31:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:31:00,1,Gateway Avenue,weekend
+2022-12-03,22:31:00,1,Serapong Course,weekend
+2022-12-03,22:31:00,1,Allanbrooke Road,weekend
+2022-12-03,22:31:00,1,Allanbrooke Road,weekend
+2022-12-03,22:31:00,1,Ocean Drive,weekend
+2022-12-03,22:31:00,1,Sentosa Gateway,weekend
+2022-12-03,22:32:00,1,Siloso Road,weekend
+2022-12-03,22:32:00,1,Siloso Road,weekend
+2022-12-03,22:32:00,1,Sentosa Gateway,weekend
+2022-12-03,22:32:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:32:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:32:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:32:00,1,Gateway Avenue,weekend
+2022-12-03,22:32:00,2,Serapong Course,weekend
+2022-12-03,22:32:00,1,Ironside Link,weekend
+2022-12-03,22:32:00,1,Allanbrooke Road,weekend
+2022-12-03,22:32:00,1,Allanbrooke Road,weekend
+2022-12-03,22:32:00,1,Allanbrooke Road,weekend
+2022-12-03,22:32:00,1,Ocean Drive,weekend
+2022-12-03,22:32:00,1,Sentosa Gateway,weekend
+2022-12-03,22:33:00,1,Siloso Road,weekend
+2022-12-03,22:33:00,1,Siloso Road,weekend
+2022-12-03,22:33:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:33:00,1,Gateway Avenue,weekend
+2022-12-03,22:33:00,1,Gateway Avenue,weekend
+2022-12-03,22:33:00,1,Ironside Link,weekend
+2022-12-03,22:33:00,1,Serapong Course,weekend
+2022-12-03,22:33:00,1,Gateway Avenue,weekend
+2022-12-03,22:33:00,1,Artillery Avenue,weekend
+2022-12-03,22:33:00,1,Allanbrooke Road,weekend
+2022-12-03,22:33:00,1,Bukit Manis Road,weekend
+2022-12-03,22:33:00,1,Ocean Way,weekend
+2022-12-03,22:34:00,1,Siloso Road,weekend
+2022-12-03,22:34:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:34:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:34:00,1,Artillery Avenue,weekend
+2022-12-03,22:34:00,1,Ironside Link,weekend
+2022-12-03,22:34:00,2,Serapong Course,weekend
+2022-12-03,22:34:00,1,Allanbrooke Road,weekend
+2022-12-03,22:34:00,1,Allanbrooke Road,weekend
+2022-12-03,22:34:00,1,Bukit Manis Road,weekend
+2022-12-03,22:34:00,1,Sentosa Cove,weekend
+2022-12-03,22:35:00,1,Siloso Road,weekend
+2022-12-03,22:35:00,1,Siloso Road,weekend
+2022-12-03,22:35:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:35:00,3,Resorts World Sentosa,weekend
+2022-12-03,22:35:00,2,Serapong Course,weekend
+2022-12-03,22:35:00,1,Ironside Link,weekend
+2022-12-03,22:35:00,1,Allanbrooke Road,weekend
+2022-12-03,22:35:00,1,Allanbrooke Road,weekend
+2022-12-03,22:35:00,1,Allanbrooke Road,weekend
+2022-12-03,22:35:00,1,Bukit Manis Road,weekend
+2022-12-03,22:35:00,1,Sentosa Cove,weekend
+2022-12-03,22:36:00,1,Siloso Road,weekend
+2022-12-03,22:36:00,1,Siloso Road,weekend
+2022-12-03,22:36:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:36:00,1,Sentosa Gateway,weekend
+2022-12-03,22:36:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:36:00,1,Ironside Link,weekend
+2022-12-03,22:36:00,1,Serapong Course,weekend
+2022-12-03,22:36:00,1,Artillery Avenue,weekend
+2022-12-03,22:36:00,2,Allanbrooke Road,weekend
+2022-12-03,22:36:00,1,Allanbrooke Road,weekend
+2022-12-03,22:36:00,1,Bukit Manis Road,weekend
+2022-12-03,22:36:00,1,Sentosa Cove,weekend
+2022-12-03,22:37:00,1,Imbiah Road,weekend
+2022-12-03,22:37:00,1,Siloso Road,weekend
+2022-12-03,22:37:00,1,Beach View,weekend
+2022-12-03,22:37:00,1,Siloso Road,weekend
+2022-12-03,22:37:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:37:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:37:00,3,Resorts World Sentosa,weekend
+2022-12-03,22:37:00,1,Ironside Link,weekend
+2022-12-03,22:37:00,1,Gateway Avenue,weekend
+2022-12-03,22:37:00,1,Allanbrooke Road,weekend
+2022-12-03,22:37:00,1,Bukit Manis Road,weekend
+2022-12-03,22:37:00,1,Bukit Manis Road,weekend
+2022-12-03,22:37:00,1,Cove Drive,weekend
+2022-12-03,22:37:00,1,Sentosa Cove,weekend
+2022-12-03,22:38:00,1,Imbiah Road,weekend
+2022-12-03,22:38:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:38:00,1,Artillery Avenue,weekend
+2022-12-03,22:38:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:38:00,1,Sentosa Gateway,weekend
+2022-12-03,22:38:00,1,Artillery Avenue,weekend
+2022-12-03,22:38:00,3,Resorts World Sentosa,weekend
+2022-12-03,22:38:00,1,Gateway Avenue,weekend
+2022-12-03,22:38:00,1,Ironside Link,weekend
+2022-12-03,22:38:00,2,Serapong Course,weekend
+2022-12-03,22:38:00,1,Gateway Avenue,weekend
+2022-12-03,22:38:00,1,Artillery Avenue,weekend
+2022-12-03,22:38:00,1,Allanbrooke Road,weekend
+2022-12-03,22:38:00,1,Bukit Manis Road,weekend
+2022-12-03,22:38:00,1,Bukit Manis Road,weekend
+2022-12-03,22:38:00,1,Cove Drive,weekend
+2022-12-03,22:38:00,1,Sentosa Cove,weekend
+2022-12-03,22:38:00,1,Sentosa Gateway,weekend
+2022-12-03,22:39:00,1,Imbiah Road,weekend
+2022-12-03,22:39:00,1,Siloso Road,weekend
+2022-12-03,22:39:00,1,Artillery Avenue,weekend
+2022-12-03,22:39:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:39:00,1,Sentosa Gateway,weekend
+2022-12-03,22:39:00,1,Artillery Avenue,weekend
+2022-12-03,22:39:00,3,Resorts World Sentosa,weekend
+2022-12-03,22:39:00,1,Gateway Avenue,weekend
+2022-12-03,22:39:00,1,Gateway Avenue,weekend
+2022-12-03,22:39:00,1,Ironside Link,weekend
+2022-12-03,22:39:00,1,Serapong Course,weekend
+2022-12-03,22:39:00,1,Artillery Avenue,weekend
+2022-12-03,22:39:00,1,Allanbrooke Road,weekend
+2022-12-03,22:39:00,1,Bukit Manis Road,weekend
+2022-12-03,22:39:00,1,Bukit Manis Road,weekend
+2022-12-03,22:39:00,1,Allanbrooke Road,weekend
+2022-12-03,22:39:00,1,Cove Avenue,weekend
+2022-12-03,22:39:00,1,Sentosa Gateway,weekend
+2022-12-03,22:40:00,1,Imbiah Road,weekend
+2022-12-03,22:40:00,1,Mess Hall,weekend
+2022-12-03,22:40:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:40:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:40:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:40:00,1,Sentosa Gateway,weekend
+2022-12-03,22:40:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:40:00,1,Ironside Link,weekend
+2022-12-03,22:40:00,1,Serapong Course,weekend
+2022-12-03,22:40:00,1,Artillery Avenue,weekend
+2022-12-03,22:40:00,1,Artillery Avenue,weekend
+2022-12-03,22:40:00,1,Bukit Manis Road,weekend
+2022-12-03,22:40:00,1,Bukit Manis Road,weekend
+2022-12-03,22:40:00,1,Allanbrooke Road,weekend
+2022-12-03,22:41:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:41:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:41:00,1,Sentosa Gateway,weekend
+2022-12-03,22:41:00,1,Ironside Road,weekend
+2022-12-03,22:41:00,3,Resorts World Sentosa,weekend
+2022-12-03,22:41:00,1,Ironside Link,weekend
+2022-12-03,22:41:00,2,Serapong Course,weekend
+2022-12-03,22:41:00,1,Southern Islands,weekend
+2022-12-03,22:41:00,1,Allanbrooke Road,weekend
+2022-12-03,22:41:00,1,Bukit Manis Road,weekend
+2022-12-03,22:41:00,1,Allanbrooke Road,weekend
+2022-12-03,22:42:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:42:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:42:00,1,Sentosa Gateway,weekend
+2022-12-03,22:42:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:42:00,1,Ironside Link,weekend
+2022-12-03,22:42:00,2,Serapong Course,weekend
+2022-12-03,22:42:00,1,Bukit Manis Road,weekend
+2022-12-03,22:42:00,1,Allanbrooke Road,weekend
+2022-12-03,22:42:00,1,Cove Avenue,weekend
+2022-12-03,22:43:00,1,Siloso Road,weekend
+2022-12-03,22:43:00,1,Hard Rock Hotel Singapore,weekend
+2022-12-03,22:43:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:43:00,1,Artillery Avenue,weekend
+2022-12-03,22:43:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:43:00,2,Serapong Course,weekend
+2022-12-03,22:43:00,1,Serapong Course,weekend
+2022-12-03,22:43:00,1,Allanbrooke Road,weekend
+2022-12-03,22:43:00,1,Bukit Manis Road,weekend
+2022-12-03,22:43:00,1,Allanbrooke Road,weekend
+2022-12-03,22:44:00,1,Siloso Road,weekend
+2022-12-03,22:44:00,1,Imbiah,weekend
+2022-12-03,22:44:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:44:00,2,Resorts World Sentosa,weekend
+2022-12-03,22:44:00,3,Serapong Course,weekend
+2022-12-03,22:44:00,1,Serapong Course,weekend
+2022-12-03,22:44:00,1,Gateway Avenue,weekend
+2022-12-03,22:44:00,2,Allanbrooke Road,weekend
+2022-12-03,22:44:00,1,Bukit Manis Road,weekend
+2022-12-03,22:44:00,1,Allanbrooke Road,weekend
+2022-12-03,22:45:00,1,Siloso Road,weekend
+2022-12-03,22:45:00,1,Artillery Avenue,weekend
+2022-12-03,22:45:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:45:00,1,Sentosa Gateway,weekend
+2022-12-03,22:45:00,1,Gateway Avenue,weekend
+2022-12-03,22:45:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:45:00,1,Serapong Course,weekend
+2022-12-03,22:45:00,1,Serapong Course,weekend
+2022-12-03,22:45:00,2,Allanbrooke Road,weekend
+2022-12-03,22:45:00,1,Bukit Manis Road,weekend
+2022-12-03,22:45:00,1,Allanbrooke Road,weekend
+2022-12-03,22:46:00,1,Mess Hall,weekend
+2022-12-03,22:46:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:46:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:46:00,1,Gateway Avenue,weekend
+2022-12-03,22:46:00,1,Serapong Course,weekend
+2022-12-03,22:46:00,2,Allanbrooke Road,weekend
+2022-12-03,22:46:00,1,Allanbrooke Road,weekend
+2022-12-03,22:47:00,1,Siloso Road,weekend
+2022-12-03,22:47:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:47:00,1,Sentosa Gateway,weekend
+2022-12-03,22:47:00,1,Gateway Avenue,weekend
+2022-12-03,22:47:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:47:00,1,Serapong Course,weekend
+2022-12-03,22:47:00,1,Allanbrooke Road,weekend
+2022-12-03,22:47:00,1,Allanbrooke Road,weekend
+2022-12-03,22:47:00,1,Sentosa Gateway,weekend
+2022-12-03,22:48:00,1,Siloso Road,weekend
+2022-12-03,22:48:00,1,Siloso Road,weekend
+2022-12-03,22:48:00,1,Siloso Road,weekend
+2022-12-03,22:48:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:48:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:48:00,1,Serapong Course,weekend
+2022-12-03,22:48:00,1,Allanbrooke Road,weekend
+2022-12-03,22:48:00,1,Allanbrooke Road,weekend
+2022-12-03,22:49:00,1,Siloso Road,weekend
+2022-12-03,22:49:00,1,Siloso Road,weekend
+2022-12-03,22:49:00,1,Siloso Road,weekend
+2022-12-03,22:49:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:49:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:49:00,1,Serapong Course,weekend
+2022-12-03,22:49:00,1,Allanbrooke Road,weekend
+2022-12-03,22:49:00,1,Allanbrooke Road,weekend
+2022-12-03,22:50:00,2,Siloso Road,weekend
+2022-12-03,22:50:00,1,Siloso Road,weekend
+2022-12-03,22:50:00,1,Siloso Road,weekend
+2022-12-03,22:50:00,1,Co+Nut+ink,weekend
+2022-12-03,22:50:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:50:00,1,Artillery Avenue,weekend
+2022-12-03,22:50:00,1,Serapong Course,weekend
+2022-12-03,22:50:00,1,Allanbrooke Road,weekend
+2022-12-03,22:50:00,1,Allanbrooke Road,weekend
+2022-12-03,22:51:00,1,Siloso Road,weekend
+2022-12-03,22:51:00,1,Siloso Road,weekend
+2022-12-03,22:51:00,1,Beach Arrival Plaza,weekend
+2022-12-03,22:51:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:51:00,1,Sentosa Gateway,weekend
+2022-12-03,22:51:00,1,Ironside Road,weekend
+2022-12-03,22:51:00,2,Serapong Course,weekend
+2022-12-03,22:51:00,1,Serapong Course,weekend
+2022-12-03,22:51:00,4,Allanbrooke Road,weekend
+2022-12-03,22:51:00,1,Allanbrooke Road,weekend
+2022-12-03,22:51:00,1,Allanbrooke Road,weekend
+2022-12-03,22:52:00,1,Siloso Road,weekend
+2022-12-03,22:52:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:52:00,1,Siloso Road,weekend
+2022-12-03,22:52:00,1,Sentosa Gateway,weekend
+2022-12-03,22:52:00,1,Gateway Avenue,weekend
+2022-12-03,22:52:00,1,Ironside Road,weekend
+2022-12-03,22:52:00,1,Serapong Course,weekend
+2022-12-03,22:52:00,1,Gateway Avenue,weekend
+2022-12-03,22:52:00,1,Serapong Course,weekend
+2022-12-03,22:52:00,1,Ironside Link,weekend
+2022-12-03,22:52:00,1,Artillery Avenue,weekend
+2022-12-03,22:52:00,1,Allanbrooke Road,weekend
+2022-12-03,22:52:00,1,Allanbrooke Road,weekend
+2022-12-03,22:52:00,1,Allanbrooke Road,weekend
+2022-12-03,22:53:00,1,Fort Siloso Skywalk,weekend
+2022-12-03,22:53:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:53:00,1,Mess Hall,weekend
+2022-12-03,22:53:00,1,Sentosa Gateway,weekend
+2022-12-03,22:53:00,1,Sentosa Gateway,weekend
+2022-12-03,22:53:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:53:00,1,Ironside Road,weekend
+2022-12-03,22:53:00,1,Gateway Avenue,weekend
+2022-12-03,22:53:00,1,Ironside Road,weekend
+2022-12-03,22:53:00,1,Serapong Course,weekend
+2022-12-03,22:53:00,1,Serapong Course,weekend
+2022-12-03,22:53:00,1,Ironside Link,weekend
+2022-12-03,22:53:00,1,Allanbrooke Road,weekend
+2022-12-03,22:53:00,1,Bukit Manis Road,weekend
+2022-12-03,22:53:00,1,Allanbrooke Road,weekend
+2022-12-03,22:54:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2022-12-03,22:54:00,1,Oasis Resort Sentosa,weekend
+2022-12-03,22:54:00,1,Gateway Avenue,weekend
+2022-12-03,22:54:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:54:00,1,Gateway Avenue,weekend
+2022-12-03,22:54:00,1,Ironside Road,weekend
+2022-12-03,22:54:00,1,Gateway Avenue,weekend
+2022-12-03,22:54:00,1,Ironside Road,weekend
+2022-12-03,22:54:00,1,Serapong Course,weekend
+2022-12-03,22:54:00,1,Artillery Avenue,weekend
+2022-12-03,22:54:00,2,Serapong Course,weekend
+2022-12-03,22:54:00,1,Ironside Link,weekend
+2022-12-03,22:54:00,3,Allanbrooke Road,weekend
+2022-12-03,22:54:00,1,Bukit Manis Road,weekend
+2022-12-03,22:54:00,1,Allanbrooke Road,weekend
+2022-12-03,22:54:00,1,Sentosa Gateway,weekend
+2022-12-03,22:55:00,1,Siloso Road,weekend
+2022-12-03,22:55:00,1,Siloso Road,weekend
+2022-12-03,22:55:00,1,Artillery Avenue,weekend
+2022-12-03,22:55:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:55:00,1,Gateway Avenue,weekend
+2022-12-03,22:55:00,2,Ironside Road,weekend
+2022-12-03,22:55:00,1,Gateway Avenue,weekend
+2022-12-03,22:55:00,1,Serapong Course,weekend
+2022-12-03,22:55:00,3,Serapong Course,weekend
+2022-12-03,22:55:00,1,Ironside Link,weekend
+2022-12-03,22:55:00,1,Artillery Avenue,weekend
+2022-12-03,22:55:00,1,Allanbrooke Road,weekend
+2022-12-03,22:55:00,3,Allanbrooke Road,weekend
+2022-12-03,22:55:00,1,Allanbrooke Road,weekend
+2022-12-03,22:55:00,1,Sentosa Gateway,weekend
+2022-12-03,22:56:00,1,Siloso Road,weekend
+2022-12-03,22:56:00,1,Siloso Road,weekend
+2022-12-03,22:56:00,1,Artillery Avenue,weekend
+2022-12-03,22:56:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:56:00,1,Gateway Avenue,weekend
+2022-12-03,22:56:00,1,Ironside Road,weekend
+2022-12-03,22:56:00,1,Gateway Avenue,weekend
+2022-12-03,22:56:00,1,Gateway Avenue,weekend
+2022-12-03,22:56:00,1,Serapong Course,weekend
+2022-12-03,22:56:00,1,Serapong Course,weekend
+2022-12-03,22:56:00,1,Serapong Course,weekend
+2022-12-03,22:56:00,1,Ironside Link,weekend
+2022-12-03,22:56:00,1,Gateway Avenue,weekend
+2022-12-03,22:56:00,1,Allanbrooke Road,weekend
+2022-12-03,22:56:00,3,Allanbrooke Road,weekend
+2022-12-03,22:56:00,1,Allanbrooke Road,weekend
+2022-12-03,22:56:00,1,Bukit Manis Road,weekend
+2022-12-03,22:56:00,1,Sentosa Gateway,weekend
+2022-12-03,22:56:00,1,Sentosa Gateway,weekend
+2022-12-03,22:57:00,1,Siloso Road,weekend
+2022-12-03,22:57:00,1,Siloso Road,weekend
+2022-12-03,22:57:00,1,Siloso Road,weekend
+2022-12-03,22:57:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:57:00,1,Gateway Avenue,weekend
+2022-12-03,22:57:00,2,Artillery Avenue,weekend
+2022-12-03,22:57:00,1,Gateway Avenue,weekend
+2022-12-03,22:57:00,1,Serapong Course,weekend
+2022-12-03,22:57:00,1,Ironside Link,weekend
+2022-12-03,22:57:00,1,Serapong Course,weekend
+2022-12-03,22:57:00,1,Southern Islands,weekend
+2022-12-03,22:57:00,3,Allanbrooke Road,weekend
+2022-12-03,22:57:00,1,Allanbrooke Road,weekend
+2022-12-03,22:57:00,1,Allanbrooke Road,weekend
+2022-12-03,22:58:00,1,Fort Siloso,weekend
+2022-12-03,22:58:00,1,Siloso Point,weekend
+2022-12-03,22:58:00,2,Siloso Road,weekend
+2022-12-03,22:58:00,1,Siloso Road,weekend
+2022-12-03,22:58:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:58:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:58:00,1,Gateway Avenue,weekend
+2022-12-03,22:58:00,1,Gateway Avenue,weekend
+2022-12-03,22:58:00,1,Gateway Avenue,weekend
+2022-12-03,22:58:00,1,Serapong Course,weekend
+2022-12-03,22:58:00,1,Ironside Link,weekend
+2022-12-03,22:58:00,2,Serapong Course,weekend
+2022-12-03,22:58:00,1,Ironside Link,weekend
+2022-12-03,22:58:00,1,Allanbrooke Road,weekend
+2022-12-03,22:58:00,1,Bukit Manis Road,weekend
+2022-12-03,22:58:00,4,Allanbrooke Road,weekend
+2022-12-03,22:58:00,1,Allanbrooke Road,weekend
+2022-12-03,22:58:00,2,Allanbrooke Road,weekend
+2022-12-03,22:58:00,1,Ocean Way,weekend
+2022-12-03,22:58:00,1,Sentosa Gateway,weekend
+2022-12-03,22:59:00,1,Fort Siloso Skywalk,weekend
+2022-12-03,22:59:00,1,Siloso Point,weekend
+2022-12-03,22:59:00,1,Siloso Road,weekend
+2022-12-03,22:59:00,1,Siloso Road,weekend
+2022-12-03,22:59:00,1,Siloso Road,weekend
+2022-12-03,22:59:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:59:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:59:00,1,Sentosa Boardwalk,weekend
+2022-12-03,22:59:00,1,Sentosa Gateway,weekend
+2022-12-03,22:59:00,1,Resorts World Sentosa,weekend
+2022-12-03,22:59:00,1,Gateway Avenue,weekend
+2022-12-03,22:59:00,1,Serapong Course,weekend
+2022-12-03,22:59:00,1,Serapong Course,weekend
+2022-12-03,22:59:00,1,Ironside Link,weekend
+2022-12-03,22:59:00,2,Bukit Manis Road,weekend
+2022-12-03,22:59:00,3,Allanbrooke Road,weekend
+2022-12-03,22:59:00,2,Allanbrooke Road,weekend
+2022-12-03,22:59:00,1,Cove Grove,weekend

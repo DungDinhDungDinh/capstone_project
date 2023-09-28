@@ -1,0 +1,155 @@
+date,time,cluster_size,address,day_type
+2022-11-13,17:00:00,1,Sentosa Gateway,weekend
+2022-11-13,17:00:00,1,Ironside Road,weekend
+2022-11-13,17:00:00,1,Gateway Avenue,weekend
+2022-11-13,17:00:00,1,Ocean Drive,weekend
+2022-11-13,17:00:00,1,The Berth by the Cove,weekend
+2022-11-13,17:01:00,1,Gateway Avenue,weekend
+2022-11-13,17:02:00,1,Universal Studios Singapore,weekend
+2022-11-13,17:03:00,1,Sentosa Gateway,weekend
+2022-11-13,17:03:00,1,Serapong Course,weekend
+2022-11-13,17:04:00,1,Serapong Course,weekend
+2022-11-13,17:04:00,1,Ironside Link,weekend
+2022-11-13,17:04:00,1,Gateway Avenue,weekend
+2022-11-13,17:04:00,1,Sentosa Gateway,weekend
+2022-11-13,17:05:00,1,Serapong Course,weekend
+2022-11-13,17:05:00,1,Allanbrooke Road,weekend
+2022-11-13,17:05:00,1,Sentosa Gateway,weekend
+2022-11-13,17:06:00,1,Serapong Course,weekend
+2022-11-13,17:06:00,1,Sentosa Gateway,weekend
+2022-11-13,17:09:00,1,Gateway Avenue,weekend
+2022-11-13,17:09:00,1,Sentosa Gateway,weekend
+2022-11-13,17:10:00,1,Gunner Lane,weekend
+2022-11-13,17:10:00,1,Gateway Avenue,weekend
+2022-11-13,17:11:00,1,Gateway Avenue,weekend
+2022-11-13,17:12:00,1,Gateway Avenue,weekend
+2022-11-13,17:13:00,1,Gateway Avenue,weekend
+2022-11-13,17:16:00,1,Sentosa Gateway,weekend
+2022-11-13,17:16:00,1,Artillery Avenue,weekend
+2022-11-13,17:17:00,1,Sentosa Gateway,weekend
+2022-11-13,17:17:00,1,Artillery Avenue,weekend
+2022-11-13,17:18:00,1,Sentosa Gateway,weekend
+2022-11-13,17:18:00,1,Gateway Avenue,weekend
+2022-11-13,17:18:00,1,Ironside Link,weekend
+2022-11-13,17:19:00,1,Sentosa Gateway,weekend
+2022-11-13,17:19:00,1,Gateway Avenue,weekend
+2022-11-13,17:19:00,1,Ironside Link,weekend
+2022-11-13,17:20:00,1,Gateway Avenue,weekend
+2022-11-13,17:21:00,1,Gateway Avenue,weekend
+2022-11-13,17:21:00,1,Sentosa Gateway,weekend
+2022-11-13,17:22:00,1,Beach View,weekend
+2022-11-13,17:22:00,1,Gateway Avenue,weekend
+2022-11-13,17:22:00,1,Universal Studios Singapore,weekend
+2022-11-13,17:23:00,1,Sentosa Boardwalk,weekend
+2022-11-13,17:23:00,1,Universal Studios Singapore,weekend
+2022-11-13,17:23:00,1,Gateway Avenue,weekend
+2022-11-13,17:24:00,1,The Knolls,weekend
+2022-11-13,17:24:00,1,Sentosa Boardwalk,weekend
+2022-11-13,17:24:00,1,Gateway Avenue,weekend
+2022-11-13,17:24:00,1,Gateway Avenue,weekend
+2022-11-13,17:25:00,1,Sentosa Gateway,weekend
+2022-11-13,17:25:00,1,The Knolls,weekend
+2022-11-13,17:25:00,1,Gateway Avenue,weekend
+2022-11-13,17:25:00,1,Serapong Course,weekend
+2022-11-13,17:25:00,1,Serapong Course,weekend
+2022-11-13,17:26:00,1,Sentosa Gateway,weekend
+2022-11-13,17:26:00,1,Ironside Road,weekend
+2022-11-13,17:26:00,1,Gateway Avenue,weekend
+2022-11-13,17:26:00,1,Serapong Course,weekend
+2022-11-13,17:26:00,1,Gateway Avenue,weekend
+2022-11-13,17:27:00,1,Sentosa Gateway,weekend
+2022-11-13,17:27:00,1,Ironside Road,weekend
+2022-11-13,17:27:00,1,Gateway Avenue,weekend
+2022-11-13,17:27:00,1,Serapong Course,weekend
+2022-11-13,17:27:00,1,Gateway Avenue,weekend
+2022-11-13,17:28:00,1,Resorts World Sentosa,weekend
+2022-11-13,17:28:00,1,Serapong Course,weekend
+2022-11-13,17:29:00,1,Resorts World Sentosa,weekend
+2022-11-13,17:29:00,1,Gateway Avenue,weekend
+2022-11-13,17:29:00,1,Gateway Avenue,weekend
+2022-11-13,17:30:00,1,Sentosa Gateway,weekend
+2022-11-13,17:30:00,1,Gateway Avenue,weekend
+2022-11-13,17:30:00,1,Gateway Avenue,weekend
+2022-11-13,17:31:00,1,Sentosa Boardwalk,weekend
+2022-11-13,17:32:00,1,Serapong Course,weekend
+2022-11-13,17:32:00,1,Ocean Drive,weekend
+2022-11-13,17:33:00,1,Universal Studios Singapore,weekend
+2022-11-13,17:33:00,1,Sentosa Cove,weekend
+2022-11-13,17:34:00,1,Allanbrooke Road,weekend
+2022-11-13,17:35:00,1,Allanbrooke Road,weekend
+2022-11-13,17:36:00,1,Artillery Avenue South,weekend
+2022-11-13,17:36:00,1,Quayside Isle,weekend
+2022-11-13,17:37:00,1,Universal Studios Singapore,weekend
+2022-11-13,17:37:00,1,Resorts World Sentosa,weekend
+2022-11-13,17:37:00,1,Sofitel Sentosa Resort & Spa,weekend
+2022-11-13,17:38:00,1,Sentosa Gateway,weekend
+2022-11-13,17:38:00,1,Gateway Avenue,weekend
+2022-11-13,17:38:00,1,Gateway Avenue,weekend
+2022-11-13,17:39:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:39:00,1,Gateway Avenue,weekend
+2022-11-13,17:39:00,1,Gateway Avenue,weekend
+2022-11-13,17:39:00,1,Ironside Link,weekend
+2022-11-13,17:39:00,1,Serapong Course,weekend
+2022-11-13,17:40:00,1,Equarius Hotel,weekend
+2022-11-13,17:40:00,1,Gateway Avenue,weekend
+2022-11-13,17:40:00,1,Gateway Avenue,weekend
+2022-11-13,17:40:00,1,Ironside Link,weekend
+2022-11-13,17:40:00,1,Serapong Course,weekend
+2022-11-13,17:41:00,1,Equarius Hotel,weekend
+2022-11-13,17:41:00,1,Gateway Avenue,weekend
+2022-11-13,17:41:00,1,Gateway Avenue,weekend
+2022-11-13,17:41:00,1,Ironside Link,weekend
+2022-11-13,17:41:00,1,Serapong Course,weekend
+2022-11-13,17:42:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:42:00,1,Gateway Avenue,weekend
+2022-11-13,17:42:00,1,Gateway Avenue,weekend
+2022-11-13,17:42:00,1,Ironside Link,weekend
+2022-11-13,17:43:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:44:00,1,Equarius Hotel,weekend
+2022-11-13,17:44:00,1,Gateway Avenue,weekend
+2022-11-13,17:45:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:45:00,1,Gateway Avenue,weekend
+2022-11-13,17:45:00,1,Gateway Avenue,weekend
+2022-11-13,17:46:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:46:00,1,Gateway Avenue,weekend
+2022-11-13,17:46:00,1,Gateway Avenue,weekend
+2022-11-13,17:46:00,1,Ironside Link,weekend
+2022-11-13,17:47:00,1,Equarius Hotel,weekend
+2022-11-13,17:47:00,1,Serapong Course,weekend
+2022-11-13,17:47:00,1,Ironside Link,weekend
+2022-11-13,17:48:00,1,Equarius Hotel,weekend
+2022-11-13,17:48:00,1,Gateway Avenue,weekend
+2022-11-13,17:48:00,1,Ironside Link,weekend
+2022-11-13,17:49:00,1,Equarius Hotel,weekend
+2022-11-13,17:50:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:50:00,1,Gateway Avenue,weekend
+2022-11-13,17:51:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:51:00,1,Serapong Course,weekend
+2022-11-13,17:52:00,1,Equarius Hotel,weekend
+2022-11-13,17:52:00,1,Sentosa Boardwalk,weekend
+2022-11-13,17:52:00,1,Gateway Avenue,weekend
+2022-11-13,17:52:00,1,Gateway Avenue,weekend
+2022-11-13,17:53:00,1,Resorts World Sentosa,weekend
+2022-11-13,17:53:00,1,Gateway Avenue,weekend
+2022-11-13,17:53:00,1,Ocean Drive,weekend
+2022-11-13,17:54:00,1,Resorts World Sentosa,weekend
+2022-11-13,17:54:00,1,Gateway Avenue,weekend
+2022-11-13,17:54:00,1,Ocean Drive,weekend
+2022-11-13,17:54:00,1,Sentosa Gateway,weekend
+2022-11-13,17:55:00,1,Resorts World Sentosa,weekend
+2022-11-13,17:55:00,2,Gateway Avenue,weekend
+2022-11-13,17:55:00,1,Ocean Drive,weekend
+2022-11-13,17:55:00,1,Sentosa Gateway,weekend
+2022-11-13,17:56:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:56:00,1,Gateway Avenue,weekend
+2022-11-13,17:56:00,1,Serapong Course,weekend
+2022-11-13,17:56:00,1,Ocean Drive,weekend
+2022-11-13,17:57:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:57:00,1,Beach Station Bus Terminal,weekend
+2022-11-13,17:57:00,1,Gateway Avenue,weekend
+2022-11-13,17:57:00,1,Ocean Drive,weekend
+2022-11-13,17:58:00,1,Adventure Cove Waterpark,weekend
+2022-11-13,17:58:00,1,Gateway Avenue,weekend
+2022-11-13,17:58:00,1,Gateway Avenue,weekend
+2022-11-13,17:58:00,1,Sentosa Cove Arrival Plaza,weekend
+2022-11-13,17:59:00,1,Adventure Cove Waterpark,weekend
