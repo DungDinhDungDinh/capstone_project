@@ -1,0 +1,465 @@
+index,date,time,cluster_size,address,day_type
+0,2023-05-28,23:01:00,2,Southern Islands,weekend
+1,2023-05-28,23:01:00,1,Southern Islands,weekend
+2,2023-05-28,23:01:00,1,8 Sentosa Gateway,weekend
+3,2023-05-28,23:01:00,1,Capella Hotel ,weekend
+4,2023-05-28,23:01:00,1,Allanbrooke Road,weekend
+5,2023-05-28,23:01:00,1,"Carpark (1.249570, 103.827800)",weekend
+6,2023-05-28,23:02:00,1,Shangri-La Rasa,weekend
+7,2023-05-28,23:02:00,1,Resorts World,weekend
+8,2023-05-28,23:02:00,3,Southern Islands,weekend
+9,2023-05-28,23:02:00,1,Artillery Avenue,weekend
+10,2023-05-28,23:02:00,1,Artillery Avenue,weekend
+11,2023-05-28,23:02:00,1,Allanbrooke Road,weekend
+12,2023-05-28,23:02:00,1,"Carpark (1.249570, 103.827800)",weekend
+13,2023-05-28,23:03:00,1,Sentosa Gateway ,weekend
+14,2023-05-28,23:03:00,1,Siloso Road,weekend
+15,2023-05-28,23:03:00,1,Artillery Avenue,weekend
+16,2023-05-28,23:03:00,2,Southern Islands,weekend
+17,2023-05-28,23:03:00,2,Southern Islands,weekend
+18,2023-05-28,23:03:00,1,Allanbrooke Road,weekend
+19,2023-05-28,23:04:00,1,Straits of Singapore,weekend
+20,2023-05-28,23:04:00,1,Siloso Road,weekend
+21,2023-05-28,23:04:00,1,Resorts World,weekend
+22,2023-05-28,23:04:00,1,Southern Islands,weekend
+23,2023-05-28,23:04:00,2,Southern Islands,weekend
+24,2023-05-28,23:04:00,2,8 Sentosa Gateway,weekend
+25,2023-05-28,23:04:00,2,Capella Hotel ,weekend
+26,2023-05-28,23:04:00,1,Allanbrooke Road,weekend
+27,2023-05-28,23:04:00,1,Ocean Drive,weekend
+28,2023-05-28,23:05:00,2,Straits of Singapore,weekend
+29,2023-05-28,23:05:00,1,Southern Islands,weekend
+30,2023-05-28,23:05:00,5,Gateway Avenue,weekend
+31,2023-05-28,23:05:00,2,Artillery Avenue,weekend
+32,2023-05-28,23:05:00,1,Gunner Lane,weekend
+33,2023-05-28,23:05:00,2,Capella Hotel ,weekend
+34,2023-05-28,23:05:00,1,Allanbrooke Road,weekend
+35,2023-05-28,23:05:00,1,Ocean Drive,weekend
+36,2023-05-28,23:06:00,2,Straits of Singapore,weekend
+37,2023-05-28,23:06:00,1,Resorts World,weekend
+38,2023-05-28,23:06:00,2,Southern Islands,weekend
+39,2023-05-28,23:06:00,4,Gateway Avenue,weekend
+40,2023-05-28,23:06:00,1,Artillery Avenue,weekend
+41,2023-05-28,23:06:00,2,Capella Hotel ,weekend
+42,2023-05-28,23:06:00,1,Allanbrooke Road,weekend
+43,2023-05-28,23:07:00,1,Straits of Singapore,weekend
+44,2023-05-28,23:07:00,1,Straits of Singapore,weekend
+45,2023-05-28,23:07:00,1,Siloso Trail,weekend
+46,2023-05-28,23:07:00,1,Resorts World,weekend
+47,2023-05-28,23:07:00,2,Southern Islands,weekend
+48,2023-05-28,23:07:00,2,Gateway Avenue,weekend
+49,2023-05-28,23:07:00,1,8 Sentosa Gateway,weekend
+50,2023-05-28,23:07:00,2,Capella Hotel ,weekend
+51,2023-05-28,23:07:00,1,Allanbrooke Road,weekend
+52,2023-05-28,23:08:00,2,Sentosa Gateway ,weekend
+53,2023-05-28,23:08:00,1,Straits of Singapore,weekend
+54,2023-05-28,23:08:00,1,Siloso Road,weekend
+55,2023-05-28,23:08:00,1,Equarius Hotel,weekend
+56,2023-05-28,23:08:00,1,8 Sentosa Gateway,weekend
+57,2023-05-28,23:08:00,2,Southern Islands,weekend
+58,2023-05-28,23:08:00,1,8 Sentosa Gateway,weekend
+59,2023-05-28,23:08:00,1,Capella Hotel ,weekend
+60,2023-05-28,23:08:00,1,Allanbrooke Road,weekend
+61,2023-05-28,23:09:00,1,Sentosa Gateway ,weekend
+62,2023-05-28,23:09:00,1,Southern Islands,weekend
+63,2023-05-28,23:09:00,1,8 Sentosa Gateway,weekend
+64,2023-05-28,23:09:00,1,Siloso Road,weekend
+65,2023-05-28,23:09:00,1,Equarius Hotel,weekend
+66,2023-05-28,23:09:00,1,Capella Hotel ,weekend
+67,2023-05-28,23:09:00,1,Allanbrooke Road,weekend
+68,2023-05-28,23:09:00,1,Sentosa Cove Village ,weekend
+69,2023-05-28,23:09:00,1,W Hotel/Quayside Isle,weekend
+70,2023-05-28,23:10:00,1,Equarius Hotel,weekend
+71,2023-05-28,23:10:00,1,Resorts World,weekend
+72,2023-05-28,23:10:00,1,Artillery Avenue,weekend
+73,2023-05-28,23:10:00,2,Southern Islands,weekend
+74,2023-05-28,23:10:00,1,Gateway Avenue,weekend
+75,2023-05-28,23:10:00,1,Allanbrooke Road,weekend
+76,2023-05-28,23:10:00,1,Sentosa Cove Village ,weekend
+77,2023-05-28,23:10:00,1,W Hotel/Quayside Isle,weekend
+78,2023-05-28,23:11:00,1,Sentosa Gateway ,weekend
+79,2023-05-28,23:11:00,1,Shangri-La Rasa,weekend
+80,2023-05-28,23:11:00,1,Equarius Hotel,weekend
+81,2023-05-28,23:11:00,1,Gateway Avenue,weekend
+82,2023-05-28,23:11:00,1,Gateway Avenue,weekend
+83,2023-05-28,23:11:00,2,Southern Islands,weekend
+84,2023-05-28,23:11:00,1,Southern Islands,weekend
+85,2023-05-28,23:11:00,1,Opp Amara Sanctuary,weekend
+86,2023-05-28,23:11:00,1,Allanbrooke Road,weekend
+87,2023-05-28,23:11:00,1,Cove Drive,weekend
+88,2023-05-28,23:12:00,1,Sentosa Gateway ,weekend
+89,2023-05-28,23:12:00,1,Sentosa Gateway ,weekend
+90,2023-05-28,23:12:00,1,Straits of Singapore,weekend
+91,2023-05-28,23:12:00,1,Southern Islands,weekend
+92,2023-05-28,23:12:00,1,Gateway Avenue,weekend
+93,2023-05-28,23:12:00,2,Southern Islands,weekend
+94,2023-05-28,23:12:00,1,Southern Islands,weekend
+95,2023-05-28,23:12:00,1,Siloso Road,weekend
+96,2023-05-28,23:12:00,1,Equarius Hotel,weekend
+97,2023-05-28,23:12:00,1,Allanbrooke Road,weekend
+98,2023-05-28,23:12:00,1,Ocean Way,weekend
+99,2023-05-28,23:13:00,1,Straits of Singapore,weekend
+100,2023-05-28,23:13:00,1,Straits of Singapore,weekend
+101,2023-05-28,23:13:00,1,Straits of Singapore,weekend
+102,2023-05-28,23:13:00,1,Southern Islands,weekend
+103,2023-05-28,23:13:00,3,Southern Islands,weekend
+104,2023-05-28,23:13:00,1,Siloso Road,weekend
+105,2023-05-28,23:13:00,1,Quayside Isle,weekend
+106,2023-05-28,23:14:00,1,Sentosa Gateway ,weekend
+107,2023-05-28,23:14:00,1,Siloso Road,weekend
+108,2023-05-28,23:14:00,1,Southern Islands,weekend
+109,2023-05-28,23:14:00,1,Southern Islands,weekend
+110,2023-05-28,23:14:00,2,Gateway Avenue,weekend
+111,2023-05-28,23:14:00,1,8 Sentosa Gateway,weekend
+112,2023-05-28,23:14:00,1,Capella Hotel ,weekend
+113,2023-05-28,23:14:00,2,W Hotel/Quayside Isle,weekend
+114,2023-05-28,23:15:00,1,Brani_Causeway,weekend
+115,2023-05-28,23:15:00,1,Straits of Singapore,weekend
+116,2023-05-28,23:15:00,1,Siloso Road,weekend
+117,2023-05-28,23:15:00,1,Beach View Road,weekend
+118,2023-05-28,23:15:00,1,Southern Islands,weekend
+119,2023-05-28,23:15:00,1,Southern Islands,weekend
+120,2023-05-28,23:15:00,2,Gateway Avenue,weekend
+121,2023-05-28,23:15:00,1,Gateway Avenue,weekend
+122,2023-05-28,23:15:00,1,W Hotel/Quayside Isle,weekend
+123,2023-05-28,23:15:00,1,Ocean Way,weekend
+124,2023-05-28,23:15:00,1,Ocean Way,weekend
+125,2023-05-28,23:16:00,1,Sentosa Gateway ,weekend
+126,2023-05-28,23:16:00,2,Straits of Singapore,weekend
+127,2023-05-28,23:16:00,1,Southern Islands,weekend
+128,2023-05-28,23:16:00,2,Southern Islands,weekend
+129,2023-05-28,23:16:00,2,Gateway Avenue,weekend
+130,2023-05-28,23:16:00,1,Gateway Avenue,weekend
+131,2023-05-28,23:16:00,1,Opp Amara Sanctuary,weekend
+132,2023-05-28,23:16:00,1,Siloso Road,weekend
+133,2023-05-28,23:16:00,1,W Hotel/Quayside Isle,weekend
+134,2023-05-28,23:16:00,1,Ocean Way,weekend
+135,2023-05-28,23:16:00,1,Ocean Way,weekend
+136,2023-05-28,23:17:00,1,Straits of Singapore,weekend
+137,2023-05-28,23:17:00,1,Gateway Avenue,weekend
+138,2023-05-28,23:17:00,5,Southern Islands,weekend
+139,2023-05-28,23:17:00,1,Gateway Avenue,weekend
+140,2023-05-28,23:17:00,1,Opp Amara Sanctuary,weekend
+141,2023-05-28,23:17:00,1,Ocean Way,weekend
+142,2023-05-28,23:17:00,1,Ocean Way,weekend
+143,2023-05-28,23:17:00,1,Ocean Drive,weekend
+144,2023-05-28,23:18:00,2,Straits of Singapore,weekend
+145,2023-05-28,23:18:00,1,Southern Islands,weekend
+146,2023-05-28,23:18:00,3,Southern Islands,weekend
+147,2023-05-28,23:18:00,1,8 Sentosa Gateway,weekend
+148,2023-05-28,23:18:00,1,Gateway Avenue,weekend
+149,2023-05-28,23:18:00,1,Opp Amara Sanctuary,weekend
+150,2023-05-28,23:18:00,1,Allanbrooke Road,weekend
+151,2023-05-28,23:18:00,1,Allanbrooke Road,weekend
+152,2023-05-28,23:18:00,1,"1.247220, 103.837270",weekend
+153,2023-05-28,23:18:00,1,Ocean Way,weekend
+154,2023-05-28,23:18:00,2,Ocean Way,weekend
+155,2023-05-28,23:19:00,1,Straits of Singapore,weekend
+156,2023-05-28,23:19:00,1,Southern Islands,weekend
+157,2023-05-28,23:19:00,3,Southern Islands,weekend
+158,2023-05-28,23:19:00,1,Southern Islands,weekend
+159,2023-05-28,23:19:00,1,8 Sentosa Gateway,weekend
+160,2023-05-28,23:19:00,1,8 Sentosa Gateway,weekend
+161,2023-05-28,23:19:00,1,Allanbrooke Road,weekend
+162,2023-05-28,23:19:00,1,Ocean Drive,weekend
+163,2023-05-28,23:20:00,1,Sentosa Gateway ,weekend
+164,2023-05-28,23:20:00,1,Gateway Avenue,weekend
+165,2023-05-28,23:20:00,1,8 Sentosa Gateway,weekend
+166,2023-05-28,23:20:00,3,Southern Islands,weekend
+167,2023-05-28,23:20:00,1,Gateway Avenue,weekend
+168,2023-05-28,23:20:00,1,8 Sentosa Gateway,weekend
+169,2023-05-28,23:20:00,1,Cove Avenue,weekend
+170,2023-05-28,23:20:00,1,Ocean Way,weekend
+171,2023-05-28,23:21:00,2,Sentosa Gateway ,weekend
+172,2023-05-28,23:21:00,1,Straits of Singapore,weekend
+173,2023-05-28,23:21:00,1,Straits of Singapore,weekend
+174,2023-05-28,23:21:00,1,Straits of Singapore,weekend
+175,2023-05-28,23:21:00,1,8 Sentosa Gateway,weekend
+176,2023-05-28,23:21:00,1,8 Sentosa Gateway,weekend
+177,2023-05-28,23:21:00,1,Gateway Avenue,weekend
+178,2023-05-28,23:21:00,3,Southern Islands,weekend
+179,2023-05-28,23:21:00,1,Gateway Avenue,weekend
+180,2023-05-28,23:21:00,1,Resorts World,weekend
+181,2023-05-28,23:21:00,1,Artillery Avenue,weekend
+182,2023-05-28,23:21:00,1,Allanbrooke Road,weekend
+183,2023-05-28,23:21:00,1,Allanbrooke Road,weekend
+184,2023-05-28,23:22:00,2,Sentosa Gateway ,weekend
+185,2023-05-28,23:22:00,2,Straits of Singapore,weekend
+186,2023-05-28,23:22:00,4,Southern Islands,weekend
+187,2023-05-28,23:22:00,2,Southern Islands,weekend
+188,2023-05-28,23:22:00,1,8 Sentosa Gateway,weekend
+189,2023-05-28,23:22:00,1,Artillery Avenue,weekend
+190,2023-05-28,23:22:00,1,Artillery Avenue,weekend
+191,2023-05-28,23:22:00,1,Artillery Avenue,weekend
+192,2023-05-28,23:22:00,1,Allanbrooke Road,weekend
+193,2023-05-28,23:22:00,1,Bukit Manis Road,weekend
+194,2023-05-28,23:23:00,1,Straits of Singapore,weekend
+195,2023-05-28,23:23:00,2,Straits of Singapore,weekend
+196,2023-05-28,23:23:00,1,Straits of Singapore,weekend
+197,2023-05-28,23:23:00,3,Southern Islands,weekend
+198,2023-05-28,23:23:00,2,Southern Islands,weekend
+199,2023-05-28,23:23:00,1,Artillery Avenue,weekend
+200,2023-05-28,23:23:00,1,Capella Hotel ,weekend
+201,2023-05-28,23:23:00,1,Artillery Avenue,weekend
+202,2023-05-28,23:23:00,1,Allanbrooke Road,weekend
+203,2023-05-28,23:24:00,1,Straits of Singapore,weekend
+204,2023-05-28,23:24:00,4,Southern Islands,weekend
+205,2023-05-28,23:24:00,1,Southern Islands,weekend
+206,2023-05-28,23:24:00,1,Artillery Avenue,weekend
+207,2023-05-28,23:24:00,1,Gateway Avenue,weekend
+208,2023-05-28,23:24:00,1,Capella Hotel ,weekend
+209,2023-05-28,23:24:00,1,Sofitel Singapore Sentosa Resort & Spa,weekend
+210,2023-05-28,23:25:00,1,Sentosa Gateway ,weekend
+211,2023-05-28,23:25:00,1,Straits of Singapore,weekend
+212,2023-05-28,23:25:00,1,Gateway Avenue,weekend
+213,2023-05-28,23:25:00,4,Southern Islands,weekend
+214,2023-05-28,23:25:00,2,Southern Islands,weekend
+215,2023-05-28,23:25:00,1,Artillery Avenue,weekend
+216,2023-05-28,23:25:00,1,Capella Hotel ,weekend
+217,2023-05-28,23:25:00,1,Sofitel Singapore Sentosa Resort & Spa,weekend
+218,2023-05-28,23:25:00,1,Allanbrooke Road,weekend
+219,2023-05-28,23:26:00,1,Sentosa Gateway ,weekend
+220,2023-05-28,23:26:00,2,Straits of Singapore,weekend
+221,2023-05-28,23:26:00,3,Southern Islands,weekend
+222,2023-05-28,23:26:00,1,Artillery Avenue,weekend
+223,2023-05-28,23:26:00,1,Sentosa Golf Club,weekend
+224,2023-05-28,23:26:00,1,Allanbrooke Road,weekend
+225,2023-05-28,23:27:00,2,Straits of Singapore,weekend
+226,2023-05-28,23:27:00,1,Gateway Avenue,weekend
+227,2023-05-28,23:27:00,3,Southern Islands,weekend
+228,2023-05-28,23:27:00,2,Southern Islands,weekend
+229,2023-05-28,23:27:00,1,Gateway Avenue,weekend
+230,2023-05-28,23:27:00,1,Artillery Avenue,weekend
+231,2023-05-28,23:27:00,1,Allanbrooke Road,weekend
+232,2023-05-28,23:27:00,1,Capella Hotel ,weekend
+233,2023-05-28,23:27:00,1,Ocean Drive,weekend
+234,2023-05-28,23:27:00,1,Ocean Drive,weekend
+235,2023-05-28,23:28:00,1,Sentosa Gateway ,weekend
+236,2023-05-28,23:28:00,1,Straits of Singapore,weekend
+237,2023-05-28,23:28:00,1,Straits of Singapore,weekend
+238,2023-05-28,23:28:00,1,8 Sentosa Gateway,weekend
+239,2023-05-28,23:28:00,1,Gateway Avenue,weekend
+240,2023-05-28,23:28:00,1,Southern Islands,weekend
+241,2023-05-28,23:28:00,1,Southern Islands,weekend
+242,2023-05-28,23:28:00,2,Gateway Avenue,weekend
+243,2023-05-28,23:28:00,1,Gateway Avenue,weekend
+244,2023-05-28,23:28:00,1,Ocean Drive,weekend
+245,2023-05-28,23:28:00,1,Ocean Drive,weekend
+246,2023-05-28,23:29:00,2,Straits of Singapore,weekend
+247,2023-05-28,23:29:00,1,Southern Islands,weekend
+248,2023-05-28,23:29:00,1,Southern Islands,weekend
+249,2023-05-28,23:29:00,2,Gateway Avenue,weekend
+250,2023-05-28,23:29:00,2,Capella Hotel ,weekend
+251,2023-05-28,23:29:00,1,Artillery Avenue,weekend
+252,2023-05-28,23:29:00,2,Ocean Drive,weekend
+253,2023-05-28,23:30:00,1,Straits of Singapore,weekend
+254,2023-05-28,23:30:00,4,Southern Islands,weekend
+255,2023-05-28,23:30:00,1,Southern Islands,weekend
+256,2023-05-28,23:30:00,2,Capella Hotel ,weekend
+257,2023-05-28,23:30:00,1,"Carpark (1.249570, 103.827800)",weekend
+258,2023-05-28,23:30:00,1,Ocean Drive,weekend
+259,2023-05-28,23:30:00,1,Ocean Drive,weekend
+260,2023-05-28,23:31:00,3,Gateway Avenue,weekend
+261,2023-05-28,23:31:00,1,Southern Islands,weekend
+262,2023-05-28,23:31:00,2,Capella Hotel ,weekend
+263,2023-05-28,23:31:00,1,"Carpark (1.249570, 103.827800)",weekend
+264,2023-05-28,23:31:00,1,Allanbrooke Road,weekend
+265,2023-05-28,23:31:00,1,Ocean Drive,weekend
+266,2023-05-28,23:32:00,1,Straits of Singapore,weekend
+267,2023-05-28,23:32:00,1,Brani_Causeway,weekend
+268,2023-05-28,23:32:00,3,Gateway Avenue,weekend
+269,2023-05-28,23:32:00,2,Capella Hotel ,weekend
+270,2023-05-28,23:32:00,2,"Carpark (1.249570, 103.827800)",weekend
+271,2023-05-28,23:32:00,1,Ocean Drive,weekend
+272,2023-05-28,23:33:00,1,Straits of Singapore,weekend
+273,2023-05-28,23:33:00,4,Gateway Avenue,weekend
+274,2023-05-28,23:33:00,2,Capella Hotel ,weekend
+275,2023-05-28,23:33:00,2,"Carpark (1.249570, 103.827800)",weekend
+276,2023-05-28,23:33:00,1,Ocean Drive,weekend
+277,2023-05-28,23:34:00,1,Sentosa Gateway ,weekend
+278,2023-05-28,23:34:00,1,Sentosa Gateway ,weekend
+279,2023-05-28,23:34:00,1,Straits of Singapore,weekend
+280,2023-05-28,23:34:00,4,Gateway Avenue,weekend
+281,2023-05-28,23:34:00,1,Gateway Avenue,weekend
+282,2023-05-28,23:34:00,1,8 Sentosa Gateway,weekend
+283,2023-05-28,23:34:00,2,Capella Hotel ,weekend
+284,2023-05-28,23:34:00,1,"Carpark (1.249570, 103.827800)",weekend
+285,2023-05-28,23:34:00,1,Ocean Drive,weekend
+286,2023-05-28,23:35:00,1,Straits of Singapore,weekend
+287,2023-05-28,23:35:00,6,Southern Islands,weekend
+288,2023-05-28,23:35:00,2,Capella Hotel ,weekend
+289,2023-05-28,23:35:00,1,"Carpark (1.249570, 103.827800)",weekend
+290,2023-05-28,23:35:00,1,Ocean Drive,weekend
+291,2023-05-28,23:36:00,1,Sentosa Gateway ,weekend
+292,2023-05-28,23:36:00,1,Sentosa Gateway ,weekend
+293,2023-05-28,23:36:00,3,Straits of Singapore,weekend
+294,2023-05-28,23:36:00,1,Straits of Singapore,weekend
+295,2023-05-28,23:36:00,4,Gateway Avenue,weekend
+296,2023-05-28,23:36:00,2,Southern Islands,weekend
+297,2023-05-28,23:36:00,2,Southern Islands,weekend
+298,2023-05-28,23:36:00,1,Resorts World,weekend
+299,2023-05-28,23:36:00,1,Capella Hotel ,weekend
+300,2023-05-28,23:36:00,1,"Carpark (1.249570, 103.827800)",weekend
+301,2023-05-28,23:36:00,1,Ocean Drive,weekend
+302,2023-05-28,23:36:00,1,Cove Drive,weekend
+303,2023-05-28,23:37:00,1,Sentosa Gateway ,weekend
+304,2023-05-28,23:37:00,1,Straits of Singapore,weekend
+305,2023-05-28,23:37:00,1,Straits of Singapore,weekend
+306,2023-05-28,23:37:00,1,Gateway Avenue,weekend
+307,2023-05-28,23:37:00,1,Southern Islands,weekend
+308,2023-05-28,23:37:00,3,Gateway Avenue,weekend
+309,2023-05-28,23:37:00,1,Larkhill Road,weekend
+310,2023-05-28,23:37:00,1,Capella Hotel ,weekend
+311,2023-05-28,23:37:00,1,"Carpark (1.249570, 103.827800)",weekend
+312,2023-05-28,23:37:00,1,Allanbrooke Road,weekend
+313,2023-05-28,23:37:00,1,Cove Drive,weekend
+314,2023-05-28,23:38:00,1,Sentosa Gateway ,weekend
+315,2023-05-28,23:38:00,1,Straits of Singapore,weekend
+316,2023-05-28,23:38:00,5,Gateway Avenue,weekend
+317,2023-05-28,23:38:00,2,Southern Islands,weekend
+318,2023-05-28,23:38:00,1,Siloso Road,weekend
+319,2023-05-28,23:38:00,1,Capella Hotel ,weekend
+320,2023-05-28,23:38:00,1,Artillery Avenue,weekend
+321,2023-05-28,23:38:00,1,"1.247220, 103.837270",weekend
+322,2023-05-28,23:39:00,1,Sentosa Gateway ,weekend
+323,2023-05-28,23:39:00,2,Straits of Singapore,weekend
+324,2023-05-28,23:39:00,4,Southern Islands,weekend
+325,2023-05-28,23:39:00,2,Southern Islands,weekend
+326,2023-05-28,23:39:00,1,Resorts World,weekend
+327,2023-05-28,23:39:00,2,Artillery Avenue,weekend
+328,2023-05-28,23:39:00,1,Capella Hotel ,weekend
+329,2023-05-28,23:39:00,1,Allanbrooke Road,weekend
+330,2023-05-28,23:40:00,1,Resorts World,weekend
+331,2023-05-28,23:40:00,2,8 Sentosa Gateway,weekend
+332,2023-05-28,23:40:00,1,Gateway Avenue,weekend
+333,2023-05-28,23:40:00,4,Gateway Avenue,weekend
+334,2023-05-28,23:40:00,2,Capella Hotel ,weekend
+335,2023-05-28,23:40:00,1,Sentosa Cove Village,weekend
+336,2023-05-28,23:41:00,2,Sentosa Gateway ,weekend
+337,2023-05-28,23:41:00,2,Straits of Singapore,weekend
+338,2023-05-28,23:41:00,1,Straits of Singapore,weekend
+339,2023-05-28,23:41:00,1,Gateway Avenue,weekend
+340,2023-05-28,23:41:00,5,Gateway Avenue,weekend
+341,2023-05-28,23:41:00,1,Southern Islands,weekend
+342,2023-05-28,23:41:00,1,Capella Hotel ,weekend
+343,2023-05-28,23:42:00,1,Sentosa Gateway ,weekend
+344,2023-05-28,23:42:00,1,Straits of Singapore,weekend
+345,2023-05-28,23:42:00,1,Gateway Avenue,weekend
+346,2023-05-28,23:42:00,4,Gateway Avenue,weekend
+347,2023-05-28,23:43:00,3,Sentosa Gateway ,weekend
+348,2023-05-28,23:43:00,1,Straits of Singapore,weekend
+349,2023-05-28,23:43:00,1,Resorts World,weekend
+350,2023-05-28,23:43:00,3,Gateway Avenue,weekend
+351,2023-05-28,23:43:00,2,Southern Islands,weekend
+352,2023-05-28,23:43:00,1,Sentosa Cove Village,weekend
+353,2023-05-28,23:44:00,1,Straits of Singapore,weekend
+354,2023-05-28,23:44:00,1,Straits of Singapore,weekend
+355,2023-05-28,23:44:00,3,Southern Islands,weekend
+356,2023-05-28,23:45:00,1,Straits of Singapore,weekend
+357,2023-05-28,23:45:00,1,Southern Islands,weekend
+358,2023-05-28,23:45:00,2,Gateway Avenue,weekend
+359,2023-05-28,23:45:00,1,Capella Hotel ,weekend
+360,2023-05-28,23:45:00,1,"Carpark (1.249570, 103.827800)",weekend
+361,2023-05-28,23:46:00,2,Straits of Singapore,weekend
+362,2023-05-28,23:46:00,1,8 Sentosa Gateway,weekend
+363,2023-05-28,23:46:00,1,Gateway Avenue,weekend
+364,2023-05-28,23:46:00,3,Southern Islands,weekend
+365,2023-05-28,23:46:00,1,Southern Islands,weekend
+366,2023-05-28,23:46:00,1,Resorts World,weekend
+367,2023-05-28,23:46:00,1,Resorts World,weekend
+368,2023-05-28,23:46:00,1,Artillery Avenue,weekend
+369,2023-05-28,23:46:00,1,Beach View Road,weekend
+370,2023-05-28,23:46:00,1,Ocean Drive,weekend
+371,2023-05-28,23:47:00,2,Sentosa Gateway ,weekend
+372,2023-05-28,23:47:00,1,Straits of Singapore,weekend
+373,2023-05-28,23:47:00,1,Straits of Singapore,weekend
+374,2023-05-28,23:47:00,2,Straits of Singapore,weekend
+375,2023-05-28,23:47:00,1,Straits of Singapore,weekend
+376,2023-05-28,23:47:00,1,Gateway Avenue,weekend
+377,2023-05-28,23:47:00,3,Southern Islands,weekend
+378,2023-05-28,23:47:00,1,Southern Islands,weekend
+379,2023-05-28,23:47:00,1,Resorts World,weekend
+380,2023-05-28,23:47:00,1,Cove Avenue,weekend
+381,2023-05-28,23:48:00,1,Sentosa Gateway ,weekend
+382,2023-05-28,23:48:00,1,Sentosa Gateway ,weekend
+383,2023-05-28,23:48:00,1,Straits of Singapore,weekend
+384,2023-05-28,23:48:00,4,Southern Islands,weekend
+385,2023-05-28,23:48:00,1,Resorts World,weekend
+386,2023-05-28,23:48:00,2,Opp Amara Sanctuary,weekend
+387,2023-05-28,23:48:00,1,Capella Hotel ,weekend
+388,2023-05-28,23:48:00,1,Allanbrooke Road,weekend
+389,2023-05-28,23:49:00,5,Southern Islands,weekend
+390,2023-05-28,23:49:00,1,Gateway Avenue,weekend
+391,2023-05-28,23:49:00,1,Resorts World,weekend
+392,2023-05-28,23:49:00,1,Artillery Avenue,weekend
+393,2023-05-28,23:49:00,2,Capella Hotel ,weekend
+394,2023-05-28,23:49:00,1,Allanbrooke Road,weekend
+395,2023-05-28,23:49:00,1,Ocean Drive,weekend
+396,2023-05-28,23:50:00,2,Straits of Singapore,weekend
+397,2023-05-28,23:50:00,2,Southern Islands,weekend
+398,2023-05-28,23:50:00,1,Artillery Avenue,weekend
+399,2023-05-28,23:50:00,1,Capella Hotel ,weekend
+400,2023-05-28,23:50:00,1,Allanbrooke Road,weekend
+401,2023-05-28,23:50:00,1,Ocean Drive,weekend
+402,2023-05-28,23:51:00,1,Sentosa Gateway ,weekend
+403,2023-05-28,23:51:00,2,Straits of Singapore,weekend
+404,2023-05-28,23:51:00,3,Southern Islands,weekend
+405,2023-05-28,23:51:00,1,Gateway Avenue,weekend
+406,2023-05-28,23:51:00,1,Artillery Avenue,weekend
+407,2023-05-28,23:51:00,1,Capella Hotel ,weekend
+408,2023-05-28,23:51:00,1,Artillery Avenue,weekend
+409,2023-05-28,23:52:00,1,Sentosa Gateway ,weekend
+410,2023-05-28,23:52:00,1,Straits of Singapore,weekend
+411,2023-05-28,23:52:00,1,Brani_Causeway,weekend
+412,2023-05-28,23:52:00,1,Sentosa Gateway ,weekend
+413,2023-05-28,23:52:00,2,Southern Islands,weekend
+414,2023-05-28,23:52:00,1,Gateway Avenue,weekend
+415,2023-05-28,23:52:00,1,Gateway Avenue,weekend
+416,2023-05-28,23:52:00,1,Capella Hotel ,weekend
+417,2023-05-28,23:52:00,1,Artillery Avenue,weekend
+418,2023-05-28,23:52:00,1,Ocean Way,weekend
+419,2023-05-28,23:53:00,1,Sentosa Gateway ,weekend
+420,2023-05-28,23:53:00,1,Straits of Singapore,weekend
+421,2023-05-28,23:53:00,1,Brani_Causeway,weekend
+422,2023-05-28,23:53:00,1,Sentosa Gateway ,weekend
+423,2023-05-28,23:53:00,1,Straits of Singapore,weekend
+424,2023-05-28,23:53:00,3,Gateway Avenue,weekend
+425,2023-05-28,23:53:00,1,Resorts World,weekend
+426,2023-05-28,23:53:00,1,Artillery Avenue,weekend
+427,2023-05-28,23:53:00,1,Capella Hotel ,weekend
+428,2023-05-28,23:53:00,1,W Hotel/Quayside Isle,weekend
+429,2023-05-28,23:54:00,1,Sentosa Gateway ,weekend
+430,2023-05-28,23:54:00,1,Southern Islands,weekend
+431,2023-05-28,23:54:00,5,Southern Islands,weekend
+432,2023-05-28,23:54:00,2,Capella Hotel ,weekend
+433,2023-05-28,23:54:00,1,"Carpark (1.249570, 103.827800)",weekend
+434,2023-05-28,23:54:00,1,Cove Drive,weekend
+435,2023-05-28,23:55:00,1,Sentosa Gateway ,weekend
+436,2023-05-28,23:55:00,3,Capella Hotel ,weekend
+437,2023-05-28,23:55:00,1,"Carpark (1.249570, 103.827800)",weekend
+438,2023-05-28,23:55:00,1,Cove Drive,weekend
+439,2023-05-28,23:56:00,2,Sentosa Gateway ,weekend
+440,2023-05-28,23:56:00,1,Straits of Singapore,weekend
+441,2023-05-28,23:56:00,1,Straits of Singapore,weekend
+442,2023-05-28,23:56:00,1,Resorts World,weekend
+443,2023-05-28,23:56:00,1,Southern Islands,weekend
+444,2023-05-28,23:56:00,4,Southern Islands,weekend
+445,2023-05-28,23:56:00,1,Gateway Avenue,weekend
+446,2023-05-28,23:56:00,2,Capella Hotel ,weekend
+447,2023-05-28,23:56:00,1,"Carpark (1.249570, 103.827800)",weekend
+448,2023-05-28,23:57:00,2,Sentosa Gateway ,weekend
+449,2023-05-28,23:57:00,3,Southern Islands,weekend
+450,2023-05-28,23:57:00,2,Capella Hotel ,weekend
+451,2023-05-28,23:57:00,2,"Carpark (1.249570, 103.827800)",weekend
+452,2023-05-28,23:57:00,1,Sentosa Cove Village,weekend
+453,2023-05-28,23:58:00,2,Sentosa Gateway ,weekend
+454,2023-05-28,23:58:00,3,Southern Islands,weekend
+455,2023-05-28,23:58:00,1,Straits of Singapore,weekend
+456,2023-05-28,23:58:00,2,Capella Hotel ,weekend
+457,2023-05-28,23:58:00,2,"Carpark (1.249570, 103.827800)",weekend
+458,2023-05-28,23:58:00,1,Sentosa Cove Village,weekend
+459,2023-05-28,23:59:00,3,Sentosa Gateway ,weekend
+460,2023-05-28,23:59:00,3,Southern Islands,weekend
+461,2023-05-28,23:59:00,1,Resorts World,weekend
+462,2023-05-28,23:59:00,2,Capella Hotel ,weekend
+463,2023-05-28,23:59:00,1,"Carpark (1.249570, 103.827800)",weekend

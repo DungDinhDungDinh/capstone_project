@@ -1,0 +1,206 @@
+index,date,time,cluster_size,address,day_type
+0,2023-05-28,03:00:30,2,Southern Islands,weekend
+1,2023-05-28,03:00:30,2,Capella Hotel,weekend
+2,2023-05-28,03:00:30,1,"Sentosa (1.247220, 103.837270)",weekend
+3,2023-05-28,03:01:00,2,Southern Islands,weekend
+4,2023-05-28,03:01:00,1,"Sentosa (1.247220, 103.837270)",weekend
+5,2023-05-28,03:01:30,1,Southern Islands,weekend
+6,2023-05-28,03:01:30,1,"Sentosa (1.247220, 103.837270)",weekend
+7,2023-05-28,03:02:00,1,Southern Islands,weekend
+8,2023-05-28,03:02:00,1,"Sentosa (1.247220, 103.837270)",weekend
+9,2023-05-28,03:02:30,1,Southern Islands,weekend
+10,2023-05-28,03:02:30,1,"Sentosa (1.247220, 103.837270)",weekend
+11,2023-05-28,03:03:00,1,Southern Islands,weekend
+12,2023-05-28,03:03:00,1,"Sentosa (1.247220, 103.837270)",weekend
+13,2023-05-28,03:03:30,1,Capella Hotel,weekend
+14,2023-05-28,03:03:30,1,"Sentosa (1.247220, 103.837270)",weekend
+15,2023-05-28,03:04:00,1,Capella Hotel,weekend
+16,2023-05-28,03:04:00,1,"Sentosa (1.247220, 103.837270)",weekend
+17,2023-05-28,03:05:30,1,Sentosa Gateway,weekend
+18,2023-05-28,03:05:30,2,Capella Hotel,weekend
+19,2023-05-28,03:05:30,1,"Sentosa (1.247220, 103.837270)",weekend
+20,2023-05-28,03:06:00,1,Sentosa Gateway,weekend
+21,2023-05-28,03:06:00,2,Capella Hotel,weekend
+22,2023-05-28,03:06:00,1,"Sentosa (1.247220, 103.837270)",weekend
+23,2023-05-28,03:06:30,1,Capella Hotel,weekend
+24,2023-05-28,03:06:30,1,"Sentosa (1.247220, 103.837270)",weekend
+25,2023-05-28,03:07:00,1,Capella Hotel,weekend
+26,2023-05-28,03:07:00,1,"Sentosa (1.247220, 103.837270)",weekend
+27,2023-05-28,03:07:30,3,Capella Hotel,weekend
+28,2023-05-28,03:07:30,1,"Sentosa (1.247220, 103.837270)",weekend
+29,2023-05-28,03:08:00,3,Capella Hotel,weekend
+30,2023-05-28,03:08:00,1,"Sentosa (1.247220, 103.837270)",weekend
+31,2023-05-28,03:08:30,3,Capella Hotel,weekend
+32,2023-05-28,03:08:30,1,"Sentosa (1.247220, 103.837270)",weekend
+33,2023-05-28,03:09:00,3,Capella Hotel,weekend
+34,2023-05-28,03:09:00,1,"Sentosa (1.247220, 103.837270)",weekend
+35,2023-05-28,03:09:30,1,Capella Hotel,weekend
+36,2023-05-28,03:09:30,1,"Sentosa (1.247220, 103.837270)",weekend
+37,2023-05-28,03:10:00,1,Capella Hotel,weekend
+38,2023-05-28,03:10:00,1,"Sentosa (1.247220, 103.837270)",weekend
+39,2023-05-28,03:10:30,1,Capella Hotel,weekend
+40,2023-05-28,03:10:30,1,"Sentosa (1.247220, 103.837270)",weekend
+41,2023-05-28,03:11:00,1,Capella Hotel,weekend
+42,2023-05-28,03:11:00,1,"Sentosa (1.247220, 103.837270)",weekend
+43,2023-05-28,03:11:30,1,Capella Hotel,weekend
+44,2023-05-28,03:11:30,1,"Sentosa (1.247220, 103.837270)",weekend
+45,2023-05-28,03:12:00,1,Capella Hotel,weekend
+46,2023-05-28,03:12:00,1,"Sentosa (1.247220, 103.837270)",weekend
+47,2023-05-28,03:12:30,1,Capella Hotel,weekend
+48,2023-05-28,03:12:30,1,"Sentosa (1.247220, 103.837270)",weekend
+49,2023-05-28,03:13:00,1,Sentosa Gateway,weekend
+50,2023-05-28,03:13:00,1,Capella Hotel,weekend
+51,2023-05-28,03:13:00,1,"Sentosa (1.247220, 103.837270)",weekend
+52,2023-05-28,03:13:30,1,Sentosa Gateway,weekend
+53,2023-05-28,03:13:30,1,Capella Hotel,weekend
+54,2023-05-28,03:13:30,1,"Sentosa (1.247220, 103.837270)",weekend
+55,2023-05-28,03:14:00,3,Capella Hotel,weekend
+56,2023-05-28,03:14:30,3,Capella Hotel,weekend
+57,2023-05-28,03:15:00,3,Capella Hotel,weekend
+58,2023-05-28,03:15:30,2,Capella Hotel,weekend
+59,2023-05-28,03:16:00,2,Capella Hotel,weekend
+60,2023-05-28,03:16:30,3,Capella Hotel,weekend
+61,2023-05-28,03:17:00,3,Capella Hotel,weekend
+62,2023-05-28,03:17:30,3,Capella Hotel,weekend
+63,2023-05-28,03:18:00,3,Capella Hotel,weekend
+64,2023-05-28,03:18:30,2,Sentosa Gateway,weekend
+65,2023-05-28,03:18:30,3,Capella Hotel,weekend
+66,2023-05-28,03:19:00,2,Sentosa Gateway,weekend
+67,2023-05-28,03:19:00,3,Capella Hotel,weekend
+68,2023-05-28,03:19:30,1,Southern Islands,weekend
+69,2023-05-28,03:19:30,1,Siloso Rd,weekend
+70,2023-05-28,03:19:30,2,Capella Hotel,weekend
+71,2023-05-28,03:20:00,1,Southern Islands,weekend
+72,2023-05-28,03:20:00,1,11-21 Siloso Rd,weekend
+73,2023-05-28,03:20:00,2,Capella Hotel,weekend
+74,2023-05-28,03:20:30,1,Southern Islands,weekend
+75,2023-05-28,03:20:30,1,Siloso Rd,weekend
+76,2023-05-28,03:20:30,2,Capella Hotel,weekend
+77,2023-05-28,03:21:00,1,Southern Islands,weekend
+78,2023-05-28,03:21:00,1,Siloso Rd,weekend
+79,2023-05-28,03:21:00,2,Capella Hotel,weekend
+80,2023-05-28,03:21:30,1,Southern Islands,weekend
+81,2023-05-28,03:21:30,1,Siloso Rd,weekend
+82,2023-05-28,03:21:30,2,Capella Hotel,weekend
+83,2023-05-28,03:22:00,1,Sentosa Gateway,weekend
+84,2023-05-28,03:22:30,1,Sentosa Gateway,weekend
+85,2023-05-28,03:29:30,1,"Sentosa (1.247220, 103.837270)",weekend
+86,2023-05-28,03:30:00,1,"Sentosa (1.247220, 103.837270)",weekend
+87,2023-05-28,03:30:30,1,"Sentosa (1.247220, 103.837270)",weekend
+88,2023-05-28,03:31:00,1,"Sentosa (1.247220, 103.837270)",weekend
+89,2023-05-28,03:31:30,1,"Sentosa (1.247220, 103.837270)",weekend
+90,2023-05-28,03:32:00,1,"Sentosa (1.247220, 103.837270)",weekend
+91,2023-05-28,03:32:30,1,"Sentosa (1.247220, 103.837270)",weekend
+92,2023-05-28,03:33:00,1,"Sentosa (1.247220, 103.837270)",weekend
+93,2023-05-28,03:33:30,1,"Sentosa (1.247220, 103.837270)",weekend
+94,2023-05-28,03:34:00,1,Southern Islands,weekend
+95,2023-05-28,03:34:00,1,Siloso Rd,weekend
+96,2023-05-28,03:34:00,1,"Sentosa (1.247220, 103.837270)",weekend
+97,2023-05-28,03:34:30,1,Southern Islands,weekend
+98,2023-05-28,03:34:30,1,Siloso Rd,weekend
+99,2023-05-28,03:34:30,1,"Sentosa (1.247220, 103.837270)",weekend
+100,2023-05-28,03:35:00,1,Southern Islands,weekend
+101,2023-05-28,03:35:00,1,Siloso Rd,weekend
+102,2023-05-28,03:35:00,1,"Sentosa (1.247220, 103.837270)",weekend
+103,2023-05-28,03:35:30,1,Southern Islands,weekend
+104,2023-05-28,03:35:30,1,Siloso Point Station,weekend
+105,2023-05-28,03:35:30,1,"Sentosa (1.247220, 103.837270)",weekend
+106,2023-05-28,03:36:00,1,Southern Islands,weekend
+107,2023-05-28,03:36:00,1,Siloso Point Station,weekend
+108,2023-05-28,03:36:00,1,"Sentosa (1.247220, 103.837270)",weekend
+109,2023-05-28,03:36:30,1,Siloso Point Station,weekend
+110,2023-05-28,03:36:30,1,Southern Islands,weekend
+111,2023-05-28,03:37:00,1,Siloso Point Station,weekend
+112,2023-05-28,03:37:00,1,Southern Islands,weekend
+113,2023-05-28,03:37:30,1,Siloso Point Station,weekend
+114,2023-05-28,03:37:30,1,Southern Islands,weekend
+115,2023-05-28,03:38:00,1,Siloso Point Station,weekend
+116,2023-05-28,03:38:00,1,Southern Islands,weekend
+117,2023-05-28,03:38:30,1,Siloso Point Station,weekend
+118,2023-05-28,03:38:30,1,Southern Islands,weekend
+119,2023-05-28,03:39:00,1,Siloso Point Station,weekend
+120,2023-05-28,03:39:00,1,Southern Islands,weekend
+121,2023-05-28,03:39:30,1,Siloso Point Station,weekend
+122,2023-05-28,03:39:30,1,Southern Islands,weekend
+123,2023-05-28,03:40:00,1,Siloso Point Station,weekend
+124,2023-05-28,03:40:00,1,Southern Islands,weekend
+123,2023-05-28,03:40:30,1,Siloso Point Station,weekend
+124,2023-05-28,03:40:30,1,Southern Islands,weekend
+125,2023-05-28,03:41:00,1,Siloso Point Station,weekend
+126,2023-05-28,03:41:00,1,Southern Islands,weekend
+127,2023-05-28,03:41:30,1,Siloso Point Station,weekend
+128,2023-05-28,03:41:30,1,Southern Islands,weekend
+129,2023-05-28,03:42:00,1,Siloso Point Station,weekend
+130,2023-05-28,03:42:00,1,Southern Islands,weekend
+131,2023-05-28,03:42:30,1,Siloso Point Station,weekend
+132,2023-05-28,03:42:30,1,Southern Islands,weekend
+133,2023-05-28,03:43:00,1,Siloso Point Station,weekend
+134,2023-05-28,03:43:00,1,Southern Islands,weekend
+135,2023-05-28,03:43:30,1,Siloso Point Station,weekend
+136,2023-05-28,03:43:30,1,Southern Islands,weekend
+137,2023-05-28,03:44:00,1,Siloso Point Station,weekend
+138,2023-05-28,03:44:00,1,Southern Islands,weekend
+139,2023-05-28,03:44:30,1,Siloso Point Station,weekend
+140,2023-05-28,03:44:30,1,Southern Islands,weekend
+141,2023-05-28,03:45:00,1,Siloso Point Station,weekend
+142,2023-05-28,03:45:00,1,Southern Islands,weekend
+143,2023-05-28,03:45:30,1,Siloso Point Station,weekend
+144,2023-05-28,03:45:30,1,Southern Islands,weekend
+145,2023-05-28,03:46:00,1,Siloso Point Station,weekend
+146,2023-05-28,03:46:00,1,Southern Islands,weekend
+147,2023-05-28,03:46:30,1,Siloso Point Station,weekend
+148,2023-05-28,03:46:30,1,Southern Islands,weekend
+149,2023-05-28,03:47:00,1,Siloso Point Station,weekend
+150,2023-05-28,03:47:00,1,Southern Islands,weekend
+151,2023-05-28,03:47:30,1,Siloso Point Station,weekend
+152,2023-05-28,03:47:30,1,Southern Islands,weekend
+153,2023-05-28,03:48:00,1,Siloso Point Station,weekend
+154,2023-05-28,03:48:00,1,Southern Islands,weekend
+155,2023-05-28,03:48:30,1,Siloso Point Station,weekend
+156,2023-05-28,03:48:30,1,Southern Islands,weekend
+157,2023-05-28,03:49:00,1,Siloso Point Station,weekend
+158,2023-05-28,03:49:00,1,Southern Islands,weekend
+159,2023-05-28,03:49:30,1,Siloso Point Station,weekend
+160,2023-05-28,03:49:30,1,Southern Islands,weekend
+161,2023-05-28,03:50:00,1,Siloso Point Station,weekend
+162,2023-05-28,03:50:00,1,Southern Islands,weekend
+163,2023-05-28,03:50:30,1,Siloso Point Station,weekend
+164,2023-05-28,03:50:30,1,Southern Islands,weekend
+165,2023-05-28,03:51:00,1,Siloso Point Station,weekend
+166,2023-05-28,03:51:00,1,Siloso Point Station,weekend
+167,2023-05-28,03:51:30,1,Southern Islands,weekend
+168,2023-05-28,03:51:30,1,Siloso Point Station,weekend
+169,2023-05-28,03:52:00,1,Southern Islands,weekend
+170,2023-05-28,03:52:00,1,Siloso Point Station,weekend
+171,2023-05-28,03:52:30,1,Southern Islands,weekend
+172,2023-05-28,03:52:30,1,Siloso Point Station,weekend
+173,2023-05-28,03:53:00,1,Southern Islands,weekend
+174,2023-05-28,03:53:00,1,Siloso Point Station,weekend
+175,2023-05-28,03:53:30,1,Southern Islands,weekend
+176,2023-05-28,03:53:30,1,Siloso Point Station,weekend
+177,2023-05-28,03:54:00,1,Southern Islands,weekend
+178,2023-05-28,03:54:00,1,Siloso Point Station,weekend
+179,2023-05-28,03:54:30,1,Southern Islands,weekend
+180,2023-05-28,03:54:30,1,Siloso Point Station,weekend
+181,2023-05-28,03:55:00,1,Southern Islands,weekend
+182,2023-05-28,03:55:00,1,Siloso Point Station,weekend
+183,2023-05-28,03:55:30,1,Southern Islands,weekend
+184,2023-05-28,03:55:30,1,Siloso Point Station,weekend
+185,2023-05-28,03:56:00,1,Southern Islands,weekend
+186,2023-05-28,03:56:00,1,Siloso Point Station,weekend
+187,2023-05-28,03:56:30,1,Siloso Point Station,weekend
+188,2023-05-28,03:56:30,1,Southern Islands,weekend
+189,2023-05-28,03:57:00,1,Siloso Point Station,weekend
+190,2023-05-28,03:57:00,1,Southern Islands,weekend
+191,2023-05-28,03:57:30,1,Siloso Point Station,weekend
+192,2023-05-28,03:57:30,1,Southern Islands,weekend
+193,2023-05-28,03:58:00,1,Siloso Point Station,weekend
+194,2023-05-28,03:58:00,1,Southern Islands,weekend
+195,2023-05-28,03:58:30,1,Siloso Point Station,weekend
+196,2023-05-28,03:58:30,1,Southern Islands,weekend
+197,2023-05-28,03:59:00,1,Siloso Point Station,weekend
+198,2023-05-28,03:59:00,1,Southern Islands,weekend
+199,2023-05-28,03:59:30,1,Siloso Point Station,weekend
+200,2023-05-28,03:59:30,1,Southern Islands,weekend
+201,2023-05-28,04:00:00,1,Siloso Point Station,weekend
+202,2023-05-28,04:00:00,1,Southern Islands,weekend

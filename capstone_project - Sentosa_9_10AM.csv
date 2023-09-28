@@ -1,0 +1,52 @@
+index,date,time,cluster_size,address,day_type
+0,2023-05-28,09:04:00,1,Allanbrooke Road,weekend
+1,2023-05-28,09:05:00,1,Artillery Avenue,weekend
+2,2023-05-28,09:06:00,1,Gateway Avenue,weekend
+3,2023-05-28,09:07:00,1,Sentosa Gateway,weekend
+4,2023-05-28,09:15:00,1,Southern Islands,weekend
+5,2023-05-28,09:18:00,1,Sentosa Golf Club,weekend
+6,2023-05-28,09:19:00,1,Allanbrooke Road,weekend
+7,2023-05-28,09:27:00,1,Capella Hotel,weekend
+8,2023-05-28,09:28:00,1,Capella Hotel,weekend
+9,2023-05-28,09:29:00,1,Capella Hotel,weekend
+10,2023-05-28,09:30:00,1,Capella Hotel,weekend
+11,2023-05-28,09:31:00,1,Capella Hotel,weekend
+12,2023-05-28,09:32:00,1,Capella Hotel,weekend
+13,2023-05-28,09:33:00,1,Capella Hotel,weekend
+14,2023-05-28,09:34:00,1,Capella Hotel,weekend
+15,2023-05-28,09:35:00,1,Capella Hotel,weekend
+16,2023-05-28,09:36:00,1,Capella Hotel,weekend
+17,2023-05-28,09:37:00,1,Capella Hotel,weekend
+18,2023-05-28,09:38:00,1,"8 Sentosa Gateway, 098269",weekend
+19,2023-05-28,09:38:00,1,Capella Hotel,weekend
+20,2023-05-28,09:39:00,1,Straits of Singapore,weekend
+21,2023-05-28,09:39:00,1,Capella Hotel,weekend
+22,2023-05-28,09:40:00,1,Straits of Singapore,weekend
+23,2023-05-28,09:40:00,1,Capella Hotel,weekend
+24,2023-05-28,09:41:00,1,Capella Hotel,weekend
+25,2023-05-28,09:42:00,1,Capella Hotel,weekend
+26,2023-05-28,09:43:00,1,"Southern Islands (1.254724, 103.819641)",weekend
+27,2023-05-28,09:43:00,1,Capella Hotel,weekend
+28,2023-05-28,09:44:00,1,"Southern Islands (1.254724, 103.819641)",weekend
+29,2023-05-28,09:44:00,2,Capella Hotel,weekend
+30,2023-05-28,09:45:00,1,Capella Hotel,weekend
+31,2023-05-28,09:46:00,1,Capella Hotel,weekend
+32,2023-05-28,09:47:00,1,Capella Hotel,weekend
+33,2023-05-28,09:48:00,1,Capella Hotel,weekend
+34,2023-05-28,09:49:00,1,Cove Drive,weekend
+35,2023-05-28,09:50:00,1,Sentosa Gateway,weekend
+36,2023-05-28,09:50:00,1,Straits of Singapore,weekend
+37,2023-05-28,09:50:00,1,Cove Drive,weekend
+38,2023-05-28,09:51:00,1,Straits of Singapore,weekend
+39,2023-05-28,09:51:00,1,Allanbrooke Road,weekend
+40,2023-05-28,09:52:00,1,Straits of Singapore,weekend
+41,2023-05-28,09:53:00,2,Capella Hotel,weekend
+42,2023-05-28,09:54:00,1,Capella Hotel,weekend
+43,2023-05-28,09:55:00,1,Shangri-La Rasa,weekend
+44,2023-05-28,09:56:00,1,Shangri-La Rasa,weekend
+45,2023-05-28,09:57:00,1,Straits of Singapore,weekend
+46,2023-05-28,09:57:00,1,Siloso Road,weekend
+47,2023-05-28,09:58:00,1,Siloso Road,weekend
+48,2023-05-28,09:59:00,1,Festive Hotel,weekend
+49,2023-05-28,10:00:00,1,"8 Sentosa Gateway, 098269",weekend
+50,2023-05-28,10:00:00,1,Gateway Avenue,weekend

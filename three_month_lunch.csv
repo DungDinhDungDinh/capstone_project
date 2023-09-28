@@ -1,0 +1,1366 @@
+date_time,day_type,hawker_center,taxi_counts
+2023-05-01 10:00:00,holiday,ABC Brickworks,127
+2023-05-01 11:00:00,holiday,ABC Brickworks,155
+2023-05-01 12:00:00,holiday,ABC Brickworks,162
+2023-05-01 13:00:00,holiday,ABC Brickworks,162
+2023-05-01 14:00:00,holiday,ABC Brickworks,143
+2023-05-02 10:00:00,weekday,ABC Brickworks,209
+2023-05-02 11:00:00,weekday,ABC Brickworks,248
+2023-05-02 12:00:00,weekday,ABC Brickworks,232
+2023-05-02 13:00:00,weekday,ABC Brickworks,196
+2023-05-02 14:00:00,weekday,ABC Brickworks,153
+2023-05-03 10:00:00,weekday,ABC Brickworks,276
+2023-05-03 11:00:00,weekday,ABC Brickworks,262
+2023-05-03 12:00:00,weekday,ABC Brickworks,236
+2023-05-03 13:00:00,weekday,ABC Brickworks,189
+2023-05-03 14:00:00,weekday,ABC Brickworks,156
+2023-05-04 10:00:00,weekday,ABC Brickworks,245
+2023-05-04 11:00:00,weekday,ABC Brickworks,205
+2023-05-04 12:00:00,weekday,ABC Brickworks,188
+2023-05-04 13:00:00,weekday,ABC Brickworks,178
+2023-05-04 14:00:00,weekday,ABC Brickworks,119
+2023-05-05 10:00:00,weekday,ABC Brickworks,290
+2023-05-05 11:00:00,weekday,ABC Brickworks,255
+2023-05-05 12:00:00,weekday,ABC Brickworks,187
+2023-05-05 13:00:00,weekday,ABC Brickworks,229
+2023-05-05 14:00:00,weekday,ABC Brickworks,142
+2023-05-06 10:00:00,weekend,ABC Brickworks,134
+2023-05-06 11:00:00,weekend,ABC Brickworks,153
+2023-05-06 12:00:00,weekend,ABC Brickworks,73
+2023-05-06 13:00:00,weekend,ABC Brickworks,152
+2023-05-06 14:00:00,weekend,ABC Brickworks,108
+2023-05-07 10:00:00,weekend,ABC Brickworks,72
+2023-05-07 11:00:00,weekend,ABC Brickworks,94
+2023-05-07 12:00:00,weekend,ABC Brickworks,108
+2023-05-07 13:00:00,weekend,ABC Brickworks,120
+2023-05-07 14:00:00,weekend,ABC Brickworks,136
+2023-05-08 10:00:00,weekday,ABC Brickworks,143
+2023-05-08 11:00:00,weekday,ABC Brickworks,149
+2023-05-08 12:00:00,weekday,ABC Brickworks,255
+2023-05-08 13:00:00,weekday,ABC Brickworks,299
+2023-05-08 14:00:00,weekday,ABC Brickworks,247
+2023-05-09 10:00:00,weekday,ABC Brickworks,160
+2023-05-09 11:00:00,weekday,ABC Brickworks,193
+2023-05-09 12:00:00,weekday,ABC Brickworks,340
+2023-05-09 13:00:00,weekday,ABC Brickworks,353
+2023-05-09 14:00:00,weekday,ABC Brickworks,104
+2023-05-10 10:00:00,weekday,ABC Brickworks,93
+2023-05-10 11:00:00,weekday,ABC Brickworks,105
+2023-05-10 12:00:00,weekday,ABC Brickworks,268
+2023-05-10 13:00:00,weekday,ABC Brickworks,234
+2023-05-10 14:00:00,weekday,ABC Brickworks,174
+2023-05-11 10:00:00,weekday,ABC Brickworks,286
+2023-05-11 11:00:00,weekday,ABC Brickworks,286
+2023-05-11 12:00:00,weekday,ABC Brickworks,242
+2023-05-11 13:00:00,weekday,ABC Brickworks,229
+2023-05-11 14:00:00,weekday,ABC Brickworks,195
+2023-05-12 10:00:00,weekday,ABC Brickworks,238
+2023-05-12 11:00:00,weekday,ABC Brickworks,247
+2023-05-12 12:00:00,weekday,ABC Brickworks,230
+2023-05-12 13:00:00,weekday,ABC Brickworks,195
+2023-05-12 14:00:00,weekday,ABC Brickworks,157
+2023-05-13 10:00:00,weekend,ABC Brickworks,44
+2023-05-13 11:00:00,weekend,ABC Brickworks,135
+2023-05-13 12:00:00,weekend,ABC Brickworks,111
+2023-05-13 13:00:00,weekend,ABC Brickworks,118
+2023-05-13 14:00:00,weekend,ABC Brickworks,131
+2023-05-14 10:00:00,weekend,ABC Brickworks,85
+2023-05-14 11:00:00,weekend,ABC Brickworks,100
+2023-05-14 12:00:00,weekend,ABC Brickworks,118
+2023-05-14 13:00:00,weekend,ABC Brickworks,118
+2023-05-14 14:00:00,weekday,ABC Brickworks,105
+2023-05-15 10:00:00,weekday,ABC Brickworks,58
+2023-05-15 11:00:00,weekday,ABC Brickworks,260
+2023-05-15 12:00:00,weekday,ABC Brickworks,230
+2023-05-15 13:00:00,weekday,ABC Brickworks,195
+2023-05-15 14:00:00,weekday,ABC Brickworks,196
+2023-05-16 10:00:00,weekday,ABC Brickworks,167
+2023-05-16 11:00:00,weekday,ABC Brickworks,185
+2023-05-16 12:00:00,weekday,ABC Brickworks,190
+2023-05-16 13:00:00,weekday,ABC Brickworks,233
+2023-05-16 14:00:00,weekday,ABC Brickworks,179
+2023-05-17 10:00:00,weekday,ABC Brickworks,265
+2023-05-17 11:00:00,weekday,ABC Brickworks,313
+2023-05-17 12:00:00,weekday,ABC Brickworks,190
+2023-05-17 13:00:00,weekday,ABC Brickworks,185
+2023-05-17 14:00:00,weekday,ABC Brickworks,140
+2023-05-18 10:00:00,weekday,ABC Brickworks,272
+2023-05-18 11:00:00,weekday,ABC Brickworks,290
+2023-05-18 12:00:00,weekday,ABC Brickworks,209
+2023-05-18 13:00:00,weekday,ABC Brickworks,222
+2023-05-18 14:00:00,weekday,ABC Brickworks,68
+2023-05-19 10:00:00,weekday,ABC Brickworks,253
+2023-05-19 11:00:00,weekday,ABC Brickworks,248
+2023-05-19 12:00:00,weekday,ABC Brickworks,181
+2023-05-19 13:00:00,weekday,ABC Brickworks,161
+2023-05-19 14:00:00,weekday,ABC Brickworks,121
+2023-05-20 10:00:00,weekend,ABC Brickworks,88
+2023-05-20 11:00:00,weekend,ABC Brickworks,61
+2023-05-20 12:00:00,weekend,ABC Brickworks,54
+2023-05-20 13:00:00,weekend,ABC Brickworks,54
+2023-05-20 14:00:00,weekend,ABC Brickworks,29
+2023-05-21 10:00:00,weekend,ABC Brickworks,69
+2023-05-21 11:00:00,weekend,ABC Brickworks,96
+2023-05-21 12:00:00,weekend,ABC Brickworks,109
+2023-05-21 13:00:00,weekend,ABC Brickworks,104
+2023-05-21 14:00:00,weekend,ABC Brickworks,105
+2023-05-22 10:00:00,weekday,ABC Brickworks,307
+2023-05-22 11:00:00,weekday,ABC Brickworks,313
+2023-05-22 12:00:00,weekday,ABC Brickworks,248
+2023-05-22 13:00:00,weekday,ABC Brickworks,200
+2023-05-22 14:00:00,weekday,ABC Brickworks,170
+2023-05-23 10:00:00,weekday,ABC Brickworks,137
+2023-05-23 11:00:00,weekday,ABC Brickworks,256
+2023-05-23 12:00:00,weekday,ABC Brickworks,215
+2023-05-23 13:00:00,weekday,ABC Brickworks,177
+2023-05-23 14:00:00,weekday,ABC Brickworks,127
+2023-05-24 10:00:00,weekday,ABC Brickworks,302
+2023-05-24 11:00:00,weekday,ABC Brickworks,330
+2023-05-24 12:00:00,weekday,ABC Brickworks,225
+2023-05-24 13:00:00,weekday,ABC Brickworks,240
+2023-05-24 14:00:00,weekday,ABC Brickworks,184
+2023-05-25 10:00:00,weekday,ABC Brickworks,168
+2023-05-25 11:00:00,weekday,ABC Brickworks,136
+2023-05-25 12:00:00,weekday,ABC Brickworks,124
+2023-05-25 13:00:00,weekday,ABC Brickworks,81
+2023-05-25 14:00:00,weekday,ABC Brickworks,131
+2023-05-26 10:00:00,weekday,ABC Brickworks,144
+2023-05-26 11:00:00,weekday,ABC Brickworks,188
+2023-05-26 12:00:00,weekday,ABC Brickworks,144
+2023-05-26 13:00:00,weekday,ABC Brickworks,134
+2023-05-26 14:00:00,weekday,ABC Brickworks,108
+2023-05-27 10:00:00,weekend,ABC Brickworks,73
+2023-05-27 11:00:00,weekend,ABC Brickworks,104
+2023-05-27 12:00:00,weekend,ABC Brickworks,99
+2023-05-27 13:00:00,weekend,ABC Brickworks,95
+2023-05-27 14:00:00,weekend,ABC Brickworks,109
+2023-05-28 10:00:00,weekend,ABC Brickworks,38
+2023-05-28 11:00:00,weekend,ABC Brickworks,91
+2023-05-28 12:00:00,weekend,ABC Brickworks,117
+2023-05-28 13:00:00,weekend,ABC Brickworks,106
+2023-05-28 14:00:00,weekend,ABC Brickworks,121
+2023-05-29 10:00:00,weekday,ABC Brickworks,248
+2023-05-29 11:00:00,weekday,ABC Brickworks,236
+2023-05-29 12:00:00,weekday,ABC Brickworks,212
+2023-05-29 13:00:00,weekday,ABC Brickworks,178
+2023-05-29 14:00:00,weekday,ABC Brickworks,167
+2023-05-30 10:00:00,weekday,ABC Brickworks,200
+2023-05-30 11:00:00,weekday,ABC Brickworks,223
+2023-05-30 12:00:00,weekday,ABC Brickworks,166
+2023-05-30 13:00:00,weekday,ABC Brickworks,144
+2023-05-30 14:00:00,weekday,ABC Brickworks,148
+2023-05-31 10:00:00,weekday,ABC Brickworks,199
+2023-05-31 11:00:00,weekday,ABC Brickworks,217
+2023-05-31 12:00:00,weekday,ABC Brickworks,96
+2023-05-31 13:00:00,weekday,ABC Brickworks,153
+2023-05-31 14:00:00,weekday,ABC Brickworks,93
+2023-05-01 10:00:00,holiday,Maxwell,160
+2023-05-01 11:00:00,holiday,Maxwell,193
+2023-05-01 12:00:00,holiday,Maxwell,203
+2023-05-01 13:00:00,holiday,Maxwell,213
+2023-05-01 14:00:00,holiday,Maxwell,228
+2023-05-02 10:00:00,weekday,Maxwell,336
+2023-05-02 11:00:00,weekday,Maxwell,413
+2023-05-02 12:00:00,weekday,Maxwell,343
+2023-05-02 13:00:00,weekday,Maxwell,259
+2023-05-02 14:00:00,weekday,Maxwell,210
+2023-05-03 10:00:00,weekday,Maxwell,385
+2023-05-03 11:00:00,weekday,Maxwell,441
+2023-05-03 12:00:00,weekday,Maxwell,312
+2023-05-03 13:00:00,weekday,Maxwell,321
+2023-05-03 14:00:00,weekday,Maxwell,185
+2023-05-04 10:00:00,weekday,Maxwell,442
+2023-05-04 11:00:00,weekday,Maxwell,286
+2023-05-04 12:00:00,weekday,Maxwell,251
+2023-05-04 13:00:00,weekday,Maxwell,281
+2023-05-04 14:00:00,weekday,Maxwell,220
+2023-05-05 10:00:00,weekday,Maxwell,478
+2023-05-05 11:00:00,weekday,Maxwell,414
+2023-05-05 12:00:00,weekday,Maxwell,262
+2023-05-05 13:00:00,weekday,Maxwell,366
+2023-05-05 14:00:00,weekday,Maxwell,179
+2023-05-06 10:00:00,weekend,Maxwell,257
+2023-05-06 11:00:00,weekend,Maxwell,271
+2023-05-06 12:00:00,weekend,Maxwell,103
+2023-05-06 13:00:00,weekend,Maxwell,250
+2023-05-06 14:00:00,weekend,Maxwell,155
+2023-05-07 10:00:00,weekend,Maxwell,108
+2023-05-07 11:00:00,weekend,Maxwell,172
+2023-05-07 12:00:00,weekend,Maxwell,210
+2023-05-07 13:00:00,weekend,Maxwell,218
+2023-05-07 14:00:00,weekend,Maxwell,213
+2023-05-08 10:00:00,weekday,Maxwell,248
+2023-05-08 11:00:00,weekday,Maxwell,258
+2023-05-08 12:00:00,weekday,Maxwell,517
+2023-05-08 13:00:00,weekday,Maxwell,495
+2023-05-08 14:00:00,weekday,Maxwell,456
+2023-05-09 10:00:00,weekday,Maxwell,323
+2023-05-09 11:00:00,weekday,Maxwell,433
+2023-05-09 12:00:00,weekday,Maxwell,606
+2023-05-09 13:00:00,weekday,Maxwell,494
+2023-05-09 14:00:00,weekday,Maxwell,162
+2023-05-10 10:00:00,weekday,Maxwell,193
+2023-05-10 11:00:00,weekday,Maxwell,192
+2023-05-10 12:00:00,weekday,Maxwell,385
+2023-05-10 13:00:00,weekday,Maxwell,384
+2023-05-10 14:00:00,weekday,Maxwell,248
+2023-05-11 10:00:00,weekday,Maxwell,626
+2023-05-11 11:00:00,weekday,Maxwell,490
+2023-05-11 12:00:00,weekday,Maxwell,424
+2023-05-11 13:00:00,weekday,Maxwell,391
+2023-05-11 14:00:00,weekday,Maxwell,270
+2023-05-12 10:00:00,weekday,Maxwell,448
+2023-05-12 11:00:00,weekday,Maxwell,389
+2023-05-12 12:00:00,weekday,Maxwell,335
+2023-05-12 13:00:00,weekday,Maxwell,364
+2023-05-12 14:00:00,weekday,Maxwell,206
+2023-05-13 10:00:00,weekend,Maxwell,79
+2023-05-13 11:00:00,weekend,Maxwell,207
+2023-05-13 12:00:00,weekend,Maxwell,170
+2023-05-13 13:00:00,weekend,Maxwell,188
+2023-05-13 14:00:00,weekend,Maxwell,196
+2023-05-14 10:00:00,weekend,Maxwell,157
+2023-05-14 11:00:00,weekend,Maxwell,191
+2023-05-14 12:00:00,weekend,Maxwell,178
+2023-05-14 13:00:00,weekend,Maxwell,170
+2023-05-14 14:00:00,weekday,Maxwell,137
+2023-05-15 10:00:00,weekday,Maxwell,107
+2023-05-15 11:00:00,weekday,Maxwell,413
+2023-05-15 12:00:00,weekday,Maxwell,300
+2023-05-15 13:00:00,weekday,Maxwell,328
+2023-05-15 14:00:00,weekday,Maxwell,278
+2023-05-16 10:00:00,weekday,Maxwell,358
+2023-05-16 11:00:00,weekday,Maxwell,364
+2023-05-16 12:00:00,weekday,Maxwell,314
+2023-05-16 13:00:00,weekday,Maxwell,361
+2023-05-16 14:00:00,weekday,Maxwell,226
+2023-05-17 10:00:00,weekday,Maxwell,460
+2023-05-17 11:00:00,weekday,Maxwell,415
+2023-05-17 12:00:00,weekday,Maxwell,247
+2023-05-17 13:00:00,weekday,Maxwell,336
+2023-05-17 14:00:00,weekday,Maxwell,174
+2023-05-18 10:00:00,weekday,Maxwell,481
+2023-05-18 11:00:00,weekday,Maxwell,472
+2023-05-18 12:00:00,weekday,Maxwell,318
+2023-05-18 13:00:00,weekday,Maxwell,436
+2023-05-18 14:00:00,weekday,Maxwell,96
+2023-05-19 10:00:00,weekday,Maxwell,433
+2023-05-19 11:00:00,weekday,Maxwell,438
+2023-05-19 12:00:00,weekday,Maxwell,258
+2023-05-19 13:00:00,weekday,Maxwell,328
+2023-05-19 14:00:00,weekday,Maxwell,152
+2023-05-20 10:00:00,weekend,Maxwell,174
+2023-05-20 11:00:00,weekend,Maxwell,84
+2023-05-20 12:00:00,weekend,Maxwell,70
+2023-05-20 13:00:00,weekend,Maxwell,70
+2023-05-20 14:00:00,weekend,Maxwell,47
+2023-05-21 10:00:00,weekend,Maxwell,125
+2023-05-21 11:00:00,weekend,Maxwell,177
+2023-05-21 12:00:00,weekend,Maxwell,158
+2023-05-21 13:00:00,weekend,Maxwell,172
+2023-05-21 14:00:00,weekend,Maxwell,158
+2023-05-22 10:00:00,weekday,Maxwell,518
+2023-05-22 11:00:00,weekday,Maxwell,429
+2023-05-22 12:00:00,weekday,Maxwell,341
+2023-05-22 13:00:00,weekday,Maxwell,373
+2023-05-22 14:00:00,weekday,Maxwell,263
+2023-05-23 10:00:00,weekday,Maxwell,273
+2023-05-23 11:00:00,weekday,Maxwell,491
+2023-05-23 12:00:00,weekday,Maxwell,323
+2023-05-23 13:00:00,weekday,Maxwell,383
+2023-05-23 14:00:00,weekday,Maxwell,200
+2023-05-24 10:00:00,weekday,Maxwell,508
+2023-05-24 11:00:00,weekday,Maxwell,557
+2023-05-24 12:00:00,weekday,Maxwell,345
+2023-05-24 13:00:00,weekday,Maxwell,443
+2023-05-24 14:00:00,weekday,Maxwell,245
+2023-05-25 10:00:00,weekday,Maxwell,383
+2023-05-25 11:00:00,weekday,Maxwell,281
+2023-05-25 12:00:00,weekday,Maxwell,210
+2023-05-25 13:00:00,weekday,Maxwell,201
+2023-05-25 14:00:00,weekday,Maxwell,230
+2023-05-26 10:00:00,weekday,Maxwell,258
+2023-05-26 11:00:00,weekday,Maxwell,282
+2023-05-26 12:00:00,weekday,Maxwell,203
+2023-05-26 13:00:00,weekday,Maxwell,197
+2023-05-26 14:00:00,weekday,Maxwell,164
+2023-05-27 10:00:00,weekend,Maxwell,178
+2023-05-27 11:00:00,weekend,Maxwell,169
+2023-05-27 12:00:00,weekend,Maxwell,147
+2023-05-27 13:00:00,weekend,Maxwell,161
+2023-05-27 14:00:00,weekend,Maxwell,169
+2023-05-28 10:00:00,weekend,Maxwell,69
+2023-05-28 11:00:00,weekend,Maxwell,173
+2023-05-28 12:00:00,weekend,Maxwell,200
+2023-05-28 13:00:00,weekend,Maxwell,178
+2023-05-28 14:00:00,weekend,Maxwell,182
+2023-05-29 10:00:00,weekday,Maxwell,460
+2023-05-29 11:00:00,weekday,Maxwell,431
+2023-05-29 12:00:00,weekday,Maxwell,325
+2023-05-29 13:00:00,weekday,Maxwell,295
+2023-05-29 14:00:00,weekday,Maxwell,232
+2023-05-30 10:00:00,weekday,Maxwell,347
+2023-05-30 11:00:00,weekday,Maxwell,363
+2023-05-30 12:00:00,weekday,Maxwell,289
+2023-05-30 13:00:00,weekday,Maxwell,269
+2023-05-30 14:00:00,weekday,Maxwell,190
+2023-05-31 10:00:00,weekday,Maxwell,325
+2023-05-31 11:00:00,weekday,Maxwell,357
+2023-05-31 12:00:00,weekday,Maxwell,147
+2023-05-31 13:00:00,weekday,Maxwell,280
+2023-05-31 14:00:00,weekday,Maxwell,172
+2023-05-01 10:00:00,holiday,Hong Lim,160
+2023-05-01 11:00:00,holiday,Hong Lim,194
+2023-05-01 12:00:00,holiday,Hong Lim,213
+2023-05-01 13:00:00,holiday,Hong Lim,236
+2023-05-01 14:00:00,holiday,Hong Lim,246
+2023-05-02 10:00:00,weekday,Hong Lim,347
+2023-05-02 11:00:00,weekday,Hong Lim,455
+2023-05-02 12:00:00,weekday,Hong Lim,371
+2023-05-02 13:00:00,weekday,Hong Lim,282
+2023-05-02 14:00:00,weekday,Hong Lim,240
+2023-05-03 10:00:00,weekday,Hong Lim,432
+2023-05-03 11:00:00,weekday,Hong Lim,465
+2023-05-03 12:00:00,weekday,Hong Lim,346
+2023-05-03 13:00:00,weekday,Hong Lim,367
+2023-05-03 14:00:00,weekday,Hong Lim,210
+2023-05-04 10:00:00,weekday,Hong Lim,473
+2023-05-04 11:00:00,weekday,Hong Lim,322
+2023-05-04 12:00:00,weekday,Hong Lim,282
+2023-05-04 13:00:00,weekday,Hong Lim,318
+2023-05-04 14:00:00,weekday,Hong Lim,234
+2023-05-05 10:00:00,weekday,Hong Lim,520
+2023-05-05 11:00:00,weekday,Hong Lim,449
+2023-05-05 12:00:00,weekday,Hong Lim,297
+2023-05-05 13:00:00,weekday,Hong Lim,385
+2023-05-05 14:00:00,weekday,Hong Lim,197
+2023-05-06 10:00:00,weekend,Hong Lim,301
+2023-05-06 11:00:00,weekend,Hong Lim,305
+2023-05-06 12:00:00,weekend,Hong Lim,110
+2023-05-06 13:00:00,weekend,Hong Lim,275
+2023-05-06 14:00:00,weekend,Hong Lim,165
+2023-05-07 10:00:00,weekend,Hong Lim,130
+2023-05-07 11:00:00,weekend,Hong Lim,192
+2023-05-07 12:00:00,weekend,Hong Lim,231
+2023-05-07 13:00:00,weekend,Hong Lim,229
+2023-05-07 14:00:00,weekend,Hong Lim,224
+2023-05-08 10:00:00,weekday,Hong Lim,267
+2023-05-08 11:00:00,weekday,Hong Lim,291
+2023-05-08 12:00:00,weekday,Hong Lim,543
+2023-05-08 13:00:00,weekday,Hong Lim,533
+2023-05-08 14:00:00,weekday,Hong Lim,508
+2023-05-09 10:00:00,weekday,Hong Lim,354
+2023-05-09 11:00:00,weekday,Hong Lim,472
+2023-05-09 12:00:00,weekday,Hong Lim,665
+2023-05-09 13:00:00,weekday,Hong Lim,558
+2023-05-09 14:00:00,weekday,Hong Lim,179
+2023-05-10 10:00:00,weekday,Hong Lim,209
+2023-05-10 11:00:00,weekday,Hong Lim,217
+2023-05-10 12:00:00,weekday,Hong Lim,435
+2023-05-10 13:00:00,weekday,Hong Lim,404
+2023-05-10 14:00:00,weekday,Hong Lim,272
+2023-05-11 10:00:00,weekday,Hong Lim,688
+2023-05-11 11:00:00,weekday,Hong Lim,533
+2023-05-11 12:00:00,weekday,Hong Lim,470
+2023-05-11 13:00:00,weekday,Hong Lim,437
+2023-05-11 14:00:00,weekday,Hong Lim,293
+2023-05-12 10:00:00,weekday,Hong Lim,492
+2023-05-12 11:00:00,weekday,Hong Lim,435
+2023-05-12 12:00:00,weekday,Hong Lim,380
+2023-05-12 13:00:00,weekday,Hong Lim,388
+2023-05-12 14:00:00,weekday,Hong Lim,221
+2023-05-13 10:00:00,weekend,Hong Lim,95
+2023-05-13 11:00:00,weekend,Hong Lim,229
+2023-05-13 12:00:00,weekend,Hong Lim,196
+2023-05-13 13:00:00,weekend,Hong Lim,218
+2023-05-13 14:00:00,weekend,Hong Lim,212
+2023-05-14 10:00:00,weekend,Hong Lim,183
+2023-05-14 11:00:00,weekend,Hong Lim,221
+2023-05-14 12:00:00,weekend,Hong Lim,199
+2023-05-14 13:00:00,weekend,Hong Lim,189
+2023-05-14 14:00:00,weekday,Hong Lim,150
+2023-05-15 10:00:00,weekday,Hong Lim,115
+2023-05-15 11:00:00,weekday,Hong Lim,447
+2023-05-15 12:00:00,weekday,Hong Lim,336
+2023-05-15 13:00:00,weekday,Hong Lim,382
+2023-05-15 14:00:00,weekday,Hong Lim,299
+2023-05-16 10:00:00,weekday,Hong Lim,376
+2023-05-16 11:00:00,weekday,Hong Lim,387
+2023-05-16 12:00:00,weekday,Hong Lim,341
+2023-05-16 13:00:00,weekday,Hong Lim,389
+2023-05-16 14:00:00,weekday,Hong Lim,238
+2023-05-17 10:00:00,weekday,Hong Lim,485
+2023-05-17 11:00:00,weekday,Hong Lim,470
+2023-05-17 12:00:00,weekday,Hong Lim,272
+2023-05-17 13:00:00,weekday,Hong Lim,383
+2023-05-17 14:00:00,weekday,Hong Lim,215
+2023-05-18 10:00:00,weekday,Hong Lim,494
+2023-05-18 11:00:00,weekday,Hong Lim,522
+2023-05-18 12:00:00,weekday,Hong Lim,342
+2023-05-18 13:00:00,weekday,Hong Lim,471
+2023-05-18 14:00:00,weekday,Hong Lim,109
+2023-05-19 10:00:00,weekday,Hong Lim,481
+2023-05-19 11:00:00,weekday,Hong Lim,479
+2023-05-19 12:00:00,weekday,Hong Lim,290
+2023-05-19 13:00:00,weekday,Hong Lim,359
+2023-05-19 14:00:00,weekday,Hong Lim,173
+2023-05-20 10:00:00,weekend,Hong Lim,194
+2023-05-20 11:00:00,weekend,Hong Lim,95
+2023-05-20 12:00:00,weekend,Hong Lim,80
+2023-05-20 13:00:00,weekend,Hong Lim,80
+2023-05-20 14:00:00,weekend,Hong Lim,50
+2023-05-21 10:00:00,weekend,Hong Lim,149
+2023-05-21 11:00:00,weekend,Hong Lim,190
+2023-05-21 12:00:00,weekend,Hong Lim,165
+2023-05-21 13:00:00,weekend,Hong Lim,187
+2023-05-21 14:00:00,weekend,Hong Lim,178
+2023-05-22 10:00:00,weekday,Hong Lim,573
+2023-05-22 11:00:00,weekday,Hong Lim,469
+2023-05-22 12:00:00,weekday,Hong Lim,383
+2023-05-22 13:00:00,weekday,Hong Lim,404
+2023-05-22 14:00:00,weekday,Hong Lim,306
+2023-05-23 10:00:00,weekday,Hong Lim,288
+2023-05-23 11:00:00,weekday,Hong Lim,539
+2023-05-23 12:00:00,weekday,Hong Lim,391
+2023-05-23 13:00:00,weekday,Hong Lim,422
+2023-05-23 14:00:00,weekday,Hong Lim,226
+2023-05-24 10:00:00,weekday,Hong Lim,539
+2023-05-24 11:00:00,weekday,Hong Lim,592
+2023-05-24 12:00:00,weekday,Hong Lim,377
+2023-05-24 13:00:00,weekday,Hong Lim,491
+2023-05-24 14:00:00,weekday,Hong Lim,282
+2023-05-25 10:00:00,weekday,Hong Lim,409
+2023-05-25 11:00:00,weekday,Hong Lim,313
+2023-05-25 12:00:00,weekday,Hong Lim,246
+2023-05-25 13:00:00,weekday,Hong Lim,221
+2023-05-25 14:00:00,weekday,Hong Lim,255
+2023-05-26 10:00:00,weekday,Hong Lim,284
+2023-05-26 11:00:00,weekday,Hong Lim,313
+2023-05-26 12:00:00,weekday,Hong Lim,212
+2023-05-26 13:00:00,weekday,Hong Lim,212
+2023-05-26 14:00:00,weekday,Hong Lim,168
+2023-05-27 10:00:00,weekend,Hong Lim,200
+2023-05-27 11:00:00,weekend,Hong Lim,195
+2023-05-27 12:00:00,weekend,Hong Lim,165
+2023-05-27 13:00:00,weekend,Hong Lim,182
+2023-05-27 14:00:00,weekend,Hong Lim,183
+2023-05-28 10:00:00,weekend,Hong Lim,82
+2023-05-28 11:00:00,weekend,Hong Lim,183
+2023-05-28 12:00:00,weekend,Hong Lim,222
+2023-05-28 13:00:00,weekend,Hong Lim,183
+2023-05-28 14:00:00,weekend,Hong Lim,195
+2023-05-29 10:00:00,weekday,Hong Lim,488
+2023-05-29 11:00:00,weekday,Hong Lim,457
+2023-05-29 12:00:00,weekday,Hong Lim,356
+2023-05-29 13:00:00,weekday,Hong Lim,328
+2023-05-29 14:00:00,weekday,Hong Lim,259
+2023-05-30 10:00:00,weekday,Hong Lim,370
+2023-05-30 11:00:00,weekday,Hong Lim,406
+2023-05-30 12:00:00,weekday,Hong Lim,322
+2023-05-30 13:00:00,weekday,Hong Lim,299
+2023-05-30 14:00:00,weekday,Hong Lim,207
+2023-05-31 10:00:00,weekday,Hong Lim,343
+2023-05-31 11:00:00,weekday,Hong Lim,396
+2023-05-31 12:00:00,weekday,Hong Lim,159
+2023-05-31 13:00:00,weekday,Hong Lim,299
+2023-05-31 14:00:00,weekday,Hong Lim,188
+2023-04-01 10:00:00,weekend,Hong Lim,293
+2023-04-01 11:00:00,weekend,Hong Lim,320
+2023-04-01 12:00:00,weekend,Hong Lim,225
+2023-04-01 13:00:00,weekend,Hong Lim,272
+2023-04-01 14:00:00,weekend,Hong Lim,266
+2023-04-02 10:00:00,weekend,Hong Lim,235
+2023-04-02 11:00:00,weekend,Hong Lim,191
+2023-04-02 12:00:00,weekend,Hong Lim,214
+2023-04-02 13:00:00,weekend,Hong Lim,256
+2023-04-02 14:00:00,weekend,Hong Lim,246
+2023-04-03 10:00:00,weekday,Hong Lim,405
+2023-04-03 11:00:00,weekday,Hong Lim,445
+2023-04-03 12:00:00,weekday,Hong Lim,425
+2023-04-03 13:00:00,weekday,Hong Lim,440
+2023-04-03 14:00:00,weekday,Hong Lim,350
+2023-04-04 10:00:00,weekday,Hong Lim,554
+2023-04-04 11:00:00,weekday,Hong Lim,509
+2023-04-04 12:00:00,weekday,Hong Lim,353
+2023-04-04 13:00:00,weekday,Hong Lim,230
+2023-04-04 14:00:00,weekday,Hong Lim,240
+2023-04-05 10:00:00,weekday,Hong Lim,317
+2023-04-05 11:00:00,weekday,Hong Lim,451
+2023-04-05 12:00:00,weekday,Hong Lim,348
+2023-04-05 13:00:00,weekday,Hong Lim,302
+2023-04-05 14:00:00,weekday,Hong Lim,217
+2023-04-06 10:00:00,weekday,Hong Lim,544
+2023-04-06 11:00:00,weekday,Hong Lim,338
+2023-04-06 12:00:00,weekday,Hong Lim,442
+2023-04-06 13:00:00,weekday,Hong Lim,268
+2023-04-06 14:00:00,weekday,Hong Lim,262
+2023-04-07 10:00:00,holiday,Hong Lim,196
+2023-04-07 11:00:00,holiday,Hong Lim,284
+2023-04-07 12:00:00,holiday,Hong Lim,270
+2023-04-07 13:00:00,holiday,Hong Lim,315
+2023-04-07 14:00:00,holiday,Hong Lim,314
+2023-04-08 10:00:00,weekend,Hong Lim,229
+2023-04-08 11:00:00,weekend,Hong Lim,297
+2023-04-08 12:00:00,weekend,Hong Lim,248
+2023-04-08 13:00:00,weekend,Hong Lim,222
+2023-04-08 14:00:00,weekend,Hong Lim,287
+2023-04-09 10:00:00,weekend,Hong Lim,153
+2023-04-09 11:00:00,weekend,Hong Lim,179
+2023-04-09 12:00:00,weekend,Hong Lim,221
+2023-04-09 13:00:00,weekend,Hong Lim,230
+2023-04-09 14:00:00,weekend,Hong Lim,230
+2023-04-10 10:00:00,weekday,Hong Lim,378
+2023-04-10 11:00:00,weekday,Hong Lim,525
+2023-04-10 12:00:00,weekday,Hong Lim,403
+2023-04-10 13:00:00,weekday,Hong Lim,333
+2023-04-10 14:00:00,weekday,Hong Lim,332
+2023-04-11 10:00:00,weekday,Hong Lim,474
+2023-04-11 11:00:00,weekday,Hong Lim,449
+2023-04-11 12:00:00,weekday,Hong Lim,382
+2023-04-11 13:00:00,weekday,Hong Lim,133
+2023-04-11 14:00:00,weekday,Hong Lim,268
+2023-04-12 10:00:00,weekday,Hong Lim,495
+2023-04-12 11:00:00,weekday,Hong Lim,409
+2023-04-12 12:00:00,weekday,Hong Lim,80
+2023-04-12 13:00:00,weekday,Hong Lim,172
+2023-04-12 14:00:00,weekday,Hong Lim,102
+2023-04-13 10:00:00,weekday,Hong Lim,466
+2023-04-13 11:00:00,weekday,Hong Lim,515
+2023-04-13 12:00:00,weekday,Hong Lim,462
+2023-04-13 13:00:00,weekday,Hong Lim,346
+2023-04-13 14:00:00,weekday,Hong Lim,300
+2023-04-14 10:00:00,weekday,Hong Lim,463
+2023-04-14 11:00:00,weekday,Hong Lim,507
+2023-04-14 12:00:00,weekday,Hong Lim,361
+2023-04-14 13:00:00,weekday,Hong Lim,324
+2023-04-14 14:00:00,weekday,Hong Lim,240
+2023-04-15 10:00:00,weekend,Hong Lim,247
+2023-04-15 11:00:00,weekend,Hong Lim,302
+2023-04-15 12:00:00,weekend,Hong Lim,255
+2023-04-15 13:00:00,weekend,Hong Lim,267
+2023-04-15 14:00:00,weekend,Hong Lim,247
+2023-04-16 10:00:00,weekend,Hong Lim,190
+2023-04-16 11:00:00,weekend,Hong Lim,199
+2023-04-16 12:00:00,weekend,Hong Lim,194
+2023-04-16 13:00:00,weekend,Hong Lim,198
+2023-04-16 14:00:00,weekend,Hong Lim,210
+2023-04-17 10:00:00,weekday,Hong Lim,550
+2023-04-17 11:00:00,weekday,Hong Lim,168
+2023-04-17 12:00:00,weekday,Hong Lim,183
+2023-04-17 13:00:00,weekday,Hong Lim,317
+2023-04-17 14:00:00,weekday,Hong Lim,274
+2023-04-18 10:00:00,weekday,Hong Lim,522
+2023-04-18 11:00:00,weekday,Hong Lim,581
+2023-04-18 12:00:00,weekday,Hong Lim,376
+2023-04-18 13:00:00,weekday,Hong Lim,418
+2023-04-18 14:00:00,weekday,Hong Lim,298
+2023-04-19 10:00:00,weekday,Hong Lim,181
+2023-04-19 11:00:00,weekday,Hong Lim,152
+2023-04-19 12:00:00,weekday,Hong Lim,115
+2023-04-19 13:00:00,weekday,Hong Lim,172
+2023-04-19 14:00:00,weekday,Hong Lim,267
+2023-04-20 10:00:00,weekday,Hong Lim,390
+2023-04-20 11:00:00,weekday,Hong Lim,462
+2023-04-20 12:00:00,weekday,Hong Lim,376
+2023-04-20 13:00:00,weekday,Hong Lim,465
+2023-04-20 14:00:00,weekday,Hong Lim,309
+2023-04-21 10:00:00,weekday,Hong Lim,401
+2023-04-21 11:00:00,weekday,Hong Lim,447
+2023-04-21 12:00:00,weekday,Hong Lim,313
+2023-04-21 13:00:00,weekday,Hong Lim,269
+2023-04-21 14:00:00,weekday,Hong Lim,200
+2023-04-22 10:00:00,holiday,Hong Lim,174
+2023-04-22 11:00:00,holiday,Hong Lim,191
+2023-04-22 12:00:00,holiday,Hong Lim,141
+2023-04-22 13:00:00,holiday,Hong Lim,241
+2023-04-22 14:00:00,holiday,Hong Lim,176
+2023-04-23 10:00:00,weekend,Hong Lim,78
+2023-04-23 11:00:00,weekend,Hong Lim,83
+2023-04-23 12:00:00,weekend,Hong Lim,82
+2023-04-23 13:00:00,weekend,Hong Lim,81
+2023-04-23 14:00:00,weekend,Hong Lim,58
+2023-04-24 10:00:00,weekday,Hong Lim,272
+2023-04-24 11:00:00,weekday,Hong Lim,309
+2023-04-24 12:00:00,weekday,Hong Lim,246
+2023-04-24 13:00:00,weekday,Hong Lim,165
+2023-04-24 14:00:00,weekday,Hong Lim,151
+2023-04-25 10:00:00,weekday,Hong Lim,419
+2023-04-25 11:00:00,weekday,Hong Lim,397
+2023-04-25 12:00:00,weekday,Hong Lim,282
+2023-04-25 13:00:00,weekday,Hong Lim,299
+2023-04-25 14:00:00,weekday,Hong Lim,232
+2023-04-26 10:00:00,weekday,Hong Lim,328
+2023-04-26 11:00:00,weekday,Hong Lim,377
+2023-04-26 12:00:00,weekday,Hong Lim,369
+2023-04-26 13:00:00,weekday,Hong Lim,295
+2023-04-26 14:00:00,weekday,Hong Lim,315
+2023-04-27 10:00:00,weekday,Hong Lim,298
+2023-04-27 11:00:00,weekday,Hong Lim,303
+2023-04-27 12:00:00,weekday,Hong Lim,252
+2023-04-27 13:00:00,weekday,Hong Lim,252
+2023-04-27 14:00:00,weekday,Hong Lim,299
+2023-04-28 10:00:00,weekday,Hong Lim,247
+2023-04-28 11:00:00,weekday,Hong Lim,237
+2023-04-28 12:00:00,weekday,Hong Lim,206
+2023-04-28 13:00:00,weekday,Hong Lim,223
+2023-04-28 14:00:00,weekday,Hong Lim,272
+2023-04-29 10:00:00,weekend,Hong Lim,196
+2023-04-29 11:00:00,weekend,Hong Lim,102
+2023-04-29 12:00:00,weekend,Hong Lim,83
+2023-04-29 13:00:00,weekend,Hong Lim,60
+2023-04-29 14:00:00,weekend,Hong Lim,48
+2023-04-30 10:00:00,weekend,Hong Lim,194
+2023-04-30 11:00:00,weekend,Hong Lim,223
+2023-04-30 12:00:00,weekend,Hong Lim,184
+2023-04-30 13:00:00,weekend,Hong Lim,203
+2023-04-30 14:00:00,weekend,Hong Lim,189
+2023-04-01 10:00:00,weekend,Maxwell,254
+2023-04-01 11:00:00,weekend,Maxwell,288
+2023-04-01 12:00:00,weekend,Maxwell,204
+2023-04-01 13:00:00,weekend,Maxwell,245
+2023-04-01 14:00:00,weekend,Maxwell,242
+2023-04-02 10:00:00,weekend,Maxwell,201
+2023-04-02 11:00:00,weekend,Maxwell,174
+2023-04-02 12:00:00,weekend,Maxwell,205
+2023-04-02 13:00:00,weekend,Maxwell,238
+2023-04-02 14:00:00,weekend,Maxwell,226
+2023-04-03 10:00:00,weekday,Maxwell,372
+2023-04-03 11:00:00,weekday,Maxwell,412
+2023-04-03 12:00:00,weekday,Maxwell,392
+2023-04-03 13:00:00,weekday,Maxwell,400
+2023-04-03 14:00:00,weekday,Maxwell,304
+2023-04-04 10:00:00,weekday,Maxwell,504
+2023-04-04 11:00:00,weekday,Maxwell,456
+2023-04-04 12:00:00,weekday,Maxwell,316
+2023-04-04 13:00:00,weekday,Maxwell,213
+2023-04-04 14:00:00,weekday,Maxwell,223
+2023-04-05 10:00:00,weekday,Maxwell,291
+2023-04-05 11:00:00,weekday,Maxwell,412
+2023-04-05 12:00:00,weekday,Maxwell,323
+2023-04-05 13:00:00,weekday,Maxwell,277
+2023-04-05 14:00:00,weekday,Maxwell,186
+2023-04-06 10:00:00,weekday,Maxwell,494
+2023-04-06 11:00:00,weekday,Maxwell,316
+2023-04-06 12:00:00,weekday,Maxwell,393
+2023-04-06 13:00:00,weekday,Maxwell,245
+2023-04-06 14:00:00,weekday,Maxwell,251
+2023-04-07 10:00:00,holiday,Maxwell,194
+2023-04-07 11:00:00,holiday,Maxwell,259
+2023-04-07 12:00:00,holiday,Maxwell,250
+2023-04-07 13:00:00,holiday,Maxwell,283
+2023-04-07 14:00:00,holiday,Maxwell,290
+2023-04-08 10:00:00,weekend,Maxwell,197
+2023-04-08 11:00:00,weekend,Maxwell,276
+2023-04-08 12:00:00,weekend,Maxwell,229
+2023-04-08 13:00:00,weekend,Maxwell,194
+2023-04-08 14:00:00,weekend,Maxwell,265
+2023-04-09 10:00:00,weekend,Maxwell,124
+2023-04-09 11:00:00,weekend,Maxwell,153
+2023-04-09 12:00:00,weekend,Maxwell,207
+2023-04-09 13:00:00,weekend,Maxwell,211
+2023-04-09 14:00:00,weekend,Maxwell,209
+2023-04-10 10:00:00,weekday,Maxwell,341
+2023-04-10 11:00:00,weekday,Maxwell,468
+2023-04-10 12:00:00,weekday,Maxwell,377
+2023-04-10 13:00:00,weekday,Maxwell,288
+2023-04-10 14:00:00,weekday,Maxwell,301
+2023-04-11 10:00:00,weekday,Maxwell,445
+2023-04-11 11:00:00,weekday,Maxwell,409
+2023-04-11 12:00:00,weekday,Maxwell,342
+2023-04-11 13:00:00,weekday,Maxwell,124
+2023-04-11 14:00:00,weekday,Maxwell,241
+2023-04-12 10:00:00,weekday,Maxwell,452
+2023-04-12 11:00:00,weekday,Maxwell,358
+2023-04-12 12:00:00,weekday,Maxwell,68
+2023-04-12 13:00:00,weekday,Maxwell,159
+2023-04-12 14:00:00,weekday,Maxwell,89
+2023-04-13 10:00:00,weekday,Maxwell,433
+2023-04-13 11:00:00,weekday,Maxwell,479
+2023-04-13 12:00:00,weekday,Maxwell,417
+2023-04-13 13:00:00,weekday,Maxwell,309
+2023-04-13 14:00:00,weekday,Maxwell,292
+2023-04-14 10:00:00,weekday,Maxwell,416
+2023-04-14 11:00:00,weekday,Maxwell,477
+2023-04-14 12:00:00,weekday,Maxwell,323
+2023-04-14 13:00:00,weekday,Maxwell,290
+2023-04-14 14:00:00,weekday,Maxwell,218
+2023-04-15 10:00:00,weekend,Maxwell,214
+2023-04-15 11:00:00,weekend,Maxwell,262
+2023-04-15 12:00:00,weekend,Maxwell,236
+2023-04-15 13:00:00,weekend,Maxwell,240
+2023-04-15 14:00:00,weekend,Maxwell,226
+2023-04-16 10:00:00,weekend,Maxwell,172
+2023-04-16 11:00:00,weekend,Maxwell,182
+2023-04-16 12:00:00,weekend,Maxwell,168
+2023-04-16 13:00:00,weekend,Maxwell,170
+2023-04-16 14:00:00,weekend,Maxwell,198
+2023-04-17 10:00:00,weekday,Maxwell,495
+2023-04-17 11:00:00,weekday,Maxwell,140
+2023-04-17 12:00:00,weekday,Maxwell,158
+2023-04-17 13:00:00,weekday,Maxwell,272
+2023-04-17 14:00:00,weekday,Maxwell,254
+2023-04-18 10:00:00,weekday,Maxwell,503
+2023-04-18 11:00:00,weekday,Maxwell,533
+2023-04-18 12:00:00,weekday,Maxwell,330
+2023-04-18 13:00:00,weekday,Maxwell,382
+2023-04-18 14:00:00,weekday,Maxwell,259
+2023-04-19 10:00:00,weekday,Maxwell,167
+2023-04-19 11:00:00,weekday,Maxwell,129
+2023-04-19 12:00:00,weekday,Maxwell,101
+2023-04-19 13:00:00,weekday,Maxwell,148
+2023-04-19 14:00:00,weekday,Maxwell,235
+2023-04-20 10:00:00,weekday,Maxwell,363
+2023-04-20 11:00:00,weekday,Maxwell,429
+2023-04-20 12:00:00,weekday,Maxwell,340
+2023-04-20 13:00:00,weekday,Maxwell,426
+2023-04-20 14:00:00,weekday,Maxwell,288
+2023-04-21 10:00:00,weekday,Maxwell,366
+2023-04-21 11:00:00,weekday,Maxwell,418
+2023-04-21 12:00:00,weekday,Maxwell,281
+2023-04-21 13:00:00,weekday,Maxwell,256
+2023-04-21 14:00:00,weekday,Maxwell,192
+2023-04-22 10:00:00,holiday,Maxwell,158
+2023-04-22 11:00:00,holiday,Maxwell,190
+2023-04-22 12:00:00,holiday,Maxwell,133
+2023-04-22 13:00:00,holiday,Maxwell,219
+2023-04-22 14:00:00,holiday,Maxwell,172
+2023-04-23 10:00:00,weekend,Maxwell,61
+2023-04-23 11:00:00,weekend,Maxwell,70
+2023-04-23 12:00:00,weekend,Maxwell,77
+2023-04-23 13:00:00,weekend,Maxwell,75
+2023-04-23 14:00:00,weekend,Maxwell,49
+2023-04-24 10:00:00,weekday,Maxwell,264
+2023-04-24 11:00:00,weekday,Maxwell,283
+2023-04-24 12:00:00,weekday,Maxwell,241
+2023-04-24 13:00:00,weekday,Maxwell,143
+2023-04-24 14:00:00,weekday,Maxwell,133
+2023-04-25 10:00:00,weekday,Maxwell,381
+2023-04-25 11:00:00,weekday,Maxwell,350
+2023-04-25 12:00:00,weekday,Maxwell,253
+2023-04-25 13:00:00,weekday,Maxwell,267
+2023-04-25 14:00:00,weekday,Maxwell,210
+2023-04-26 10:00:00,weekday,Maxwell,313
+2023-04-26 11:00:00,weekday,Maxwell,334
+2023-04-26 12:00:00,weekday,Maxwell,342
+2023-04-26 13:00:00,weekday,Maxwell,270
+2023-04-26 14:00:00,weekday,Maxwell,275
+2023-04-27 10:00:00,weekday,Maxwell,282
+2023-04-27 11:00:00,weekday,Maxwell,266
+2023-04-27 12:00:00,weekday,Maxwell,230
+2023-04-27 13:00:00,weekday,Maxwell,230
+2023-04-27 14:00:00,weekday,Maxwell,268
+2023-04-28 10:00:00,weekday,Maxwell,224
+2023-04-28 11:00:00,weekday,Maxwell,222
+2023-04-28 12:00:00,weekday,Maxwell,195
+2023-04-28 13:00:00,weekday,Maxwell,203
+2023-04-28 14:00:00,weekday,Maxwell,250
+2023-04-29 10:00:00,weekend,Maxwell,179
+2023-04-29 11:00:00,weekend,Maxwell,92
+2023-04-29 12:00:00,weekend,Maxwell,78
+2023-04-29 13:00:00,weekend,Maxwell,56
+2023-04-29 14:00:00,weekend,Maxwell,46
+2023-04-30 10:00:00,weekend,Maxwell,177
+2023-04-30 11:00:00,weekend,Maxwell,217
+2023-04-30 12:00:00,weekend,Maxwell,173
+2023-04-30 13:00:00,weekend,Maxwell,186
+2023-04-30 14:00:00,weekend,Maxwell,174
+2023-04-01 10:00:00,weekend,ABC Brickworks,105
+2023-04-01 11:00:00,weekend,ABC Brickworks,160
+2023-04-01 12:00:00,weekend,ABC Brickworks,133
+2023-04-01 13:00:00,weekend,ABC Brickworks,153
+2023-04-01 14:00:00,weekend,ABC Brickworks,156
+2023-04-02 10:00:00,weekend,ABC Brickworks,98
+2023-04-02 11:00:00,weekend,ABC Brickworks,101
+2023-04-02 12:00:00,weekend,ABC Brickworks,140
+2023-04-02 13:00:00,weekend,ABC Brickworks,157
+2023-04-02 14:00:00,weekend,ABC Brickworks,120
+2023-04-03 10:00:00,weekday,ABC Brickworks,199
+2023-04-03 11:00:00,weekday,ABC Brickworks,271
+2023-04-03 12:00:00,weekday,ABC Brickworks,241
+2023-04-03 13:00:00,weekday,ABC Brickworks,291
+2023-04-03 14:00:00,weekday,ABC Brickworks,220
+2023-04-04 10:00:00,weekday,ABC Brickworks,301
+2023-04-04 11:00:00,weekday,ABC Brickworks,315
+2023-04-04 12:00:00,weekday,ABC Brickworks,241
+2023-04-04 13:00:00,weekday,ABC Brickworks,159
+2023-04-04 14:00:00,weekday,ABC Brickworks,164
+2023-04-05 10:00:00,weekday,ABC Brickworks,182
+2023-04-05 11:00:00,weekday,ABC Brickworks,283
+2023-04-05 12:00:00,weekday,ABC Brickworks,247
+2023-04-05 13:00:00,weekday,ABC Brickworks,159
+2023-04-05 14:00:00,weekday,ABC Brickworks,154
+2023-04-06 10:00:00,weekday,ABC Brickworks,295
+2023-04-06 11:00:00,weekday,ABC Brickworks,207
+2023-04-06 12:00:00,weekday,ABC Brickworks,249
+2023-04-06 13:00:00,weekday,ABC Brickworks,157
+2023-04-06 14:00:00,weekday,ABC Brickworks,167
+2023-04-07 10:00:00,holiday,ABC Brickworks,105
+2023-04-07 11:00:00,holiday,ABC Brickworks,192
+2023-04-07 12:00:00,holiday,ABC Brickworks,155
+2023-04-07 13:00:00,holiday,ABC Brickworks,175
+2023-04-07 14:00:00,holiday,ABC Brickworks,183
+2023-04-08 10:00:00,weekend,ABC Brickworks,98
+2023-04-08 11:00:00,weekend,ABC Brickworks,146
+2023-04-08 12:00:00,weekend,ABC Brickworks,181
+2023-04-08 13:00:00,weekend,ABC Brickworks,121
+2023-04-08 14:00:00,weekend,ABC Brickworks,199
+2023-04-09 10:00:00,weekend,ABC Brickworks,66
+2023-04-09 11:00:00,weekend,ABC Brickworks,89
+2023-04-09 12:00:00,weekend,ABC Brickworks,130
+2023-04-09 13:00:00,weekend,ABC Brickworks,155
+2023-04-09 14:00:00,weekend,ABC Brickworks,137
+2023-04-10 10:00:00,weekday,ABC Brickworks,228
+2023-04-10 11:00:00,weekday,ABC Brickworks,302
+2023-04-10 12:00:00,weekday,ABC Brickworks,229
+2023-04-10 13:00:00,weekday,ABC Brickworks,189
+2023-04-10 14:00:00,weekday,ABC Brickworks,228
+2023-04-11 10:00:00,weekday,ABC Brickworks,264
+2023-04-11 11:00:00,weekday,ABC Brickworks,284
+2023-04-11 12:00:00,weekday,ABC Brickworks,214
+2023-04-11 13:00:00,weekday,ABC Brickworks,79
+2023-04-11 14:00:00,weekday,ABC Brickworks,170
+2023-04-12 10:00:00,weekday,ABC Brickworks,281
+2023-04-12 11:00:00,weekday,ABC Brickworks,237
+2023-04-12 12:00:00,weekday,ABC Brickworks,55
+2023-04-12 13:00:00,weekday,ABC Brickworks,81
+2023-04-12 14:00:00,weekday,ABC Brickworks,63
+2023-04-13 10:00:00,weekday,ABC Brickworks,249
+2023-04-13 11:00:00,weekday,ABC Brickworks,319
+2023-04-13 12:00:00,weekday,ABC Brickworks,235
+2023-04-13 13:00:00,weekday,ABC Brickworks,202
+2023-04-13 14:00:00,weekday,ABC Brickworks,247
+2023-04-14 10:00:00,weekday,ABC Brickworks,251
+2023-04-14 11:00:00,weekday,ABC Brickworks,286
+2023-04-14 12:00:00,weekday,ABC Brickworks,246
+2023-04-14 13:00:00,weekday,ABC Brickworks,160
+2023-04-14 14:00:00,weekday,ABC Brickworks,134
+2023-04-15 10:00:00,weekend,ABC Brickworks,110
+2023-04-15 11:00:00,weekend,ABC Brickworks,131
+2023-04-15 12:00:00,weekend,ABC Brickworks,172
+2023-04-15 13:00:00,weekend,ABC Brickworks,137
+2023-04-15 14:00:00,weekend,ABC Brickworks,174
+2023-04-16 10:00:00,weekend,ABC Brickworks,86
+2023-04-16 11:00:00,weekend,ABC Brickworks,94
+2023-04-16 12:00:00,weekend,ABC Brickworks,92
+2023-04-16 13:00:00,weekend,ABC Brickworks,122
+2023-04-16 14:00:00,weekend,ABC Brickworks,148
+2023-04-17 10:00:00,weekday,ABC Brickworks,253
+2023-04-17 11:00:00,weekday,ABC Brickworks,88
+2023-04-17 12:00:00,weekday,ABC Brickworks,88
+2023-04-17 13:00:00,weekday,ABC Brickworks,140
+2023-04-17 14:00:00,weekday,ABC Brickworks,153
+2023-04-18 10:00:00,weekday,ABC Brickworks,292
+2023-04-18 11:00:00,weekday,ABC Brickworks,342
+2023-04-18 12:00:00,weekday,ABC Brickworks,224
+2023-04-18 13:00:00,weekday,ABC Brickworks,236
+2023-04-18 14:00:00,weekday,ABC Brickworks,171
+2023-04-19 10:00:00,weekday,ABC Brickworks,89
+2023-04-19 11:00:00,weekday,ABC Brickworks,93
+2023-04-19 12:00:00,weekday,ABC Brickworks,87
+2023-04-19 13:00:00,weekday,ABC Brickworks,89
+2023-04-19 14:00:00,weekday,ABC Brickworks,203
+2023-04-20 10:00:00,weekday,ABC Brickworks,223
+2023-04-20 11:00:00,weekday,ABC Brickworks,268
+2023-04-20 12:00:00,weekday,ABC Brickworks,206
+2023-04-20 13:00:00,weekday,ABC Brickworks,209
+2023-04-20 14:00:00,weekday,ABC Brickworks,170
+2023-04-21 10:00:00,weekday,ABC Brickworks,207
+2023-04-21 11:00:00,weekday,ABC Brickworks,265
+2023-04-21 12:00:00,weekday,ABC Brickworks,191
+2023-04-21 13:00:00,weekday,ABC Brickworks,164
+2023-04-21 14:00:00,weekday,ABC Brickworks,145
+2023-04-22 10:00:00,holiday,ABC Brickworks,104
+2023-04-22 11:00:00,holiday,ABC Brickworks,117
+2023-04-22 12:00:00,holiday,ABC Brickworks,92
+2023-04-22 13:00:00,holiday,ABC Brickworks,143
+2023-04-22 14:00:00,holiday,ABC Brickworks,136
+2023-04-23 10:00:00,weekend,ABC Brickworks,49
+2023-04-23 11:00:00,weekend,ABC Brickworks,49
+2023-04-23 12:00:00,weekend,ABC Brickworks,48
+2023-04-23 13:00:00,weekend,ABC Brickworks,44
+2023-04-23 14:00:00,weekend,ABC Brickworks,34
+2023-04-24 10:00:00,weekday,ABC Brickworks,144
+2023-04-24 11:00:00,weekday,ABC Brickworks,155
+2023-04-24 12:00:00,weekday,ABC Brickworks,155
+2023-04-24 13:00:00,weekday,ABC Brickworks,102
+2023-04-24 14:00:00,weekday,ABC Brickworks,99
+2023-04-25 10:00:00,weekday,ABC Brickworks,219
+2023-04-25 11:00:00,weekday,ABC Brickworks,258
+2023-04-25 12:00:00,weekday,ABC Brickworks,159
+2023-04-25 13:00:00,weekday,ABC Brickworks,124
+2023-04-25 14:00:00,weekday,ABC Brickworks,112
+2023-04-26 10:00:00,weekday,ABC Brickworks,194
+2023-04-26 11:00:00,weekday,ABC Brickworks,212
+2023-04-26 12:00:00,weekday,ABC Brickworks,165
+2023-04-26 13:00:00,weekday,ABC Brickworks,142
+2023-04-26 14:00:00,weekday,ABC Brickworks,140
+2023-04-27 10:00:00,weekday,ABC Brickworks,183
+2023-04-27 11:00:00,weekday,ABC Brickworks,163
+2023-04-27 12:00:00,weekday,ABC Brickworks,151
+2023-04-27 13:00:00,weekday,ABC Brickworks,108
+2023-04-27 14:00:00,weekday,ABC Brickworks,149
+2023-04-28 10:00:00,weekday,ABC Brickworks,150
+2023-04-28 11:00:00,weekday,ABC Brickworks,126
+2023-04-28 12:00:00,weekday,ABC Brickworks,118
+2023-04-28 13:00:00,weekday,ABC Brickworks,100
+2023-04-28 14:00:00,weekday,ABC Brickworks,85
+2023-04-29 10:00:00,weekend,ABC Brickworks,109
+2023-04-29 11:00:00,weekend,ABC Brickworks,77
+2023-04-29 12:00:00,weekend,ABC Brickworks,67
+2023-04-29 13:00:00,weekend,ABC Brickworks,51
+2023-04-29 14:00:00,weekend,ABC Brickworks,29
+2023-04-30 10:00:00,weekend,ABC Brickworks,123
+2023-04-30 11:00:00,weekend,ABC Brickworks,156
+2023-04-30 12:00:00,weekend,ABC Brickworks,155
+2023-04-30 13:00:00,weekend,ABC Brickworks,136
+2023-04-30 14:00:00,weekend,ABC Brickworks,111
+2023-06-01 10:00:00,weekday,Maxwell,185
+2023-06-01 11:00:00,weekday,Maxwell,257
+2023-06-01 12:00:00,weekday,Maxwell,206
+2023-06-01 13:00:00,weekday,Maxwell,226
+2023-06-01 14:00:00,weekday,Maxwell,112
+2023-06-01 10:00:00,weekday,Hong Lim,194
+2023-06-01 11:00:00,weekday,Hong Lim,268
+2023-06-01 12:00:00,weekday,Hong Lim,227
+2023-06-01 13:00:00,weekday,Hong Lim,238
+2023-06-01 14:00:00,weekday,Hong Lim,128
+2023-06-01 10:00:00,weekday,ABC Brickworks,99
+2023-06-01 11:00:00,weekday,ABC Brickworks,170
+2023-06-01 12:00:00,weekday,ABC Brickworks,146
+2023-06-01 13:00:00,weekday,ABC Brickworks,139
+2023-06-01 14:00:00,weekday,ABC Brickworks,88
+2023-06-02 10:00:00,holiday,Maxwell,155
+2023-06-02 11:00:00,holiday,Maxwell,146
+2023-06-02 12:00:00,holiday,Maxwell,198
+2023-06-02 13:00:00,holiday,Maxwell,218
+2023-06-02 14:00:00,holiday,Maxwell,196
+2023-06-02 10:00:00,holiday,ABC Brickworks,100
+2023-06-02 11:00:00,holiday,ABC Brickworks,84
+2023-06-02 12:00:00,holiday,ABC Brickworks,116
+2023-06-02 13:00:00,holiday,ABC Brickworks,138
+2023-06-02 14:00:00,holiday,ABC Brickworks,124
+2023-06-02 10:00:00,holiday,Hong Lim,160
+2023-06-02 11:00:00,holiday,Hong Lim,152
+2023-06-02 12:00:00,holiday,Hong Lim,217
+2023-06-02 13:00:00,holiday,Hong Lim,233
+2023-06-02 14:00:00,holiday,Hong Lim,214
+2023-06-03 10:00:00,weekend,Hong Lim,111
+2023-06-03 11:00:00,weekend,Hong Lim,99
+2023-06-03 12:00:00,weekend,Hong Lim,107
+2023-06-03 13:00:00,weekend,Hong Lim,113
+2023-06-03 14:00:00,weekend,Hong Lim,115
+2023-06-03 10:00:00,weekend,ABC Brickworks,51
+2023-06-03 11:00:00,weekend,ABC Brickworks,54
+2023-06-03 12:00:00,weekend,ABC Brickworks,58
+2023-06-03 13:00:00,weekend,ABC Brickworks,64
+2023-06-03 14:00:00,weekend,ABC Brickworks,78
+2023-06-03 10:00:00,weekend,Maxwell,100
+2023-06-03 11:00:00,weekend,Maxwell,88
+2023-06-03 12:00:00,weekend,Maxwell,96
+2023-06-03 13:00:00,weekend,Maxwell,96
+2023-06-03 14:00:00,weekend,Maxwell,105
+2023-06-04 10:00:00,weekend,Maxwell,84
+2023-06-04 11:00:00,weekend,Maxwell,95
+2023-06-04 12:00:00,weekend,Maxwell,102
+2023-06-04 13:00:00,weekend,Maxwell,92
+2023-06-04 14:00:00,weekend,Maxwell,100
+2023-06-04 10:00:00,weekend,ABC Brickworks,48
+2023-06-04 11:00:00,weekend,ABC Brickworks,59
+2023-06-04 12:00:00,weekend,ABC Brickworks,64
+2023-06-04 13:00:00,weekend,ABC Brickworks,60
+2023-06-04 14:00:00,weekend,ABC Brickworks,69
+2023-06-04 10:00:00,weekend,Hong Lim,98
+2023-06-04 11:00:00,weekend,Hong Lim,98
+2023-06-04 12:00:00,weekend,Hong Lim,110
+2023-06-04 13:00:00,weekend,Hong Lim,98
+2023-06-04 14:00:00,weekend,Hong Lim,111
+2023-06-05 10:00:00,weekday,Maxwell,166
+2023-06-05 11:00:00,weekday,Maxwell,140
+2023-06-05 12:00:00,weekday,Maxwell,146
+2023-06-05 13:00:00,weekday,Maxwell,135
+2023-06-05 14:00:00,weekday,Maxwell,119
+2023-06-05 10:00:00,weekday,ABC Brickworks,100
+2023-06-05 11:00:00,weekday,ABC Brickworks,99
+2023-06-05 12:00:00,weekday,ABC Brickworks,101
+2023-06-05 13:00:00,weekday,ABC Brickworks,94
+2023-06-05 14:00:00,weekday,ABC Brickworks,79
+2023-06-05 10:00:00,weekday,Hong Lim,192
+2023-06-05 11:00:00,weekday,Hong Lim,163
+2023-06-05 12:00:00,weekday,Hong Lim,165
+2023-06-05 13:00:00,weekday,Hong Lim,148
+2023-06-05 14:00:00,weekday,Hong Lim,132
+2023-06-06 10:00:00,weekday,Maxwell,277
+2023-06-06 11:00:00,weekday,Maxwell,346
+2023-06-06 12:00:00,weekday,Maxwell,302
+2023-06-06 13:00:00,weekday,Maxwell,367
+2023-06-06 14:00:00,weekday,Maxwell,219
+2023-06-06 10:00:00,weekday,ABC Brickworks,192
+2023-06-06 11:00:00,weekday,ABC Brickworks,225
+2023-06-06 12:00:00,weekday,ABC Brickworks,155
+2023-06-06 13:00:00,weekday,ABC Brickworks,210
+2023-06-06 14:00:00,weekday,ABC Brickworks,151
+2023-06-06 10:00:00,weekday,Hong Lim,290
+2023-06-06 11:00:00,weekday,Hong Lim,391
+2023-06-06 12:00:00,weekday,Hong Lim,335
+2023-06-06 13:00:00,weekday,Hong Lim,404
+2023-06-06 14:00:00,weekday,Hong Lim,246
+2023-06-07 10:00:00,weekday,Maxwell,140
+2023-06-07 11:00:00,weekday,Maxwell,128
+2023-06-07 12:00:00,weekday,Maxwell,115
+2023-06-07 13:00:00,weekday,Maxwell,349
+2023-06-07 14:00:00,weekday,Maxwell,216
+2023-06-07 10:00:00,weekday,ABC Brickworks,101
+2023-06-07 11:00:00,weekday,ABC Brickworks,89
+2023-06-07 12:00:00,weekday,ABC Brickworks,91
+2023-06-07 13:00:00,weekday,ABC Brickworks,194
+2023-06-07 14:00:00,weekday,ABC Brickworks,147
+2023-06-07 10:00:00,weekday,Hong Lim,145
+2023-06-07 11:00:00,weekday,Hong Lim,152
+2023-06-07 12:00:00,weekday,Hong Lim,123
+2023-06-07 13:00:00,weekday,Hong Lim,370
+2023-06-07 14:00:00,weekday,Hong Lim,246
+2023-06-08 10:00:00,weekday,Maxwell,399
+2023-06-08 11:00:00,weekday,Maxwell,386
+2023-06-08 12:00:00,weekday,Maxwell,294
+2023-06-08 13:00:00,weekday,Maxwell,325
+2023-06-08 14:00:00,weekday,Maxwell,218
+2023-06-08 10:00:00,weekday,ABC Brickworks,218
+2023-06-08 11:00:00,weekday,ABC Brickworks,228
+2023-06-08 12:00:00,weekday,ABC Brickworks,186
+2023-06-08 13:00:00,weekday,ABC Brickworks,164
+2023-06-08 14:00:00,weekday,ABC Brickworks,168
+2023-06-08 10:00:00,weekday,Hong Lim,412
+2023-06-08 11:00:00,weekday,Hong Lim,405
+2023-06-08 12:00:00,weekday,Hong Lim,317
+2023-06-08 13:00:00,weekday,Hong Lim,365
+2023-06-08 14:00:00,weekday,Hong Lim,260
+2023-06-09 10:00:00,weekday,Maxwell,162
+2023-06-09 11:00:00,weekday,Maxwell,334
+2023-06-09 12:00:00,weekday,Maxwell,190
+2023-06-09 13:00:00,weekday,Maxwell,318
+2023-06-09 14:00:00,weekday,Maxwell,283
+2023-06-09 10:00:00,weekday,ABC Brickworks,91
+2023-06-09 11:00:00,weekday,ABC Brickworks,231
+2023-06-09 12:00:00,weekday,ABC Brickworks,136
+2023-06-09 13:00:00,weekday,ABC Brickworks,174
+2023-06-09 14:00:00,weekday,ABC Brickworks,182
+2023-06-09 10:00:00,weekday,Hong Lim,178
+2023-06-09 11:00:00,weekday,Hong Lim,357
+2023-06-09 12:00:00,weekday,Hong Lim,220
+2023-06-09 13:00:00,weekday,Hong Lim,338
+2023-06-09 14:00:00,weekday,Hong Lim,316
+2023-06-10 10:00:00,weekend,ABC Brickworks,110
+2023-06-10 11:00:00,weekend,ABC Brickworks,176
+2023-06-10 12:00:00,weekend,ABC Brickworks,128
+2023-06-10 13:00:00,weekend,ABC Brickworks,185
+2023-06-10 14:00:00,weekend,ABC Brickworks,177
+2023-06-10 10:00:00,weekend,Maxwell,208
+2023-06-10 11:00:00,weekend,Maxwell,250
+2023-06-10 12:00:00,weekend,Maxwell,187
+2023-06-10 13:00:00,weekend,Maxwell,249
+2023-06-10 14:00:00,weekend,Maxwell,199
+2023-06-10 10:00:00,weekend,Hong Lim,227
+2023-06-10 11:00:00,weekend,Hong Lim,265
+2023-06-10 12:00:00,weekend,Hong Lim,196
+2023-06-10 13:00:00,weekend,Hong Lim,264
+2023-06-10 14:00:00,weekend,Hong Lim,207
+2023-06-11 10:00:00,weekend,ABC Brickworks,82
+2023-06-11 11:00:00,weekend,ABC Brickworks,114
+2023-06-11 12:00:00,weekend,ABC Brickworks,139
+2023-06-11 13:00:00,weekend,ABC Brickworks,99
+2023-06-11 14:00:00,weekend,ABC Brickworks,136
+2023-06-11 10:00:00,weekend,Hong Lim,217
+2023-06-11 11:00:00,weekend,Hong Lim,224
+2023-06-11 12:00:00,weekend,Hong Lim,198
+2023-06-11 13:00:00,weekend,Hong Lim,148
+2023-06-11 14:00:00,weekend,Hong Lim,243
+2023-06-11 10:00:00,weekend,Maxwell,187
+2023-06-11 11:00:00,weekend,Maxwell,201
+2023-06-11 12:00:00,weekend,Maxwell,191
+2023-06-11 13:00:00,weekend,Maxwell,134
+2023-06-11 14:00:00,weekend,Maxwell,215
+2023-06-12 10:00:00,weekday,Hong Lim,524
+2023-06-12 11:00:00,weekday,Hong Lim,406
+2023-06-12 12:00:00,weekday,Hong Lim,336
+2023-06-12 13:00:00,weekday,Hong Lim,416
+2023-06-12 14:00:00,weekday,Hong Lim,314
+2023-06-12 10:00:00,weekday,Maxwell,490
+2023-06-12 11:00:00,weekday,Maxwell,361
+2023-06-12 12:00:00,weekday,Maxwell,303
+2023-06-12 13:00:00,weekday,Maxwell,363
+2023-06-12 14:00:00,weekday,Maxwell,287
+2023-06-12 10:00:00,weekday,ABC Brickworks,351
+2023-06-12 11:00:00,weekday,ABC Brickworks,221
+2023-06-12 12:00:00,weekday,ABC Brickworks,219
+2023-06-12 13:00:00,weekday,ABC Brickworks,199
+2023-06-12 14:00:00,weekday,ABC Brickworks,200
+2023-06-13 10:00:00,weekday,ABC Brickworks,370
+2023-06-13 11:00:00,weekday,ABC Brickworks,314
+2023-06-13 12:00:00,weekday,ABC Brickworks,258
+2023-06-13 13:00:00,weekday,ABC Brickworks,275
+2023-06-13 14:00:00,weekday,ABC Brickworks,235
+2023-06-13 10:00:00,weekday,Maxwell,586
+2023-06-13 11:00:00,weekday,Maxwell,503
+2023-06-13 12:00:00,weekday,Maxwell,412
+2023-06-13 13:00:00,weekday,Maxwell,429
+2023-06-13 14:00:00,weekday,Maxwell,309
+2023-06-13 10:00:00,weekday,Hong Lim,646
+2023-06-13 11:00:00,weekday,Hong Lim,595
+2023-06-13 12:00:00,weekday,Hong Lim,459
+2023-06-13 13:00:00,weekday,Hong Lim,478
+2023-06-13 14:00:00,weekday,Hong Lim,335
+2023-06-14 10:00:00,weekday,ABC Brickworks,287
+2023-06-14 11:00:00,weekday,ABC Brickworks,335
+2023-06-14 12:00:00,weekday,ABC Brickworks,288
+2023-06-14 13:00:00,weekday,ABC Brickworks,276
+2023-06-14 14:00:00,weekday,ABC Brickworks,161
+2023-06-14 10:00:00,weekday,Maxwell,522
+2023-06-14 11:00:00,weekday,Maxwell,459
+2023-06-14 12:00:00,weekday,Maxwell,376
+2023-06-14 13:00:00,weekday,Maxwell,450
+2023-06-14 14:00:00,weekday,Maxwell,263
+2023-06-14 10:00:00,weekday,Hong Lim,562
+2023-06-14 11:00:00,weekday,Hong Lim,504
+2023-06-14 12:00:00,weekday,Hong Lim,410
+2023-06-14 13:00:00,weekday,Hong Lim,486
+2023-06-14 14:00:00,weekday,Hong Lim,307
+2023-06-15 10:00:00,weekday,Hong Lim,535
+2023-06-15 11:00:00,weekday,Hong Lim,549
+2023-06-15 12:00:00,weekday,Hong Lim,400
+2023-06-15 13:00:00,weekday,Hong Lim,531
+2023-06-15 14:00:00,weekday,Hong Lim,326
+2023-06-15 10:00:00,weekday,Maxwell,487
+2023-06-15 11:00:00,weekday,Maxwell,503
+2023-06-15 12:00:00,weekday,Maxwell,356
+2023-06-15 13:00:00,weekday,Maxwell,489
+2023-06-15 14:00:00,weekday,Maxwell,301
+2023-06-15 10:00:00,weekday,ABC Brickworks,306
+2023-06-15 11:00:00,weekday,ABC Brickworks,341
+2023-06-15 12:00:00,weekday,ABC Brickworks,249
+2023-06-15 13:00:00,weekday,ABC Brickworks,292
+2023-06-15 14:00:00,weekday,ABC Brickworks,209
+2023-06-16 10:00:00,weekday,ABC Brickworks,99
+2023-06-16 11:00:00,weekday,ABC Brickworks,158
+2023-06-16 12:00:00,weekday,ABC Brickworks,70
+2023-06-16 13:00:00,weekday,ABC Brickworks,169
+2023-06-16 14:00:00,weekday,ABC Brickworks,188
+2023-06-16 10:00:00,weekday,Maxwell,160
+2023-06-16 11:00:00,weekday,Maxwell,411
+2023-06-16 12:00:00,weekday,Maxwell,118
+2023-06-16 13:00:00,weekday,Maxwell,325
+2023-06-16 14:00:00,weekday,Maxwell,288
+2023-06-16 10:00:00,weekday,Hong Lim,177
+2023-06-16 11:00:00,weekday,Hong Lim,442
+2023-06-16 12:00:00,weekday,Hong Lim,130
+2023-06-16 13:00:00,weekday,Hong Lim,363
+2023-06-16 14:00:00,weekday,Hong Lim,313
+2023-06-17 10:00:00,weekend,ABC Brickworks,108
+2023-06-17 11:00:00,weekend,ABC Brickworks,126
+2023-06-17 12:00:00,weekend,ABC Brickworks,152
+2023-06-17 13:00:00,weekend,ABC Brickworks,150
+2023-06-17 14:00:00,weekend,ABC Brickworks,160
+2023-06-17 10:00:00,weekend,Maxwell,180
+2023-06-17 11:00:00,weekend,Maxwell,233
+2023-06-17 12:00:00,weekend,Maxwell,250
+2023-06-17 13:00:00,weekend,Maxwell,219
+2023-06-17 14:00:00,weekend,Maxwell,211
+2023-06-17 10:00:00,weekend,Hong Lim,201
+2023-06-17 11:00:00,weekend,Hong Lim,265
+2023-06-17 12:00:00,weekend,Hong Lim,266
+2023-06-17 13:00:00,weekend,Hong Lim,232
+2023-06-17 14:00:00,weekend,Hong Lim,225
+2023-06-18 10:00:00,weekend,ABC Brickworks,73
+2023-06-18 11:00:00,weekend,ABC Brickworks,98
+2023-06-18 12:00:00,weekend,ABC Brickworks,75
+2023-06-18 13:00:00,weekend,ABC Brickworks,113
+2023-06-18 14:00:00,weekend,ABC Brickworks,168
+2023-06-18 10:00:00,weekend,Maxwell,120
+2023-06-18 11:00:00,weekend,Maxwell,172
+2023-06-18 12:00:00,weekend,Maxwell,177
+2023-06-18 13:00:00,weekend,Maxwell,181
+2023-06-18 14:00:00,weekend,Maxwell,188
+2023-06-18 10:00:00,weekend,Hong Lim,132
+2023-06-18 11:00:00,weekend,Hong Lim,180
+2023-06-18 12:00:00,weekend,Hong Lim,191
+2023-06-18 13:00:00,weekend,Hong Lim,197
+2023-06-18 14:00:00,weekend,Hong Lim,205
+2023-06-19 10:00:00,weekday,ABC Brickworks,294
+2023-06-19 11:00:00,weekday,ABC Brickworks,332
+2023-06-19 12:00:00,weekday,ABC Brickworks,246
+2023-06-19 13:00:00,weekday,ABC Brickworks,214
+2023-06-19 14:00:00,weekday,ABC Brickworks,171
+2023-06-19 10:00:00,weekday,Maxwell,496
+2023-06-19 11:00:00,weekday,Maxwell,491
+2023-06-19 12:00:00,weekday,Maxwell,356
+2023-06-19 13:00:00,weekday,Maxwell,329
+2023-06-19 14:00:00,weekday,Maxwell,242
+2023-06-19 10:00:00,weekday,Hong Lim,537
+2023-06-19 11:00:00,weekday,Hong Lim,531
+2023-06-19 12:00:00,weekday,Hong Lim,381
+2023-06-19 13:00:00,weekday,Hong Lim,362
+2023-06-19 14:00:00,weekday,Hong Lim,277
+2023-06-20 10:00:00,weekday,ABC Brickworks,339
+2023-06-20 11:00:00,weekday,ABC Brickworks,313
+2023-06-20 12:00:00,weekday,ABC Brickworks,133
+2023-06-20 13:00:00,weekday,ABC Brickworks,247
+2023-06-20 14:00:00,weekday,ABC Brickworks,87
+2023-06-20 10:00:00,weekday,Maxwell,606
+2023-06-20 11:00:00,weekday,Maxwell,430
+2023-06-20 12:00:00,weekday,Maxwell,184
+2023-06-20 13:00:00,weekday,Maxwell,466
+2023-06-20 14:00:00,weekday,Maxwell,112
+2023-06-20 10:00:00,weekday,Hong Lim,636
+2023-06-20 11:00:00,weekday,Hong Lim,470
+2023-06-20 12:00:00,weekday,Hong Lim,203
+2023-06-20 13:00:00,weekday,Hong Lim,503
+2023-06-20 14:00:00,weekday,Hong Lim,126
+2023-06-21 10:00:00,weekday,Maxwell,528
+2023-06-21 11:00:00,weekday,Maxwell,512
+2023-06-21 12:00:00,weekday,Maxwell,382
+2023-06-21 13:00:00,weekday,Maxwell,418
+2023-06-21 14:00:00,weekday,Maxwell,266
+2023-06-21 10:00:00,weekday,Hong Lim,561
+2023-06-21 11:00:00,weekday,Hong Lim,553
+2023-06-21 12:00:00,weekday,Hong Lim,418
+2023-06-21 13:00:00,weekday,Hong Lim,450
+2023-06-21 14:00:00,weekday,Hong Lim,294
+2023-06-21 10:00:00,weekday,ABC Brickworks,289
+2023-06-21 11:00:00,weekday,ABC Brickworks,316
+2023-06-21 12:00:00,weekday,ABC Brickworks,253
+2023-06-21 13:00:00,weekday,ABC Brickworks,262
+2023-06-21 14:00:00,weekday,ABC Brickworks,197
+2023-06-22 10:00:00,weekday,Maxwell,487
+2023-06-22 11:00:00,weekday,Maxwell,462
+2023-06-22 12:00:00,weekday,Maxwell,390
+2023-06-22 13:00:00,weekday,Maxwell,430
+2023-06-22 14:00:00,weekday,Maxwell,237
+2023-06-22 10:00:00,weekday,Hong Lim,506
+2023-06-22 11:00:00,weekday,Hong Lim,483
+2023-06-22 12:00:00,weekday,Hong Lim,416
+2023-06-22 13:00:00,weekday,Hong Lim,448
+2023-06-22 14:00:00,weekday,Hong Lim,262
+2023-06-22 10:00:00,weekday,ABC Brickworks,290
+2023-06-22 11:00:00,weekday,ABC Brickworks,280
+2023-06-22 12:00:00,weekday,ABC Brickworks,241
+2023-06-22 13:00:00,weekday,ABC Brickworks,211
+2023-06-22 14:00:00,weekday,ABC Brickworks,181
+2023-06-23 10:00:00,weekday,Maxwell,492
+2023-06-23 11:00:00,weekday,Maxwell,408
+2023-06-23 12:00:00,weekday,Maxwell,374
+2023-06-23 13:00:00,weekday,Maxwell,285
+2023-06-23 14:00:00,weekday,Maxwell,302
+2023-06-23 10:00:00,weekday,Hong Lim,541
+2023-06-23 11:00:00,weekday,Hong Lim,430
+2023-06-23 12:00:00,weekday,Hong Lim,416
+2023-06-23 13:00:00,weekday,Hong Lim,303
+2023-06-23 14:00:00,weekday,Hong Lim,323
+2023-06-23 10:00:00,weekday,ABC Brickworks,358
+2023-06-23 11:00:00,weekday,ABC Brickworks,288
+2023-06-23 12:00:00,weekday,ABC Brickworks,240
+2023-06-23 13:00:00,weekday,ABC Brickworks,196
+2023-06-23 14:00:00,weekday,ABC Brickworks,176
+2023-06-24 10:00:00,weekend,ABC Brickworks,99
+2023-06-24 11:00:00,weekend,ABC Brickworks,54
+2023-06-24 12:00:00,weekend,ABC Brickworks,58
+2023-06-24 13:00:00,weekend,ABC Brickworks,60
+2023-06-24 14:00:00,weekend,ABC Brickworks,127
+2023-06-24 10:00:00,weekend,Maxwell,148
+2023-06-24 11:00:00,weekend,Maxwell,78
+2023-06-24 12:00:00,weekend,Maxwell,85
+2023-06-24 13:00:00,weekend,Maxwell,95
+2023-06-24 14:00:00,weekend,Maxwell,172
+2023-06-24 10:00:00,weekend,Hong Lim,176
+2023-06-24 11:00:00,weekend,Hong Lim,85
+2023-06-24 12:00:00,weekend,Hong Lim,96
+2023-06-24 13:00:00,weekend,Hong Lim,104
+2023-06-24 14:00:00,weekend,Hong Lim,191
+2023-06-25 10:00:00,weekend,Maxwell,105
+2023-06-25 11:00:00,weekend,Maxwell,112
+2023-06-25 12:00:00,weekend,Maxwell,126
+2023-06-25 13:00:00,weekend,Maxwell,174
+2023-06-25 14:00:00,weekend,Maxwell,205
+2023-06-25 10:00:00,weekend,Hong Lim,123
+2023-06-25 11:00:00,weekend,Hong Lim,129
+2023-06-25 12:00:00,weekend,Hong Lim,152
+2023-06-25 13:00:00,weekend,Hong Lim,200
+2023-06-25 14:00:00,weekend,Hong Lim,227
+2023-06-25 10:00:00,weekend,ABC Brickworks,63
+2023-06-25 11:00:00,weekend,ABC Brickworks,74
+2023-06-25 12:00:00,weekend,ABC Brickworks,82
+2023-06-25 13:00:00,weekend,ABC Brickworks,98
+2023-06-25 14:00:00,weekend,ABC Brickworks,126
+2023-06-26 10:00:00,weekday,Maxwell,156
+2023-06-26 11:00:00,weekday,Maxwell,162
+2023-06-26 12:00:00,weekday,Maxwell,134
+2023-06-26 13:00:00,weekday,Maxwell,367
+2023-06-26 14:00:00,weekday,Maxwell,238
+2023-06-26 10:00:00,weekday,Hong Lim,178
+2023-06-26 11:00:00,weekday,Hong Lim,190
+2023-06-26 12:00:00,weekday,Hong Lim,152
+2023-06-26 13:00:00,weekday,Hong Lim,396
+2023-06-26 14:00:00,weekday,Hong Lim,254
+2023-06-26 10:00:00,weekday,ABC Brickworks,84
+2023-06-26 11:00:00,weekday,ABC Brickworks,103
+2023-06-26 12:00:00,weekday,ABC Brickworks,91
+2023-06-26 13:00:00,weekday,ABC Brickworks,223
+2023-06-26 14:00:00,weekday,ABC Brickworks,172
+2023-06-27 10:00:00,weekday,Maxwell,359
+2023-06-27 11:00:00,weekday,Maxwell,295
+2023-06-27 12:00:00,weekday,Maxwell,312
+2023-06-27 13:00:00,weekday,Maxwell,355
+2023-06-27 14:00:00,weekday,Maxwell,243
+2023-06-26 10:00:00,weekday,Hong Lim,376
+2023-06-26 11:00:00,weekday,Hong Lim,328
+2023-06-26 12:00:00,weekday,Hong Lim,338
+2023-06-26 13:00:00,weekday,Hong Lim,382
+2023-06-26 14:00:00,weekday,Hong Lim,274
+2023-06-26 10:00:00,weekday,ABC Brickworks,197
+2023-06-26 11:00:00,weekday,ABC Brickworks,223
+2023-06-26 12:00:00,weekday,ABC Brickworks,229
+2023-06-26 13:00:00,weekday,ABC Brickworks,226
+2023-06-26 14:00:00,weekday,ABC Brickworks,200
+2023-06-28 10:00:00,weekday,Maxwell,201
+2023-06-28 11:00:00,weekday,Maxwell,266
+2023-06-28 12:00:00,weekday,Maxwell,290
+2023-06-28 13:00:00,weekday,Maxwell,279
+2023-06-28 14:00:00,weekday,Maxwell,133
+2023-06-28 10:00:00,weekday,Hong Lim,226
+2023-06-28 11:00:00,weekday,Hong Lim,290
+2023-06-28 12:00:00,weekday,Hong Lim,321
+2023-06-28 13:00:00,weekday,Hong Lim,302
+2023-06-28 14:00:00,weekday,Hong Lim,141
+2023-06-28 10:00:00,weekday,ABC Brickworks,129
+2023-06-28 11:00:00,weekday,ABC Brickworks,187
+2023-06-28 12:00:00,weekday,ABC Brickworks,208
+2023-06-28 13:00:00,weekday,ABC Brickworks,151
+2023-06-28 14:00:00,weekday,ABC Brickworks,114
+2023-06-29 10:00:00,holiday,Maxwell,149
+2023-06-29 11:00:00,holiday,Maxwell,158
+2023-06-29 12:00:00,holiday,Maxwell,157
+2023-06-29 13:00:00,holiday,Maxwell,244
+2023-06-29 14:00:00,holiday,Maxwell,160
+2023-06-29 10:00:00,holiday,Hong Lim,162
+2023-06-29 11:00:00,holiday,Hong Lim,168
+2023-06-29 12:00:00,holiday,Hong Lim,159
+2023-06-29 13:00:00,holiday,Hong Lim,270
+2023-06-29 14:00:00,holiday,Hong Lim,172
+2023-06-29 10:00:00,holiday,ABC Brickworks,69
+2023-06-29 11:00:00,holiday,ABC Brickworks,93
+2023-06-29 12:00:00,holiday,ABC Brickworks,119
+2023-06-29 13:00:00,holiday,ABC Brickworks,149
+2023-06-29 14:00:00,holiday,ABC Brickworks,121
+2023-06-30 10:00:00,weekday,Maxwell,197
+2023-06-30 11:00:00,weekday,Maxwell,190
+2023-06-30 12:00:00,weekday,Maxwell,200
+2023-06-30 13:00:00,weekday,Maxwell,216
+2023-06-30 14:00:00,weekday,Maxwell,181
+2023-06-30 10:00:00,weekday,Hong Lim,217
+2023-06-30 11:00:00,weekday,Hong Lim,207
+2023-06-30 12:00:00,weekday,Hong Lim,220
+2023-06-30 13:00:00,weekday,Hong Lim,229
+2023-06-30 14:00:00,weekday,Hong Lim,199
+2023-06-30 10:00:00,weekday,ABC Brickworks,132
+2023-06-30 11:00:00,weekday,ABC Brickworks,145
+2023-06-30 12:00:00,weekday,ABC Brickworks,135
+2023-06-30 13:00:00,weekday,ABC Brickworks,127
+2023-06-30 14:00:00,weekday,ABC Brickworks,118

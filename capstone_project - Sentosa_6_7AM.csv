@@ -1,0 +1,44 @@
+index,date,time,cluster_size,address,day_type
+0,2023-05-28,06:02:00,1,Southern Islands,weekend
+1,2023-05-28,06:10:00,1,Palawan Beach,weekend
+2,2023-05-28,06:11:00,1,Palawan Beach,weekend
+3,2023-05-28,06:12:00,1,Capella Hotel,weekend
+4,2023-05-28,06:13:00,1,8 Sentosa Gateway,weekend
+5,2023-05-28,06:13:00,1,Capella Hotel,weekend
+6,2023-05-28,06:14:00,1,8 Sentosa Gateway,weekend
+7,2023-05-28,06:14:00,1,Capella Hotel,weekend
+8,2023-05-28,06:15:00,1,Resorts World Sentosa,weekend
+9,2023-05-28,06:15:00,1,Capella Hotel,weekend
+10,2023-05-28,06:16:00,1,Resorts World Sentosa,weekend
+11,2023-05-28,06:16:00,1,Capella Hotel,weekend
+12,2023-05-28,06:17:00,1,Capella Hotel,weekend
+13,2023-05-28,06:18:00,1,Southern Islands,weekend
+14,2023-05-28,06:33:00,1,Straits of Singapore,weekend
+15,2023-05-28,06:33:00,2,Southern Islands,weekend
+16,2023-05-28,06:33:00,1,Capella Hotel,weekend
+17,2023-05-28,06:33:00,1,Bukit Manis Rd,weekend
+18,2023-05-28,06:34:00,1,Straits of Singapore,weekend
+19,2023-05-28,06:34:00,2,Southern Islands,weekend
+20,2023-05-28,06:34:00,1,Capella Hotel,weekend
+21,2023-05-28,06:34:00,1,Artillery Ave,weekend
+22,2023-05-28,06:35:00,1,Straits of Singapore,weekend
+23,2023-05-28,06:35:00,1,Southern Islands,weekend
+24,2023-05-28,06:35:00,1,Gateway Ave,weekend
+25,2023-05-28,06:36:00,1,Southern Islands,weekend
+26,2023-05-28,06:36:00,1,Gateway Ave,weekend
+27,2023-05-28,06:37:00,1,Straits of Singapore,weekend
+28,2023-05-28,06:37:00,1,8 Sentosa Gateway,weekend
+29,2023-05-28,06:37:00,2,Southern Islands,weekend
+30,2023-05-28,06:38:00,1,Straits of Singapore,weekend
+31,2023-05-28,06:38:00,1,Southern Islands,weekend
+32,2023-05-28,06:38:00,1,"8 Sentosa Gateway, 098269",weekend
+33,2023-05-28,06:39:00,1,"8 Sentosa Gateway, 098269",weekend
+34,2023-05-28,06:39:00,1,Sentosa Gateway,weekend
+35,2023-05-28,06:40:00,1,Sentosa Gateway,weekend
+36,2023-05-28,06:48:00,1,Sentosa Gateway,weekend
+37,2023-05-28,06:49:00,1,Straits of Singapore,weekend
+38,2023-05-28,06:50:00,1,Southern Islands,weekend
+39,2023-05-28,06:51:00,1,Southern Islands,weekend
+40,2023-05-28,06:58:00,1,Straits of Singapore,weekend
+41,2023-05-28,06:59:00,1,Southern Islands,weekend
+42,2023-05-28,07:00:00,1,Southern Islands,weekend
