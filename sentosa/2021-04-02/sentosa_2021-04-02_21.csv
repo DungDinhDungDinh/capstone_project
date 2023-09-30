@@ -1,0 +1,655 @@
+date,time,cluster_size,address,day_type
+2021-04-02,21:00:00,1,Siloso Road,holiday
+2021-04-02,21:00:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:00:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:00:00,1,Serapong Course,holiday
+2021-04-02,21:00:00,2,Ironside Link,holiday
+2021-04-02,21:00:00,1,Serapong Course,holiday
+2021-04-02,21:00:00,2,Serapong Course,holiday
+2021-04-02,21:00:00,1,Ironside Link,holiday
+2021-04-02,21:00:00,2,Bukit Manis Road,holiday
+2021-04-02,21:00:00,2,Allanbrooke Road,holiday
+2021-04-02,21:00:00,1,Bukit Manis Road,holiday
+2021-04-02,21:00:00,1,Coral Island,holiday
+2021-04-02,21:01:00,1,Siloso Road,holiday
+2021-04-02,21:01:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:01:00,1,Gateway Avenue,holiday
+2021-04-02,21:01:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:01:00,2,Ironside Link,holiday
+2021-04-02,21:01:00,2,Serapong Course,holiday
+2021-04-02,21:01:00,1,Ironside Link,holiday
+2021-04-02,21:01:00,2,Bukit Manis Road,holiday
+2021-04-02,21:01:00,1,Allanbrooke Road,holiday
+2021-04-02,21:01:00,1,Bukit Manis Road,holiday
+2021-04-02,21:01:00,1,Allanbrooke Road,holiday
+2021-04-02,21:01:00,1,Coral Island,holiday
+2021-04-02,21:02:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:02:00,1,Sentosa Gateway,holiday
+2021-04-02,21:02:00,1,Gateway Avenue,holiday
+2021-04-02,21:02:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:02:00,2,Ironside Link,holiday
+2021-04-02,21:02:00,2,Serapong Course,holiday
+2021-04-02,21:02:00,1,Serapong Course,holiday
+2021-04-02,21:02:00,1,Allanbrooke Road,holiday
+2021-04-02,21:02:00,1,Bukit Manis Road,holiday
+2021-04-02,21:02:00,1,Allanbrooke Road,holiday
+2021-04-02,21:02:00,1,Bukit Manis Road,holiday
+2021-04-02,21:02:00,1,Sentosa Cove,holiday
+2021-04-02,21:02:00,1,Ocean Way,holiday
+2021-04-02,21:02:00,1,Ocean Drive,holiday
+2021-04-02,21:02:00,1,Sentosa Gateway,holiday
+2021-04-02,21:03:00,1,Sentosa Gateway,holiday
+2021-04-02,21:03:00,1,Gateway Avenue,holiday
+2021-04-02,21:03:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:03:00,1,Gateway Avenue,holiday
+2021-04-02,21:03:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:03:00,2,Ironside Link,holiday
+2021-04-02,21:03:00,2,Serapong Course,holiday
+2021-04-02,21:03:00,3,Serapong Course,holiday
+2021-04-02,21:03:00,1,Allanbrooke Road,holiday
+2021-04-02,21:03:00,1,Allanbrooke Road,holiday
+2021-04-02,21:03:00,1,Bukit Manis Road,holiday
+2021-04-02,21:03:00,1,Bukit Manis Road,holiday
+2021-04-02,21:03:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:03:00,1,Ocean Way,holiday
+2021-04-02,21:03:00,1,Ocean Drive,holiday
+2021-04-02,21:04:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:04:00,1,Sentosa Gateway,holiday
+2021-04-02,21:04:00,1,Gateway Avenue,holiday
+2021-04-02,21:04:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:04:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:04:00,2,Ironside Link,holiday
+2021-04-02,21:04:00,1,Serapong Course,holiday
+2021-04-02,21:04:00,3,Serapong Course,holiday
+2021-04-02,21:04:00,1,Allanbrooke Road,holiday
+2021-04-02,21:04:00,2,Allanbrooke Road,holiday
+2021-04-02,21:04:00,1,Bukit Manis Road,holiday
+2021-04-02,21:04:00,1,Bukit Manis Road,holiday
+2021-04-02,21:04:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:04:00,1,Ocean Way,holiday
+2021-04-02,21:04:00,1,Ocean Drive,holiday
+2021-04-02,21:05:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:05:00,1,Gateway Avenue,holiday
+2021-04-02,21:05:00,1,Universal Studios Singapore,holiday
+2021-04-02,21:05:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:05:00,2,Ironside Link,holiday
+2021-04-02,21:05:00,4,Serapong Course,holiday
+2021-04-02,21:05:00,1,Ironside Link,holiday
+2021-04-02,21:05:00,1,Bukit Manis Road,holiday
+2021-04-02,21:05:00,1,Allanbrooke Road,holiday
+2021-04-02,21:05:00,1,Sentosa Golf Club,holiday
+2021-04-02,21:05:00,1,Cove Avenue,holiday
+2021-04-02,21:05:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:05:00,1,ONE ̊15 Marina,holiday
+2021-04-02,21:05:00,1,Ocean Way,holiday
+2021-04-02,21:05:00,1,Sentosa Gateway,holiday
+2021-04-02,21:06:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:06:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:06:00,1,Sentosa Gateway,holiday
+2021-04-02,21:06:00,1,Universal Studios Singapore,holiday
+2021-04-02,21:06:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:06:00,7,Serapong Course,holiday
+2021-04-02,21:06:00,2,Ironside Link,holiday
+2021-04-02,21:06:00,1,Ironside Link,holiday
+2021-04-02,21:06:00,1,Bukit Manis Road,holiday
+2021-04-02,21:06:00,1,Allanbrooke Road,holiday
+2021-04-02,21:06:00,1,Allanbrooke Road,holiday
+2021-04-02,21:06:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:06:00,1,Cove Way,holiday
+2021-04-02,21:06:00,1,Ocean Way,holiday
+2021-04-02,21:07:00,1,Sentosa Gateway,holiday
+2021-04-02,21:07:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:07:00,1,Sentosa Gateway,holiday
+2021-04-02,21:07:00,1,Gateway Avenue,holiday
+2021-04-02,21:07:00,1,Gateway Avenue,holiday
+2021-04-02,21:07:00,1,Universal Studios Singapore,holiday
+2021-04-02,21:07:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:07:00,1,Gateway Avenue,holiday
+2021-04-02,21:07:00,2,Ironside Link,holiday
+2021-04-02,21:07:00,1,Gateway Avenue,holiday
+2021-04-02,21:07:00,2,Serapong Course,holiday
+2021-04-02,21:07:00,1,Ironside Link,holiday
+2021-04-02,21:07:00,1,Southern Islands,holiday
+2021-04-02,21:07:00,1,Bukit Manis Road,holiday
+2021-04-02,21:07:00,1,Allanbrooke Road,holiday
+2021-04-02,21:07:00,1,Allanbrooke Road,holiday
+2021-04-02,21:07:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:07:00,1,Cove Way,holiday
+2021-04-02,21:08:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:08:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:08:00,1,Sentosa Gateway,holiday
+2021-04-02,21:08:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:08:00,1,Universal Studios Singapore,holiday
+2021-04-02,21:08:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:08:00,6,Gateway Avenue,holiday
+2021-04-02,21:08:00,2,Ironside Link,holiday
+2021-04-02,21:08:00,1,Serapong Course,holiday
+2021-04-02,21:08:00,1,Ironside Link,holiday
+2021-04-02,21:08:00,1,Bukit Manis Road,holiday
+2021-04-02,21:08:00,1,Allanbrooke Road,holiday
+2021-04-02,21:08:00,1,Allanbrooke Road,holiday
+2021-04-02,21:08:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:08:00,1,Sentosa Gateway,holiday
+2021-04-02,21:09:00,1,Gateway Avenue,holiday
+2021-04-02,21:09:00,1,Artillery Avenue,holiday
+2021-04-02,21:09:00,8,Serapong Course,holiday
+2021-04-02,21:09:00,1,Gateway Avenue,holiday
+2021-04-02,21:09:00,1,Universal Studios Singapore,holiday
+2021-04-02,21:09:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:09:00,2,Ironside Link,holiday
+2021-04-02,21:09:00,1,Serapong Course,holiday
+2021-04-02,21:09:00,1,Ironside Link,holiday
+2021-04-02,21:09:00,1,Bukit Manis Road,holiday
+2021-04-02,21:09:00,1,Allanbrooke Road,holiday
+2021-04-02,21:09:00,1,Cove Drive,holiday
+2021-04-02,21:09:00,1,Sentosa Gateway,holiday
+2021-04-02,21:10:00,1,Artillery Avenue,holiday
+2021-04-02,21:10:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:10:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:10:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:10:00,1,Sentosa Gateway,holiday
+2021-04-02,21:10:00,1,Sentosa Gateway,holiday
+2021-04-02,21:10:00,1,Gateway Avenue,holiday
+2021-04-02,21:10:00,1,Gateway Avenue,holiday
+2021-04-02,21:10:00,1,Universal Studios Singapore,holiday
+2021-04-02,21:10:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:10:00,6,Serapong Course,holiday
+2021-04-02,21:10:00,2,Ironside Link,holiday
+2021-04-02,21:10:00,1,Serapong Course,holiday
+2021-04-02,21:10:00,1,Ironside Link,holiday
+2021-04-02,21:10:00,1,Bukit Manis Road,holiday
+2021-04-02,21:10:00,1,Allanbrooke Road,holiday
+2021-04-02,21:10:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:10:00,1,Sentosa Gateway,holiday
+2021-04-02,21:11:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:11:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:11:00,1,Sentosa Gateway,holiday
+2021-04-02,21:11:00,1,Gateway Avenue,holiday
+2021-04-02,21:11:00,1,Gateway Avenue,holiday
+2021-04-02,21:11:00,2,Gateway Avenue,holiday
+2021-04-02,21:11:00,9,Serapong Course,holiday
+2021-04-02,21:11:00,3,Ironside Link,holiday
+2021-04-02,21:11:00,1,Serapong Course,holiday
+2021-04-02,21:11:00,1,Ironside Link,holiday
+2021-04-02,21:11:00,1,Allanbrooke Road,holiday
+2021-04-02,21:11:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:11:00,1,Sentosa Gateway,holiday
+2021-04-02,21:11:00,1,Sentosa Gateway,holiday
+2021-04-02,21:12:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:12:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:12:00,1,Sentosa Gateway,holiday
+2021-04-02,21:12:00,1,Gateway Avenue,holiday
+2021-04-02,21:12:00,1,Gateway Avenue,holiday
+2021-04-02,21:12:00,10,Serapong Course,holiday
+2021-04-02,21:12:00,5,Ironside Link,holiday
+2021-04-02,21:12:00,1,Allanbrooke Road,holiday
+2021-04-02,21:12:00,1,Cove Avenue,holiday
+2021-04-02,21:13:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:13:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:13:00,1,Sentosa Gateway,holiday
+2021-04-02,21:13:00,1,Gateway Avenue,holiday
+2021-04-02,21:13:00,1,Gateway Avenue,holiday
+2021-04-02,21:13:00,5,Serapong Course,holiday
+2021-04-02,21:13:00,5,Ironside Link,holiday
+2021-04-02,21:13:00,1,Gateway Avenue,holiday
+2021-04-02,21:13:00,1,Allanbrooke Road,holiday
+2021-04-02,21:13:00,1,Cove Avenue,holiday
+2021-04-02,21:13:00,1,Sentosa Gateway,holiday
+2021-04-02,21:14:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:14:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:14:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:14:00,1,Gateway Avenue,holiday
+2021-04-02,21:14:00,1,Gateway Avenue,holiday
+2021-04-02,21:14:00,1,Gateway Avenue,holiday
+2021-04-02,21:14:00,8,Serapong Course,holiday
+2021-04-02,21:14:00,5,Ironside Link,holiday
+2021-04-02,21:14:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:14:00,1,Allanbrooke Road,holiday
+2021-04-02,21:14:00,1,Allanbrooke Road,holiday
+2021-04-02,21:14:00,2,Sentosa Gateway,holiday
+2021-04-02,21:14:00,1,Sentosa Gateway,holiday
+2021-04-02,21:15:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:15:00,1,Sentosa Gateway,holiday
+2021-04-02,21:15:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:15:00,1,Gateway Avenue,holiday
+2021-04-02,21:15:00,1,Gateway Avenue,holiday
+2021-04-02,21:15:00,1,Gateway Avenue,holiday
+2021-04-02,21:15:00,6,Serapong Course,holiday
+2021-04-02,21:15:00,4,Ironside Link,holiday
+2021-04-02,21:15:00,1,Serapong Course,holiday
+2021-04-02,21:15:00,1,Artillery Avenue,holiday
+2021-04-02,21:15:00,1,Allanbrooke Road,holiday
+2021-04-02,21:15:00,1,Allanbrooke Road,holiday
+2021-04-02,21:15:00,1,Sentosa Gateway,holiday
+2021-04-02,21:15:00,1,Sentosa Gateway,holiday
+2021-04-02,21:16:00,1,Sentosa Gateway,holiday
+2021-04-02,21:16:00,1,Artillery Avenue,holiday
+2021-04-02,21:16:00,2,Gateway Avenue,holiday
+2021-04-02,21:16:00,1,Gateway Avenue,holiday
+2021-04-02,21:16:00,4,Ironside Link,holiday
+2021-04-02,21:16:00,6,Serapong Course,holiday
+2021-04-02,21:16:00,1,Serapong Course,holiday
+2021-04-02,21:16:00,1,Serapong Course,holiday
+2021-04-02,21:16:00,1,Gateway Avenue,holiday
+2021-04-02,21:17:00,1,Artillery Avenue,holiday
+2021-04-02,21:17:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:17:00,1,Sentosa Gateway,holiday
+2021-04-02,21:17:00,2,Sentosa Gateway,holiday
+2021-04-02,21:17:00,1,Sentosa Gateway,holiday
+2021-04-02,21:17:00,1,Gateway Avenue,holiday
+2021-04-02,21:17:00,1,Gateway Avenue,holiday
+2021-04-02,21:17:00,1,Gateway Avenue,holiday
+2021-04-02,21:17:00,4,Ironside Link,holiday
+2021-04-02,21:17:00,7,Serapong Course,holiday
+2021-04-02,21:17:00,1,Serapong Course,holiday
+2021-04-02,21:17:00,1,Allanbrooke Road,holiday
+2021-04-02,21:17:00,1,Allanbrooke Road,holiday
+2021-04-02,21:17:00,1,Sentosa Gateway,holiday
+2021-04-02,21:17:00,1,Sentosa Gateway,holiday
+2021-04-02,21:17:00,1,Sentosa Gateway,holiday
+2021-04-02,21:18:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:18:00,1,Sentosa Gateway,holiday
+2021-04-02,21:18:00,1,Sentosa Gateway,holiday
+2021-04-02,21:18:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:18:00,1,Gateway Avenue,holiday
+2021-04-02,21:18:00,1,Gateway Avenue,holiday
+2021-04-02,21:18:00,8,Serapong Course,holiday
+2021-04-02,21:18:00,2,Ironside Link,holiday
+2021-04-02,21:18:00,2,Serapong Course,holiday
+2021-04-02,21:18:00,2,Allanbrooke Road,holiday
+2021-04-02,21:18:00,1,Sentosa Gateway,holiday
+2021-04-02,21:19:00,1,Beach View,holiday
+2021-04-02,21:19:00,1,Gateway Avenue,holiday
+2021-04-02,21:19:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:19:00,5,Ironside Link,holiday
+2021-04-02,21:19:00,2,Serapong Course,holiday
+2021-04-02,21:19:00,1,Sentosa Gateway,holiday
+2021-04-02,21:20:00,1,Beach View,holiday
+2021-04-02,21:20:00,1,Sentosa Gateway,holiday
+2021-04-02,21:20:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:20:00,1,Gateway Avenue,holiday
+2021-04-02,21:20:00,1,Gateway Avenue,holiday
+2021-04-02,21:20:00,1,Gateway Avenue,holiday
+2021-04-02,21:20:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:20:00,4,Ironside Link,holiday
+2021-04-02,21:20:00,6,Serapong Course,holiday
+2021-04-02,21:20:00,1,Serapong Course,holiday
+2021-04-02,21:20:00,1,Allanbrooke Road,holiday
+2021-04-02,21:20:00,1,Cove Way,holiday
+2021-04-02,21:21:00,1,Beach View,holiday
+2021-04-02,21:21:00,1,Sentosa Gateway,holiday
+2021-04-02,21:21:00,1,Gateway Avenue,holiday
+2021-04-02,21:21:00,1,Gateway Avenue,holiday
+2021-04-02,21:21:00,1,Gateway Avenue,holiday
+2021-04-02,21:21:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:21:00,4,Ironside Link,holiday
+2021-04-02,21:21:00,1,Serapong Course,holiday
+2021-04-02,21:21:00,3,Serapong Course,holiday
+2021-04-02,21:21:00,1,Gateway Avenue,holiday
+2021-04-02,21:21:00,1,Allanbrooke Road,holiday
+2021-04-02,21:21:00,1,Cove Drive,holiday
+2021-04-02,21:22:00,1,Sentosa Gateway,holiday
+2021-04-02,21:22:00,1,Gateway Avenue,holiday
+2021-04-02,21:22:00,1,Gateway Avenue,holiday
+2021-04-02,21:22:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:22:00,4,Ironside Link,holiday
+2021-04-02,21:22:00,1,Serapong Course,holiday
+2021-04-02,21:22:00,3,Serapong Course,holiday
+2021-04-02,21:22:00,1,Gateway Avenue,holiday
+2021-04-02,21:22:00,1,Allanbrooke Road,holiday
+2021-04-02,21:22:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:22:00,1,Ocean Drive,holiday
+2021-04-02,21:22:00,1,Sentosa Gateway,holiday
+2021-04-02,21:22:00,1,Sentosa Gateway,holiday
+2021-04-02,21:23:00,1,Gateway Avenue,holiday
+2021-04-02,21:23:00,2,Resorts World Sentosa,holiday
+2021-04-02,21:23:00,3,Ironside Link,holiday
+2021-04-02,21:23:00,4,Gateway Avenue,holiday
+2021-04-02,21:23:00,1,Gateway Avenue,holiday
+2021-04-02,21:23:00,1,Allanbrooke Road,holiday
+2021-04-02,21:23:00,1,Ocean Drive,holiday
+2021-04-02,21:24:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:24:00,1,Gateway Avenue,holiday
+2021-04-02,21:24:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:24:00,2,Ironside Link,holiday
+2021-04-02,21:24:00,3,Serapong Course,holiday
+2021-04-02,21:24:00,1,Artillery Avenue,holiday
+2021-04-02,21:24:00,1,Allanbrooke Road,holiday
+2021-04-02,21:24:00,1,Cove Way,holiday
+2021-04-02,21:24:00,1,Sentosa Gateway,holiday
+2021-04-02,21:25:00,1,Sentosa Gateway,holiday
+2021-04-02,21:25:00,1,Gateway Avenue,holiday
+2021-04-02,21:25:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:25:00,7,Gateway Avenue,holiday
+2021-04-02,21:25:00,2,Ironside Link,holiday
+2021-04-02,21:25:00,2,Serapong Course,holiday
+2021-04-02,21:25:00,1,Allanbrooke Road,holiday
+2021-04-02,21:25:00,1,Cove Way,holiday
+2021-04-02,21:26:00,1,Gunner Lane,holiday
+2021-04-02,21:26:00,1,Sentosa Gateway,holiday
+2021-04-02,21:26:00,1,Sentosa Gateway,holiday
+2021-04-02,21:26:00,1,Gateway Avenue,holiday
+2021-04-02,21:26:00,2,Ironside Link,holiday
+2021-04-02,21:26:00,4,Serapong Course,holiday
+2021-04-02,21:26:00,1,Ironside Link,holiday
+2021-04-02,21:26:00,2,Gateway Avenue,holiday
+2021-04-02,21:26:00,1,Allanbrooke Road,holiday
+2021-04-02,21:26:00,1,Cove Drive,holiday
+2021-04-02,21:27:00,1,Gunner Lane,holiday
+2021-04-02,21:27:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:27:00,1,Gateway Avenue,holiday
+2021-04-02,21:27:00,2,Ironside Link,holiday
+2021-04-02,21:27:00,3,Gateway Avenue,holiday
+2021-04-02,21:27:00,1,Gateway Avenue,holiday
+2021-04-02,21:27:00,1,Allanbrooke Road,holiday
+2021-04-02,21:27:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:28:00,1,Artillery Avenue,holiday
+2021-04-02,21:28:00,1,Sentosa Gateway,holiday
+2021-04-02,21:28:00,2,Gateway Avenue,holiday
+2021-04-02,21:28:00,2,Ironside Link,holiday
+2021-04-02,21:28:00,4,Serapong Course,holiday
+2021-04-02,21:28:00,1,Gateway Avenue,holiday
+2021-04-02,21:28:00,1,Allanbrooke Road,holiday
+2021-04-02,21:28:00,1,Cove Way,holiday
+2021-04-02,21:28:00,1,Ocean Way,holiday
+2021-04-02,21:28:00,1,Sentosa Cove,holiday
+2021-04-02,21:29:00,1,Artillery Avenue,holiday
+2021-04-02,21:29:00,1,Gateway Avenue,holiday
+2021-04-02,21:29:00,2,Ironside Link,holiday
+2021-04-02,21:29:00,5,Serapong Course,holiday
+2021-04-02,21:29:00,1,Gateway Avenue,holiday
+2021-04-02,21:29:00,1,Allanbrooke Road,holiday
+2021-04-02,21:29:00,1,Sentosa Cove Arrival Plaza,holiday
+2021-04-02,21:29:00,1,Cove Way,holiday
+2021-04-02,21:29:00,1,Ocean Way,holiday
+2021-04-02,21:30:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:30:00,1,Gateway Avenue,holiday
+2021-04-02,21:30:00,1,Ironside Link,holiday
+2021-04-02,21:30:00,3,Serapong Course,holiday
+2021-04-02,21:30:00,2,Gateway Avenue,holiday
+2021-04-02,21:30:00,1,Artillery Avenue,holiday
+2021-04-02,21:30:00,1,Allanbrooke Road,holiday
+2021-04-02,21:30:00,1,Allanbrooke Road,holiday
+2021-04-02,21:30:00,1,Cove Way,holiday
+2021-04-02,21:30:00,1,Ocean Way,holiday
+2021-04-02,21:31:00,1,Gateway Avenue,holiday
+2021-04-02,21:31:00,1,Ironside Link,holiday
+2021-04-02,21:31:00,4,Serapong Course,holiday
+2021-04-02,21:31:00,1,Serapong Course,holiday
+2021-04-02,21:31:00,2,Serapong Course,holiday
+2021-04-02,21:31:00,1,Allanbrooke Road,holiday
+2021-04-02,21:31:00,1,Allanbrooke Road,holiday
+2021-04-02,21:31:00,1,Cove Way,holiday
+2021-04-02,21:31:00,1,Ocean Way,holiday
+2021-04-02,21:31:00,1,Ocean Drive,holiday
+2021-04-02,21:32:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:32:00,1,Gateway Avenue,holiday
+2021-04-02,21:32:00,1,Ironside Link,holiday
+2021-04-02,21:32:00,2,Serapong Course,holiday
+2021-04-02,21:32:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:32:00,1,Serapong Course,holiday
+2021-04-02,21:32:00,1,Bukit Manis Road,holiday
+2021-04-02,21:32:00,1,Allanbrooke Road,holiday
+2021-04-02,21:32:00,1,Allanbrooke Road,holiday
+2021-04-02,21:32:00,1,Cove Drive,holiday
+2021-04-02,21:32:00,2,Sentosa Gateway,holiday
+2021-04-02,21:33:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:33:00,1,Gateway Avenue,holiday
+2021-04-02,21:33:00,1,Gateway Avenue,holiday
+2021-04-02,21:33:00,1,Ironside Link,holiday
+2021-04-02,21:33:00,2,Serapong Course,holiday
+2021-04-02,21:33:00,1,Gateway Avenue,holiday
+2021-04-02,21:33:00,1,Serapong Course,holiday
+2021-04-02,21:33:00,2,Serapong Course,holiday
+2021-04-02,21:33:00,1,Artillery Avenue,holiday
+2021-04-02,21:33:00,1,Allanbrooke Road,holiday
+2021-04-02,21:33:00,1,Allanbrooke Road,holiday
+2021-04-02,21:33:00,1,Sentosa Cove,holiday
+2021-04-02,21:33:00,1,Cove Drive,holiday
+2021-04-02,21:34:00,1,Sentosa Gateway,holiday
+2021-04-02,21:34:00,1,Sentosa Gateway,holiday
+2021-04-02,21:34:00,1,Gateway Avenue,holiday
+2021-04-02,21:34:00,1,Gateway Avenue,holiday
+2021-04-02,21:34:00,1,Ironside Link,holiday
+2021-04-02,21:34:00,1,Serapong Course,holiday
+2021-04-02,21:34:00,2,Serapong Course,holiday
+2021-04-02,21:34:00,1,Ironside Link,holiday
+2021-04-02,21:34:00,1,Bukit Manis Road,holiday
+2021-04-02,21:34:00,1,Allanbrooke Road,holiday
+2021-04-02,21:34:00,1,Cove Avenue,holiday
+2021-04-02,21:34:00,1,Sentosa Gateway,holiday
+2021-04-02,21:35:00,1,Sentosa Gateway,holiday
+2021-04-02,21:35:00,1,Sentosa Gateway,holiday
+2021-04-02,21:35:00,1,Gateway Avenue,holiday
+2021-04-02,21:35:00,4,Serapong Course,holiday
+2021-04-02,21:35:00,1,Ironside Link,holiday
+2021-04-02,21:35:00,1,Gateway Avenue,holiday
+2021-04-02,21:35:00,2,Serapong Course,holiday
+2021-04-02,21:35:00,1,Ironside Link,holiday
+2021-04-02,21:35:00,1,Bukit Manis Road,holiday
+2021-04-02,21:35:00,1,Allanbrooke Road,holiday
+2021-04-02,21:35:00,1,Allanbrooke Road,holiday
+2021-04-02,21:35:00,1,Cove Avenue,holiday
+2021-04-02,21:36:00,1,Artillery Avenue,holiday
+2021-04-02,21:36:00,1,Sentosa Gateway,holiday
+2021-04-02,21:36:00,1,Sentosa Gateway,holiday
+2021-04-02,21:36:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:36:00,2,Gateway Avenue,holiday
+2021-04-02,21:36:00,1,Ironside Link,holiday
+2021-04-02,21:36:00,2,Serapong Course,holiday
+2021-04-02,21:36:00,2,Ironside Link,holiday
+2021-04-02,21:36:00,1,Bukit Manis Road,holiday
+2021-04-02,21:36:00,1,Allanbrooke Road,holiday
+2021-04-02,21:36:00,1,Allanbrooke Road,holiday
+2021-04-02,21:36:00,1,Ocean Drive,holiday
+2021-04-02,21:36:00,1,Sentosa Gateway,holiday
+2021-04-02,21:37:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:37:00,1,Sentosa Gateway,holiday
+2021-04-02,21:37:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:37:00,1,Sentosa Gateway,holiday
+2021-04-02,21:37:00,2,Gateway Avenue,holiday
+2021-04-02,21:37:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:37:00,1,Ironside Link,holiday
+2021-04-02,21:37:00,4,Serapong Course,holiday
+2021-04-02,21:37:00,3,Ironside Link,holiday
+2021-04-02,21:37:00,1,Artillery Avenue,holiday
+2021-04-02,21:37:00,1,Bukit Manis Road,holiday
+2021-04-02,21:37:00,1,Allanbrooke Road,holiday
+2021-04-02,21:37:00,1,Princess Yachts South East Asia,holiday
+2021-04-02,21:38:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:38:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:38:00,1,Gateway Avenue,holiday
+2021-04-02,21:38:00,1,Ironside Link,holiday
+2021-04-02,21:38:00,2,Serapong Course,holiday
+2021-04-02,21:38:00,2,Ironside Link,holiday
+2021-04-02,21:38:00,2,Serapong Course,holiday
+2021-04-02,21:38:00,1,Gateway Avenue,holiday
+2021-04-02,21:38:00,1,Gateway Avenue,holiday
+2021-04-02,21:38:00,2,Allanbrooke Road,holiday
+2021-04-02,21:38:00,1,Sentosa Gateway,holiday
+2021-04-02,21:38:00,1,Sentosa Gateway,holiday
+2021-04-02,21:39:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:39:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:39:00,1,Gateway Avenue,holiday
+2021-04-02,21:39:00,1,Gateway Avenue,holiday
+2021-04-02,21:39:00,1,Gateway Avenue,holiday
+2021-04-02,21:39:00,2,Gateway Avenue,holiday
+2021-04-02,21:39:00,2,Ironside Link,holiday
+2021-04-02,21:39:00,2,Gateway Avenue,holiday
+2021-04-02,21:39:00,3,Ironside Link,holiday
+2021-04-02,21:39:00,1,Gateway Avenue,holiday
+2021-04-02,21:39:00,1,Bukit Manis Road,holiday
+2021-04-02,21:39:00,1,Allanbrooke Road,holiday
+2021-04-02,21:40:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:40:00,1,Gateway Avenue,holiday
+2021-04-02,21:40:00,4,Gateway Avenue,holiday
+2021-04-02,21:40:00,2,Ironside Link,holiday
+2021-04-02,21:40:00,3,Ironside Link,holiday
+2021-04-02,21:40:00,1,Gateway Avenue,holiday
+2021-04-02,21:40:00,1,Bukit Manis Road,holiday
+2021-04-02,21:40:00,1,Allanbrooke Road,holiday
+2021-04-02,21:40:00,1,Ocean Way,holiday
+2021-04-02,21:41:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:41:00,1,Sentosa Gateway,holiday
+2021-04-02,21:41:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:41:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:41:00,2,Ironside Link,holiday
+2021-04-02,21:41:00,6,Serapong Course,holiday
+2021-04-02,21:41:00,3,Ironside Link,holiday
+2021-04-02,21:41:00,1,Gateway Avenue,holiday
+2021-04-02,21:41:00,1,Bukit Manis Road,holiday
+2021-04-02,21:41:00,1,Allanbrooke Road,holiday
+2021-04-02,21:41:00,1,Sentosa Gateway,holiday
+2021-04-02,21:42:00,1,Resorts World Sentosa,holiday
+2021-04-02,21:42:00,1,Sentosa Gateway,holiday
+2021-04-02,21:42:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:42:00,1,Gateway Avenue,holiday
+2021-04-02,21:42:00,2,Ironside Link,holiday
+2021-04-02,21:42:00,5,Serapong Course,holiday
+2021-04-02,21:42:00,3,Ironside Link,holiday
+2021-04-02,21:42:00,1,Bukit Manis Road,holiday
+2021-04-02,21:42:00,1,Allanbrooke Road,holiday
+2021-04-02,21:42:00,1,Allanbrooke Road,holiday
+2021-04-02,21:42:00,1,Sentosa Gateway,holiday
+2021-04-02,21:42:00,1,Sentosa Gateway,holiday
+2021-04-02,21:43:00,1,Universal Studios Singapore,holiday
+2021-04-02,21:43:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:43:00,1,Sentosa Gateway,holiday
+2021-04-02,21:43:00,7,Serapong Course,holiday
+2021-04-02,21:43:00,2,Ironside Link,holiday
+2021-04-02,21:43:00,1,Ironside Link,holiday
+2021-04-02,21:43:00,1,Bukit Manis Road,holiday
+2021-04-02,21:43:00,1,Allanbrooke Road,holiday
+2021-04-02,21:43:00,1,Allanbrooke Road,holiday
+2021-04-02,21:44:00,1,Universal Studios Singapore,holiday
+2021-04-02,21:44:00,7,Serapong Course,holiday
+2021-04-02,21:44:00,2,Ironside Link,holiday
+2021-04-02,21:44:00,1,Ironside Link,holiday
+2021-04-02,21:44:00,1,Bukit Manis Road,holiday
+2021-04-02,21:44:00,2,Allanbrooke Road,holiday
+2021-04-02,21:44:00,1,Allanbrooke Road,holiday
+2021-04-02,21:44:00,1,Sentosa Gateway,holiday
+2021-04-02,21:45:00,1,Sentosa Gateway,holiday
+2021-04-02,21:45:00,6,Gateway Avenue,holiday
+2021-04-02,21:45:00,2,Ironside Link,holiday
+2021-04-02,21:45:00,3,Ironside Link,holiday
+2021-04-02,21:45:00,1,Artillery Avenue,holiday
+2021-04-02,21:45:00,1,Bukit Manis Road,holiday
+2021-04-02,21:45:00,1,Allanbrooke Road,holiday
+2021-04-02,21:45:00,1,Sentosa Gateway,holiday
+2021-04-02,21:46:00,1,Mess Hall,holiday
+2021-04-02,21:46:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:46:00,1,Gateway Avenue,holiday
+2021-04-02,21:46:00,3,Gateway Avenue,holiday
+2021-04-02,21:46:00,2,Ironside Link,holiday
+2021-04-02,21:46:00,1,Serapong Course,holiday
+2021-04-02,21:46:00,3,Ironside Link,holiday
+2021-04-02,21:46:00,1,Bukit Manis Road,holiday
+2021-04-02,21:46:00,1,Allanbrooke Road,holiday
+2021-04-02,21:47:00,1,Mess Hall,holiday
+2021-04-02,21:47:00,1,Sentosa Gateway,holiday
+2021-04-02,21:47:00,1,Gateway Avenue,holiday
+2021-04-02,21:47:00,4,Gateway Avenue,holiday
+2021-04-02,21:47:00,2,Ironside Link,holiday
+2021-04-02,21:47:00,1,Serapong Course,holiday
+2021-04-02,21:47:00,2,Ironside Link,holiday
+2021-04-02,21:47:00,1,Bukit Manis Road,holiday
+2021-04-02,21:47:00,1,Allanbrooke Road,holiday
+2021-04-02,21:48:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:48:00,2,Serapong Course,holiday
+2021-04-02,21:48:00,1,Ironside Link,holiday
+2021-04-02,21:48:00,1,Serapong Course,holiday
+2021-04-02,21:48:00,1,Ironside Link,holiday
+2021-04-02,21:48:00,1,Bukit Manis Road,holiday
+2021-04-02,21:48:00,1,Allanbrooke Road,holiday
+2021-04-02,21:48:00,1,Sentosa Gateway,holiday
+2021-04-02,21:49:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:49:00,1,Gateway Avenue,holiday
+2021-04-02,21:49:00,1,Ironside Link,holiday
+2021-04-02,21:49:00,1,Serapong Course,holiday
+2021-04-02,21:49:00,1,Ironside Link,holiday
+2021-04-02,21:49:00,2,Allanbrooke Road,holiday
+2021-04-02,21:50:00,1,Gateway Avenue,holiday
+2021-04-02,21:50:00,1,Gateway Avenue,holiday
+2021-04-02,21:50:00,2,Gateway Avenue,holiday
+2021-04-02,21:50:00,1,Ironside Link,holiday
+2021-04-02,21:50:00,1,Serapong Course,holiday
+2021-04-02,21:50:00,1,Ironside Link,holiday
+2021-04-02,21:50:00,1,Bukit Manis Road,holiday
+2021-04-02,21:50:00,1,Allanbrooke Road,holiday
+2021-04-02,21:50:00,1,Sentosa Gateway,holiday
+2021-04-02,21:51:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:51:00,1,Gateway Avenue,holiday
+2021-04-02,21:51:00,3,Serapong Course,holiday
+2021-04-02,21:51:00,2,Gateway Avenue,holiday
+2021-04-02,21:51:00,1,Ironside Link,holiday
+2021-04-02,21:51:00,1,Ironside Link,holiday
+2021-04-02,21:51:00,1,Sofitel Sentosa Resort & Spa,holiday
+2021-04-02,21:51:00,1,Bukit Manis Road,holiday
+2021-04-02,21:51:00,1,Allanbrooke Road,holiday
+2021-04-02,21:52:00,1,Sentosa Gateway,holiday
+2021-04-02,21:52:00,1,Sentosa Gateway,holiday
+2021-04-02,21:52:00,7,Gateway Avenue,holiday
+2021-04-02,21:52:00,1,Ironside Link,holiday
+2021-04-02,21:52:00,1,Ironside Link,holiday
+2021-04-02,21:52:00,1,Bukit Manis Road,holiday
+2021-04-02,21:52:00,1,Allanbrooke Road,holiday
+2021-04-02,21:52:00,1,Bukit Manis Road,holiday
+2021-04-02,21:52:00,1,Cove Drive,holiday
+2021-04-02,21:52:00,1,Ocean Way,holiday
+2021-04-02,21:53:00,1,Sentosa Gateway,holiday
+2021-04-02,21:53:00,1,Ironside Link,holiday
+2021-04-02,21:53:00,5,Serapong Course,holiday
+2021-04-02,21:53:00,1,Bukit Manis Road,holiday
+2021-04-02,21:53:00,1,Allanbrooke Road,holiday
+2021-04-02,21:53:00,1,Cove Drive,holiday
+2021-04-02,21:53:00,1,Ocean Drive,holiday
+2021-04-02,21:53:00,1,Sentosa Gateway,holiday
+2021-04-02,21:54:00,1,Sentosa Gateway,holiday
+2021-04-02,21:54:00,2,Ironside Link,holiday
+2021-04-02,21:54:00,4,Serapong Course,holiday
+2021-04-02,21:54:00,1,Bukit Manis Road,holiday
+2021-04-02,21:54:00,1,Allanbrooke Road,holiday
+2021-04-02,21:54:00,1,Sentosa Cove,holiday
+2021-04-02,21:55:00,1,Ironside Link,holiday
+2021-04-02,21:55:00,2,Serapong Course,holiday
+2021-04-02,21:55:00,1,Serapong Course,holiday
+2021-04-02,21:55:00,1,Artillery Avenue,holiday
+2021-04-02,21:55:00,1,Bukit Manis Road,holiday
+2021-04-02,21:55:00,1,Allanbrooke Road,holiday
+2021-04-02,21:55:00,1,Sentosa Cove,holiday
+2021-04-02,21:55:00,1,Sentosa Gateway,holiday
+2021-04-02,21:56:00,1,Sentosa Gateway,holiday
+2021-04-02,21:56:00,3,Sentosa Gateway,holiday
+2021-04-02,21:56:00,1,Ironside Link,holiday
+2021-04-02,21:56:00,1,Serapong Course,holiday
+2021-04-02,21:56:00,2,Serapong Course,holiday
+2021-04-02,21:56:00,1,Artillery Avenue,holiday
+2021-04-02,21:56:00,1,Bukit Manis Road,holiday
+2021-04-02,21:56:00,1,Allanbrooke Road,holiday
+2021-04-02,21:56:00,1,Sentosa Cove,holiday
+2021-04-02,21:57:00,1,Sentosa Gateway,holiday
+2021-04-02,21:57:00,3,Sentosa Gateway,holiday
+2021-04-02,21:57:00,1,Ironside Link,holiday
+2021-04-02,21:57:00,1,Serapong Course,holiday
+2021-04-02,21:57:00,2,Serapong Course,holiday
+2021-04-02,21:57:00,1,Artillery Avenue,holiday
+2021-04-02,21:57:00,1,Bukit Manis Road,holiday
+2021-04-02,21:57:00,1,Allanbrooke Road,holiday
+2021-04-02,21:57:00,1,Sentosa Cove,holiday
+2021-04-02,21:58:00,1,Sentosa Boardwalk,holiday
+2021-04-02,21:58:00,1,Gateway Avenue,holiday
+2021-04-02,21:58:00,1,Ironside Link,holiday
+2021-04-02,21:58:00,4,Serapong Course,holiday
+2021-04-02,21:58:00,1,Gateway Avenue,holiday
+2021-04-02,21:58:00,1,Artillery Avenue,holiday
+2021-04-02,21:58:00,1,Allanbrooke Road,holiday
+2021-04-02,21:58:00,1,Sentosa Cove,holiday
+2021-04-02,21:59:00,1,Beach Arrival Plaza,holiday
+2021-04-02,21:59:00,1,Sentosa Gateway,holiday
+2021-04-02,21:59:00,1,Ironside Link,holiday
+2021-04-02,21:59:00,3,Serapong Course,holiday
+2021-04-02,21:59:00,2,Serapong Course,holiday
+2021-04-02,21:59:00,1,Artillery Avenue,holiday
+2021-04-02,21:59:00,1,Artillery Avenue,holiday
+2021-04-02,21:59:00,1,Allanbrooke Road,holiday

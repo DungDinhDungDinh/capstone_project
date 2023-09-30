@@ -1,0 +1,698 @@
+date,time,cluster_size,address,day_type
+2021-10-23,16:00:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:00:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:00:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:00:00,1,Gateway Avenue,weekend
+2021-10-23,16:00:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:00:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:00:00,1,Gateway Avenue,weekend
+2021-10-23,16:00:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:00:00,1,Gateway Avenue,weekend
+2021-10-23,16:00:00,1,Ironside Link,weekend
+2021-10-23,16:00:00,1,Gateway Avenue,weekend
+2021-10-23,16:00:00,1,Allanbrooke Road,weekend
+2021-10-23,16:00:00,2,Allanbrooke Road,weekend
+2021-10-23,16:00:00,1,Bukit Manis Road,weekend
+2021-10-23,16:00:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:00:00,1,Ocean Drive,weekend
+2021-10-23,16:01:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:01:00,2,Sentosa Boardwalk,weekend
+2021-10-23,16:01:00,1,Ironside Road,weekend
+2021-10-23,16:01:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:01:00,1,Sentosa Gateway,weekend
+2021-10-23,16:01:00,4,Resorts World Sentosa,weekend
+2021-10-23,16:01:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:01:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:01:00,1,Gateway Avenue,weekend
+2021-10-23,16:01:00,1,Ironside Link,weekend
+2021-10-23,16:01:00,1,Artillery Avenue South,weekend
+2021-10-23,16:01:00,2,Allanbrooke Road,weekend
+2021-10-23,16:01:00,1,Cove Avenue,weekend
+2021-10-23,16:01:00,1,Ocean Drive,weekend
+2021-10-23,16:01:00,1,Ocean Drive,weekend
+2021-10-23,16:02:00,1,Siloso Road,weekend
+2021-10-23,16:02:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:02:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:02:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:02:00,4,Resorts World Sentosa,weekend
+2021-10-23,16:02:00,1,Ironside Road,weekend
+2021-10-23,16:02:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:02:00,1,Allanbrooke Road,weekend
+2021-10-23,16:02:00,1,Gateway Avenue,weekend
+2021-10-23,16:02:00,1,Ironside Link,weekend
+2021-10-23,16:02:00,1,Gateway Avenue,weekend
+2021-10-23,16:02:00,2,Allanbrooke Road,weekend
+2021-10-23,16:02:00,1,Allanbrooke Road,weekend
+2021-10-23,16:02:00,1,Ocean Drive,weekend
+2021-10-23,16:02:00,1,Ocean Drive,weekend
+2021-10-23,16:03:00,1,Siloso Road,weekend
+2021-10-23,16:03:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:03:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:03:00,1,Ironside Road,weekend
+2021-10-23,16:03:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:03:00,1,Gateway Avenue,weekend
+2021-10-23,16:03:00,3,Gateway Avenue,weekend
+2021-10-23,16:03:00,1,Ironside Link,weekend
+2021-10-23,16:03:00,1,Gateway Avenue,weekend
+2021-10-23,16:03:00,1,Cove Drive,weekend
+2021-10-23,16:03:00,1,Allanbrooke Road,weekend
+2021-10-23,16:03:00,2,Allanbrooke Road,weekend
+2021-10-23,16:03:00,1,Cove Way,weekend
+2021-10-23,16:03:00,1,Ocean Drive,weekend
+2021-10-23,16:03:00,1,Ocean Drive,weekend
+2021-10-23,16:03:00,1,Sentosa Gateway,weekend
+2021-10-23,16:04:00,1,Siloso Road,weekend
+2021-10-23,16:04:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:04:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:04:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:04:00,1,Artillery Avenue,weekend
+2021-10-23,16:04:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:04:00,1,Gateway Avenue,weekend
+2021-10-23,16:04:00,3,Serapong Course,weekend
+2021-10-23,16:04:00,1,Ironside Link,weekend
+2021-10-23,16:04:00,1,Serapong Course,weekend
+2021-10-23,16:04:00,1,Cove Drive,weekend
+2021-10-23,16:04:00,2,Allanbrooke Road,weekend
+2021-10-23,16:04:00,1,Cove Way,weekend
+2021-10-23,16:04:00,1,Ocean Drive,weekend
+2021-10-23,16:04:00,1,Ocean Drive,weekend
+2021-10-23,16:04:00,1,Sentosa Gateway,weekend
+2021-10-23,16:05:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:05:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:05:00,1,Artillery Avenue,weekend
+2021-10-23,16:05:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:05:00,3,Serapong Course,weekend
+2021-10-23,16:05:00,1,Ironside Link,weekend
+2021-10-23,16:05:00,1,Serapong Course,weekend
+2021-10-23,16:05:00,1,Artillery Avenue South,weekend
+2021-10-23,16:05:00,1,Cove Drive,weekend
+2021-10-23,16:05:00,2,Allanbrooke Road,weekend
+2021-10-23,16:05:00,1,Cove Way,weekend
+2021-10-23,16:05:00,1,Ocean Drive,weekend
+2021-10-23,16:05:00,1,Ocean Drive,weekend
+2021-10-23,16:06:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:06:00,2,Resorts World Sentosa,weekend
+2021-10-23,16:06:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:06:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:06:00,1,Tanjong Beach Walk,weekend
+2021-10-23,16:06:00,2,Gateway Avenue,weekend
+2021-10-23,16:06:00,1,Ironside Link,weekend
+2021-10-23,16:06:00,1,Serapong Course,weekend
+2021-10-23,16:06:00,2,Allanbrooke Road,weekend
+2021-10-23,16:06:00,1,Allanbrooke Road,weekend
+2021-10-23,16:06:00,1,Allanbrooke Road,weekend
+2021-10-23,16:06:00,1,Ocean Drive,weekend
+2021-10-23,16:06:00,1,Sentosa Gateway,weekend
+2021-10-23,16:06:00,2,Sentosa Gateway,weekend
+2021-10-23,16:07:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:07:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:07:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:07:00,1,Palawan Beach Walk,weekend
+2021-10-23,16:07:00,1,Gateway Avenue,weekend
+2021-10-23,16:07:00,1,Gateway Avenue,weekend
+2021-10-23,16:07:00,1,Ironside Link,weekend
+2021-10-23,16:07:00,2,Allanbrooke Road,weekend
+2021-10-23,16:07:00,1,Allanbrooke Road,weekend
+2021-10-23,16:07:00,1,Allanbrooke Road,weekend
+2021-10-23,16:07:00,1,Sentosa Cove,weekend
+2021-10-23,16:07:00,1,Ocean Drive,weekend
+2021-10-23,16:07:00,1,Sentosa Gateway,weekend
+2021-10-23,16:08:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:08:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:08:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:08:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:08:00,1,Gateway Avenue,weekend
+2021-10-23,16:08:00,1,Ironside Link,weekend
+2021-10-23,16:08:00,1,Artillery Avenue,weekend
+2021-10-23,16:08:00,1,Serapong Course,weekend
+2021-10-23,16:08:00,1,Artillery Avenue,weekend
+2021-10-23,16:08:00,1,Artillery Avenue,weekend
+2021-10-23,16:08:00,2,Allanbrooke Road,weekend
+2021-10-23,16:08:00,1,Allanbrooke Road,weekend
+2021-10-23,16:08:00,1,Ocean Drive,weekend
+2021-10-23,16:09:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:09:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:09:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:09:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:09:00,1,Sentosa Gateway,weekend
+2021-10-23,16:09:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:09:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:09:00,1,Gateway Avenue,weekend
+2021-10-23,16:09:00,1,Ironside Link,weekend
+2021-10-23,16:09:00,1,Gateway Avenue,weekend
+2021-10-23,16:09:00,1,Serapong Course,weekend
+2021-10-23,16:09:00,1,Allanbrooke Road,weekend
+2021-10-23,16:09:00,1,Allanbrooke Road,weekend
+2021-10-23,16:09:00,1,Ocean Drive,weekend
+2021-10-23,16:09:00,1,Ocean Drive,weekend
+2021-10-23,16:10:00,1,Beach View,weekend
+2021-10-23,16:10:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:10:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:10:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:10:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:10:00,1,Sentosa Gateway,weekend
+2021-10-23,16:10:00,1,Sentosa Gateway,weekend
+2021-10-23,16:10:00,1,Sentosa Gateway,weekend
+2021-10-23,16:10:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:10:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:10:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:10:00,2,Ironside Link,weekend
+2021-10-23,16:10:00,1,Serapong Course,weekend
+2021-10-23,16:10:00,1,Allanbrooke Road,weekend
+2021-10-23,16:10:00,1,Cove Way,weekend
+2021-10-23,16:10:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:10:00,1,Cove Way,weekend
+2021-10-23,16:10:00,1,Ocean Drive,weekend
+2021-10-23,16:11:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:11:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:11:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:11:00,1,Sentosa Gateway,weekend
+2021-10-23,16:11:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:11:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:11:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:11:00,2,Ironside Link,weekend
+2021-10-23,16:11:00,1,Serapong Course,weekend
+2021-10-23,16:11:00,1,Gateway Avenue,weekend
+2021-10-23,16:11:00,1,Serapong Course,weekend
+2021-10-23,16:11:00,1,Allanbrooke Road,weekend
+2021-10-23,16:11:00,1,Cove Way,weekend
+2021-10-23,16:11:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:11:00,1,Ocean Drive,weekend
+2021-10-23,16:11:00,1,Sentosa Gateway,weekend
+2021-10-23,16:11:00,1,Sentosa Gateway,weekend
+2021-10-23,16:12:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:12:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:12:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:12:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:12:00,1,Sentosa Gateway,weekend
+2021-10-23,16:12:00,1,Sentosa Gateway,weekend
+2021-10-23,16:12:00,1,Sentosa Gateway,weekend
+2021-10-23,16:12:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:12:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:12:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:12:00,1,Ironside Link,weekend
+2021-10-23,16:12:00,1,Cove Drive,weekend
+2021-10-23,16:12:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:12:00,1,Ocean Drive,weekend
+2021-10-23,16:12:00,1,Sentosa Gateway,weekend
+2021-10-23,16:13:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:13:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:13:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:13:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:13:00,1,Sentosa Gateway,weekend
+2021-10-23,16:13:00,1,Sentosa Gateway,weekend
+2021-10-23,16:13:00,1,Sentosa Gateway,weekend
+2021-10-23,16:13:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:13:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:13:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:13:00,1,Ironside Link,weekend
+2021-10-23,16:13:00,1,Serapong Course,weekend
+2021-10-23,16:13:00,1,Serapong Course,weekend
+2021-10-23,16:13:00,1,Cove Drive,weekend
+2021-10-23,16:13:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:13:00,1,Ocean Drive,weekend
+2021-10-23,16:13:00,1,Sentosa Gateway,weekend
+2021-10-23,16:14:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:14:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:14:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:14:00,1,Sentosa Gateway,weekend
+2021-10-23,16:14:00,1,Sentosa Gateway,weekend
+2021-10-23,16:14:00,2,Resorts World Sentosa,weekend
+2021-10-23,16:14:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:14:00,1,Gateway Avenue,weekend
+2021-10-23,16:14:00,1,Ironside Link,weekend
+2021-10-23,16:14:00,1,Serapong Course,weekend
+2021-10-23,16:14:00,1,Allanbrooke Road,weekend
+2021-10-23,16:14:00,1,Allanbrooke Road,weekend
+2021-10-23,16:14:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:14:00,1,Ocean Way,weekend
+2021-10-23,16:15:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:15:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:15:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:15:00,2,Resorts World Sentosa,weekend
+2021-10-23,16:15:00,1,Artillery Avenue,weekend
+2021-10-23,16:15:00,3,Serapong Course,weekend
+2021-10-23,16:15:00,2,Ironside Link,weekend
+2021-10-23,16:15:00,1,Serapong Course,weekend
+2021-10-23,16:15:00,1,Allanbrooke Road,weekend
+2021-10-23,16:15:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:15:00,1,Ocean Drive,weekend
+2021-10-23,16:16:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:16:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:16:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:16:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:16:00,2,Resorts World Sentosa,weekend
+2021-10-23,16:16:00,1,Artillery Avenue,weekend
+2021-10-23,16:16:00,1,Gateway Avenue,weekend
+2021-10-23,16:16:00,1,Gateway Avenue,weekend
+2021-10-23,16:16:00,2,Ironside Link,weekend
+2021-10-23,16:16:00,1,Gateway Avenue,weekend
+2021-10-23,16:16:00,1,Allanbrooke Road,weekend
+2021-10-23,16:16:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:16:00,1,Cove Way,weekend
+2021-10-23,16:17:00,1,Siloso Road,weekend
+2021-10-23,16:17:00,1,Imbiah Road,weekend
+2021-10-23,16:17:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:17:00,1,Silk Road of the Sea,weekend
+2021-10-23,16:17:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:17:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:17:00,1,Sentosa Gateway,weekend
+2021-10-23,16:17:00,1,Sentosa Gateway,weekend
+2021-10-23,16:17:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:17:00,2,Resorts World Sentosa,weekend
+2021-10-23,16:17:00,3,Ironside Link,weekend
+2021-10-23,16:17:00,1,Gateway Avenue,weekend
+2021-10-23,16:17:00,1,Serapong Course,weekend
+2021-10-23,16:17:00,1,Cove Drive,weekend
+2021-10-23,16:17:00,1,Allanbrooke Road,weekend
+2021-10-23,16:17:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:17:00,1,Cove Way,weekend
+2021-10-23,16:18:00,1,Siloso Road,weekend
+2021-10-23,16:18:00,1,Imbiah Road,weekend
+2021-10-23,16:18:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:18:00,2,Sentosa Gateway,weekend
+2021-10-23,16:18:00,2,Sentosa Gateway,weekend
+2021-10-23,16:18:00,1,Gateway Avenue,weekend
+2021-10-23,16:18:00,1,Tanjong Beach Walk,weekend
+2021-10-23,16:18:00,2,Ironside Link,weekend
+2021-10-23,16:18:00,1,Gateway Avenue,weekend
+2021-10-23,16:18:00,2,Serapong Course,weekend
+2021-10-23,16:18:00,1,Gateway Avenue,weekend
+2021-10-23,16:18:00,1,Serapong Course,weekend
+2021-10-23,16:18:00,1,Southern Islands,weekend
+2021-10-23,16:18:00,1,Cove Way,weekend
+2021-10-23,16:18:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:19:00,1,Siloso Road,weekend
+2021-10-23,16:19:00,2,Sentosa Gateway,weekend
+2021-10-23,16:19:00,2,Sentosa Gateway,weekend
+2021-10-23,16:19:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:19:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:19:00,1,Gateway Avenue,weekend
+2021-10-23,16:19:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:19:00,1,Gateway Avenue,weekend
+2021-10-23,16:19:00,1,Ironside Link,weekend
+2021-10-23,16:19:00,1,Serapong Course,weekend
+2021-10-23,16:19:00,1,Serapong Course,weekend
+2021-10-23,16:19:00,1,Artillery Avenue South,weekend
+2021-10-23,16:19:00,1,Allanbrooke Road,weekend
+2021-10-23,16:19:00,1,Cove Drive,weekend
+2021-10-23,16:19:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:20:00,1,Sentosa Gateway,weekend
+2021-10-23,16:20:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:20:00,2,Sentosa Gateway,weekend
+2021-10-23,16:20:00,1,Ironside Road,weekend
+2021-10-23,16:20:00,1,Ironside Road,weekend
+2021-10-23,16:20:00,1,Artillery Avenue,weekend
+2021-10-23,16:20:00,1,Ironside Link,weekend
+2021-10-23,16:20:00,1,Allanbrooke Road,weekend
+2021-10-23,16:20:00,1,Allanbrooke Road,weekend
+2021-10-23,16:20:00,1,Cove Drive,weekend
+2021-10-23,16:21:00,1,Siloso Road,weekend
+2021-10-23,16:21:00,1,Sentosa Gateway,weekend
+2021-10-23,16:21:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:21:00,1,Sentosa Gateway,weekend
+2021-10-23,16:21:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:21:00,1,Ironside Road,weekend
+2021-10-23,16:21:00,1,Gateway Avenue,weekend
+2021-10-23,16:21:00,1,Ironside Link,weekend
+2021-10-23,16:21:00,1,Ironside Link,weekend
+2021-10-23,16:21:00,1,Allanbrooke Road,weekend
+2021-10-23,16:21:00,1,Sentosa Cove,weekend
+2021-10-23,16:22:00,1,Siloso Road,weekend
+2021-10-23,16:22:00,1,Sentosa Gateway,weekend
+2021-10-23,16:22:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:22:00,1,Ironside Road,weekend
+2021-10-23,16:22:00,1,Gateway Avenue,weekend
+2021-10-23,16:22:00,1,Gateway Avenue,weekend
+2021-10-23,16:22:00,1,Ironside Link,weekend
+2021-10-23,16:22:00,1,Artillery Avenue,weekend
+2021-10-23,16:22:00,1,Sentosa Cove,weekend
+2021-10-23,16:23:00,1,Beach Station Bus Terminal,weekend
+2021-10-23,16:23:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:23:00,1,Mess Hall,weekend
+2021-10-23,16:23:00,1,Gateway Avenue,weekend
+2021-10-23,16:23:00,1,Gateway Avenue,weekend
+2021-10-23,16:23:00,1,Gateway Avenue,weekend
+2021-10-23,16:23:00,1,Ironside Link,weekend
+2021-10-23,16:23:00,1,Quayside Isle,weekend
+2021-10-23,16:23:00,1,Sentosa Gateway,weekend
+2021-10-23,16:24:00,1,Beach Station Bus Terminal,weekend
+2021-10-23,16:24:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:24:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:24:00,1,Sentosa Gateway,weekend
+2021-10-23,16:24:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:24:00,1,Gateway Avenue,weekend
+2021-10-23,16:24:00,1,Gateway Avenue,weekend
+2021-10-23,16:24:00,1,Gateway Avenue,weekend
+2021-10-23,16:24:00,1,Ironside Link,weekend
+2021-10-23,16:24:00,1,Serapong Course,weekend
+2021-10-23,16:24:00,1,Sentosa Cove,weekend
+2021-10-23,16:24:00,1,Sentosa Gateway,weekend
+2021-10-23,16:25:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:25:00,1,Sentosa Gateway,weekend
+2021-10-23,16:25:00,2,Gateway Avenue,weekend
+2021-10-23,16:25:00,3,Serapong Course,weekend
+2021-10-23,16:25:00,1,Ironside Link,weekend
+2021-10-23,16:25:00,1,Allanbrooke Road,weekend
+2021-10-23,16:25:00,1,Cove Way,weekend
+2021-10-23,16:25:00,1,Sentosa Gateway,weekend
+2021-10-23,16:26:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:26:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:26:00,1,Gateway Avenue,weekend
+2021-10-23,16:26:00,3,Serapong Course,weekend
+2021-10-23,16:26:00,1,Ironside Link,weekend
+2021-10-23,16:26:00,1,Allanbrooke Road,weekend
+2021-10-23,16:26:00,1,Cove Way,weekend
+2021-10-23,16:26:00,1,Sentosa Gateway,weekend
+2021-10-23,16:26:00,2,Sentosa Gateway,weekend
+2021-10-23,16:26:00,1,Sentosa Gateway,weekend
+2021-10-23,16:27:00,1,Artillery Avenue,weekend
+2021-10-23,16:27:00,1,Mess Hall,weekend
+2021-10-23,16:27:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:27:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:27:00,1,Artillery Avenue,weekend
+2021-10-23,16:27:00,2,Gateway Avenue,weekend
+2021-10-23,16:27:00,1,Ironside Link,weekend
+2021-10-23,16:27:00,2,Serapong Course,weekend
+2021-10-23,16:27:00,1,Gateway Avenue,weekend
+2021-10-23,16:27:00,2,Sentosa Gateway,weekend
+2021-10-23,16:28:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:28:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:28:00,1,Artillery Avenue,weekend
+2021-10-23,16:28:00,1,Gateway Avenue,weekend
+2021-10-23,16:28:00,1,Ironside Link,weekend
+2021-10-23,16:28:00,1,Gateway Avenue,weekend
+2021-10-23,16:28:00,2,Serapong Course,weekend
+2021-10-23,16:28:00,1,Gateway Avenue,weekend
+2021-10-23,16:28:00,2,Sentosa Gateway,weekend
+2021-10-23,16:29:00,1,Beach Arrival Plaza,weekend
+2021-10-23,16:29:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:29:00,1,Sentosa Gateway,weekend
+2021-10-23,16:29:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:29:00,1,Gateway Avenue,weekend
+2021-10-23,16:29:00,1,Ironside Link,weekend
+2021-10-23,16:29:00,1,Serapong Course,weekend
+2021-10-23,16:29:00,1,Serapong Course,weekend
+2021-10-23,16:29:00,1,Serapong Course,weekend
+2021-10-23,16:29:00,1,Allanbrooke Road,weekend
+2021-10-23,16:29:00,1,Sentosa Gateway,weekend
+2021-10-23,16:30:00,1,Artillery Avenue,weekend
+2021-10-23,16:30:00,1,Universal Studios Singapore,weekend
+2021-10-23,16:30:00,1,Sentosa Gateway,weekend
+2021-10-23,16:30:00,1,Gateway Avenue,weekend
+2021-10-23,16:30:00,1,Gateway Avenue,weekend
+2021-10-23,16:30:00,1,Ironside Link,weekend
+2021-10-23,16:30:00,2,Serapong Course,weekend
+2021-10-23,16:30:00,1,Sentosa Gateway,weekend
+2021-10-23,16:31:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:31:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:31:00,1,Gateway Avenue,weekend
+2021-10-23,16:31:00,1,Tanjong Beach Walk,weekend
+2021-10-23,16:31:00,2,Gateway Avenue,weekend
+2021-10-23,16:31:00,1,Gateway Avenue,weekend
+2021-10-23,16:31:00,1,Ironside Link,weekend
+2021-10-23,16:31:00,1,Serapong Course,weekend
+2021-10-23,16:32:00,1,Sentosa Gateway,weekend
+2021-10-23,16:32:00,1,Sentosa Gateway,weekend
+2021-10-23,16:32:00,1,Gateway Avenue,weekend
+2021-10-23,16:32:00,1,Palawan,weekend
+2021-10-23,16:32:00,1,Gateway Avenue,weekend
+2021-10-23,16:32:00,3,Gateway Avenue,weekend
+2021-10-23,16:32:00,1,Ironside Link,weekend
+2021-10-23,16:32:00,1,Serapong Course,weekend
+2021-10-23,16:32:00,1,Sentosa Gateway,weekend
+2021-10-23,16:33:00,1,Sentosa Gateway,weekend
+2021-10-23,16:33:00,1,Ironside Link,weekend
+2021-10-23,16:33:00,3,Serapong Course,weekend
+2021-10-23,16:33:00,1,Gateway Avenue,weekend
+2021-10-23,16:33:00,1,Ironside Link,weekend
+2021-10-23,16:33:00,1,Artillery Avenue South,weekend
+2021-10-23,16:33:00,1,Sentosa Gateway,weekend
+2021-10-23,16:34:00,1,Sentosa Gateway,weekend
+2021-10-23,16:34:00,1,Gateway Avenue,weekend
+2021-10-23,16:34:00,1,Artillery Avenue,weekend
+2021-10-23,16:34:00,2,Gateway Avenue,weekend
+2021-10-23,16:34:00,1,Ironside Link,weekend
+2021-10-23,16:34:00,1,Gateway Avenue,weekend
+2021-10-23,16:34:00,1,Ironside Link,weekend
+2021-10-23,16:34:00,1,Sentosa Gateway,weekend
+2021-10-23,16:35:00,1,Artillery Avenue,weekend
+2021-10-23,16:35:00,1,Sentosa Gateway,weekend
+2021-10-23,16:35:00,1,Gateway Avenue,weekend
+2021-10-23,16:35:00,2,Serapong Course,weekend
+2021-10-23,16:35:00,1,Ironside Link,weekend
+2021-10-23,16:35:00,1,Gateway Avenue,weekend
+2021-10-23,16:35:00,1,Ironside Link,weekend
+2021-10-23,16:36:00,1,Artillery Avenue,weekend
+2021-10-23,16:36:00,1,Gateway Avenue,weekend
+2021-10-23,16:36:00,1,Ironside Link,weekend
+2021-10-23,16:36:00,2,Serapong Course,weekend
+2021-10-23,16:36:00,1,Ironside Link,weekend
+2021-10-23,16:36:00,1,Gateway Avenue,weekend
+2021-10-23,16:36:00,1,Ironside Link,weekend
+2021-10-23,16:36:00,1,Sentosa Gateway,weekend
+2021-10-23,16:37:00,1,Sentosa Gateway,weekend
+2021-10-23,16:37:00,1,Sentosa Gateway,weekend
+2021-10-23,16:37:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:37:00,1,Sentosa Gateway,weekend
+2021-10-23,16:37:00,3,Ironside Link,weekend
+2021-10-23,16:37:00,3,Serapong Course,weekend
+2021-10-23,16:37:00,1,Gateway Avenue,weekend
+2021-10-23,16:37:00,1,Serapong Course,weekend
+2021-10-23,16:37:00,1,Artillery Avenue,weekend
+2021-10-23,16:37:00,1,Sentosa Gateway,weekend
+2021-10-23,16:38:00,1,Sentosa Gateway,weekend
+2021-10-23,16:38:00,1,Sentosa Gateway,weekend
+2021-10-23,16:38:00,1,Sentosa Gateway,weekend
+2021-10-23,16:38:00,1,Sentosa Gateway,weekend
+2021-10-23,16:38:00,1,Gateway Avenue,weekend
+2021-10-23,16:38:00,3,Ironside Link,weekend
+2021-10-23,16:38:00,2,Serapong Course,weekend
+2021-10-23,16:38:00,1,Gateway Avenue,weekend
+2021-10-23,16:38:00,1,Artillery Avenue,weekend
+2021-10-23,16:39:00,1,Siloso Road,weekend
+2021-10-23,16:39:00,3,Ironside Link,weekend
+2021-10-23,16:39:00,2,Serapong Course,weekend
+2021-10-23,16:39:00,1,Serapong Course,weekend
+2021-10-23,16:39:00,1,Serapong Course,weekend
+2021-10-23,16:39:00,1,Allanbrooke Road,weekend
+2021-10-23,16:40:00,1,Siloso Road,weekend
+2021-10-23,16:40:00,1,Sentosa Gateway,weekend
+2021-10-23,16:40:00,3,Ironside Link,weekend
+2021-10-23,16:40:00,1,Serapong Course,weekend
+2021-10-23,16:40:00,1,Artillery Avenue South,weekend
+2021-10-23,16:40:00,1,Allanbrooke Road,weekend
+2021-10-23,16:41:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:41:00,1,Sentosa Gateway,weekend
+2021-10-23,16:41:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:41:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:41:00,1,Gateway Avenue,weekend
+2021-10-23,16:41:00,1,Ironside Link,weekend
+2021-10-23,16:41:00,1,Serapong Course,weekend
+2021-10-23,16:41:00,1,Gateway Avenue,weekend
+2021-10-23,16:41:00,1,Ironside Link,weekend
+2021-10-23,16:41:00,1,Cove Drive,weekend
+2021-10-23,16:41:00,1,Ocean Drive,weekend
+2021-10-23,16:42:00,1,Mess Hall,weekend
+2021-10-23,16:42:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:42:00,2,Sentosa Gateway,weekend
+2021-10-23,16:42:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:42:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:42:00,1,Gateway Avenue,weekend
+2021-10-23,16:42:00,1,Ironside Link,weekend
+2021-10-23,16:42:00,2,Serapong Course,weekend
+2021-10-23,16:42:00,1,Gateway Avenue,weekend
+2021-10-23,16:42:00,1,Ironside Link,weekend
+2021-10-23,16:42:00,1,Tanjong Beach Walk,weekend
+2021-10-23,16:42:00,2,Sentosa Gateway,weekend
+2021-10-23,16:43:00,1,Siloso Road,weekend
+2021-10-23,16:43:00,1,Sentosa Gateway,weekend
+2021-10-23,16:43:00,2,Artillery Avenue,weekend
+2021-10-23,16:43:00,2,Gateway Avenue,weekend
+2021-10-23,16:43:00,2,Serapong Course,weekend
+2021-10-23,16:43:00,1,Ironside Link,weekend
+2021-10-23,16:43:00,2,Serapong Course,weekend
+2021-10-23,16:43:00,1,Gateway Avenue,weekend
+2021-10-23,16:43:00,1,Ironside Link,weekend
+2021-10-23,16:43:00,1,Gateway Avenue,weekend
+2021-10-23,16:43:00,1,Allanbrooke Road,weekend
+2021-10-23,16:43:00,1,Sentosa Gateway,weekend
+2021-10-23,16:44:00,1,Siloso Road,weekend
+2021-10-23,16:44:00,1,Sentosa Gateway,weekend
+2021-10-23,16:44:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:44:00,1,Gateway Avenue,weekend
+2021-10-23,16:44:00,2,Gateway Avenue,weekend
+2021-10-23,16:44:00,2,Serapong Course,weekend
+2021-10-23,16:44:00,1,Ironside Link,weekend
+2021-10-23,16:44:00,2,Serapong Course,weekend
+2021-10-23,16:44:00,1,Gateway Avenue,weekend
+2021-10-23,16:44:00,1,Ironside Link,weekend
+2021-10-23,16:44:00,1,Gateway Avenue,weekend
+2021-10-23,16:44:00,1,Ocean Drive,weekend
+2021-10-23,16:45:00,1,Siloso Road,weekend
+2021-10-23,16:45:00,1,Siloso Road,weekend
+2021-10-23,16:45:00,1,Sentosa Gateway,weekend
+2021-10-23,16:45:00,2,Resorts World Sentosa,weekend
+2021-10-23,16:45:00,1,Gateway Avenue,weekend
+2021-10-23,16:45:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:45:00,3,Serapong Course,weekend
+2021-10-23,16:45:00,1,Ironside Link,weekend
+2021-10-23,16:45:00,1,Serapong Course,weekend
+2021-10-23,16:45:00,1,Gateway Avenue,weekend
+2021-10-23,16:45:00,1,Ironside Link,weekend
+2021-10-23,16:45:00,1,Gateway Avenue,weekend
+2021-10-23,16:45:00,1,Sentosa Gateway,weekend
+2021-10-23,16:46:00,1,Siloso Road,weekend
+2021-10-23,16:46:00,1,Southern Islands,weekend
+2021-10-23,16:46:00,1,Siloso Road,weekend
+2021-10-23,16:46:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:46:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:46:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:46:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:46:00,1,Ironside Link,weekend
+2021-10-23,16:46:00,4,Serapong Course,weekend
+2021-10-23,16:46:00,1,Ironside Link,weekend
+2021-10-23,16:46:00,1,Serapong Course,weekend
+2021-10-23,16:46:00,1,Sentosa Gateway,weekend
+2021-10-23,16:47:00,1,51B,weekend
+2021-10-23,16:47:00,1,Siloso Road,weekend
+2021-10-23,16:47:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:47:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:47:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:47:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:47:00,1,Ironside Link,weekend
+2021-10-23,16:47:00,1,Serapong Course,weekend
+2021-10-23,16:47:00,1,Serapong Course,weekend
+2021-10-23,16:47:00,1,Ironside Link,weekend
+2021-10-23,16:47:00,1,Artillery Avenue,weekend
+2021-10-23,16:47:00,1,Serapong Course,weekend
+2021-10-23,16:47:00,1,Cove Way,weekend
+2021-10-23,16:47:00,1,Sentosa Gateway,weekend
+2021-10-23,16:48:00,1,51B,weekend
+2021-10-23,16:48:00,1,Siloso Road,weekend
+2021-10-23,16:48:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:48:00,1,Sentosa Gateway,weekend
+2021-10-23,16:48:00,2,Resorts World Sentosa,weekend
+2021-10-23,16:48:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:48:00,1,Ironside Link,weekend
+2021-10-23,16:48:00,1,Ironside Link,weekend
+2021-10-23,16:48:00,1,Artillery Avenue,weekend
+2021-10-23,16:49:00,1,Siloso Road,weekend
+2021-10-23,16:49:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:49:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:49:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:49:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:49:00,3,Gateway Avenue,weekend
+2021-10-23,16:49:00,1,Ironside Link,weekend
+2021-10-23,16:49:00,1,Ironside Link,weekend
+2021-10-23,16:49:00,1,Allanbrooke Road,weekend
+2021-10-23,16:50:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2021-10-23,16:50:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:50:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:50:00,1,Gateway Avenue,weekend
+2021-10-23,16:50:00,1,Gateway Avenue,weekend
+2021-10-23,16:50:00,2,Gateway Avenue,weekend
+2021-10-23,16:50:00,1,Ironside Link,weekend
+2021-10-23,16:50:00,1,Ironside Link,weekend
+2021-10-23,16:50:00,1,Allanbrooke Road,weekend
+2021-10-23,16:50:00,1,Ocean Drive,weekend
+2021-10-23,16:50:00,1,Sentosa Gateway,weekend
+2021-10-23,16:51:00,1,Siloso Road,weekend
+2021-10-23,16:51:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:51:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:51:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:51:00,1,Tanjong Beach Walk,weekend
+2021-10-23,16:51:00,1,Ironside Link,weekend
+2021-10-23,16:51:00,6,Gateway Avenue,weekend
+2021-10-23,16:51:00,1,Ironside Link,weekend
+2021-10-23,16:51:00,1,Ironside Link,weekend
+2021-10-23,16:51:00,1,Allanbrooke Road,weekend
+2021-10-23,16:51:00,1,Ocean Drive Circus,weekend
+2021-10-23,16:51:00,1,Sentosa Gateway,weekend
+2021-10-23,16:52:00,1,Siloso Road,weekend
+2021-10-23,16:52:00,1,Sentosa Gateway,weekend
+2021-10-23,16:52:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:52:00,1,Tanjong Beach Walk,weekend
+2021-10-23,16:52:00,5,Gateway Avenue,weekend
+2021-10-23,16:52:00,1,Ironside Link,weekend
+2021-10-23,16:52:00,1,Serapong Course,weekend
+2021-10-23,16:52:00,1,Ironside Link,weekend
+2021-10-23,16:52:00,1,Allanbrooke Road,weekend
+2021-10-23,16:52:00,1,Cove Way,weekend
+2021-10-23,16:52:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,16:52:00,1,Sentosa Gateway,weekend
+2021-10-23,16:52:00,1,Sentosa Gateway,weekend
+2021-10-23,16:53:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:53:00,1,Sentosa Gateway,weekend
+2021-10-23,16:53:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:53:00,1,Gateway Avenue,weekend
+2021-10-23,16:53:00,3,Gateway Avenue,weekend
+2021-10-23,16:53:00,1,Ironside Link,weekend
+2021-10-23,16:53:00,1,Cove Drive,weekend
+2021-10-23,16:53:00,1,Allanbrooke Road,weekend
+2021-10-23,16:53:00,1,Allanbrooke Road,weekend
+2021-10-23,16:53:00,1,Cove Drive,weekend
+2021-10-23,16:54:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:54:00,1,Mess Hall,weekend
+2021-10-23,16:54:00,1,Sentosa Gateway,weekend
+2021-10-23,16:54:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:54:00,1,Gateway Avenue,weekend
+2021-10-23,16:54:00,1,Ironside Link,weekend
+2021-10-23,16:54:00,1,Tanjong Beach Walk,weekend
+2021-10-23,16:54:00,1,Serapong Course,weekend
+2021-10-23,16:54:00,1,Serapong Course,weekend
+2021-10-23,16:54:00,1,Allanbrooke Road,weekend
+2021-10-23,16:54:00,1,Allanbrooke Road,weekend
+2021-10-23,16:54:00,1,Cove Avenue,weekend
+2021-10-23,16:55:00,1,Siloso Road,weekend
+2021-10-23,16:55:00,1,Sentosa Gateway,weekend
+2021-10-23,16:55:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:55:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:55:00,1,Artillery Avenue,weekend
+2021-10-23,16:55:00,1,Gateway Avenue,weekend
+2021-10-23,16:55:00,1,Ironside Link,weekend
+2021-10-23,16:55:00,1,Serapong Course,weekend
+2021-10-23,16:55:00,1,Serapong Course,weekend
+2021-10-23,16:55:00,1,Artillery Avenue South,weekend
+2021-10-23,16:55:00,1,Allanbrooke Road,weekend
+2021-10-23,16:55:00,1,Allanbrooke Road,weekend
+2021-10-23,16:55:00,1,Sentosa Gateway,weekend
+2021-10-23,16:56:00,1,Siloso Road,weekend
+2021-10-23,16:56:00,1,Sentosa Gateway,weekend
+2021-10-23,16:56:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:56:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:56:00,1,Gateway Avenue,weekend
+2021-10-23,16:56:00,1,Ironside Link,weekend
+2021-10-23,16:56:00,1,Resorts World Sentosa,weekend
+2021-10-23,16:56:00,1,Serapong Course,weekend
+2021-10-23,16:56:00,1,Serapong Course,weekend
+2021-10-23,16:56:00,1,Gateway Avenue,weekend
+2021-10-23,16:56:00,1,Southern Islands,weekend
+2021-10-23,16:56:00,1,Allanbrooke Road,weekend
+2021-10-23,16:57:00,1,Siloso Road,weekend
+2021-10-23,16:57:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:57:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:57:00,1,Gateway Avenue,weekend
+2021-10-23,16:57:00,1,Ironside Link,weekend
+2021-10-23,16:57:00,1,Serapong Course,weekend
+2021-10-23,16:57:00,1,Southern Islands,weekend
+2021-10-23,16:57:00,1,Allanbrooke Road,weekend
+2021-10-23,16:57:00,1,Sentosa Gateway,weekend
+2021-10-23,16:58:00,1,Siloso Road,weekend
+2021-10-23,16:58:00,1,Sentosa Boardwalk,weekend
+2021-10-23,16:58:00,3,Resorts World Sentosa,weekend
+2021-10-23,16:58:00,2,Serapong Course,weekend
+2021-10-23,16:58:00,1,Ironside Link,weekend
+2021-10-23,16:58:00,2,Serapong Course,weekend
+2021-10-23,16:58:00,1,Southern Islands,weekend
+2021-10-23,16:58:00,1,Allanbrooke Road,weekend
+2021-10-23,16:58:00,1,Sentosa Gateway,weekend
+2021-10-23,16:59:00,1,Sentosa Gateway,weekend
+2021-10-23,16:59:00,1,Sentosa Gateway,weekend
+2021-10-23,16:59:00,2,Resorts World Sentosa,weekend
+2021-10-23,16:59:00,1,Gateway Avenue,weekend
+2021-10-23,16:59:00,4,Gateway Avenue,weekend
+2021-10-23,16:59:00,1,Ironside Link,weekend
+2021-10-23,16:59:00,1,Allanbrooke Road,weekend
+2021-10-23,16:59:00,1,Cove Avenue,weekend
+2021-10-23,16:59:00,1,Ocean Way,weekend

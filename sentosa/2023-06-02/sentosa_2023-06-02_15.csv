@@ -1,0 +1,447 @@
+date,time,cluster_size,address,day_type
+2023-06-02,15:00:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:00:00,1,Silk Road of the Sea,holiday
+2023-06-02,15:00:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:00:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:00:00,1,Allanbrooke Road,holiday
+2023-06-02,15:00:00,1,Gateway Avenue,holiday
+2023-06-02,15:00:00,1,Ironside Link,holiday
+2023-06-02,15:00:00,1,Gateway Avenue,holiday
+2023-06-02,15:00:00,1,Sofitel Sentosa Resort & Spa,holiday
+2023-06-02,15:00:00,1,Sentosa Gateway,holiday
+2023-06-02,15:01:00,2,Resorts World Sentosa,holiday
+2023-06-02,15:01:00,1,Southern Islands,holiday
+2023-06-02,15:01:00,2,Gateway Avenue,holiday
+2023-06-02,15:01:00,1,Ironside Link,holiday
+2023-06-02,15:01:00,1,Artillery Avenue South,holiday
+2023-06-02,15:01:00,1,Bukit Manis Road,holiday
+2023-06-02,15:01:00,1,Sentosa Gateway,holiday
+2023-06-02,15:02:00,1,Artillery Avenue,holiday
+2023-06-02,15:02:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:02:00,1,Sentosa Gateway,holiday
+2023-06-02,15:02:00,1,Southern Islands,holiday
+2023-06-02,15:02:00,1,Gateway Avenue,holiday
+2023-06-02,15:02:00,1,Sentosa Golf Club,holiday
+2023-06-02,15:02:00,1,Sentosa Gateway,holiday
+2023-06-02,15:03:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:03:00,1,Artillery Avenue,holiday
+2023-06-02,15:03:00,1,Bukit Manis Road,holiday
+2023-06-02,15:04:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:04:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:04:00,1,Ironside Link,holiday
+2023-06-02,15:04:00,1,Bukit Manis Road,holiday
+2023-06-02,15:04:00,1,Cove Avenue,holiday
+2023-06-02,15:05:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:05:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:05:00,1,Ironside Link,holiday
+2023-06-02,15:05:00,1,Allanbrooke Road,holiday
+2023-06-02,15:05:00,1,Allanbrooke Road,holiday
+2023-06-02,15:06:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:06:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:06:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:06:00,1,Ironside Link,holiday
+2023-06-02,15:06:00,1,Allanbrooke Road,holiday
+2023-06-02,15:06:00,1,Allanbrooke Road,holiday
+2023-06-02,15:07:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:07:00,1,Ironside Link,holiday
+2023-06-02,15:07:00,1,Serapong Course,holiday
+2023-06-02,15:07:00,1,Allanbrooke Road,holiday
+2023-06-02,15:07:00,1,Bukit Manis Road,holiday
+2023-06-02,15:08:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:08:00,1,Oasis Resort Sentosa,holiday
+2023-06-02,15:08:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:08:00,1,Gateway Avenue,holiday
+2023-06-02,15:08:00,1,Ironside Link,holiday
+2023-06-02,15:08:00,1,Serapong Course,holiday
+2023-06-02,15:08:00,1,Allanbrooke Road,holiday
+2023-06-02,15:09:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:09:00,1,Siloso Road,holiday
+2023-06-02,15:09:00,1,Sentosa Gateway,holiday
+2023-06-02,15:09:00,1,Gateway Avenue,holiday
+2023-06-02,15:09:00,1,Ironside Road,holiday
+2023-06-02,15:09:00,1,Gateway Avenue,holiday
+2023-06-02,15:09:00,2,Ironside Link,holiday
+2023-06-02,15:09:00,1,Serapong Course,holiday
+2023-06-02,15:09:00,1,Allanbrooke Road,holiday
+2023-06-02,15:09:00,1,Cove Drive,holiday
+2023-06-02,15:09:00,1,Sentosa Gateway,holiday
+2023-06-02,15:10:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:10:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:10:00,1,Sentosa Gateway,holiday
+2023-06-02,15:10:00,1,Ironside Road,holiday
+2023-06-02,15:10:00,1,Gateway Avenue,holiday
+2023-06-02,15:10:00,2,Serapong Course,holiday
+2023-06-02,15:10:00,1,Ironside Link,holiday
+2023-06-02,15:11:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:11:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:11:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:11:00,1,Ironside Road,holiday
+2023-06-02,15:11:00,1,Gateway Avenue,holiday
+2023-06-02,15:11:00,1,Gateway Avenue,holiday
+2023-06-02,15:11:00,2,Serapong Course,holiday
+2023-06-02,15:11:00,1,Ironside Link,holiday
+2023-06-02,15:11:00,1,Ocean Way,holiday
+2023-06-02,15:11:00,1,The Berth by the Cove,holiday
+2023-06-02,15:12:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:12:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:12:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:12:00,1,Sentosa Gateway,holiday
+2023-06-02,15:12:00,1,Sentosa Gateway,holiday
+2023-06-02,15:12:00,2,Ironside Road,holiday
+2023-06-02,15:12:00,1,Gateway Avenue,holiday
+2023-06-02,15:12:00,1,Gateway Avenue,holiday
+2023-06-02,15:12:00,1,Gateway Avenue,holiday
+2023-06-02,15:12:00,1,Ironside Link,holiday
+2023-06-02,15:12:00,1,Cove Avenue,holiday
+2023-06-02,15:12:00,1,Ocean Drive,holiday
+2023-06-02,15:13:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:13:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:13:00,1,Ironside Road,holiday
+2023-06-02,15:13:00,1,Gateway Avenue,holiday
+2023-06-02,15:13:00,1,Ironside Road,holiday
+2023-06-02,15:13:00,1,Serapong Course,holiday
+2023-06-02,15:13:00,1,Gateway Avenue,holiday
+2023-06-02,15:13:00,1,Ironside Link,holiday
+2023-06-02,15:13:00,1,Gateway Avenue,holiday
+2023-06-02,15:13:00,1,Cove Avenue,holiday
+2023-06-02,15:13:00,1,The Berth by the Cove,holiday
+2023-06-02,15:14:00,1,Siloso Road,holiday
+2023-06-02,15:14:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:14:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:14:00,1,Mess Hall,holiday
+2023-06-02,15:14:00,1,Gunner Lane,holiday
+2023-06-02,15:14:00,1,Sentosa Gateway,holiday
+2023-06-02,15:14:00,1,Gateway Avenue,holiday
+2023-06-02,15:14:00,1,Ironside Link,holiday
+2023-06-02,15:14:00,1,Allanbrooke Road,holiday
+2023-06-02,15:14:00,1,Sentosa Gateway,holiday
+2023-06-02,15:15:00,1,Siloso Road,holiday
+2023-06-02,15:15:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:15:00,1,Mess Hall,holiday
+2023-06-02,15:15:00,1,Sentosa Gateway,holiday
+2023-06-02,15:15:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:15:00,1,Gateway Avenue,holiday
+2023-06-02,15:15:00,1,Ironside Link,holiday
+2023-06-02,15:15:00,1,Serapong Course,holiday
+2023-06-02,15:15:00,1,Artillery Avenue,holiday
+2023-06-02,15:16:00,1,7-Eleven,holiday
+2023-06-02,15:16:00,1,Mess Hall,holiday
+2023-06-02,15:16:00,1,Sentosa Gateway,holiday
+2023-06-02,15:16:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:16:00,1,Gateway Avenue,holiday
+2023-06-02,15:16:00,1,Sentosa Gateway,holiday
+2023-06-02,15:16:00,1,Gateway Avenue,holiday
+2023-06-02,15:16:00,1,Gateway Avenue,holiday
+2023-06-02,15:16:00,1,Ironside Link,holiday
+2023-06-02,15:16:00,1,Gateway Avenue,holiday
+2023-06-02,15:16:00,1,Ocean Way,holiday
+2023-06-02,15:17:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:17:00,1,7-Eleven,holiday
+2023-06-02,15:17:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:17:00,1,Gateway Avenue,holiday
+2023-06-02,15:17:00,1,Gateway Avenue,holiday
+2023-06-02,15:17:00,1,Ironside Link,holiday
+2023-06-02,15:17:00,1,Gateway Avenue,holiday
+2023-06-02,15:17:00,1,Ocean Way,holiday
+2023-06-02,15:17:00,1,Sentosa Gateway,holiday
+2023-06-02,15:18:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:18:00,1,Village Hotel @ Sentosa,holiday
+2023-06-02,15:18:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:18:00,1,Sentosa Gateway,holiday
+2023-06-02,15:18:00,1,Gateway Avenue,holiday
+2023-06-02,15:18:00,1,Gateway Avenue,holiday
+2023-06-02,15:18:00,1,Ironside Link,holiday
+2023-06-02,15:18:00,1,Tanjong Beach Walk,holiday
+2023-06-02,15:18:00,1,Serapong Course,holiday
+2023-06-02,15:18:00,1,Ocean Way,holiday
+2023-06-02,15:19:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:19:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:19:00,1,Mess Hall,holiday
+2023-06-02,15:19:00,1,Gateway Avenue,holiday
+2023-06-02,15:19:00,1,Allanbrooke Road,holiday
+2023-06-02,15:19:00,2,Serapong Course,holiday
+2023-06-02,15:19:00,1,Gateway Avenue,holiday
+2023-06-02,15:19:00,2,Ironside Link,holiday
+2023-06-02,15:19:00,1,Ocean Way,holiday
+2023-06-02,15:20:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:20:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:20:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:20:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:20:00,1,Gateway Avenue,holiday
+2023-06-02,15:20:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:20:00,2,Gateway Avenue,holiday
+2023-06-02,15:20:00,2,Ironside Link,holiday
+2023-06-02,15:20:00,1,Artillery Avenue,holiday
+2023-06-02,15:20:00,1,Ocean Way,holiday
+2023-06-02,15:20:00,1,Sentosa Gateway,holiday
+2023-06-02,15:21:00,1,Mess Hall,holiday
+2023-06-02,15:21:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:21:00,1,Gateway Avenue,holiday
+2023-06-02,15:21:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:21:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:21:00,2,Gateway Avenue,holiday
+2023-06-02,15:21:00,2,Ironside Link,holiday
+2023-06-02,15:21:00,1,ONE ̊15 Marina,holiday
+2023-06-02,15:21:00,1,Ocean Way,holiday
+2023-06-02,15:21:00,2,Sentosa Gateway,holiday
+2023-06-02,15:22:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:22:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:22:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:22:00,1,Gateway Avenue,holiday
+2023-06-02,15:22:00,2,Resorts World Sentosa,holiday
+2023-06-02,15:22:00,1,Gateway Avenue,holiday
+2023-06-02,15:22:00,1,Ironside Link,holiday
+2023-06-02,15:22:00,1,Cove Avenue,holiday
+2023-06-02,15:22:00,1,Ocean Way,holiday
+2023-06-02,15:23:00,1,Imbiah Trail,holiday
+2023-06-02,15:23:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:23:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:23:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:23:00,2,Resorts World Sentosa,holiday
+2023-06-02,15:23:00,1,Ironside Link,holiday
+2023-06-02,15:23:00,1,Allanbrooke Road,holiday
+2023-06-02,15:23:00,1,Ocean Way,holiday
+2023-06-02,15:24:00,2,Imbiah Trail,holiday
+2023-06-02,15:24:00,2,Resorts World Sentosa,holiday
+2023-06-02,15:24:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:24:00,1,Gateway Avenue,holiday
+2023-06-02,15:24:00,2,Gateway Avenue,holiday
+2023-06-02,15:24:00,1,Ironside Link,holiday
+2023-06-02,15:24:00,1,Southern Islands,holiday
+2023-06-02,15:25:00,1,Imbiah Walk,holiday
+2023-06-02,15:25:00,1,Imbiah Walk,holiday
+2023-06-02,15:25:00,2,Resorts World Sentosa,holiday
+2023-06-02,15:25:00,1,Gateway Avenue,holiday
+2023-06-02,15:25:00,2,Gateway Avenue,holiday
+2023-06-02,15:25:00,1,Serapong Course,holiday
+2023-06-02,15:25:00,1,Ironside Link,holiday
+2023-06-02,15:25:00,1,Artillery Avenue,holiday
+2023-06-02,15:25:00,1,Cove Way,holiday
+2023-06-02,15:26:00,1,Siloso Road,holiday
+2023-06-02,15:26:00,2,Siloso Road,holiday
+2023-06-02,15:26:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:26:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:26:00,1,Universal Studios Singapore,holiday
+2023-06-02,15:26:00,1,Gateway Avenue,holiday
+2023-06-02,15:26:00,1,Universal Studios Singapore,holiday
+2023-06-02,15:26:00,2,Serapong Course,holiday
+2023-06-02,15:26:00,1,Cove Way,holiday
+2023-06-02,15:27:00,1,Fort Siloso,holiday
+2023-06-02,15:27:00,1,Siloso Road,holiday
+2023-06-02,15:27:00,1,Siloso Road,holiday
+2023-06-02,15:27:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:27:00,2,Universal Studios Singapore,holiday
+2023-06-02,15:27:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:27:00,1,Serapong Course,holiday
+2023-06-02,15:27:00,1,Ironside Link,holiday
+2023-06-02,15:27:00,1,Gateway Avenue,holiday
+2023-06-02,15:27:00,1,Cove Drive,holiday
+2023-06-02,15:28:00,1,Fort Siloso,holiday
+2023-06-02,15:28:00,1,Shangri-La's Rasa Sentosa Resort & Spa,holiday
+2023-06-02,15:28:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:28:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:28:00,2,Universal Studios Singapore,holiday
+2023-06-02,15:28:00,1,Artillery Avenue,holiday
+2023-06-02,15:28:00,2,Ironside Link,holiday
+2023-06-02,15:28:00,1,Serapong Course,holiday
+2023-06-02,15:28:00,1,Cove Drive,holiday
+2023-06-02,15:28:00,1,Sentosa Cove,holiday
+2023-06-02,15:28:00,1,Sentosa Gateway,holiday
+2023-06-02,15:29:00,1,Shangri-La's Rasa Sentosa Resort & Spa,holiday
+2023-06-02,15:29:00,1,Fort Siloso,holiday
+2023-06-02,15:29:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:29:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:29:00,1,Gateway Avenue,holiday
+2023-06-02,15:29:00,1,Universal Studios Singapore,holiday
+2023-06-02,15:29:00,1,Artillery Avenue,holiday
+2023-06-02,15:29:00,1,Ironside Link,holiday
+2023-06-02,15:29:00,1,Serapong Course,holiday
+2023-06-02,15:29:00,1,Cove Drive,holiday
+2023-06-02,15:29:00,1,Sentosa Cove,holiday
+2023-06-02,15:29:00,1,Sentosa Gateway,holiday
+2023-06-02,15:30:00,1,Siloso Road,holiday
+2023-06-02,15:30:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:30:00,1,Sentosa Gateway,holiday
+2023-06-02,15:30:00,1,Tanjong Beach Walk,holiday
+2023-06-02,15:30:00,1,Gateway Avenue,holiday
+2023-06-02,15:30:00,1,Ironside Link,holiday
+2023-06-02,15:30:00,1,Serapong Course,holiday
+2023-06-02,15:30:00,1,Allanbrooke Road,holiday
+2023-06-02,15:30:00,1,Sentosa Gateway,holiday
+2023-06-02,15:31:00,1,Siloso Road,holiday
+2023-06-02,15:31:00,1,Beach Arrival Plaza,holiday
+2023-06-02,15:31:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:31:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:31:00,1,Gateway Avenue,holiday
+2023-06-02,15:31:00,1,Ironside Link,holiday
+2023-06-02,15:31:00,1,Serapong Course,holiday
+2023-06-02,15:31:00,1,Artillery Avenue South,holiday
+2023-06-02,15:31:00,1,Sentosa Gateway,holiday
+2023-06-02,15:32:00,1,Beach Arrival Plaza,holiday
+2023-06-02,15:32:00,1,Mess Hall,holiday
+2023-06-02,15:32:00,1,Sentosa Gateway,holiday
+2023-06-02,15:32:00,1,Gateway Avenue,holiday
+2023-06-02,15:32:00,1,Gateway Avenue,holiday
+2023-06-02,15:32:00,1,Ironside Link,holiday
+2023-06-02,15:32:00,1,Serapong Course,holiday
+2023-06-02,15:32:00,1,Gateway Avenue,holiday
+2023-06-02,15:33:00,2,Sentosa Gateway,holiday
+2023-06-02,15:33:00,1,Gateway Avenue,holiday
+2023-06-02,15:33:00,1,Gateway Avenue,holiday
+2023-06-02,15:33:00,1,Gateway Avenue,holiday
+2023-06-02,15:33:00,1,Serapong Course,holiday
+2023-06-02,15:33:00,1,Ironside Link,holiday
+2023-06-02,15:34:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:34:00,1,Ironside Link,holiday
+2023-06-02,15:34:00,1,Sentosa Gateway,holiday
+2023-06-02,15:35:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:35:00,1,Sentosa Gateway,holiday
+2023-06-02,15:35:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:35:00,1,Serapong Course,holiday
+2023-06-02,15:35:00,1,Ironside Link,holiday
+2023-06-02,15:36:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:36:00,1,Mess Hall,holiday
+2023-06-02,15:36:00,1,Gateway Avenue,holiday
+2023-06-02,15:36:00,1,Serapong Course,holiday
+2023-06-02,15:36:00,2,Ironside Link,holiday
+2023-06-02,15:36:00,1,Ocean Drive,holiday
+2023-06-02,15:37:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:37:00,2,Ironside Link,holiday
+2023-06-02,15:37:00,1,Ocean Drive,holiday
+2023-06-02,15:37:00,1,Ocean Drive,holiday
+2023-06-02,15:38:00,2,Gateway Avenue,holiday
+2023-06-02,15:38:00,2,Ironside Link,holiday
+2023-06-02,15:38:00,1,Ocean Drive,holiday
+2023-06-02,15:38:00,1,Ocean Drive,holiday
+2023-06-02,15:39:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:39:00,1,Sentosa Gateway,holiday
+2023-06-02,15:39:00,1,Ironside Link,holiday
+2023-06-02,15:39:00,1,Ocean Drive,holiday
+2023-06-02,15:40:00,1,Sentosa Gateway,holiday
+2023-06-02,15:40:00,1,Sentosa Gateway,holiday
+2023-06-02,15:40:00,1,Ironside Link,holiday
+2023-06-02,15:40:00,1,Serapong Course,holiday
+2023-06-02,15:40:00,1,Allanbrooke Road,holiday
+2023-06-02,15:40:00,1,Ocean Drive,holiday
+2023-06-02,15:41:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:41:00,2,Ironside Link,holiday
+2023-06-02,15:41:00,1,Allanbrooke Road,holiday
+2023-06-02,15:41:00,1,Ocean Drive,holiday
+2023-06-02,15:42:00,1,Gunner Lane,holiday
+2023-06-02,15:42:00,2,Ironside Link,holiday
+2023-06-02,15:42:00,1,Artillery Avenue,holiday
+2023-06-02,15:42:00,1,Ocean Drive,holiday
+2023-06-02,15:43:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:43:00,1,Ironside Link,holiday
+2023-06-02,15:43:00,1,Gateway Avenue,holiday
+2023-06-02,15:44:00,1,Imbiah Trail,holiday
+2023-06-02,15:44:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:44:00,1,Gateway Avenue,holiday
+2023-06-02,15:44:00,1,Ironside Link,holiday
+2023-06-02,15:44:00,1,Allanbrooke Road,holiday
+2023-06-02,15:45:00,1,Universal Studios Singapore,holiday
+2023-06-02,15:45:00,1,Sentosa Gateway,holiday
+2023-06-02,15:45:00,1,Gateway Avenue,holiday
+2023-06-02,15:45:00,1,Ironside Link,holiday
+2023-06-02,15:45:00,1,Gateway Avenue,holiday
+2023-06-02,15:45:00,1,Sentosa Gateway,holiday
+2023-06-02,15:46:00,1,Siloso Road,holiday
+2023-06-02,15:46:00,1,Imbiah Walk,holiday
+2023-06-02,15:46:00,1,Oasis Resort Sentosa,holiday
+2023-06-02,15:46:00,1,Ironside Link,holiday
+2023-06-02,15:46:00,2,Gateway Avenue,holiday
+2023-06-02,15:46:00,1,Sentosa Gateway,holiday
+2023-06-02,15:47:00,1,Siloso Road,holiday
+2023-06-02,15:47:00,1,Siloso Road,holiday
+2023-06-02,15:47:00,1,Ironside Link,holiday
+2023-06-02,15:47:00,1,Gateway Avenue,holiday
+2023-06-02,15:47:00,1,Gateway Avenue,holiday
+2023-06-02,15:48:00,1,Siloso Road,holiday
+2023-06-02,15:48:00,1,Siloso Road,holiday
+2023-06-02,15:48:00,1,Siloso Road,holiday
+2023-06-02,15:48:00,1,Oasis Resort Sentosa,holiday
+2023-06-02,15:48:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:48:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:48:00,1,Gateway Avenue,holiday
+2023-06-02,15:48:00,2,Ironside Link,holiday
+2023-06-02,15:48:00,1,Gateway Avenue,holiday
+2023-06-02,15:48:00,1,Serapong Course,holiday
+2023-06-02,15:48:00,1,Sentosa Gateway,holiday
+2023-06-02,15:49:00,1,Siloso Road,holiday
+2023-06-02,15:49:00,1,Siloso Road,holiday
+2023-06-02,15:49:00,1,Sentosa Boardwalk,holiday
+2023-06-02,15:49:00,1,Ironside Link,holiday
+2023-06-02,15:49:00,1,Serapong Course,holiday
+2023-06-02,15:49:00,1,Serapong Course,holiday
+2023-06-02,15:49:00,1,Artillery Avenue,holiday
+2023-06-02,15:49:00,1,Sentosa Gateway,holiday
+2023-06-02,15:50:00,1,Siloso Road,holiday
+2023-06-02,15:50:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:50:00,1,Siloso Road,holiday
+2023-06-02,15:50:00,1,Sentosa Gateway,holiday
+2023-06-02,15:50:00,1,Gateway Avenue,holiday
+2023-06-02,15:50:00,1,Ironside Link,holiday
+2023-06-02,15:50:00,1,Gateway Avenue,holiday
+2023-06-02,15:50:00,1,Sentosa Gateway,holiday
+2023-06-02,15:51:00,1,Imbiah Walk,holiday
+2023-06-02,15:51:00,1,Silk Road of the Sea,holiday
+2023-06-02,15:51:00,1,Sentosa Gateway,holiday
+2023-06-02,15:51:00,1,Gateway Avenue,holiday
+2023-06-02,15:51:00,1,Ironside Link,holiday
+2023-06-02,15:51:00,1,Gateway Avenue,holiday
+2023-06-02,15:51:00,1,Sentosa Gateway,holiday
+2023-06-02,15:52:00,1,Imbiah Walk,holiday
+2023-06-02,15:52:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:52:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:52:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:52:00,1,Ironside Link,holiday
+2023-06-02,15:52:00,1,Serapong Course,holiday
+2023-06-02,15:52:00,1,Ironside Link,holiday
+2023-06-02,15:53:00,1,Imbiah Walk,holiday
+2023-06-02,15:53:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:53:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:53:00,1,Ironside Link,holiday
+2023-06-02,15:53:00,1,Serapong Course,holiday
+2023-06-02,15:53:00,1,Ironside Link,holiday
+2023-06-02,15:54:00,1,Imbiah Walk,holiday
+2023-06-02,15:54:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:54:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:54:00,1,Sentosa Gateway,holiday
+2023-06-02,15:54:00,1,Ironside Link,holiday
+2023-06-02,15:54:00,1,Serapong Course,holiday
+2023-06-02,15:55:00,1,Imbiah Walk,holiday
+2023-06-02,15:55:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:55:00,1,Oasis Resort Sentosa,holiday
+2023-06-02,15:55:00,1,Sentosa Gateway,holiday
+2023-06-02,15:55:00,1,Ironside Link,holiday
+2023-06-02,15:56:00,1,Imbiah Walk,holiday
+2023-06-02,15:56:00,1,Beach Arrival Plaza,holiday
+2023-06-02,15:56:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:56:00,1,Amara Sanctuary Resort,holiday
+2023-06-02,15:56:00,1,Gateway Avenue,holiday
+2023-06-02,15:56:00,1,Gateway Avenue,holiday
+2023-06-02,15:56:00,1,Ironside Link,holiday
+2023-06-02,15:56:00,1,Serapong Course,holiday
+2023-06-02,15:57:00,1,Imbiah Walk,holiday
+2023-06-02,15:57:00,1,Beach Arrival Plaza,holiday
+2023-06-02,15:57:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:57:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:57:00,1,Artillery Avenue,holiday
+2023-06-02,15:57:00,1,Gateway Avenue,holiday
+2023-06-02,15:57:00,1,Ironside Link,holiday
+2023-06-02,15:58:00,1,Beach Arrival Plaza,holiday
+2023-06-02,15:58:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:58:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:58:00,1,Sentosa Gateway,holiday
+2023-06-02,15:58:00,1,Sentosa Gateway,holiday
+2023-06-02,15:58:00,1,Gateway Avenue,holiday
+2023-06-02,15:58:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:58:00,2,Ironside Link,holiday
+2023-06-02,15:59:00,1,Siloso Road,holiday
+2023-06-02,15:59:00,1,Beach Arrival Plaza,holiday
+2023-06-02,15:59:00,1,Southern Islands,holiday
+2023-06-02,15:59:00,1,Resorts World Sentosa,holiday
+2023-06-02,15:59:00,1,Sentosa Gateway,holiday
+2023-06-02,15:59:00,1,Gateway Avenue,holiday
+2023-06-02,15:59:00,1,Ironside Link,holiday
+2023-06-02,15:59:00,1,Serapong Course,holiday

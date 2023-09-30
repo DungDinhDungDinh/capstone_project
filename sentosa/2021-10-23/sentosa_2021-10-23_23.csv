@@ -1,0 +1,135 @@
+date,time,cluster_size,address,day_type
+2021-10-23,23:00:00,1,Allanbrooke Road,weekend
+2021-10-23,23:01:00,1,Amara Sanctuary Resort,weekend
+2021-10-23,23:01:00,1,Serapong Course,weekend
+2021-10-23,23:01:00,1,Gateway Avenue,weekend
+2021-10-23,23:01:00,1,Bukit Manis Road,weekend
+2021-10-23,23:01:00,1,Allanbrooke Road,weekend
+2021-10-23,23:01:00,1,The Berth by the Cove,weekend
+2021-10-23,23:02:00,1,Amara Sanctuary Resort,weekend
+2021-10-23,23:02:00,1,Serapong Course,weekend
+2021-10-23,23:02:00,1,Gateway Avenue,weekend
+2021-10-23,23:02:00,1,Bukit Manis Road,weekend
+2021-10-23,23:02:00,1,Allanbrooke Road,weekend
+2021-10-23,23:02:00,1,The Berth by the Cove,weekend
+2021-10-23,23:03:00,1,Amara Sanctuary Resort,weekend
+2021-10-23,23:03:00,1,Serapong Course,weekend
+2021-10-23,23:03:00,1,Gateway Avenue,weekend
+2021-10-23,23:03:00,1,Bukit Manis Road,weekend
+2021-10-23,23:03:00,1,Allanbrooke Road,weekend
+2021-10-23,23:03:00,1,The Berth by the Cove,weekend
+2021-10-23,23:04:00,1,Amara Sanctuary Resort,weekend
+2021-10-23,23:04:00,1,Serapong Course,weekend
+2021-10-23,23:04:00,1,Gateway Avenue,weekend
+2021-10-23,23:04:00,1,Bukit Manis Road,weekend
+2021-10-23,23:04:00,1,Allanbrooke Road,weekend
+2021-10-23,23:04:00,1,The Berth by the Cove,weekend
+2021-10-23,23:05:00,1,Amara Sanctuary Resort,weekend
+2021-10-23,23:05:00,1,Serapong Course,weekend
+2021-10-23,23:05:00,1,Gateway Avenue,weekend
+2021-10-23,23:05:00,1,Bukit Manis Road,weekend
+2021-10-23,23:05:00,1,Allanbrooke Road,weekend
+2021-10-23,23:05:00,1,The Berth by the Cove,weekend
+2021-10-23,23:06:00,1,Amara Sanctuary Resort,weekend
+2021-10-23,23:06:00,1,Serapong Course,weekend
+2021-10-23,23:06:00,1,Gateway Avenue,weekend
+2021-10-23,23:06:00,1,Bukit Manis Road,weekend
+2021-10-23,23:06:00,1,Allanbrooke Road,weekend
+2021-10-23,23:15:00,1,Serapong Course,weekend
+2021-10-23,23:27:00,1,Resorts World Sentosa,weekend
+2021-10-23,23:27:00,1,Serapong Course,weekend
+2021-10-23,23:27:00,1,Ocean Drive,weekend
+2021-10-23,23:28:00,1,Gateway Avenue,weekend
+2021-10-23,23:28:00,1,Resorts World Sentosa,weekend
+2021-10-23,23:28:00,1,Serapong Course,weekend
+2021-10-23,23:28:00,1,Sentosa Cove Arrival Plaza,weekend
+2021-10-23,23:28:00,1,Ocean Drive,weekend
+2021-10-23,23:32:00,1,Gateway Avenue,weekend
+2021-10-23,23:32:00,1,Gateway Avenue,weekend
+2021-10-23,23:32:00,1,Allanbrooke Road,weekend
+2021-10-23,23:32:00,1,Ocean Drive,weekend
+2021-10-23,23:33:00,1,Gateway Avenue,weekend
+2021-10-23,23:33:00,1,Gateway Avenue,weekend
+2021-10-23,23:33:00,1,Allanbrooke Road,weekend
+2021-10-23,23:33:00,1,Ocean Drive,weekend
+2021-10-23,23:39:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:39:00,1,Gateway Avenue,weekend
+2021-10-23,23:39:00,3,Serapong Course,weekend
+2021-10-23,23:39:00,1,Allanbrooke Road,weekend
+2021-10-23,23:39:00,1,Bukit Manis Road,weekend
+2021-10-23,23:39:00,1,Cove Way,weekend
+2021-10-23,23:40:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:40:00,1,Gateway Avenue,weekend
+2021-10-23,23:40:00,4,Serapong Course,weekend
+2021-10-23,23:40:00,1,Bukit Manis Road,weekend
+2021-10-23,23:40:00,1,Allanbrooke Road,weekend
+2021-10-23,23:40:00,1,Bukit Manis Road,weekend
+2021-10-23,23:40:00,1,Cove Way,weekend
+2021-10-23,23:41:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:41:00,1,Gateway Avenue,weekend
+2021-10-23,23:41:00,4,Serapong Course,weekend
+2021-10-23,23:41:00,1,Bukit Manis Road,weekend
+2021-10-23,23:41:00,1,Allanbrooke Road,weekend
+2021-10-23,23:41:00,1,Bukit Manis Road,weekend
+2021-10-23,23:41:00,1,Cove Way,weekend
+2021-10-23,23:42:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:42:00,1,Gateway Avenue,weekend
+2021-10-23,23:42:00,4,Serapong Course,weekend
+2021-10-23,23:42:00,1,Bukit Manis Road,weekend
+2021-10-23,23:42:00,1,Allanbrooke Road,weekend
+2021-10-23,23:42:00,1,Bukit Manis Road,weekend
+2021-10-23,23:42:00,1,Cove Way,weekend
+2021-10-23,23:43:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:43:00,1,Gateway Avenue,weekend
+2021-10-23,23:43:00,3,Serapong Course,weekend
+2021-10-23,23:43:00,1,Allanbrooke Road,weekend
+2021-10-23,23:43:00,1,Bukit Manis Road,weekend
+2021-10-23,23:43:00,1,Cove Way,weekend
+2021-10-23,23:45:00,4,Serapong Course,weekend
+2021-10-23,23:45:00,1,Bukit Manis Road,weekend
+2021-10-23,23:45:00,1,Cove Drive,weekend
+2021-10-23,23:45:00,1,Allanbrooke Road,weekend
+2021-10-23,23:46:00,5,Gateway Avenue,weekend
+2021-10-23,23:46:00,1,Bukit Manis Road,weekend
+2021-10-23,23:46:00,1,,weekend
+2021-10-23,23:46:00,1,Allanbrooke Road,weekend
+2021-10-23,23:46:00,1,Cove Drive,weekend
+2021-10-23,23:46:00,1,Allanbrooke Road,weekend
+2021-10-23,23:47:00,6,Serapong Course,weekend
+2021-10-23,23:47:00,1,Gateway Avenue,weekend
+2021-10-23,23:47:00,1,Bukit Manis Road,weekend
+2021-10-23,23:47:00,1,Bukit Manis Road,weekend
+2021-10-23,23:47:00,1,Allanbrooke Road,weekend
+2021-10-23,23:47:00,1,Cove Drive,weekend
+2021-10-23,23:48:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:48:00,6,Serapong Course,weekend
+2021-10-23,23:48:00,1,Gateway Avenue,weekend
+2021-10-23,23:48:00,1,Gateway Avenue,weekend
+2021-10-23,23:48:00,1,Bukit Manis Road,weekend
+2021-10-23,23:48:00,1,Allanbrooke Road,weekend
+2021-10-23,23:48:00,1,Cove Drive,weekend
+2021-10-23,23:48:00,1,Ocean Drive,weekend
+2021-10-23,23:56:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:56:00,1,Bukit Manis Road,weekend
+2021-10-23,23:56:00,1,Ocean Drive,weekend
+2021-10-23,23:57:00,1,Sentosa Boardwalk,weekend
+2021-10-23,23:57:00,6,Gateway Avenue,weekend
+2021-10-23,23:57:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:57:00,1,Gateway Avenue,weekend
+2021-10-23,23:57:00,1,Bukit Manis Road,weekend
+2021-10-23,23:57:00,1,Ocean Drive,weekend
+2021-10-23,23:57:00,1,Sentosa Gateway,weekend
+2021-10-23,23:58:00,1,Sentosa Boardwalk,weekend
+2021-10-23,23:58:00,6,Gateway Avenue,weekend
+2021-10-23,23:58:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:58:00,1,Gateway Avenue,weekend
+2021-10-23,23:58:00,1,Bukit Manis Road,weekend
+2021-10-23,23:58:00,1,Ocean Drive,weekend
+2021-10-23,23:58:00,1,Sentosa Gateway,weekend
+2021-10-23,23:59:00,1,Sentosa Gateway,weekend
+2021-10-23,23:59:00,1,Gateway Avenue,weekend
+2021-10-23,23:59:00,7,Serapong Course,weekend
+2021-10-23,23:59:00,1,Universal Studios Singapore,weekend
+2021-10-23,23:59:00,1,Gateway Avenue,weekend
+2021-10-23,23:59:00,2,Bukit Manis Road,weekend
+2021-10-23,23:59:00,1,Sentosa Gateway,weekend

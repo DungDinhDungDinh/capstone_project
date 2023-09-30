@@ -7,8 +7,8 @@ Created on Thu Sep 28 14:21:06 2023
 """
 
 import pandas as pd 
-import numpy as np
-
+import csv
+import os
 
 
 def hour_creation():
@@ -18,42 +18,97 @@ def hour_creation():
     return hour_list
 
 hour_list = hour_creation()
-
-def return_avg_taxi_drivers_by_hour():
+        
+def sentosa_statistics_by_hour(date):
+    data_rows = []
     for hour in hour_list:
-        file_name = './sentosa/29_05_2023/sentosa_2023-05-29_' + hour + '.csv'
+        file_name = './sentosa/' + date + '/sentosa_' + date + '_' + hour + '.csv'
         data = pd.read_csv(file_name)
+        
         data_groupby = data.groupby(['time']).count()
-        print(round(sum(data_groupby['date'])/len(data_groupby), 2))
+        avg_taxi_drivers = round(sum(data['cluster_size'])/len(data_groupby), 2)
+        
+        max_cluster_size = data['cluster_size'].max()
+        
+        data_rows.append([date, hour, avg_taxi_drivers, max_cluster_size])
+        
+    return data_rows
+
+
+def writingToSentosaStatisticsCSVFile():
+    fields = ['date', 'hour', 'avg_taxi_drivers', 'max_cluster_size']
     
-def return_max_cluster_size_by_hour():
-    for hour in hour_list:
-        file_name = './sentosa/29_05_2023/sentosa_2023-05-29_' + hour + '.csv'
+    save_path = 'sentosa'
+    
+    date = '2023-08-09'
+    
+    
+    data_rows = sentosa_statistics_by_hour(date)
+    
+    # name of csv file 
+    filename = "sentosa_statistics_by_hour_" + date + ".csv"
+    
+    completeName = os.path.join(save_path, filename)
+        
+    # writing to csv file 
+    with open(completeName, 'w') as csvfile: 
+        # creating a csv writer object 
+        csvwriter = csv.writer(csvfile) 
+            
+        # writing the fields 
+        csvwriter.writerow(fields) 
+            
+        # writing the data rows 
+        csvwriter.writerows(data_rows)
+        
+# writingToSentosaStatisticsCSVFile()
+        
+def top_addresses_by_hour(date):
+    data_rows = []
+    
+    for i in hour_list:
+        file_name = './sentosa/' + date +'/sentosa_' + date + '_' + i + '.csv'
+        
         data = pd.read_csv(file_name)
-        cluster_size_max = data['cluster_size'].max()
-        print(cluster_size_max)
         
-def top_addresses_by_hour():
-    data = pd.read_csv('./sentosa/29_05_2023/sentosa_2023-05-29_04.csv')
-    
-    data_groupby_address = data.groupby(['time','address'])['date'].count()
-    
-    index = data_groupby_address.index.tolist()
-    
-    time = []
-    address = []
-    for i in index:
-        time_, address_ = i
-        time.append(time_)
-        address.append(address_)
-    
+        data_groupby_address = data.groupby(['address']).count()['date'].nlargest(5).reset_index()
         
-    values = data_groupby_address.values.tolist()
+        addresses = data_groupby_address['address'].values
+        frequency = data_groupby_address['date'].values
+        
+        j=0
+        while j < len(addresses):
+            data_rows.append([date, i, addresses[j], frequency[j]])
+            j = j+1
     
-    groupby_df = pd.DataFrame({'time': time, 'address': address, 'count': values})
+    return data_rows
+
+def writingToFrequencyCSVFile():
+    fields = ['date', 'time', 'address', 'frequency']
     
-    groupby_df_groupby_time = groupby_df.groupby('time').apply(lambda x: x.nlargest(1, 'count')).reset_index(drop = True)
+    save_path = 'sentosa'
     
-    for i in groupby_df_groupby_time['address']:
-        print(i)   
-top_addresses_by_hour()
+    date = '2023-05-29'
+    
+    
+    data_rows = top_addresses_by_hour(date)
+    
+    # name of csv file 
+    filename = "top5_addresses_by_hour_" + date + ".csv"
+    
+    completeName = os.path.join(save_path, filename)
+        
+    # writing to csv file 
+    with open(completeName, 'w') as csvfile: 
+        # creating a csv writer object 
+        csvwriter = csv.writer(csvfile) 
+            
+        # writing the fields 
+        csvwriter.writerow(fields) 
+            
+        # writing the data rows 
+        csvwriter.writerows(data_rows)
+        
+
+
+

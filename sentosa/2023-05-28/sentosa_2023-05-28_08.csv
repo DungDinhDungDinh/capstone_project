@@ -1,0 +1,54 @@
+date,time,cluster_size,address,day_type
+2023-05-28,08:00:00,1,Ironside Road,weekend
+2023-05-28,08:01:00,1,Ironside Link,weekend
+2023-05-28,08:03:00,1,Sentosa Gateway,weekend
+2023-05-28,08:09:00,2,Ironside Road,weekend
+2023-05-28,08:10:00,1,Ironside Road,weekend
+2023-05-28,08:10:00,1,Serapong Course,weekend
+2023-05-28,08:10:00,1,Artillery Avenue,weekend
+2023-05-28,08:11:00,2,Sentosa Gateway (Towards Telok Blangah),weekend
+2023-05-28,08:11:00,1,Serapong Course,weekend
+2023-05-28,08:12:00,1,Sentosa Gateway,weekend
+2023-05-28,08:12:00,1,Serapong Course,weekend
+2023-05-28,08:13:00,1,Sentosa Gateway,weekend
+2023-05-28,08:18:00,1,Resorts World Sentosa,weekend
+2023-05-28,08:19:00,1,Gateway Avenue,weekend
+2023-05-28,08:25:00,1,Sentosa Gateway,weekend
+2023-05-28,08:26:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2023-05-28,08:27:00,1,Siloso Road,weekend
+2023-05-28,08:27:00,1,Artillery Avenue,weekend
+2023-05-28,08:28:00,1,Siloso Road,weekend
+2023-05-28,08:28:00,1,Artillery Avenue,weekend
+2023-05-28,08:29:00,1,Siloso Road,weekend
+2023-05-28,08:29:00,1,Southern Islands,weekend
+2023-05-28,08:29:00,1,Ocean Drive,weekend
+2023-05-28,08:30:00,1,Siloso Road,weekend
+2023-05-28,08:30:00,1,Southern Islands,weekend
+2023-05-28,08:33:00,1,Serapong Course,weekend
+2023-05-28,08:34:00,1,Ocean Drive,weekend
+2023-05-28,08:35:00,1,Ocean Drive,weekend
+2023-05-28,08:35:00,1,Paradise Island,weekend
+2023-05-28,08:36:00,1,Ocean Drive,weekend
+2023-05-28,08:37:00,1,Ocean Drive,weekend
+2023-05-28,08:38:00,1,Ocean Drive,weekend
+2023-05-28,08:39:00,1,Ironside Link,weekend
+2023-05-28,08:39:00,1,Paradise Island,weekend
+2023-05-28,08:39:00,1,Ocean Drive,weekend
+2023-05-28,08:40:00,1,Ironside Link,weekend
+2023-05-28,08:40:00,1,Paradise Island,weekend
+2023-05-28,08:40:00,1,Ocean Drive,weekend
+2023-05-28,08:41:00,1,Artillery Avenue,weekend
+2023-05-28,08:41:00,1,Ironside Link,weekend
+2023-05-28,08:41:00,1,Ocean Drive,weekend
+2023-05-28,08:42:00,1,Ironside Link,weekend
+2023-05-28,08:42:00,1,Serapong Course,weekend
+2023-05-28,08:42:00,1,Gateway Avenue,weekend
+2023-05-28,08:42:00,1,Ocean Drive,weekend
+2023-05-28,08:43:00,1,Sentosa Boardwalk,weekend
+2023-05-28,08:43:00,1,Serapong Course,weekend
+2023-05-28,08:44:00,1,Sentosa Gateway,weekend
+2023-05-28,08:45:00,1,Ironside Link,weekend
+2023-05-28,08:45:00,1,Allanbrooke Road,weekend
+2023-05-28,08:46:00,1,Ironside Link,weekend
+2023-05-28,08:58:00,1,Sentosa Gateway,weekend
+2023-05-28,08:59:00,1,Sentosa Gateway,weekend

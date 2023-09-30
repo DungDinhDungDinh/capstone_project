@@ -1,0 +1,290 @@
+date,time,cluster_size,address,day_type
+2023-05-28,00:00:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:00:00,1,Ironside Link,weekend
+2023-05-28,00:00:00,1,Southern Islands,weekend
+2023-05-28,00:00:00,1,Bukit Manis Road,weekend
+2023-05-28,00:00:00,1,Sentosa Golf Club Tanjong Course,weekend
+2023-05-28,00:00:00,1,Allanbrooke Road,weekend
+2023-05-28,00:01:00,1,Mess Hall,weekend
+2023-05-28,00:01:00,2,Ironside Link,weekend
+2023-05-28,00:01:00,1,Gateway Avenue,weekend
+2023-05-28,00:01:00,1,Bukit Manis Road,weekend
+2023-05-28,00:01:00,1,Bukit Manis Road,weekend
+2023-05-28,00:01:00,1,Sentosa Golf Club Tanjong Course,weekend
+2023-05-28,00:01:00,1,Allanbrooke Road,weekend
+2023-05-28,00:02:00,2,Ironside Link,weekend
+2023-05-28,00:02:00,2,Gateway Avenue,weekend
+2023-05-28,00:02:00,1,Bukit Manis Road,weekend
+2023-05-28,00:02:00,1,Bukit Manis Road,weekend
+2023-05-28,00:02:00,1,Sentosa Golf Club Tanjong Course,weekend
+2023-05-28,00:02:00,1,Allanbrooke Road,weekend
+2023-05-28,00:03:00,1,Gateway Avenue,weekend
+2023-05-28,00:03:00,1,Serapong Course,weekend
+2023-05-28,00:03:00,1,Gateway Avenue,weekend
+2023-05-28,00:03:00,1,Sofitel Sentosa Resort & Spa,weekend
+2023-05-28,00:03:00,1,Bukit Manis Road,weekend
+2023-05-28,00:03:00,1,Bukit Manis Road,weekend
+2023-05-28,00:04:00,1,Gateway Avenue,weekend
+2023-05-28,00:04:00,1,Serapong Course,weekend
+2023-05-28,00:04:00,1,Gateway Avenue,weekend
+2023-05-28,00:04:00,1,Sofitel Sentosa Resort & Spa,weekend
+2023-05-28,00:04:00,1,Bukit Manis Road,weekend
+2023-05-28,00:04:00,1,Bukit Manis Road,weekend
+2023-05-28,00:05:00,1,Sentosa Gateway,weekend
+2023-05-28,00:05:00,1,Serapong Course,weekend
+2023-05-28,00:05:00,1,Sofitel Sentosa Resort & Spa,weekend
+2023-05-28,00:05:00,1,Bukit Manis Road,weekend
+2023-05-28,00:05:00,1,Bukit Manis Road,weekend
+2023-05-28,00:06:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:06:00,1,Serapong Course,weekend
+2023-05-28,00:06:00,1,Bukit Manis Road,weekend
+2023-05-28,00:06:00,1,Bukit Manis Road,weekend
+2023-05-28,00:06:00,1,Sentosa Gateway,weekend
+2023-05-28,00:07:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:07:00,1,Bukit Manis Road,weekend
+2023-05-28,00:07:00,1,Bukit Manis Road,weekend
+2023-05-28,00:08:00,1,Sentosa Gateway,weekend
+2023-05-28,00:08:00,1,Southern Islands,weekend
+2023-05-28,00:08:00,1,Ironside Link,weekend
+2023-05-28,00:09:00,1,Amara Sanctuary Resort,weekend
+2023-05-28,00:09:00,1,Ironside Link,weekend
+2023-05-28,00:09:00,1,Bukit Manis Road,weekend
+2023-05-28,00:10:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:10:00,1,Village Hotel @ Sentosa,weekend
+2023-05-28,00:10:00,2,Ironside Link,weekend
+2023-05-28,00:10:00,1,Bukit Manis Road,weekend
+2023-05-28,00:11:00,1,Village Hotel @ Sentosa,weekend
+2023-05-28,00:11:00,1,Artillery Avenue,weekend
+2023-05-28,00:11:00,1,Ironside Link,weekend
+2023-05-28,00:12:00,1,Village Hotel @ Sentosa,weekend
+2023-05-28,00:12:00,1,Artillery Avenue,weekend
+2023-05-28,00:12:00,1,Ironside Link,weekend
+2023-05-28,00:13:00,1,Mess Hall,weekend
+2023-05-28,00:13:00,1,Ironside Link,weekend
+2023-05-28,00:13:00,1,Allanbrooke Road,weekend
+2023-05-28,00:14:00,1,Sentosa Boardwalk,weekend
+2023-05-28,00:14:00,1,Sentosa Boardwalk,weekend
+2023-05-28,00:14:00,1,Gateway Avenue,weekend
+2023-05-28,00:14:00,1,Ironside Link,weekend
+2023-05-28,00:14:00,1,Allanbrooke Road,weekend
+2023-05-28,00:15:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:15:00,1,Serapong Course,weekend
+2023-05-28,00:15:00,1,Allanbrooke Road,weekend
+2023-05-28,00:16:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:16:00,1,Serapong Course,weekend
+2023-05-28,00:16:00,1,Gateway Avenue,weekend
+2023-05-28,00:16:00,1,Ironside Link,weekend
+2023-05-28,00:16:00,1,Serapong Course,weekend
+2023-05-28,00:16:00,1,Allanbrooke Road,weekend
+2023-05-28,00:17:00,1,Sentosa Boardwalk,weekend
+2023-05-28,00:17:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:17:00,1,Serapong Course,weekend
+2023-05-28,00:17:00,1,Gateway Avenue,weekend
+2023-05-28,00:17:00,1,Ironside Link,weekend
+2023-05-28,00:17:00,1,Serapong Course,weekend
+2023-05-28,00:17:00,1,Allanbrooke Road,weekend
+2023-05-28,00:18:00,1,Serapong Course,weekend
+2023-05-28,00:18:00,1,Gateway Avenue,weekend
+2023-05-28,00:18:00,1,Ironside Link,weekend
+2023-05-28,00:18:00,1,Allanbrooke Road,weekend
+2023-05-28,00:18:00,1,Sentosa Cove,weekend
+2023-05-28,00:19:00,1,Serapong Course,weekend
+2023-05-28,00:19:00,1,Gateway Avenue,weekend
+2023-05-28,00:19:00,1,Allanbrooke Road,weekend
+2023-05-28,00:19:00,1,Cove Way,weekend
+2023-05-28,00:20:00,1,Sentosa Gateway,weekend
+2023-05-28,00:20:00,1,Serapong Course,weekend
+2023-05-28,00:20:00,1,Ironside Link,weekend
+2023-05-28,00:20:00,1,Allanbrooke Road,weekend
+2023-05-28,00:20:00,1,Cove Way,weekend
+2023-05-28,00:21:00,1,Sentosa Gateway,weekend
+2023-05-28,00:21:00,2,Ironside Link,weekend
+2023-05-28,00:21:00,1,Allanbrooke Road,weekend
+2023-05-28,00:21:00,1,Cove Way,weekend
+2023-05-28,00:21:00,1,Sentosa Gateway,weekend
+2023-05-28,00:22:00,2,Ironside Link,weekend
+2023-05-28,00:22:00,1,Allanbrooke Road,weekend
+2023-05-28,00:22:00,1,Cove Way,weekend
+2023-05-28,00:23:00,1,Palawan Beach Walk,weekend
+2023-05-28,00:23:00,1,Sentosa Gateway,weekend
+2023-05-28,00:23:00,1,Gateway Avenue,weekend
+2023-05-28,00:23:00,1,Gateway Avenue,weekend
+2023-05-28,00:23:00,1,Ironside Link,weekend
+2023-05-28,00:23:00,1,Gateway Avenue,weekend
+2023-05-28,00:23:00,1,Allanbrooke Road,weekend
+2023-05-28,00:23:00,1,Cove Way,weekend
+2023-05-28,00:24:00,2,Ironside Link,weekend
+2023-05-28,00:24:00,1,Serapong Course,weekend
+2023-05-28,00:24:00,1,Allanbrooke Road,weekend
+2023-05-28,00:24:00,1,Cove Way,weekend
+2023-05-28,00:25:00,1,Ironside Road,weekend
+2023-05-28,00:25:00,2,Gateway Avenue,weekend
+2023-05-28,00:25:00,2,Ironside Link,weekend
+2023-05-28,00:25:00,1,Artillery Avenue,weekend
+2023-05-28,00:25:00,1,Cove Drive,weekend
+2023-05-28,00:26:00,1,Ironside Road,weekend
+2023-05-28,00:26:00,2,Ironside Link,weekend
+2023-05-28,00:26:00,1,Serapong Course,weekend
+2023-05-28,00:26:00,1,Allanbrooke Road,weekend
+2023-05-28,00:26:00,1,Cove Drive,weekend
+2023-05-28,00:26:00,1,Sentosa Gateway,weekend
+2023-05-28,00:27:00,1,Ironside Road,weekend
+2023-05-28,00:27:00,1,Ironside Link,weekend
+2023-05-28,00:27:00,1,Serapong Course,weekend
+2023-05-28,00:27:00,1,Cove Drive,weekend
+2023-05-28,00:27:00,1,Sentosa Gateway,weekend
+2023-05-28,00:28:00,1,Ironside Road,weekend
+2023-05-28,00:28:00,1,Gateway Avenue,weekend
+2023-05-28,00:28:00,1,Serapong Course,weekend
+2023-05-28,00:28:00,1,Ironside Link,weekend
+2023-05-28,00:28:00,1,Allanbrooke Road,weekend
+2023-05-28,00:28:00,1,Allanbrooke Road,weekend
+2023-05-28,00:29:00,1,Ironside Road,weekend
+2023-05-28,00:29:00,1,Serapong Course,weekend
+2023-05-28,00:29:00,1,Ironside Link,weekend
+2023-05-28,00:29:00,1,Allanbrooke Road,weekend
+2023-05-28,00:30:00,1,Ironside Road,weekend
+2023-05-28,00:30:00,1,Ironside Link,weekend
+2023-05-28,00:30:00,1,Allanbrooke Road,weekend
+2023-05-28,00:31:00,1,Ironside Road,weekend
+2023-05-28,00:31:00,1,Ironside Link,weekend
+2023-05-28,00:31:00,1,Allanbrooke Road,weekend
+2023-05-28,00:32:00,1,Ironside Road,weekend
+2023-05-28,00:32:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:32:00,1,Ironside Link,weekend
+2023-05-28,00:32:00,1,Allanbrooke Road,weekend
+2023-05-28,00:33:00,1,Ironside Road,weekend
+2023-05-28,00:33:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:33:00,2,Ironside Link,weekend
+2023-05-28,00:33:00,1,Allanbrooke Road,weekend
+2023-05-28,00:33:00,1,Ocean Drive,weekend
+2023-05-28,00:34:00,1,Ironside Road,weekend
+2023-05-28,00:34:00,2,Ironside Link,weekend
+2023-05-28,00:34:00,1,Allanbrooke Road,weekend
+2023-05-28,00:34:00,1,Ocean Drive,weekend
+2023-05-28,00:35:00,1,Ironside Road,weekend
+2023-05-28,00:35:00,2,Ironside Link,weekend
+2023-05-28,00:35:00,1,Allanbrooke Road,weekend
+2023-05-28,00:35:00,1,Ocean Drive,weekend
+2023-05-28,00:36:00,1,Sentosa Gateway,weekend
+2023-05-28,00:36:00,1,Ironside Road,weekend
+2023-05-28,00:36:00,2,Ironside Link,weekend
+2023-05-28,00:36:00,1,Bukit Manis Road,weekend
+2023-05-28,00:36:00,1,Allanbrooke Road,weekend
+2023-05-28,00:36:00,1,Ocean Drive,weekend
+2023-05-28,00:37:00,1,Sentosa Gateway,weekend
+2023-05-28,00:37:00,1,Ironside Road,weekend
+2023-05-28,00:37:00,2,Ironside Link,weekend
+2023-05-28,00:37:00,1,Allanbrooke Road,weekend
+2023-05-28,00:37:00,1,Ocean Drive,weekend
+2023-05-28,00:38:00,1,Ironside Road,weekend
+2023-05-28,00:38:00,2,Ironside Link,weekend
+2023-05-28,00:38:00,1,Serapong Course,weekend
+2023-05-28,00:38:00,1,Allanbrooke Road,weekend
+2023-05-28,00:39:00,1,Ironside Road,weekend
+2023-05-28,00:39:00,2,Ironside Link,weekend
+2023-05-28,00:39:00,1,Gateway Avenue,weekend
+2023-05-28,00:39:00,1,Allanbrooke Road,weekend
+2023-05-28,00:39:00,1,Sentosa Cove,weekend
+2023-05-28,00:40:00,1,Ironside Road,weekend
+2023-05-28,00:40:00,1,Serapong Course,weekend
+2023-05-28,00:40:00,1,Ironside Link,weekend
+2023-05-28,00:40:00,1,Artillery Avenue,weekend
+2023-05-28,00:40:00,1,Allanbrooke Road,weekend
+2023-05-28,00:40:00,1,Allanbrooke Road,weekend
+2023-05-28,00:41:00,1,Ironside Road,weekend
+2023-05-28,00:41:00,1,Serapong Course,weekend
+2023-05-28,00:41:00,1,Ironside Link,weekend
+2023-05-28,00:41:00,1,Allanbrooke Road,weekend
+2023-05-28,00:41:00,1,Bukit Manis Road,weekend
+2023-05-28,00:41:00,1,Allanbrooke Road,weekend
+2023-05-28,00:41:00,1,Ocean Way,weekend
+2023-05-28,00:42:00,1,Ironside Road,weekend
+2023-05-28,00:42:00,1,Ironside Link,weekend
+2023-05-28,00:42:00,1,Allanbrooke Road,weekend
+2023-05-28,00:42:00,1,Bukit Manis Road,weekend
+2023-05-28,00:42:00,1,Allanbrooke Road,weekend
+2023-05-28,00:43:00,1,Sentosa Gateway,weekend
+2023-05-28,00:43:00,1,Ironside Road,weekend
+2023-05-28,00:43:00,1,Resorts World Sentosa,weekend
+2023-05-28,00:43:00,1,Ironside Link,weekend
+2023-05-28,00:43:00,1,Panamericana,weekend
+2023-05-28,00:44:00,1,Ironside Road,weekend
+2023-05-28,00:44:00,1,Universal Studios Singapore,weekend
+2023-05-28,00:44:00,1,Ironside Link,weekend
+2023-05-28,00:44:00,1,Bukit Manis Road,weekend
+2023-05-28,00:44:00,1,Allanbrooke Road,weekend
+2023-05-28,00:45:00,1,Ironside Road,weekend
+2023-05-28,00:45:00,2,Ironside Link,weekend
+2023-05-28,00:45:00,1,Gateway Avenue,weekend
+2023-05-28,00:45:00,1,Bukit Manis Road,weekend
+2023-05-28,00:45:00,1,Allanbrooke Road,weekend
+2023-05-28,00:46:00,1,Ironside Road,weekend
+2023-05-28,00:46:00,1,Serapong Course,weekend
+2023-05-28,00:46:00,2,Ironside Link,weekend
+2023-05-28,00:46:00,1,Bukit Manis Road,weekend
+2023-05-28,00:46:00,1,Allanbrooke Road,weekend
+2023-05-28,00:46:00,1,Cove Way,weekend
+2023-05-28,00:47:00,1,Sentosa Boardwalk,weekend
+2023-05-28,00:47:00,1,Ironside Road,weekend
+2023-05-28,00:47:00,1,Serapong Course,weekend
+2023-05-28,00:47:00,2,Ironside Link,weekend
+2023-05-28,00:47:00,1,Bukit Manis Road,weekend
+2023-05-28,00:47:00,1,Allanbrooke Road,weekend
+2023-05-28,00:48:00,1,Ironside Road,weekend
+2023-05-28,00:48:00,2,Ironside Link,weekend
+2023-05-28,00:48:00,1,Serapong Course,weekend
+2023-05-28,00:48:00,1,Gateway Avenue,weekend
+2023-05-28,00:48:00,1,Bukit Manis Road,weekend
+2023-05-28,00:49:00,1,Ironside Road,weekend
+2023-05-28,00:49:00,1,Ironside Link,weekend
+2023-05-28,00:49:00,1,Bukit Manis Road,weekend
+2023-05-28,00:49:00,1,Allanbrooke Road,weekend
+2023-05-28,00:49:00,1,Sentosa Gateway,weekend
+2023-05-28,00:50:00,1,Sentosa Gateway,weekend
+2023-05-28,00:50:00,1,Ironside Road,weekend
+2023-05-28,00:50:00,2,Ironside Link,weekend
+2023-05-28,00:50:00,1,Bukit Manis Road,weekend
+2023-05-28,00:51:00,1,Sentosa Gateway,weekend
+2023-05-28,00:51:00,1,Ironside Road,weekend
+2023-05-28,00:51:00,1,Ironside Link,weekend
+2023-05-28,00:51:00,1,Bukit Manis Road,weekend
+2023-05-28,00:51:00,1,Allanbrooke Road,weekend
+2023-05-28,00:52:00,1,Ironside Road,weekend
+2023-05-28,00:52:00,1,Ironside Link,weekend
+2023-05-28,00:52:00,1,Gateway Avenue,weekend
+2023-05-28,00:52:00,1,Allanbrooke Road,weekend
+2023-05-28,00:52:00,1,Bukit Manis Road,weekend
+2023-05-28,00:53:00,1,Sentosa Gateway,weekend
+2023-05-28,00:53:00,1,Ironside Road,weekend
+2023-05-28,00:53:00,2,Ironside Link,weekend
+2023-05-28,00:53:00,1,Gateway Avenue,weekend
+2023-05-28,00:53:00,2,Bukit Manis Road,weekend
+2023-05-28,00:54:00,3,Ironside Link,weekend
+2023-05-28,00:54:00,2,Bukit Manis Road,weekend
+2023-05-28,00:54:00,1,Allanbrooke Road,weekend
+2023-05-28,00:55:00,1,Ironside Road,weekend
+2023-05-28,00:55:00,1,Serapong Course,weekend
+2023-05-28,00:55:00,1,Ironside Link,weekend
+2023-05-28,00:55:00,2,Panamericana,weekend
+2023-05-28,00:55:00,1,Allanbrooke Road,weekend
+2023-05-28,00:55:00,1,Ocean Way,weekend
+2023-05-28,00:56:00,1,Sentosa Gateway,weekend
+2023-05-28,00:56:00,1,Ironside Road,weekend
+2023-05-28,00:56:00,3,Ironside Link,weekend
+2023-05-28,00:56:00,1,Serapong Course,weekend
+2023-05-28,00:56:00,2,Panamericana,weekend
+2023-05-28,00:56:00,1,Allanbrooke Road,weekend
+2023-05-28,00:57:00,1,Sentosa Gateway,weekend
+2023-05-28,00:57:00,1,Ironside Road,weekend
+2023-05-28,00:57:00,2,Ironside Link,weekend
+2023-05-28,00:57:00,1,Serapong Course,weekend
+2023-05-28,00:57:00,1,Serapong Course,weekend
+2023-05-28,00:57:00,1,Panamericana,weekend
+2023-05-28,00:57:00,1,Sentosa Gateway,weekend
+2023-05-28,00:58:00,1,Ironside Road,weekend
+2023-05-28,00:58:00,3,Ironside Link,weekend
+2023-05-28,00:58:00,1,Bukit Manis Road,weekend
+2023-05-28,00:59:00,3,Ironside Link,weekend
+2023-05-28,00:59:00,1,Bukit Manis Road,weekend
+2023-05-28,00:59:00,1,Sentosa Gateway,weekend
