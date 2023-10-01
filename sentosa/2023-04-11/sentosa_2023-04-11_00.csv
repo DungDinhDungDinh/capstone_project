@@ -1,0 +1,505 @@
+date,time,cluster_size,address,day_type
+2023-04-11,00:00:00,1,Hotel Michael,weekday
+2023-04-11,00:00:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:00:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:00:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:00:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:00:00,2,Gateway Avenue,weekday
+2023-04-11,00:00:00,4,Gateway Avenue,weekday
+2023-04-11,00:00:00,1,Ironside Link,weekday
+2023-04-11,00:00:00,1,Bukit Manis Road,weekday
+2023-04-11,00:00:00,1,Sentosa Gateway,weekday
+2023-04-11,00:00:00,1,Sentosa Gateway,weekday
+2023-04-11,00:01:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:01:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:01:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:01:00,7,Gateway Avenue,weekday
+2023-04-11,00:01:00,1,Ironside Link,weekday
+2023-04-11,00:01:00,1,Serapong Course,weekday
+2023-04-11,00:01:00,1,Bukit Manis Road,weekday
+2023-04-11,00:01:00,1,Sentosa Gateway,weekday
+2023-04-11,00:02:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:02:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:02:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:02:00,1,Ironside Link,weekday
+2023-04-11,00:02:00,8,Gateway Avenue,weekday
+2023-04-11,00:02:00,1,Ironside Link,weekday
+2023-04-11,00:02:00,1,Bukit Manis Road,weekday
+2023-04-11,00:02:00,1,Sentosa Gateway,weekday
+2023-04-11,00:03:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:03:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:03:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:03:00,1,Ironside Link,weekday
+2023-04-11,00:03:00,6,Gateway Avenue,weekday
+2023-04-11,00:03:00,1,Ironside Link,weekday
+2023-04-11,00:03:00,1,Serapong Course,weekday
+2023-04-11,00:03:00,1,Bukit Manis Road,weekday
+2023-04-11,00:03:00,1,Sentosa Gateway,weekday
+2023-04-11,00:04:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:04:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:04:00,1,Gateway Avenue,weekday
+2023-04-11,00:04:00,3,Gateway Avenue,weekday
+2023-04-11,00:04:00,3,Gateway Avenue,weekday
+2023-04-11,00:04:00,1,Serapong Course,weekday
+2023-04-11,00:04:00,1,Bukit Manis Road,weekday
+2023-04-11,00:05:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:05:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:05:00,1,Gateway Avenue,weekday
+2023-04-11,00:05:00,3,Gateway Avenue,weekday
+2023-04-11,00:05:00,3,Gateway Avenue,weekday
+2023-04-11,00:05:00,1,Serapong Course,weekday
+2023-04-11,00:05:00,1,Bukit Manis Road,weekday
+2023-04-11,00:06:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:06:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:06:00,1,Gateway Avenue,weekday
+2023-04-11,00:06:00,3,Gateway Avenue,weekday
+2023-04-11,00:06:00,3,Gateway Avenue,weekday
+2023-04-11,00:06:00,1,Serapong Course,weekday
+2023-04-11,00:06:00,1,Bukit Manis Road,weekday
+2023-04-11,00:07:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:07:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:07:00,1,Gateway Avenue,weekday
+2023-04-11,00:07:00,3,Gateway Avenue,weekday
+2023-04-11,00:07:00,3,Gateway Avenue,weekday
+2023-04-11,00:07:00,1,Serapong Course,weekday
+2023-04-11,00:07:00,1,Bukit Manis Road,weekday
+2023-04-11,00:08:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:08:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:08:00,1,Gateway Avenue,weekday
+2023-04-11,00:08:00,3,Gateway Avenue,weekday
+2023-04-11,00:08:00,3,Gateway Avenue,weekday
+2023-04-11,00:08:00,1,Serapong Course,weekday
+2023-04-11,00:08:00,1,Bukit Manis Road,weekday
+2023-04-11,00:09:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:09:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:09:00,1,Gateway Avenue,weekday
+2023-04-11,00:09:00,3,Gateway Avenue,weekday
+2023-04-11,00:09:00,3,Gateway Avenue,weekday
+2023-04-11,00:09:00,1,Serapong Course,weekday
+2023-04-11,00:09:00,1,Bukit Manis Road,weekday
+2023-04-11,00:10:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:10:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:10:00,1,Gateway Avenue,weekday
+2023-04-11,00:10:00,3,Gateway Avenue,weekday
+2023-04-11,00:10:00,3,Gateway Avenue,weekday
+2023-04-11,00:10:00,1,Serapong Course,weekday
+2023-04-11,00:10:00,1,Bukit Manis Road,weekday
+2023-04-11,00:11:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:11:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:11:00,1,Gateway Avenue,weekday
+2023-04-11,00:11:00,3,Gateway Avenue,weekday
+2023-04-11,00:11:00,3,Gateway Avenue,weekday
+2023-04-11,00:11:00,1,Serapong Course,weekday
+2023-04-11,00:11:00,1,Bukit Manis Road,weekday
+2023-04-11,00:12:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:12:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:12:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:12:00,10,Gateway Avenue,weekday
+2023-04-11,00:12:00,3,Ironside Link,weekday
+2023-04-11,00:12:00,1,Bukit Manis Road,weekday
+2023-04-11,00:12:00,1,Cove Way,weekday
+2023-04-11,00:12:00,1,Ocean Drive,weekday
+2023-04-11,00:13:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:13:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:13:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:13:00,3,Ironside Link,weekday
+2023-04-11,00:13:00,9,Gateway Avenue,weekday
+2023-04-11,00:13:00,1,Bukit Manis Road,weekday
+2023-04-11,00:13:00,1,Cove Way,weekday
+2023-04-11,00:13:00,1,Ocean Drive,weekday
+2023-04-11,00:14:00,1,Silk Road of the Sea,weekday
+2023-04-11,00:14:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:14:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:14:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:14:00,1,Ironside Link,weekday
+2023-04-11,00:14:00,9,Gateway Avenue,weekday
+2023-04-11,00:14:00,1,Ironside Link,weekday
+2023-04-11,00:14:00,1,Allanbrooke Road,weekday
+2023-04-11,00:14:00,1,Cove Way,weekday
+2023-04-11,00:14:00,1,Ocean Drive,weekday
+2023-04-11,00:14:00,1,Sentosa Gateway,weekday
+2023-04-11,00:15:00,1,Silk Road of the Sea,weekday
+2023-04-11,00:15:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:15:00,1,Gateway Avenue,weekday
+2023-04-11,00:15:00,1,Artillery Avenue,weekday
+2023-04-11,00:15:00,1,Ironside Link,weekday
+2023-04-11,00:15:00,8,Gateway Avenue,weekday
+2023-04-11,00:15:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:15:00,1,Ironside Link,weekday
+2023-04-11,00:15:00,1,Cove Avenue,weekday
+2023-04-11,00:15:00,1,ONE ̊15 Marina,weekday
+2023-04-11,00:15:00,1,Sentosa Gateway,weekday
+2023-04-11,00:16:00,1,Sentosa Gateway,weekday
+2023-04-11,00:16:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:16:00,6,Resorts World Sentosa,weekday
+2023-04-11,00:16:00,1,Gateway Avenue,weekday
+2023-04-11,00:16:00,1,Serapong Course,weekday
+2023-04-11,00:16:00,1,Allanbrooke Road,weekday
+2023-04-11,00:16:00,1,Allanbrooke Road,weekday
+2023-04-11,00:16:00,1,Sentosa Gateway,weekday
+2023-04-11,00:16:00,1,Sentosa Gateway,weekday
+2023-04-11,00:17:00,1,Sentosa Gateway,weekday
+2023-04-11,00:17:00,1,Sentosa Gateway,weekday
+2023-04-11,00:17:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:17:00,1,Gateway Avenue,weekday
+2023-04-11,00:17:00,1,Gateway Avenue,weekday
+2023-04-11,00:17:00,1,Ironside Link,weekday
+2023-04-11,00:17:00,4,Gateway Avenue,weekday
+2023-04-11,00:17:00,1,Ironside Link,weekday
+2023-04-11,00:17:00,1,Southern Islands,weekday
+2023-04-11,00:17:00,1,Allanbrooke Road,weekday
+2023-04-11,00:17:00,1,Ocean Drive,weekday
+2023-04-11,00:18:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:18:00,1,Oasis Resort Sentosa,weekday
+2023-04-11,00:18:00,1,Sentosa Gateway,weekday
+2023-04-11,00:18:00,1,Sentosa Gateway,weekday
+2023-04-11,00:18:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:18:00,1,Gateway Avenue,weekday
+2023-04-11,00:18:00,1,Gateway Avenue,weekday
+2023-04-11,00:18:00,1,Ironside Link,weekday
+2023-04-11,00:18:00,4,Gateway Avenue,weekday
+2023-04-11,00:18:00,1,Ironside Link,weekday
+2023-04-11,00:18:00,1,Serapong Course,weekday
+2023-04-11,00:18:00,1,Gateway Avenue,weekday
+2023-04-11,00:18:00,1,Allanbrooke Road,weekday
+2023-04-11,00:18:00,1,Sentosa Gateway,weekday
+2023-04-11,00:19:00,1,Oasis Resort Sentosa,weekday
+2023-04-11,00:19:00,2,Resorts World Sentosa,weekday
+2023-04-11,00:19:00,1,Sentosa Gateway,weekday
+2023-04-11,00:19:00,1,Sentosa Gateway,weekday
+2023-04-11,00:19:00,1,Southern Islands,weekday
+2023-04-11,00:19:00,1,Gateway Avenue,weekday
+2023-04-11,00:19:00,1,Gateway Avenue,weekday
+2023-04-11,00:19:00,4,Ironside Link,weekday
+2023-04-11,00:19:00,5,Gateway Avenue,weekday
+2023-04-11,00:19:00,1,Pearl Bridge,weekday
+2023-04-11,00:20:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:20:00,1,Beach View,weekday
+2023-04-11,00:20:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:20:00,1,Artillery Avenue,weekday
+2023-04-11,00:20:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:20:00,1,Sentosa Gateway,weekday
+2023-04-11,00:20:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:20:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:20:00,1,Gateway Avenue,weekday
+2023-04-11,00:20:00,1,Ironside Link,weekday
+2023-04-11,00:20:00,5,Gateway Avenue,weekday
+2023-04-11,00:20:00,1,Ironside Link,weekday
+2023-04-11,00:20:00,1,Sentosa Cove,weekday
+2023-04-11,00:20:00,1,Sentosa Cove Arrival Plaza,weekday
+2023-04-11,00:21:00,1,Hard Rock Hotel Singapore,weekday
+2023-04-11,00:21:00,1,Siloso Road,weekday
+2023-04-11,00:21:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:21:00,1,Gateway Avenue,weekday
+2023-04-11,00:21:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:21:00,1,Gateway Avenue,weekday
+2023-04-11,00:21:00,1,Gateway Avenue,weekday
+2023-04-11,00:21:00,7,Gateway Avenue,weekday
+2023-04-11,00:21:00,2,Ironside Link,weekday
+2023-04-11,00:21:00,1,Sentosa Cove,weekday
+2023-04-11,00:22:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:22:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:22:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:22:00,1,Universal Studios Singapore,weekday
+2023-04-11,00:22:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:22:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:22:00,5,Gateway Avenue,weekday
+2023-04-11,00:22:00,2,Gateway Avenue,weekday
+2023-04-11,00:22:00,1,Ironside Link,weekday
+2023-04-11,00:22:00,1,Gateway Avenue,weekday
+2023-04-11,00:22:00,1,Sentosa Cove,weekday
+2023-04-11,00:22:00,1,Ocean Drive,weekday
+2023-04-11,00:22:00,1,Ocean Drive,weekday
+2023-04-11,00:23:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:23:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:23:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:23:00,1,Sentosa Gateway,weekday
+2023-04-11,00:23:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:23:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:23:00,1,Gateway Avenue,weekday
+2023-04-11,00:23:00,2,Gateway Avenue,weekday
+2023-04-11,00:23:00,1,Ironside Link,weekday
+2023-04-11,00:23:00,1,Serapong Course,weekday
+2023-04-11,00:23:00,1,Gateway Avenue,weekday
+2023-04-11,00:23:00,1,Allanbrooke Road,weekday
+2023-04-11,00:23:00,1,Sentosa Cove,weekday
+2023-04-11,00:23:00,1,Sentosa Gateway,weekday
+2023-04-11,00:24:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:24:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:24:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:24:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:24:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:24:00,1,Gateway Avenue,weekday
+2023-04-11,00:24:00,2,Gateway Avenue,weekday
+2023-04-11,00:24:00,1,Ironside Link,weekday
+2023-04-11,00:24:00,1,Gateway Avenue,weekday
+2023-04-11,00:24:00,1,Serapong Course,weekday
+2023-04-11,00:24:00,1,Gateway Avenue,weekday
+2023-04-11,00:24:00,1,Allanbrooke Road,weekday
+2023-04-11,00:24:00,1,Sentosa Cove,weekday
+2023-04-11,00:24:00,1,Sentosa Gateway,weekday
+2023-04-11,00:25:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:25:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:25:00,1,Universal Studios Singapore,weekday
+2023-04-11,00:25:00,2,Gateway Avenue,weekday
+2023-04-11,00:25:00,2,Ironside Link,weekday
+2023-04-11,00:25:00,3,Serapong Course,weekday
+2023-04-11,00:25:00,1,Gateway Avenue,weekday
+2023-04-11,00:25:00,1,Allanbrooke Road,weekday
+2023-04-11,00:25:00,1,Cove Avenue,weekday
+2023-04-11,00:25:00,1,Sentosa Cove Arrival Plaza,weekday
+2023-04-11,00:25:00,1,Sentosa Gateway,weekday
+2023-04-11,00:26:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:26:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:26:00,1,7-Eleven,weekday
+2023-04-11,00:26:00,1,Palawan Beach Walk,weekday
+2023-04-11,00:26:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:26:00,1,Gateway Avenue,weekday
+2023-04-11,00:26:00,1,Gateway Avenue,weekday
+2023-04-11,00:26:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:26:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:26:00,2,Gateway Avenue,weekday
+2023-04-11,00:26:00,2,Ironside Link,weekday
+2023-04-11,00:26:00,2,Serapong Course,weekday
+2023-04-11,00:26:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:26:00,1,Gateway Avenue,weekday
+2023-04-11,00:26:00,1,Allanbrooke Road,weekday
+2023-04-11,00:26:00,1,Allanbrooke Road,weekday
+2023-04-11,00:26:00,1,Sentosa Cove Arrival Plaza,weekday
+2023-04-11,00:27:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:27:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:27:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:27:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:27:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:27:00,1,Sentosa Gateway,weekday
+2023-04-11,00:27:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:27:00,1,Southern Islands,weekday
+2023-04-11,00:27:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:27:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:27:00,3,Gateway Avenue,weekday
+2023-04-11,00:27:00,3,Ironside Link,weekday
+2023-04-11,00:27:00,4,Gateway Avenue,weekday
+2023-04-11,00:27:00,1,Allanbrooke Road,weekday
+2023-04-11,00:28:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:28:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:28:00,1,Sentosa Gateway,weekday
+2023-04-11,00:28:00,1,Gateway Avenue,weekday
+2023-04-11,00:28:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:28:00,1,Gateway Avenue,weekday
+2023-04-11,00:28:00,1,Ironside Road,weekday
+2023-04-11,00:28:00,4,Gateway Avenue,weekday
+2023-04-11,00:28:00,2,Ironside Link,weekday
+2023-04-11,00:28:00,5,Gateway Avenue,weekday
+2023-04-11,00:28:00,1,Sentosa Gateway,weekday
+2023-04-11,00:28:00,1,Sentosa Gateway,weekday
+2023-04-11,00:29:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:29:00,1,Sentosa Gateway,weekday
+2023-04-11,00:29:00,1,Sentosa Gateway,weekday
+2023-04-11,00:29:00,1,Ironside Road,weekday
+2023-04-11,00:29:00,3,Gateway Avenue,weekday
+2023-04-11,00:29:00,2,Ironside Link,weekday
+2023-04-11,00:29:00,5,Gateway Avenue,weekday
+2023-04-11,00:30:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:30:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:30:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:30:00,1,Ironside Road,weekday
+2023-04-11,00:30:00,1,Gateway Avenue,weekday
+2023-04-11,00:30:00,2,Gateway Avenue,weekday
+2023-04-11,00:30:00,2,Ironside Link,weekday
+2023-04-11,00:30:00,2,Gateway Avenue,weekday
+2023-04-11,00:31:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:31:00,1,Sentosa Gateway,weekday
+2023-04-11,00:31:00,1,Ironside Road,weekday
+2023-04-11,00:31:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:31:00,2,Gateway Avenue,weekday
+2023-04-11,00:31:00,2,Ironside Link,weekday
+2023-04-11,00:31:00,3,Gateway Avenue,weekday
+2023-04-11,00:32:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:32:00,1,Sentosa Gateway,weekday
+2023-04-11,00:32:00,1,Ironside Road,weekday
+2023-04-11,00:32:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:32:00,2,Gateway Avenue,weekday
+2023-04-11,00:32:00,2,Ironside Link,weekday
+2023-04-11,00:32:00,3,Gateway Avenue,weekday
+2023-04-11,00:33:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:33:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:33:00,1,Sentosa Gateway,weekday
+2023-04-11,00:33:00,1,Sentosa Gateway,weekday
+2023-04-11,00:33:00,1,Ironside Road,weekday
+2023-04-11,00:33:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:33:00,2,Gateway Avenue,weekday
+2023-04-11,00:33:00,2,Ironside Link,weekday
+2023-04-11,00:33:00,3,Gateway Avenue,weekday
+2023-04-11,00:34:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:34:00,1,Sentosa Gateway,weekday
+2023-04-11,00:34:00,1,Sentosa Gateway,weekday
+2023-04-11,00:34:00,1,Ironside Road,weekday
+2023-04-11,00:34:00,8,Gateway Avenue,weekday
+2023-04-11,00:34:00,2,Gateway Avenue,weekday
+2023-04-11,00:34:00,2,Ironside Link,weekday
+2023-04-11,00:34:00,1,Ocean Drive,weekday
+2023-04-11,00:35:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:35:00,1,Gateway Avenue,weekday
+2023-04-11,00:35:00,1,Ironside Road,weekday
+2023-04-11,00:35:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:35:00,1,Gateway Avenue,weekday
+2023-04-11,00:35:00,4,Serapong Course,weekday
+2023-04-11,00:35:00,1,Ironside Link,weekday
+2023-04-11,00:35:00,1,Serapong Course,weekday
+2023-04-11,00:36:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:36:00,1,Sentosa Gateway,weekday
+2023-04-11,00:36:00,1,Gateway Avenue,weekday
+2023-04-11,00:36:00,1,Ironside Road,weekday
+2023-04-11,00:36:00,5,Gateway Avenue,weekday
+2023-04-11,00:36:00,1,Gateway Avenue,weekday
+2023-04-11,00:36:00,1,Ironside Link,weekday
+2023-04-11,00:36:00,1,Serapong Course,weekday
+2023-04-11,00:36:00,1,Ocean Drive,weekday
+2023-04-11,00:37:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:37:00,1,Sentosa Gateway,weekday
+2023-04-11,00:37:00,8,Serapong Course,weekday
+2023-04-11,00:37:00,1,Gateway Avenue,weekday
+2023-04-11,00:37:00,1,Ironside Link,weekday
+2023-04-11,00:37:00,1,Artillery Avenue,weekday
+2023-04-11,00:37:00,1,Ocean Drive,weekday
+2023-04-11,00:38:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:38:00,1,Sentosa Gateway,weekday
+2023-04-11,00:38:00,1,Ironside Road,weekday
+2023-04-11,00:38:00,6,Gateway Avenue,weekday
+2023-04-11,00:38:00,2,Gateway Avenue,weekday
+2023-04-11,00:38:00,1,Serapong Course,weekday
+2023-04-11,00:38:00,1,Ocean Drive,weekday
+2023-04-11,00:38:00,1,Sentosa Gateway,weekday
+2023-04-11,00:39:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:39:00,1,Ironside Road,weekday
+2023-04-11,00:39:00,4,Gateway Avenue,weekday
+2023-04-11,00:39:00,1,Ironside Link,weekday
+2023-04-11,00:39:00,1,Serapong Course,weekday
+2023-04-11,00:39:00,1,Sentosa Cove Arrival Plaza,weekday
+2023-04-11,00:39:00,1,Ocean Drive,weekday
+2023-04-11,00:40:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:40:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:40:00,4,Gateway Avenue,weekday
+2023-04-11,00:40:00,1,Serapong Course,weekday
+2023-04-11,00:40:00,1,Ironside Link,weekday
+2023-04-11,00:40:00,1,Allanbrooke Road,weekday
+2023-04-11,00:41:00,1,Ironside Road,weekday
+2023-04-11,00:41:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:41:00,2,Gateway Avenue,weekday
+2023-04-11,00:41:00,1,Serapong Course,weekday
+2023-04-11,00:41:00,1,Ironside Link,weekday
+2023-04-11,00:41:00,1,Allanbrooke Road,weekday
+2023-04-11,00:41:00,1,Sentosa Gateway,weekday
+2023-04-11,00:42:00,3,Gateway Avenue,weekday
+2023-04-11,00:42:00,1,Ironside Link,weekday
+2023-04-11,00:42:00,1,Serapong Course,weekday
+2023-04-11,00:42:00,1,Allanbrooke Road,weekday
+2023-04-11,00:42:00,1,Sentosa Gateway,weekday
+2023-04-11,00:43:00,1,Ironside Road,weekday
+2023-04-11,00:43:00,4,Gateway Avenue,weekday
+2023-04-11,00:43:00,1,Artillery Avenue,weekday
+2023-04-11,00:43:00,1,Serapong Course,weekday
+2023-04-11,00:43:00,1,Sentosa Gateway,weekday
+2023-04-11,00:44:00,1,Ironside Road,weekday
+2023-04-11,00:44:00,4,Gateway Avenue,weekday
+2023-04-11,00:44:00,1,Artillery Avenue,weekday
+2023-04-11,00:44:00,1,Serapong Course,weekday
+2023-04-11,00:44:00,1,Gateway Avenue,weekday
+2023-04-11,00:45:00,1,Sentosa Gateway,weekday
+2023-04-11,00:45:00,1,Ironside Road,weekday
+2023-04-11,00:45:00,1,Gateway Avenue,weekday
+2023-04-11,00:45:00,1,Ironside Link,weekday
+2023-04-11,00:45:00,1,Serapong Course,weekday
+2023-04-11,00:45:00,1,Sentosa Gateway,weekday
+2023-04-11,00:46:00,2,Sentosa Boardwalk,weekday
+2023-04-11,00:46:00,1,Sentosa Gateway,weekday
+2023-04-11,00:46:00,1,Sentosa Gateway,weekday
+2023-04-11,00:46:00,4,Gateway Avenue,weekday
+2023-04-11,00:46:00,1,Ironside Link,weekday
+2023-04-11,00:47:00,1,Sentosa Gateway,weekday
+2023-04-11,00:47:00,1,Gateway Avenue,weekday
+2023-04-11,00:47:00,4,Gateway Avenue,weekday
+2023-04-11,00:47:00,1,Serapong Course,weekday
+2023-04-11,00:47:00,1,Ironside Link,weekday
+2023-04-11,00:48:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:48:00,4,Gateway Avenue,weekday
+2023-04-11,00:48:00,2,Ironside Link,weekday
+2023-04-11,00:48:00,1,Serapong Course,weekday
+2023-04-11,00:49:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:49:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:49:00,2,Serapong Course,weekday
+2023-04-11,00:49:00,2,Ironside Link,weekday
+2023-04-11,00:50:00,1,Artillery Avenue,weekday
+2023-04-11,00:50:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:50:00,2,Sentosa Boardwalk,weekday
+2023-04-11,00:50:00,2,Gateway Avenue,weekday
+2023-04-11,00:50:00,2,Ironside Link,weekday
+2023-04-11,00:50:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:50:00,2,Serapong Course,weekday
+2023-04-11,00:51:00,1,Sentosa Gateway,weekday
+2023-04-11,00:51:00,1,Gateway Avenue,weekday
+2023-04-11,00:51:00,4,Gateway Avenue,weekday
+2023-04-11,00:51:00,1,Gateway Avenue,weekday
+2023-04-11,00:51:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:51:00,3,Serapong Course,weekday
+2023-04-11,00:51:00,1,Ironside Link,weekday
+2023-04-11,00:51:00,1,Sentosa Gateway,weekday
+2023-04-11,00:52:00,1,Gateway Avenue,weekday
+2023-04-11,00:52:00,1,Gateway Avenue,weekday
+2023-04-11,00:52:00,4,Gateway Avenue,weekday
+2023-04-11,00:52:00,1,Gateway Avenue,weekday
+2023-04-11,00:52:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:52:00,2,Serapong Course,weekday
+2023-04-11,00:52:00,1,Ironside Link,weekday
+2023-04-11,00:52:00,1,Sentosa Gateway,weekday
+2023-04-11,00:53:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:53:00,1,Sentosa Gateway,weekday
+2023-04-11,00:53:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:53:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:53:00,1,Gateway Avenue,weekday
+2023-04-11,00:53:00,7,Gateway Avenue,weekday
+2023-04-11,00:53:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:53:00,1,Ironside Link,weekday
+2023-04-11,00:54:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:54:00,1,Sentosa Gateway,weekday
+2023-04-11,00:54:00,8,Gateway Avenue,weekday
+2023-04-11,00:54:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:54:00,1,Ironside Link,weekday
+2023-04-11,00:55:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:55:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:55:00,8,Gateway Avenue,weekday
+2023-04-11,00:55:00,1,Ironside Link,weekday
+2023-04-11,00:56:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:56:00,1,Sentosa Gateway,weekday
+2023-04-11,00:56:00,1,Sentosa Gateway,weekday
+2023-04-11,00:56:00,1,Gateway Avenue,weekday
+2023-04-11,00:56:00,7,Gateway Avenue,weekday
+2023-04-11,00:56:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:56:00,1,Ironside Link,weekday
+2023-04-11,00:57:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:57:00,1,Gateway Avenue,weekday
+2023-04-11,00:57:00,13,Gateway Avenue,weekday
+2023-04-11,00:57:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:57:00,2,Ironside Link,weekday
+2023-04-11,00:57:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:57:00,1,Serapong Course,weekday
+2023-04-11,00:57:00,1,Sentosa Gateway,weekday
+2023-04-11,00:57:00,1,Sentosa Gateway,weekday
+2023-04-11,00:58:00,1,Gunner Lane,weekday
+2023-04-11,00:58:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:58:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:58:00,1,Gateway Avenue,weekday
+2023-04-11,00:58:00,1,Gateway Avenue,weekday
+2023-04-11,00:58:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:58:00,8,Gateway Avenue,weekday
+2023-04-11,00:58:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:58:00,1,Ironside Link,weekday
+2023-04-11,00:58:00,1,Gateway Avenue,weekday
+2023-04-11,00:59:00,1,Artillery Avenue,weekday
+2023-04-11,00:59:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:59:00,1,Sentosa Boardwalk,weekday
+2023-04-11,00:59:00,1,Resorts World Sentosa,weekday
+2023-04-11,00:59:00,6,Gateway Avenue,weekday
+2023-04-11,00:59:00,2,Ironside Link,weekday
+2023-04-11,00:59:00,1,Gateway Avenue,weekday
+2023-04-11,00:59:00,1,Sentosa Gateway,weekday

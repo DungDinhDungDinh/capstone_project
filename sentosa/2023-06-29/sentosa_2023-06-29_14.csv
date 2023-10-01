@@ -1,0 +1,565 @@
+date,time,cluster_size,address,day_type
+2023-06-29,14:00:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:00:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:00:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:00:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:00:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:00:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:00:00,5,Gateway Avenue,holiday
+2023-06-29,14:00:00,3,Ironside Link,holiday
+2023-06-29,14:00:00,2,Cove Drive,holiday
+2023-06-29,14:00:00,1,Bukit Manis Road,holiday
+2023-06-29,14:00:00,1,Allanbrooke Road,holiday
+2023-06-29,14:00:00,1,Ocean Drive,holiday
+2023-06-29,14:00:00,1,Sentosa Gateway,holiday
+2023-06-29,14:00:00,1,Sentosa Gateway,holiday
+2023-06-29,14:01:00,1,Adventure Cove Waterpark,holiday
+2023-06-29,14:01:00,2,Sentosa Boardwalk,holiday
+2023-06-29,14:01:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:01:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:01:00,1,Sentosa Gateway,holiday
+2023-06-29,14:01:00,1,Gateway Avenue,holiday
+2023-06-29,14:01:00,1,Gateway Avenue,holiday
+2023-06-29,14:01:00,3,Ironside Link,holiday
+2023-06-29,14:01:00,2,Serapong Course,holiday
+2023-06-29,14:01:00,1,Gateway Avenue,holiday
+2023-06-29,14:01:00,1,Bukit Manis Road,holiday
+2023-06-29,14:01:00,1,Ocean Drive,holiday
+2023-06-29,14:01:00,1,Ocean Drive,holiday
+2023-06-29,14:02:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:02:00,1,Sentosa Gateway,holiday
+2023-06-29,14:02:00,1,Universal Studios Singapore,holiday
+2023-06-29,14:02:00,1,Gateway Avenue,holiday
+2023-06-29,14:02:00,1,Gateway Avenue,holiday
+2023-06-29,14:02:00,3,Ironside Link,holiday
+2023-06-29,14:02:00,2,Serapong Course,holiday
+2023-06-29,14:02:00,2,Cove Drive,holiday
+2023-06-29,14:02:00,1,Bukit Manis Road,holiday
+2023-06-29,14:02:00,1,Ocean Drive,holiday
+2023-06-29,14:02:00,1,Ocean Drive,holiday
+2023-06-29,14:02:00,1,Sentosa Gateway,holiday
+2023-06-29,14:03:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:03:00,1,Sentosa Gateway,holiday
+2023-06-29,14:03:00,2,Serapong Course,holiday
+2023-06-29,14:03:00,3,Ironside Link,holiday
+2023-06-29,14:03:00,1,Serapong Course,holiday
+2023-06-29,14:03:00,1,Cove Drive,holiday
+2023-06-29,14:03:00,1,Allanbrooke Road,holiday
+2023-06-29,14:03:00,1,Bukit Manis Road,holiday
+2023-06-29,14:03:00,1,Ocean Drive,holiday
+2023-06-29,14:03:00,1,Ocean Drive,holiday
+2023-06-29,14:03:00,1,Sentosa Gateway,holiday
+2023-06-29,14:03:00,1,Sentosa Gateway,holiday
+2023-06-29,14:04:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:04:00,1,Gateway Avenue,holiday
+2023-06-29,14:04:00,3,Ironside Link,holiday
+2023-06-29,14:04:00,3,Serapong Course,holiday
+2023-06-29,14:04:00,1,Allanbrooke Road,holiday
+2023-06-29,14:04:00,1,Bukit Manis Road,holiday
+2023-06-29,14:04:00,1,Ocean Drive,holiday
+2023-06-29,14:04:00,1,Sentosa Gateway,holiday
+2023-06-29,14:05:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:05:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:05:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:05:00,1,Gateway Avenue,holiday
+2023-06-29,14:05:00,3,Ironside Link,holiday
+2023-06-29,14:05:00,1,Serapong Course,holiday
+2023-06-29,14:05:00,1,Gateway Avenue,holiday
+2023-06-29,14:05:00,1,Gateway Avenue,holiday
+2023-06-29,14:05:00,1,Allanbrooke Road,holiday
+2023-06-29,14:05:00,1,Bukit Manis Road,holiday
+2023-06-29,14:05:00,1,Ocean Drive,holiday
+2023-06-29,14:06:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:06:00,1,Gateway Avenue,holiday
+2023-06-29,14:06:00,4,Ironside Link,holiday
+2023-06-29,14:06:00,1,Allanbrooke Road,holiday
+2023-06-29,14:06:00,1,Gateway Avenue,holiday
+2023-06-29,14:06:00,1,Allanbrooke Road,holiday
+2023-06-29,14:06:00,1,Bukit Manis Road,holiday
+2023-06-29,14:06:00,1,Ocean Drive,holiday
+2023-06-29,14:06:00,1,Sentosa Gateway,holiday
+2023-06-29,14:07:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:07:00,1,Gateway Avenue,holiday
+2023-06-29,14:07:00,1,Gateway Avenue,holiday
+2023-06-29,14:07:00,1,Allanbrooke Road,holiday
+2023-06-29,14:07:00,1,Artillery Avenue,holiday
+2023-06-29,14:07:00,5,Ironside Link,holiday
+2023-06-29,14:07:00,1,Gateway Avenue,holiday
+2023-06-29,14:07:00,1,Sentosa Gateway,holiday
+2023-06-29,14:07:00,1,Sofitel Sentosa Resort & Spa,holiday
+2023-06-29,14:07:00,1,Bukit Manis Road,holiday
+2023-06-29,14:07:00,1,Ocean Drive,holiday
+2023-06-29,14:08:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:08:00,1,Beach Station Bus Terminal,holiday
+2023-06-29,14:08:00,1,Village Hotel @ Sentosa,holiday
+2023-06-29,14:08:00,1,Mess Hall,holiday
+2023-06-29,14:08:00,1,Sentosa Gateway,holiday
+2023-06-29,14:08:00,3,Ironside Link,holiday
+2023-06-29,14:08:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:08:00,1,Gateway Avenue,holiday
+2023-06-29,14:08:00,1,Artillery Avenue,holiday
+2023-06-29,14:08:00,1,Allanbrooke Road,holiday
+2023-06-29,14:08:00,1,Bukit Manis Road,holiday
+2023-06-29,14:08:00,1,Bukit Manis Road,holiday
+2023-06-29,14:08:00,1,Ocean Drive,holiday
+2023-06-29,14:08:00,1,Sentosa Gateway,holiday
+2023-06-29,14:09:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:09:00,1,Beach Arrival Plaza,holiday
+2023-06-29,14:09:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:09:00,2,Sentosa Gateway,holiday
+2023-06-29,14:09:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:09:00,1,Gateway Avenue,holiday
+2023-06-29,14:09:00,1,Gateway Avenue,holiday
+2023-06-29,14:09:00,3,Ironside Link,holiday
+2023-06-29,14:09:00,1,Artillery Avenue,holiday
+2023-06-29,14:09:00,1,Allanbrooke Road,holiday
+2023-06-29,14:09:00,1,Allanbrooke Road,holiday
+2023-06-29,14:09:00,1,Bukit Manis Road,holiday
+2023-06-29,14:09:00,1,Bukit Manis Road,holiday
+2023-06-29,14:09:00,1,Ocean Drive,holiday
+2023-06-29,14:10:00,1,Village Hotel @ Sentosa,holiday
+2023-06-29,14:10:00,1,Imbiah,holiday
+2023-06-29,14:10:00,2,Resorts World Sentosa,holiday
+2023-06-29,14:10:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:10:00,1,Gateway Avenue,holiday
+2023-06-29,14:10:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:10:00,2,Gateway Avenue,holiday
+2023-06-29,14:10:00,2,Ironside Link,holiday
+2023-06-29,14:10:00,1,Gateway Avenue,holiday
+2023-06-29,14:10:00,1,Gateway Avenue,holiday
+2023-06-29,14:10:00,1,Bukit Manis Road,holiday
+2023-06-29,14:10:00,1,Bukit Manis Road,holiday
+2023-06-29,14:10:00,1,Allanbrooke Road,holiday
+2023-06-29,14:10:00,1,Cove Avenue,holiday
+2023-06-29,14:10:00,1,Ocean Drive,holiday
+2023-06-29,14:11:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:11:00,1,Beach View,holiday
+2023-06-29,14:11:00,1,Imbiah,holiday
+2023-06-29,14:11:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:11:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:11:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:11:00,1,Southern Islands,holiday
+2023-06-29,14:11:00,1,Gateway Avenue,holiday
+2023-06-29,14:11:00,2,Ironside Link,holiday
+2023-06-29,14:11:00,1,Gateway Avenue,holiday
+2023-06-29,14:11:00,1,Bukit Manis Road,holiday
+2023-06-29,14:11:00,1,Cove Avenue,holiday
+2023-06-29,14:11:00,1,Ocean Drive,holiday
+2023-06-29,14:12:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:12:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:12:00,1,Oasis Resort Sentosa,holiday
+2023-06-29,14:12:00,2,Artillery Avenue,holiday
+2023-06-29,14:12:00,1,Artillery Avenue,holiday
+2023-06-29,14:12:00,1,Gateway Avenue,holiday
+2023-06-29,14:12:00,4,Ironside Link,holiday
+2023-06-29,14:12:00,1,Gateway Avenue,holiday
+2023-06-29,14:12:00,1,Bukit Manis Road,holiday
+2023-06-29,14:12:00,1,Cove Drive,holiday
+2023-06-29,14:12:00,1,Ocean Drive,holiday
+2023-06-29,14:13:00,2,Resorts World Sentosa,holiday
+2023-06-29,14:13:00,1,Southern Islands,holiday
+2023-06-29,14:13:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:13:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:13:00,1,Gateway Avenue,holiday
+2023-06-29,14:13:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:13:00,1,Ironside Link,holiday
+2023-06-29,14:13:00,1,Gateway Avenue,holiday
+2023-06-29,14:13:00,1,Bukit Manis Road,holiday
+2023-06-29,14:13:00,1,Cove Way,holiday
+2023-06-29,14:13:00,1,Cove Way,holiday
+2023-06-29,14:14:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:14:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:14:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:14:00,2,Gateway Avenue,holiday
+2023-06-29,14:14:00,3,Ironside Link,holiday
+2023-06-29,14:14:00,2,Allanbrooke Road,holiday
+2023-06-29,14:14:00,1,Bukit Manis Road,holiday
+2023-06-29,14:14:00,1,Cove Drive,holiday
+2023-06-29,14:14:00,1,Ocean Drive,holiday
+2023-06-29,14:15:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:15:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:15:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:15:00,2,Resorts World Sentosa,holiday
+2023-06-29,14:15:00,1,Gateway Avenue,holiday
+2023-06-29,14:15:00,3,Ironside Link,holiday
+2023-06-29,14:15:00,2,Gateway Avenue,holiday
+2023-06-29,14:15:00,1,Allanbrooke Road,holiday
+2023-06-29,14:15:00,1,Bukit Manis Road,holiday
+2023-06-29,14:15:00,1,Sentosa Gateway,holiday
+2023-06-29,14:16:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:16:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:16:00,2,Resorts World Sentosa,holiday
+2023-06-29,14:16:00,1,Gateway Avenue,holiday
+2023-06-29,14:16:00,3,Ironside Link,holiday
+2023-06-29,14:16:00,3,Gateway Avenue,holiday
+2023-06-29,14:16:00,1,Allanbrooke Road,holiday
+2023-06-29,14:16:00,1,Bukit Manis Road,holiday
+2023-06-29,14:16:00,1,Sentosa Gateway,holiday
+2023-06-29,14:17:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:17:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:17:00,1,Sentosa Gateway,holiday
+2023-06-29,14:17:00,1,Gateway Avenue,holiday
+2023-06-29,14:17:00,1,Gateway Avenue,holiday
+2023-06-29,14:17:00,1,Gateway Avenue,holiday
+2023-06-29,14:17:00,1,Ironside Link,holiday
+2023-06-29,14:17:00,1,Gateway Avenue,holiday
+2023-06-29,14:17:00,1,Allanbrooke Road,holiday
+2023-06-29,14:17:00,1,Bukit Manis Road,holiday
+2023-06-29,14:18:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:18:00,1,Sentosa Gateway,holiday
+2023-06-29,14:18:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:18:00,2,Gateway Avenue,holiday
+2023-06-29,14:18:00,3,Ironside Link,holiday
+2023-06-29,14:18:00,1,Serapong Course,holiday
+2023-06-29,14:18:00,1,Gateway Avenue,holiday
+2023-06-29,14:18:00,1,Bukit Manis Road,holiday
+2023-06-29,14:19:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:19:00,1,Gateway Avenue,holiday
+2023-06-29,14:19:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:19:00,3,Ironside Link,holiday
+2023-06-29,14:19:00,1,Serapong Course,holiday
+2023-06-29,14:19:00,1,Gateway Avenue,holiday
+2023-06-29,14:19:00,1,Serapong Course,holiday
+2023-06-29,14:19:00,1,Allanbrooke Road,holiday
+2023-06-29,14:19:00,1,Bukit Manis Road,holiday
+2023-06-29,14:19:00,1,Ocean Drive,holiday
+2023-06-29,14:20:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:20:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:20:00,1,Beach Arrival Plaza,holiday
+2023-06-29,14:20:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:20:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:20:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:20:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:20:00,4,Ironside Link,holiday
+2023-06-29,14:20:00,3,Gateway Avenue,holiday
+2023-06-29,14:20:00,1,Serapong Course,holiday
+2023-06-29,14:20:00,1,Gateway Avenue,holiday
+2023-06-29,14:20:00,1,Sofitel Sentosa Resort & Spa,holiday
+2023-06-29,14:20:00,1,Allanbrooke Road,holiday
+2023-06-29,14:20:00,1,Bukit Manis Road,holiday
+2023-06-29,14:20:00,1,Cove Way,holiday
+2023-06-29,14:20:00,1,Cove Drive,holiday
+2023-06-29,14:20:00,1,Ocean Drive,holiday
+2023-06-29,14:20:00,1,Sentosa Gateway,holiday
+2023-06-29,14:21:00,1,Beach Station Bus Terminal,holiday
+2023-06-29,14:21:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:21:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:21:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:21:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:21:00,1,Sentosa Gateway,holiday
+2023-06-29,14:21:00,3,Ironside Link,holiday
+2023-06-29,14:21:00,2,Serapong Course,holiday
+2023-06-29,14:21:00,1,Gateway Avenue,holiday
+2023-06-29,14:21:00,1,Serapong Course,holiday
+2023-06-29,14:21:00,1,Gateway Avenue,holiday
+2023-06-29,14:21:00,1,Bukit Manis Road,holiday
+2023-06-29,14:21:00,1,Cove Drive,holiday
+2023-06-29,14:21:00,1,Ocean Drive,holiday
+2023-06-29,14:21:00,1,Sentosa Gateway,holiday
+2023-06-29,14:22:00,1,Shangri-La's Rasa Sentosa Resort & Spa,holiday
+2023-06-29,14:22:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:22:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:22:00,2,Sentosa Gateway,holiday
+2023-06-29,14:22:00,1,Southern Islands,holiday
+2023-06-29,14:22:00,3,Ironside Link,holiday
+2023-06-29,14:22:00,1,Serapong Course,holiday
+2023-06-29,14:22:00,1,Bukit Manis Road,holiday
+2023-06-29,14:22:00,1,ONE ̊15 Marina,holiday
+2023-06-29,14:22:00,1,Ocean Drive,holiday
+2023-06-29,14:22:00,1,Sentosa Gateway,holiday
+2023-06-29,14:23:00,1,Siloso Road,holiday
+2023-06-29,14:23:00,1,Old Chang Kee,holiday
+2023-06-29,14:23:00,1,Sentosa Gateway,holiday
+2023-06-29,14:23:00,1,Gateway Avenue,holiday
+2023-06-29,14:23:00,1,Southern Islands,holiday
+2023-06-29,14:23:00,1,Serapong Course,holiday
+2023-06-29,14:23:00,2,Ironside Link,holiday
+2023-06-29,14:23:00,1,Gateway Avenue,holiday
+2023-06-29,14:23:00,1,Gateway Avenue,holiday
+2023-06-29,14:23:00,1,Sentosa Golf Club Tanjong Course,holiday
+2023-06-29,14:23:00,1,Allanbrooke Road,holiday
+2023-06-29,14:23:00,1,Ocean Drive,holiday
+2023-06-29,14:23:00,1,Sentosa Gateway,holiday
+2023-06-29,14:23:00,1,Sentosa Gateway,holiday
+2023-06-29,14:24:00,1,Siloso Road,holiday
+2023-06-29,14:24:00,1,Old Chang Kee,holiday
+2023-06-29,14:24:00,1,Sentosa Gateway,holiday
+2023-06-29,14:24:00,1,Sentosa Gateway,holiday
+2023-06-29,14:24:00,1,Gateway Avenue,holiday
+2023-06-29,14:24:00,1,Southern Islands,holiday
+2023-06-29,14:24:00,1,Serapong Course,holiday
+2023-06-29,14:24:00,3,Ironside Link,holiday
+2023-06-29,14:24:00,1,Gateway Avenue,holiday
+2023-06-29,14:24:00,1,Bukit Manis Road,holiday
+2023-06-29,14:24:00,1,Allanbrooke Road,holiday
+2023-06-29,14:24:00,1,Ocean Drive,holiday
+2023-06-29,14:24:00,1,Sentosa Gateway,holiday
+2023-06-29,14:24:00,1,Sentosa Gateway,holiday
+2023-06-29,14:24:00,1,Sentosa Gateway,holiday
+2023-06-29,14:25:00,1,Siloso Road,holiday
+2023-06-29,14:25:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:25:00,1,Old Chang Kee,holiday
+2023-06-29,14:25:00,1,Sentosa Gateway,holiday
+2023-06-29,14:25:00,1,Artillery Avenue,holiday
+2023-06-29,14:25:00,1,Serapong Course,holiday
+2023-06-29,14:25:00,3,Ironside Link,holiday
+2023-06-29,14:25:00,1,Sentosa Gateway,holiday
+2023-06-29,14:25:00,1,Bukit Manis Road,holiday
+2023-06-29,14:25:00,2,Sentosa Gateway,holiday
+2023-06-29,14:26:00,1,Old Chang Kee,holiday
+2023-06-29,14:26:00,1,Serapong Course,holiday
+2023-06-29,14:26:00,4,Ironside Link,holiday
+2023-06-29,14:26:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:26:00,1,Serapong Course,holiday
+2023-06-29,14:26:00,1,Gateway Avenue,holiday
+2023-06-29,14:26:00,1,Bukit Manis Road,holiday
+2023-06-29,14:27:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:27:00,3,Ironside Link,holiday
+2023-06-29,14:27:00,1,Serapong Course,holiday
+2023-06-29,14:27:00,1,Gateway Avenue,holiday
+2023-06-29,14:27:00,1,Bukit Manis Road,holiday
+2023-06-29,14:28:00,1,Old Chang Kee,holiday
+2023-06-29,14:28:00,1,Siloso Beach Walk,holiday
+2023-06-29,14:28:00,3,Ironside Link,holiday
+2023-06-29,14:28:00,1,Gateway Avenue,holiday
+2023-06-29,14:28:00,1,Bukit Manis Road,holiday
+2023-06-29,14:29:00,1,Old Chang Kee,holiday
+2023-06-29,14:29:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:29:00,1,Oasis Resort Sentosa,holiday
+2023-06-29,14:29:00,3,Ironside Link,holiday
+2023-06-29,14:29:00,1,Gateway Avenue,holiday
+2023-06-29,14:29:00,1,Bukit Manis Road,holiday
+2023-06-29,14:29:00,1,Ocean Way,holiday
+2023-06-29,14:30:00,1,Old Chang Kee,holiday
+2023-06-29,14:30:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:30:00,3,Ironside Link,holiday
+2023-06-29,14:30:00,1,Gateway Avenue,holiday
+2023-06-29,14:30:00,1,Bukit Manis Road,holiday
+2023-06-29,14:30:00,1,Ocean Way,holiday
+2023-06-29,14:31:00,1,Gateway Avenue,holiday
+2023-06-29,14:31:00,3,Ironside Link,holiday
+2023-06-29,14:31:00,1,Gateway Avenue,holiday
+2023-06-29,14:31:00,1,Sofitel Sentosa Resort & Spa,holiday
+2023-06-29,14:31:00,1,Bukit Manis Road,holiday
+2023-06-29,14:32:00,1,Beach Arrival Plaza,holiday
+2023-06-29,14:32:00,3,Ironside Link,holiday
+2023-06-29,14:32:00,1,Gateway Avenue,holiday
+2023-06-29,14:32:00,1,Artillery Avenue,holiday
+2023-06-29,14:32:00,1,Gateway Avenue,holiday
+2023-06-29,14:32:00,1,Bukit Manis Road,holiday
+2023-06-29,14:32:00,1,Bukit Manis Road,holiday
+2023-06-29,14:33:00,1,Sentosa Gateway,holiday
+2023-06-29,14:33:00,3,Ironside Link,holiday
+2023-06-29,14:33:00,2,Gateway Avenue,holiday
+2023-06-29,14:33:00,1,Sentosa Gateway,holiday
+2023-06-29,14:33:00,1,Allanbrooke Road,holiday
+2023-06-29,14:33:00,1,Bukit Manis Road,holiday
+2023-06-29,14:33:00,1,Sentosa Gateway,holiday
+2023-06-29,14:34:00,1,4D Adventureland,holiday
+2023-06-29,14:34:00,1,Sentosa Gateway,holiday
+2023-06-29,14:34:00,1,Sentosa Gateway,holiday
+2023-06-29,14:34:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:34:00,1,Tanjong Beach Walk,holiday
+2023-06-29,14:34:00,1,Gateway Avenue,holiday
+2023-06-29,14:34:00,3,Ironside Link,holiday
+2023-06-29,14:34:00,1,Gateway Avenue,holiday
+2023-06-29,14:34:00,1,Gateway Avenue,holiday
+2023-06-29,14:34:00,1,Sentosa Gateway,holiday
+2023-06-29,14:34:00,1,Bukit Manis Road,holiday
+2023-06-29,14:35:00,1,Siloso Road,holiday
+2023-06-29,14:35:00,1,Gateway Avenue,holiday
+2023-06-29,14:35:00,4,Gateway Avenue,holiday
+2023-06-29,14:35:00,3,Ironside Link,holiday
+2023-06-29,14:35:00,1,Artillery Avenue,holiday
+2023-06-29,14:35:00,1,Artillery Avenue,holiday
+2023-06-29,14:35:00,1,Bukit Manis Road,holiday
+2023-06-29,14:36:00,4,Ironside Link,holiday
+2023-06-29,14:36:00,1,Gateway Avenue,holiday
+2023-06-29,14:36:00,1,Gateway Avenue,holiday
+2023-06-29,14:36:00,1,Bukit Manis Road,holiday
+2023-06-29,14:36:00,1,Allanbrooke Road,holiday
+2023-06-29,14:36:00,1,Allanbrooke Road,holiday
+2023-06-29,14:37:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:37:00,3,Ironside Link,holiday
+2023-06-29,14:37:00,2,Gateway Avenue,holiday
+2023-06-29,14:37:00,1,Serapong Course,holiday
+2023-06-29,14:37:00,1,Artillery Avenue,holiday
+2023-06-29,14:37:00,1,Bukit Manis Road,holiday
+2023-06-29,14:37:00,1,Allanbrooke Road,holiday
+2023-06-29,14:38:00,1,Sentosa Gateway,holiday
+2023-06-29,14:38:00,2,Serapong Course,holiday
+2023-06-29,14:38:00,3,Ironside Link,holiday
+2023-06-29,14:38:00,2,Gateway Avenue,holiday
+2023-06-29,14:38:00,1,Bukit Manis Road,holiday
+2023-06-29,14:38:00,1,Allanbrooke Road,holiday
+2023-06-29,14:38:00,1,Allanbrooke Road,holiday
+2023-06-29,14:39:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:39:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:39:00,1,Sentosa Gateway,holiday
+2023-06-29,14:39:00,2,Ironside Link,holiday
+2023-06-29,14:39:00,1,Artillery Avenue,holiday
+2023-06-29,14:39:00,2,Bukit Manis Road,holiday
+2023-06-29,14:39:00,1,Ocean Drive,holiday
+2023-06-29,14:40:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:40:00,1,Sentosa Gateway,holiday
+2023-06-29,14:40:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:40:00,1,Sentosa Gateway,holiday
+2023-06-29,14:40:00,1,Southern Islands,holiday
+2023-06-29,14:40:00,3,Ironside Link,holiday
+2023-06-29,14:40:00,1,Serapong Course,holiday
+2023-06-29,14:40:00,1,Bukit Manis Road,holiday
+2023-06-29,14:41:00,2,Siloso Road,holiday
+2023-06-29,14:41:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:41:00,1,Sentosa Gateway,holiday
+2023-06-29,14:41:00,1,Sentosa Gateway,holiday
+2023-06-29,14:41:00,1,Southern Islands,holiday
+2023-06-29,14:41:00,1,Gateway Avenue,holiday
+2023-06-29,14:41:00,3,Ironside Link,holiday
+2023-06-29,14:41:00,2,Serapong Course,holiday
+2023-06-29,14:41:00,1,Bukit Manis Road,holiday
+2023-06-29,14:42:00,1,Siloso Road,holiday
+2023-06-29,14:42:00,2,Sentosa Gateway,holiday
+2023-06-29,14:42:00,1,Gateway Avenue,holiday
+2023-06-29,14:42:00,3,Ironside Link,holiday
+2023-06-29,14:42:00,1,Gateway Avenue,holiday
+2023-06-29,14:42:00,1,Gateway Avenue,holiday
+2023-06-29,14:42:00,1,Bukit Manis Road,holiday
+2023-06-29,14:43:00,1,Siloso Road,holiday
+2023-06-29,14:43:00,3,Ironside Link,holiday
+2023-06-29,14:43:00,1,Serapong Course,holiday
+2023-06-29,14:43:00,1,Bukit Manis Road,holiday
+2023-06-29,14:44:00,1,Siloso Road,holiday
+2023-06-29,14:44:00,3,Ironside Link,holiday
+2023-06-29,14:44:00,1,Serapong Course,holiday
+2023-06-29,14:44:00,1,Sentosa Golf Club Tanjong Course,holiday
+2023-06-29,14:45:00,1,Artillery Avenue,holiday
+2023-06-29,14:45:00,1,Gateway Avenue,holiday
+2023-06-29,14:45:00,3,Ironside Link,holiday
+2023-06-29,14:45:00,2,Serapong Course,holiday
+2023-06-29,14:45:00,1,Bukit Manis Road,holiday
+2023-06-29,14:45:00,1,Ocean Way,holiday
+2023-06-29,14:46:00,1,Shangri-La's Rasa Sentosa Resort & Spa,holiday
+2023-06-29,14:46:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:46:00,1,Gateway Avenue,holiday
+2023-06-29,14:46:00,1,Gateway Avenue,holiday
+2023-06-29,14:46:00,1,Gateway Avenue,holiday
+2023-06-29,14:46:00,3,Ironside Link,holiday
+2023-06-29,14:46:00,1,Bukit Manis Road,holiday
+2023-06-29,14:46:00,1,Ocean Way,holiday
+2023-06-29,14:46:00,1,Sentosa Gateway,holiday
+2023-06-29,14:47:00,1,Siloso Road,holiday
+2023-06-29,14:47:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:47:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:47:00,1,Sentosa Gateway,holiday
+2023-06-29,14:47:00,1,Gateway Avenue,holiday
+2023-06-29,14:47:00,1,Ironside Road,holiday
+2023-06-29,14:47:00,3,Ironside Link,holiday
+2023-06-29,14:47:00,2,Serapong Course,holiday
+2023-06-29,14:47:00,1,Bukit Manis Road,holiday
+2023-06-29,14:47:00,1,Ocean Way,holiday
+2023-06-29,14:48:00,1,Siloso Road,holiday
+2023-06-29,14:48:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:48:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:48:00,1,Gateway Avenue,holiday
+2023-06-29,14:48:00,1,Ironside Road,holiday
+2023-06-29,14:48:00,3,Ironside Link,holiday
+2023-06-29,14:48:00,2,Serapong Course,holiday
+2023-06-29,14:48:00,1,Bukit Manis Road,holiday
+2023-06-29,14:48:00,1,Ocean Way,holiday
+2023-06-29,14:49:00,1,Siloso Road,holiday
+2023-06-29,14:49:00,1,Adventure Cove Waterpark,holiday
+2023-06-29,14:49:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:49:00,1,Sentosa Gateway,holiday
+2023-06-29,14:49:00,1,Ironside Road,holiday
+2023-06-29,14:49:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:49:00,3,Ironside Link,holiday
+2023-06-29,14:49:00,1,Bukit Manis Road,holiday
+2023-06-29,14:49:00,1,Sentosa Cove Arrival Plaza,holiday
+2023-06-29,14:49:00,1,Ocean Drive,holiday
+2023-06-29,14:49:00,1,Sentosa Gateway,holiday
+2023-06-29,14:49:00,1,Sentosa Gateway,holiday
+2023-06-29,14:50:00,1,Siloso Road,holiday
+2023-06-29,14:50:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:50:00,1,Ironside Road,holiday
+2023-06-29,14:50:00,3,Ironside Link,holiday
+2023-06-29,14:50:00,1,Bukit Manis Road,holiday
+2023-06-29,14:51:00,1,Siloso Road,holiday
+2023-06-29,14:51:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:51:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:51:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:51:00,1,Ironside Road,holiday
+2023-06-29,14:51:00,2,Ironside Link,holiday
+2023-06-29,14:51:00,1,Bukit Manis Road,holiday
+2023-06-29,14:51:00,1,Allanbrooke Road,holiday
+2023-06-29,14:51:00,1,Ocean Way,holiday
+2023-06-29,14:51:00,1,Ocean Drive,holiday
+2023-06-29,14:52:00,1,Siloso Road,holiday
+2023-06-29,14:52:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:52:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:52:00,1,Gateway Avenue,holiday
+2023-06-29,14:52:00,1,Ironside Road,holiday
+2023-06-29,14:52:00,2,Ironside Link,holiday
+2023-06-29,14:52:00,2,Serapong Course,holiday
+2023-06-29,14:52:00,1,Gateway Avenue,holiday
+2023-06-29,14:52:00,1,Bukit Manis Road,holiday
+2023-06-29,14:53:00,1,Siloso Road,holiday
+2023-06-29,14:53:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:53:00,1,Artillery Avenue,holiday
+2023-06-29,14:53:00,1,Gateway Avenue,holiday
+2023-06-29,14:53:00,2,Ironside Link,holiday
+2023-06-29,14:53:00,1,Bukit Manis Road,holiday
+2023-06-29,14:53:00,1,Allanbrooke Road,holiday
+2023-06-29,14:54:00,1,Siloso Road,holiday
+2023-06-29,14:54:00,1,Universal Studios Singapore,holiday
+2023-06-29,14:54:00,1,Gateway Avenue,holiday
+2023-06-29,14:54:00,1,Gateway Avenue,holiday
+2023-06-29,14:54:00,2,Ironside Link,holiday
+2023-06-29,14:54:00,1,Gateway Avenue,holiday
+2023-06-29,14:54:00,1,Bukit Manis Road,holiday
+2023-06-29,14:55:00,1,Siloso Road,holiday
+2023-06-29,14:55:00,1,Gateway Avenue,holiday
+2023-06-29,14:55:00,2,Gateway Avenue,holiday
+2023-06-29,14:55:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:55:00,2,Ironside Link,holiday
+2023-06-29,14:55:00,1,Serapong Course,holiday
+2023-06-29,14:55:00,1,Bukit Manis Road,holiday
+2023-06-29,14:55:00,1,Allanbrooke Road,holiday
+2023-06-29,14:56:00,1,Fort Siloso,holiday
+2023-06-29,14:56:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:56:00,1,Sentosa Gateway,holiday
+2023-06-29,14:56:00,1,Gateway Avenue,holiday
+2023-06-29,14:56:00,1,Gateway Avenue,holiday
+2023-06-29,14:56:00,2,Ironside Link,holiday
+2023-06-29,14:56:00,1,Allanbrooke Road,holiday
+2023-06-29,14:56:00,1,Bukit Manis Road,holiday
+2023-06-29,14:56:00,1,Allanbrooke Road,holiday
+2023-06-29,14:57:00,1,Siloso Road,holiday
+2023-06-29,14:57:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:57:00,1,Ironside Road,holiday
+2023-06-29,14:57:00,1,Gateway Avenue,holiday
+2023-06-29,14:57:00,1,Gateway Avenue,holiday
+2023-06-29,14:57:00,2,Ironside Link,holiday
+2023-06-29,14:57:00,3,Serapong Course,holiday
+2023-06-29,14:57:00,1,Gateway Avenue,holiday
+2023-06-29,14:57:00,1,Allanbrooke Road,holiday
+2023-06-29,14:57:00,1,Bukit Manis Road,holiday
+2023-06-29,14:57:00,1,Allanbrooke Road,holiday
+2023-06-29,14:57:00,1,Ocean Way,holiday
+2023-06-29,14:58:00,1,Siloso Road,holiday
+2023-06-29,14:58:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:58:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:58:00,2,Ironside Link,holiday
+2023-06-29,14:58:00,1,Gateway Avenue,holiday
+2023-06-29,14:58:00,1,Allanbrooke Road,holiday
+2023-06-29,14:58:00,1,Bukit Manis Road,holiday
+2023-06-29,14:58:00,1,Allanbrooke Road,holiday
+2023-06-29,14:58:00,1,Ocean Drive,holiday
+2023-06-29,14:59:00,1,Siloso Road,holiday
+2023-06-29,14:59:00,1,Sentosa Boardwalk,holiday
+2023-06-29,14:59:00,1,Gateway Avenue,holiday
+2023-06-29,14:59:00,2,Ironside Link,holiday
+2023-06-29,14:59:00,1,Serapong Course,holiday
+2023-06-29,14:59:00,1,Resorts World Sentosa,holiday
+2023-06-29,14:59:00,1,Bukit Manis Road,holiday
+2023-06-29,14:59:00,1,Allanbrooke Road,holiday
+2023-06-29,14:59:00,1,Ocean Drive,holiday

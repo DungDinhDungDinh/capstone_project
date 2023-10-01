@@ -1,0 +1,466 @@
+date,time,cluster_size,address,day_type
+2023-07-29,17:00:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:00:00,1,Allanbrooke Road,weekend
+2023-07-29,17:01:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:01:00,1,Gateway Avenue,weekend
+2023-07-29,17:01:00,1,Gateway Avenue,weekend
+2023-07-29,17:01:00,1,Allanbrooke Road,weekend
+2023-07-29,17:01:00,1,Allanbrooke Road,weekend
+2023-07-29,17:02:00,1,Universal Studios Singapore,weekend
+2023-07-29,17:02:00,1,Gateway Avenue,weekend
+2023-07-29,17:02:00,1,Gateway Avenue,weekend
+2023-07-29,17:02:00,1,Allanbrooke Road,weekend
+2023-07-29,17:02:00,1,Allanbrooke Road,weekend
+2023-07-29,17:03:00,1,Universal Studios Singapore,weekend
+2023-07-29,17:03:00,1,Artillery Avenue,weekend
+2023-07-29,17:03:00,1,Gateway Avenue,weekend
+2023-07-29,17:03:00,1,Artillery Avenue,weekend
+2023-07-29,17:03:00,1,Gateway Avenue,weekend
+2023-07-29,17:04:00,1,Gateway Avenue,weekend
+2023-07-29,17:04:00,1,Serapong Course,weekend
+2023-07-29,17:05:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:05:00,1,Serapong Course,weekend
+2023-07-29,17:06:00,1,Village Hotel @ Sentosa,weekend
+2023-07-29,17:07:00,1,Artillery Avenue,weekend
+2023-07-29,17:08:00,1,Sentosa Gateway,weekend
+2023-07-29,17:08:00,1,Sentosa Gateway,weekend
+2023-07-29,17:08:00,1,Sentosa Gateway,weekend
+2023-07-29,17:09:00,1,Artillery Avenue,weekend
+2023-07-29,17:09:00,1,Sentosa Gateway,weekend
+2023-07-29,17:09:00,1,Gateway Avenue,weekend
+2023-07-29,17:09:00,1,Gateway Avenue,weekend
+2023-07-29,17:09:00,1,Serapong Course,weekend
+2023-07-29,17:10:00,1,Sentosa Gateway,weekend
+2023-07-29,17:10:00,1,Gateway Avenue,weekend
+2023-07-29,17:10:00,2,Gateway Avenue,weekend
+2023-07-29,17:10:00,1,Ironside Link,weekend
+2023-07-29,17:10:00,1,Gateway Avenue,weekend
+2023-07-29,17:11:00,1,Sentosa Gateway,weekend
+2023-07-29,17:11:00,2,Gateway Avenue,weekend
+2023-07-29,17:11:00,1,Ironside Link,weekend
+2023-07-29,17:11:00,1,Gateway Avenue,weekend
+2023-07-29,17:12:00,1,Serapong Course,weekend
+2023-07-29,17:12:00,1,Ironside Link,weekend
+2023-07-29,17:13:00,1,Gateway Avenue,weekend
+2023-07-29,17:13:00,1,Ironside Link,weekend
+2023-07-29,17:14:00,1,Gateway Avenue,weekend
+2023-07-29,17:14:00,1,Ironside Link,weekend
+2023-07-29,17:14:00,1,Serapong Course,weekend
+2023-07-29,17:15:00,1,Ironside Link,weekend
+2023-07-29,17:16:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:16:00,1,Ironside Link,weekend
+2023-07-29,17:18:00,1,Sentosa Gateway,weekend
+2023-07-29,17:18:00,1,Serapong Course,weekend
+2023-07-29,17:19:00,1,Sentosa Gateway,weekend
+2023-07-29,17:20:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:20:00,1,Ironside Road,weekend
+2023-07-29,17:20:00,1,Ironside Link,weekend
+2023-07-29,17:20:00,1,Ironside Link,weekend
+2023-07-29,17:21:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:21:00,1,Silk Road of the Sea,weekend
+2023-07-29,17:21:00,1,Ironside Link,weekend
+2023-07-29,17:21:00,1,Sentosa Gateway,weekend
+2023-07-29,17:22:00,1,Fort Siloso,weekend
+2023-07-29,17:22:00,1,Siloso Road,weekend
+2023-07-29,17:22:00,1,Sentosa Gateway,weekend
+2023-07-29,17:22:00,1,Ironside Link,weekend
+2023-07-29,17:23:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:23:00,1,Gateway Avenue,weekend
+2023-07-29,17:23:00,1,Ironside Link,weekend
+2023-07-29,17:23:00,1,Ironside Link,weekend
+2023-07-29,17:24:00,1,Gateway Avenue,weekend
+2023-07-29,17:24:00,1,Ironside Link,weekend
+2023-07-29,17:24:00,1,Ironside Link,weekend
+2023-07-29,17:24:00,1,Ocean Drive,weekend
+2023-07-29,17:25:00,1,Ironside Link,weekend
+2023-07-29,17:26:00,1,Ironside Link,weekend
+2023-07-29,17:26:00,1,Sentosa Gateway,weekend
+2023-07-29,17:27:00,1,Ironside Link,weekend
+2023-07-29,17:27:00,1,Sentosa Gateway,weekend
+2023-07-29,17:28:00,1,Gateway Avenue,weekend
+2023-07-29,17:28:00,2,Ironside Link,weekend
+2023-07-29,17:29:00,1,Gateway Avenue,weekend
+2023-07-29,17:29:00,1,Ironside Link,weekend
+2023-07-29,17:30:00,1,Sentosa Gateway,weekend
+2023-07-29,17:30:00,1,Ironside Link,weekend
+2023-07-29,17:30:00,1,Sentosa Gateway,weekend
+2023-07-29,17:30:00,1,Sentosa Gateway,weekend
+2023-07-29,17:31:00,1,Sentosa Gateway,weekend
+2023-07-29,17:31:00,1,Ironside Link,weekend
+2023-07-29,17:31:00,1,Sentosa Gateway,weekend
+2023-07-29,17:32:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:32:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:32:00,2,Gateway Avenue,weekend
+2023-07-29,17:32:00,1,Artillery Avenue,weekend
+2023-07-29,17:32:00,1,Gateway Avenue,weekend
+2023-07-29,17:32:00,1,Gateway Avenue,weekend
+2023-07-29,17:32:00,1,Gateway Avenue,weekend
+2023-07-29,17:32:00,1,Serapong Course,weekend
+2023-07-29,17:32:00,1,Serapong Course,weekend
+2023-07-29,17:32:00,1,Sentosa Cove,weekend
+2023-07-29,17:32:00,1,Ocean Drive,weekend
+2023-07-29,17:32:00,1,Sentosa Gateway,weekend
+2023-07-29,17:33:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:33:00,1,Beach View,weekend
+2023-07-29,17:33:00,1,Sentosa Gateway,weekend
+2023-07-29,17:33:00,1,Universal Studios Singapore,weekend
+2023-07-29,17:33:00,1,Serapong Course,weekend
+2023-07-29,17:34:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:34:00,1,Imbiah,weekend
+2023-07-29,17:34:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:34:00,1,Sentosa Gateway,weekend
+2023-07-29,17:34:00,1,Sentosa Gateway,weekend
+2023-07-29,17:34:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:34:00,1,Serapong Course,weekend
+2023-07-29,17:34:00,1,Cove Drive,weekend
+2023-07-29,17:35:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:35:00,1,Imbiah,weekend
+2023-07-29,17:35:00,1,Tanjong Beach Walk,weekend
+2023-07-29,17:35:00,3,Serapong Course,weekend
+2023-07-29,17:35:00,1,Serapong Course,weekend
+2023-07-29,17:35:00,1,Gateway Avenue,weekend
+2023-07-29,17:35:00,1,Cove Drive,weekend
+2023-07-29,17:35:00,1,Cove Drive,weekend
+2023-07-29,17:35:00,1,Sentosa Gateway,weekend
+2023-07-29,17:36:00,1,Siloso Road,weekend
+2023-07-29,17:36:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:36:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:36:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:36:00,1,Gateway Avenue,weekend
+2023-07-29,17:36:00,1,Tanjong Beach Walk,weekend
+2023-07-29,17:36:00,1,Tanjong Beach Walk,weekend
+2023-07-29,17:36:00,3,Serapong Course,weekend
+2023-07-29,17:36:00,1,Serapong Course,weekend
+2023-07-29,17:36:00,1,Cove Drive,weekend
+2023-07-29,17:36:00,1,Sentosa Gateway,weekend
+2023-07-29,17:37:00,1,Fort Siloso,weekend
+2023-07-29,17:37:00,1,Siloso Road,weekend
+2023-07-29,17:37:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:37:00,1,Adventure Cove Waterpark,weekend
+2023-07-29,17:37:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:37:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:37:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:37:00,1,Universal Studios Singapore,weekend
+2023-07-29,17:37:00,1,Serapong Course,weekend
+2023-07-29,17:37:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:37:00,1,Serapong Course,weekend
+2023-07-29,17:37:00,1,Artillery Avenue South,weekend
+2023-07-29,17:37:00,1,Cove Drive,weekend
+2023-07-29,17:37:00,1,Sentosa Gateway,weekend
+2023-07-29,17:38:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2023-07-29,17:38:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:38:00,1,Siloso Beach Walk,weekend
+2023-07-29,17:38:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:38:00,1,Siloso Road,weekend
+2023-07-29,17:38:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:38:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:38:00,1,The Knolls,weekend
+2023-07-29,17:38:00,1,Artillery Avenue,weekend
+2023-07-29,17:38:00,2,Universal Studios Singapore,weekend
+2023-07-29,17:38:00,1,Gateway Avenue,weekend
+2023-07-29,17:38:00,2,Serapong Course,weekend
+2023-07-29,17:38:00,1,Serapong Course,weekend
+2023-07-29,17:38:00,1,Artillery Avenue South,weekend
+2023-07-29,17:38:00,1,Cove Drive,weekend
+2023-07-29,17:38:00,1,Sentosa Gateway,weekend
+2023-07-29,17:39:00,2,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2023-07-29,17:39:00,1,Siloso Road,weekend
+2023-07-29,17:39:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:39:00,2,Siloso Road,weekend
+2023-07-29,17:39:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:39:00,1,Gateway Avenue,weekend
+2023-07-29,17:39:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:39:00,1,Sentosa Gateway,weekend
+2023-07-29,17:39:00,1,Gateway Avenue,weekend
+2023-07-29,17:39:00,1,Artillery Avenue,weekend
+2023-07-29,17:39:00,1,Gateway Avenue,weekend
+2023-07-29,17:39:00,1,Gateway Avenue,weekend
+2023-07-29,17:39:00,5,Gateway Avenue,weekend
+2023-07-29,17:39:00,1,Gateway Avenue,weekend
+2023-07-29,17:39:00,1,Gateway Avenue,weekend
+2023-07-29,17:39:00,1,Cove Drive,weekend
+2023-07-29,17:40:00,2,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2023-07-29,17:40:00,2,Siloso Road,weekend
+2023-07-29,17:40:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:40:00,1,Siloso Road,weekend
+2023-07-29,17:40:00,1,Village Hotel,weekend
+2023-07-29,17:40:00,1,Sentosa Gateway,weekend
+2023-07-29,17:40:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:40:00,2,Sentosa Gateway,weekend
+2023-07-29,17:40:00,1,Sentosa Gateway,weekend
+2023-07-29,17:40:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:40:00,1,Gateway Avenue,weekend
+2023-07-29,17:40:00,8,Gateway Avenue,weekend
+2023-07-29,17:40:00,1,Serapong Course,weekend
+2023-07-29,17:40:00,1,Ocean Drive,weekend
+2023-07-29,17:40:00,1,Sentosa Gateway,weekend
+2023-07-29,17:40:00,1,Sentosa Gateway,weekend
+2023-07-29,17:41:00,2,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2023-07-29,17:41:00,1,Siloso Road,weekend
+2023-07-29,17:41:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:41:00,1,Siloso Road,weekend
+2023-07-29,17:41:00,1,Village Hotel,weekend
+2023-07-29,17:41:00,2,Sentosa Gateway,weekend
+2023-07-29,17:41:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:41:00,1,Sentosa Gateway,weekend
+2023-07-29,17:41:00,1,Sentosa Gateway,weekend
+2023-07-29,17:41:00,1,Gateway Avenue,weekend
+2023-07-29,17:41:00,7,Gateway Avenue,weekend
+2023-07-29,17:41:00,1,Serapong Course,weekend
+2023-07-29,17:41:00,1,Ocean Drive,weekend
+2023-07-29,17:41:00,1,Sentosa Gateway,weekend
+2023-07-29,17:41:00,1,Sentosa Gateway,weekend
+2023-07-29,17:41:00,1,Sentosa Gateway,weekend
+2023-07-29,17:42:00,1,Siloso Road,weekend
+2023-07-29,17:42:00,1,Siloso Road,weekend
+2023-07-29,17:42:00,1,Sentosa Nature Discovery,weekend
+2023-07-29,17:42:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:42:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:42:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:42:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:42:00,1,Sentosa Gateway,weekend
+2023-07-29,17:42:00,1,Sentosa Gateway,weekend
+2023-07-29,17:42:00,1,Sentosa Gateway,weekend
+2023-07-29,17:42:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:42:00,1,Gateway Avenue,weekend
+2023-07-29,17:42:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:42:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:42:00,3,Gateway Avenue,weekend
+2023-07-29,17:42:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:42:00,1,Ocean Drive,weekend
+2023-07-29,17:42:00,1,Sentosa Gateway,weekend
+2023-07-29,17:42:00,1,Sentosa Gateway,weekend
+2023-07-29,17:42:00,1,Sentosa Gateway,weekend
+2023-07-29,17:43:00,1,Siloso Road,weekend
+2023-07-29,17:43:00,1,Siloso Road,weekend
+2023-07-29,17:43:00,1,Siloso Road,weekend
+2023-07-29,17:43:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:43:00,1,Artillery Avenue,weekend
+2023-07-29,17:43:00,1,Sentosa Gateway,weekend
+2023-07-29,17:43:00,1,Gateway Avenue,weekend
+2023-07-29,17:43:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:43:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:43:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:43:00,6,Serapong Course,weekend
+2023-07-29,17:43:00,1,Allanbrooke Road,weekend
+2023-07-29,17:43:00,1,Ocean Drive,weekend
+2023-07-29,17:43:00,1,Sentosa Gateway,weekend
+2023-07-29,17:44:00,1,Siloso Road,weekend
+2023-07-29,17:44:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:44:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:44:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:44:00,8,Serapong Course,weekend
+2023-07-29,17:44:00,1,Artillery Avenue,weekend
+2023-07-29,17:44:00,1,Artillery Avenue,weekend
+2023-07-29,17:44:00,1,Ocean Drive,weekend
+2023-07-29,17:44:00,1,The Berth by the Cove,weekend
+2023-07-29,17:44:00,1,Sentosa Gateway,weekend
+2023-07-29,17:44:00,1,Sentosa Gateway,weekend
+2023-07-29,17:45:00,1,Siloso Road,weekend
+2023-07-29,17:45:00,1,Imbiah,weekend
+2023-07-29,17:45:00,1,Sentosa Gateway,weekend
+2023-07-29,17:45:00,1,Sentosa Gateway,weekend
+2023-07-29,17:45:00,1,Sentosa Gateway,weekend
+2023-07-29,17:45:00,1,Gateway Avenue,weekend
+2023-07-29,17:45:00,10,Serapong Course,weekend
+2023-07-29,17:45:00,1,Artillery Avenue South,weekend
+2023-07-29,17:45:00,1,Ocean Drive,weekend
+2023-07-29,17:45:00,1,Ocean Drive,weekend
+2023-07-29,17:46:00,1,Siloso Road,weekend
+2023-07-29,17:46:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:46:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:46:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:46:00,1,Sentosa Gateway,weekend
+2023-07-29,17:46:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:46:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:46:00,9,Serapong Course,weekend
+2023-07-29,17:46:00,1,ONE ̊15 Marina,weekend
+2023-07-29,17:46:00,1,Ocean Drive,weekend
+2023-07-29,17:46:00,1,Ocean Drive,weekend
+2023-07-29,17:47:00,1,Siloso Road,weekend
+2023-07-29,17:47:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:47:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:47:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:47:00,5,Gateway Avenue,weekend
+2023-07-29,17:47:00,1,Serapong Course,weekend
+2023-07-29,17:47:00,1,Gateway Avenue,weekend
+2023-07-29,17:47:00,1,Sofitel Sentosa Resort & Spa,weekend
+2023-07-29,17:47:00,1,Cove Avenue,weekend
+2023-07-29,17:47:00,1,ONE ̊15 Marina,weekend
+2023-07-29,17:47:00,1,Ocean Drive,weekend
+2023-07-29,17:47:00,1,Sentosa Gateway,weekend
+2023-07-29,17:48:00,1,Siloso Road,weekend
+2023-07-29,17:48:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:48:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:48:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:48:00,6,Gateway Avenue,weekend
+2023-07-29,17:48:00,2,Resorts World Sentosa,weekend
+2023-07-29,17:48:00,1,Serapong Course,weekend
+2023-07-29,17:48:00,1,Gateway Avenue,weekend
+2023-07-29,17:48:00,1,Cove Avenue,weekend
+2023-07-29,17:48:00,1,ONE ̊15 Marina,weekend
+2023-07-29,17:48:00,1,Ocean Drive,weekend
+2023-07-29,17:48:00,2,Sentosa Gateway,weekend
+2023-07-29,17:49:00,1,Siloso Road,weekend
+2023-07-29,17:49:00,1,Southern Islands,weekend
+2023-07-29,17:49:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:49:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:49:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:49:00,1,Sentosa Gateway,weekend
+2023-07-29,17:49:00,5,Gateway Avenue,weekend
+2023-07-29,17:49:00,3,Resorts World Sentosa,weekend
+2023-07-29,17:49:00,1,Serapong Course,weekend
+2023-07-29,17:49:00,1,Allanbrooke Road,weekend
+2023-07-29,17:49:00,1,Arrival Station,weekend
+2023-07-29,17:49:00,2,Sentosa Gateway,weekend
+2023-07-29,17:50:00,1,Siloso Road,weekend
+2023-07-29,17:50:00,1,Southern Islands,weekend
+2023-07-29,17:50:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:50:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:50:00,1,Sentosa Gateway,weekend
+2023-07-29,17:50:00,1,Sentosa Gateway,weekend
+2023-07-29,17:50:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:50:00,6,Gateway Avenue,weekend
+2023-07-29,17:50:00,3,Resorts World Sentosa,weekend
+2023-07-29,17:50:00,1,Allanbrooke Road,weekend
+2023-07-29,17:50:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:51:00,1,Siloso Road,weekend
+2023-07-29,17:51:00,1,Siloso Beach Resort,weekend
+2023-07-29,17:51:00,1,Imbiah Road,weekend
+2023-07-29,17:51:00,1,Southern Islands,weekend
+2023-07-29,17:51:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:51:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:51:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:51:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:51:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:51:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:51:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:51:00,7,Gateway Avenue,weekend
+2023-07-29,17:51:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:51:00,1,Artillery Avenue,weekend
+2023-07-29,17:51:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:51:00,1,Ocean Drive,weekend
+2023-07-29,17:51:00,1,Ocean Drive,weekend
+2023-07-29,17:51:00,1,Sentosa Gateway,weekend
+2023-07-29,17:52:00,1,Siloso Road,weekend
+2023-07-29,17:52:00,1,Imbiah Road,weekend
+2023-07-29,17:52:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:52:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:52:00,1,Sentosa Gateway,weekend
+2023-07-29,17:52:00,1,Sentosa Gateway,weekend
+2023-07-29,17:52:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:52:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:52:00,1,Southern Islands,weekend
+2023-07-29,17:52:00,6,Gateway Avenue,weekend
+2023-07-29,17:52:00,1,Cove Grove,weekend
+2023-07-29,17:52:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:52:00,1,Sentosa Gateway,weekend
+2023-07-29,17:52:00,1,Sentosa Gateway,weekend
+2023-07-29,17:53:00,1,Siloso Road,weekend
+2023-07-29,17:53:00,1,Siloso Road,weekend
+2023-07-29,17:53:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:53:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:53:00,1,Sentosa Gateway,weekend
+2023-07-29,17:53:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:53:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:53:00,2,Resorts World Sentosa,weekend
+2023-07-29,17:53:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:53:00,5,Gateway Avenue,weekend
+2023-07-29,17:53:00,1,Cove Drive,weekend
+2023-07-29,17:53:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:53:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:53:00,1,Ocean Way,weekend
+2023-07-29,17:53:00,1,Ocean Drive,weekend
+2023-07-29,17:53:00,1,Sentosa Gateway,weekend
+2023-07-29,17:53:00,1,Sentosa Gateway,weekend
+2023-07-29,17:54:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2023-07-29,17:54:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:54:00,1,Silk Road of the Sea,weekend
+2023-07-29,17:54:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:54:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:54:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:54:00,2,Sentosa Gateway,weekend
+2023-07-29,17:54:00,2,Gateway Avenue,weekend
+2023-07-29,17:54:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:54:00,6,Gateway Avenue,weekend
+2023-07-29,17:54:00,1,Cove Drive,weekend
+2023-07-29,17:54:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:54:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:54:00,1,Sentosa Gateway,weekend
+2023-07-29,17:54:00,1,Sentosa Gateway,weekend
+2023-07-29,17:54:00,1,Sentosa Gateway,weekend
+2023-07-29,17:55:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2023-07-29,17:55:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:55:00,1,Artillery Avenue,weekend
+2023-07-29,17:55:00,1,Carrhill Road,weekend
+2023-07-29,17:55:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:55:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:55:00,1,Ironside Road,weekend
+2023-07-29,17:55:00,1,Universal Studios Singapore,weekend
+2023-07-29,17:55:00,1,Gateway Avenue,weekend
+2023-07-29,17:55:00,2,Resorts World Sentosa,weekend
+2023-07-29,17:55:00,6,Gateway Avenue,weekend
+2023-07-29,17:55:00,1,Artillery Avenue,weekend
+2023-07-29,17:55:00,1,Cove Avenue,weekend
+2023-07-29,17:55:00,1,Cove Drive,weekend
+2023-07-29,17:55:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:55:00,1,Sentosa Gateway,weekend
+2023-07-29,17:56:00,1,Shangri-La's Rasa Sentosa Resort & Spa,weekend
+2023-07-29,17:56:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:56:00,1,Artillery Avenue,weekend
+2023-07-29,17:56:00,1,Carrhill Road,weekend
+2023-07-29,17:56:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:56:00,1,Ironside Road,weekend
+2023-07-29,17:56:00,1,Universal Studios Singapore,weekend
+2023-07-29,17:56:00,1,Gateway Avenue,weekend
+2023-07-29,17:56:00,2,Resorts World Sentosa,weekend
+2023-07-29,17:56:00,5,Gateway Avenue,weekend
+2023-07-29,17:56:00,1,Allanbrooke Road,weekend
+2023-07-29,17:56:00,1,Cove Drive,weekend
+2023-07-29,17:56:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:56:00,1,Sentosa Gateway,weekend
+2023-07-29,17:57:00,1,Siloso Road,weekend
+2023-07-29,17:57:00,1,Mess Hall,weekend
+2023-07-29,17:57:00,1,Sentosa Gateway,weekend
+2023-07-29,17:57:00,2,Sentosa Gateway,weekend
+2023-07-29,17:57:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:57:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:57:00,1,Gateway Avenue,weekend
+2023-07-29,17:57:00,1,Universal Studios Singapore,weekend
+2023-07-29,17:57:00,1,Gateway Avenue,weekend
+2023-07-29,17:57:00,3,Serapong Course,weekend
+2023-07-29,17:57:00,1,Allanbrooke Road,weekend
+2023-07-29,17:57:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:57:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:58:00,1,Siloso Road,weekend
+2023-07-29,17:58:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:58:00,1,Sentosa Boardwalk,weekend
+2023-07-29,17:58:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:58:00,1,Sentosa Gateway,weekend
+2023-07-29,17:58:00,1,Universal Studios Singapore,weekend
+2023-07-29,17:58:00,1,Gateway Avenue,weekend
+2023-07-29,17:58:00,1,Ironside Link,weekend
+2023-07-29,17:58:00,7,Gateway Avenue,weekend
+2023-07-29,17:58:00,1,Gateway Avenue,weekend
+2023-07-29,17:58:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:58:00,1,Allanbrooke Road,weekend
+2023-07-29,17:58:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:58:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:58:00,1,Sentosa Gateway,weekend
+2023-07-29,17:59:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:59:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:59:00,1,Siloso Road,weekend
+2023-07-29,17:59:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:59:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:59:00,1,Resorts World Sentosa,weekend
+2023-07-29,17:59:00,1,Gateway Avenue,weekend
+2023-07-29,17:59:00,1,Artillery Avenue,weekend
+2023-07-29,17:59:00,8,Gateway Avenue,weekend
+2023-07-29,17:59:00,2,Ironside Link,weekend
+2023-07-29,17:59:00,2,Resorts World Sentosa,weekend
+2023-07-29,17:59:00,1,Gateway Avenue,weekend
+2023-07-29,17:59:00,1,Gateway Avenue,weekend
+2023-07-29,17:59:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:59:00,1,Sentosa Cove Arrival Plaza,weekend
+2023-07-29,17:59:00,1,Sentosa Gateway,weekend
+2023-07-29,17:59:00,1,Sentosa Gateway,weekend
