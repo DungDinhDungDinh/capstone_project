@@ -1,0 +1,121 @@
+date,time,address,frequency
+2022-11-13,00,Serapong Course,30
+2022-11-13,00,Sentosa Gateway,29
+2022-11-13,00,Ironside Link,19
+2022-11-13,00,Gateway Avenue,13
+2022-11-13,00,Sentosa Boardwalk,10
+2022-11-13,01,Serapong Course,26
+2022-11-13,01,Sentosa Gateway,16
+2022-11-13,01,Gateway Avenue,10
+2022-11-13,01,Ironside Link,10
+2022-11-13,01,Cove Drive,9
+2022-11-13,02,Serapong Course,34
+2022-11-13,02,Sentosa Gateway,19
+2022-11-13,02,Ironside Link,14
+2022-11-13,02,Gateway Avenue,9
+2022-11-13,02,Sentosa Boardwalk,8
+2022-11-13,03,Ironside Link,37
+2022-11-13,03,Sentosa Gateway,24
+2022-11-13,03,Serapong Course,22
+2022-11-13,03,Gateway Avenue,20
+2022-11-13,03,Artillery Avenue,6
+2022-11-13,04,Ironside Link,59
+2022-11-13,04,Gateway Avenue,18
+2022-11-13,04,Sentosa Gateway,11
+2022-11-13,04,Serapong Course,5
+2022-11-13,04,Sentosa Boardwalk,3
+2022-11-13,05,Ironside Link,59
+2022-11-13,05,Gateway Avenue,17
+2022-11-13,05,Resorts World Sentosa,12
+2022-11-13,05,Sentosa Gateway,11
+2022-11-13,05,Sentosa Boardwalk,10
+2022-11-13,06,Ironside Link,60
+2022-11-13,06,Gateway Avenue,17
+2022-11-13,06,Sentosa Gateway,9
+2022-11-13,06,Ocean Drive,8
+2022-11-13,06,Allanbrooke Road,5
+2022-11-13,07,Ironside Link,60
+2022-11-13,07,Gateway Avenue,30
+2022-11-13,07,Sentosa Gateway,13
+2022-11-13,07,Resorts World Sentosa,9
+2022-11-13,07,Serapong Course,9
+2022-11-13,08,Gateway Avenue,47
+2022-11-13,08,Ironside Link,25
+2022-11-13,08,Resorts World Sentosa,16
+2022-11-13,08,Serapong Course,15
+2022-11-13,08,Sentosa Gateway,9
+2022-11-13,09,Gateway Avenue,58
+2022-11-13,09,Serapong Course,39
+2022-11-13,09,Ironside Link,32
+2022-11-13,09,Sentosa Gateway,26
+2022-11-13,09,Resorts World Sentosa,23
+2022-11-13,10,Gateway Avenue,83
+2022-11-13,10,Resorts World Sentosa,66
+2022-11-13,10,Sentosa Gateway,35
+2022-11-13,10,Serapong Course,26
+2022-11-13,10,Universal Studios Singapore,26
+2022-11-13,11,Gateway Avenue,53
+2022-11-13,11,Ironside Link,47
+2022-11-13,11,Serapong Course,32
+2022-11-13,11,Resorts World Sentosa,29
+2022-11-13,11,Sentosa Gateway,27
+2022-11-13,12,Sentosa Gateway,45
+2022-11-13,12,Gateway Avenue,26
+2022-11-13,12,Ironside Link,23
+2022-11-13,12,Serapong Course,22
+2022-11-13,12,Resorts World Sentosa,17
+2022-11-13,13,Ironside Link,32
+2022-11-13,13,Resorts World Sentosa,28
+2022-11-13,13,Sentosa Gateway,28
+2022-11-13,13,Bukit Manis Road,22
+2022-11-13,13,Serapong Course,18
+2022-11-13,14,Gateway Avenue,42
+2022-11-13,14,Resorts World Sentosa,41
+2022-11-13,14,Sentosa Gateway,33
+2022-11-13,14,Serapong Course,26
+2022-11-13,14,Bukit Manis Road,9
+2022-11-13,15,Gateway Avenue,39
+2022-11-13,15,Ironside Link,20
+2022-11-13,15,Sentosa Gateway,18
+2022-11-13,15,Serapong Course,16
+2022-11-13,15,Resorts World Sentosa,7
+2022-11-13,16,Gateway Avenue,49
+2022-11-13,16,Serapong Course,20
+2022-11-13,16,Ironside Link,19
+2022-11-13,16,Sentosa Gateway,12
+2022-11-13,16,Resorts World Sentosa,7
+2022-11-13,17,Gateway Avenue,51
+2022-11-13,17,Sentosa Gateway,18
+2022-11-13,17,Serapong Course,16
+2022-11-13,17,Adventure Cove Waterpark,11
+2022-11-13,17,Ironside Link,10
+2022-11-13,18,Gateway Avenue,51
+2022-11-13,18,Serapong Course,31
+2022-11-13,18,Sentosa Gateway,25
+2022-11-13,18,Resorts World Sentosa,18
+2022-11-13,18,Ironside Link,12
+2022-11-13,19,Gateway Avenue,66
+2022-11-13,19,Ironside Link,40
+2022-11-13,19,Serapong Course,24
+2022-11-13,19,Sentosa Gateway,18
+2022-11-13,19,Sentosa Boardwalk,13
+2022-11-13,20,Ironside Link,60
+2022-11-13,20,Gateway Avenue,43
+2022-11-13,20,Sentosa Gateway,18
+2022-11-13,20,Serapong Course,16
+2022-11-13,20,Ocean Drive,13
+2022-11-13,21,Ironside Link,58
+2022-11-13,21,Allanbrooke Road,54
+2022-11-13,21,Serapong Course,22
+2022-11-13,21,Sentosa Gateway,14
+2022-11-13,21,Gateway Avenue,9
+2022-11-13,22,Ironside Link,56
+2022-11-13,22,Allanbrooke Road,32
+2022-11-13,22,Serapong Course,25
+2022-11-13,22,Gateway Avenue,23
+2022-11-13,22,Sentosa Gateway,19
+2022-11-13,23,Ironside Link,59
+2022-11-13,23,Serapong Course,52
+2022-11-13,23,Gateway Avenue,24
+2022-11-13,23,Sentosa Gateway,20
+2022-11-13,23,Allanbrooke Road,12

@@ -40,26 +40,29 @@ def writingToSentosaStatisticsCSVFile():
     
     save_path = 'sentosa'
     
-    date = '2023-08-09'
+    dates = ['2021-04-02', '2021-07-14', '2021-09-01', '2021-10-23', '2022-02-01', '2022-11-13', 
+            '2022-12-03', '2023-01-19', '2023-01-22', '2023-01-24', '2023-02-01', '2023-03-06',
+            '2023-03-18', '2023-04-11', '2023-05-28', '2023-06-02', '2023-06-08', '2023-06-29',
+            '2023-07-29']
     
-    
-    data_rows = sentosa_statistics_by_hour(date)
-    
-    # name of csv file 
-    filename = "sentosa_statistics_by_hour_" + date + ".csv"
-    
-    completeName = os.path.join(save_path, filename)
+    for date in dates:
+        data_rows = sentosa_statistics_by_hour(date)
         
-    # writing to csv file 
-    with open(completeName, 'w') as csvfile: 
-        # creating a csv writer object 
-        csvwriter = csv.writer(csvfile) 
+        # name of csv file 
+        filename = "sentosa_statistics_by_hour_" + date + ".csv"
+        
+        completeName = os.path.join(save_path, filename)
             
-        # writing the fields 
-        csvwriter.writerow(fields) 
-            
-        # writing the data rows 
-        csvwriter.writerows(data_rows)
+        # writing to csv file 
+        with open(completeName, 'w') as csvfile: 
+            # creating a csv writer object 
+            csvwriter = csv.writer(csvfile) 
+                
+            # writing the fields 
+            csvwriter.writerow(fields) 
+                
+            # writing the data rows 
+            csvwriter.writerows(data_rows)
         
 # writingToSentosaStatisticsCSVFile()
         
@@ -88,26 +91,33 @@ def writingToFrequencyCSVFile():
     
     save_path = 'sentosa'
     
-    date = '2023-05-29'
+    dates = ['2021-04-02', '2021-07-14', '2021-09-01', '2021-10-23', '2022-02-01', '2022-11-13', 
+            '2022-12-03', '2023-01-19', '2023-01-22', '2023-01-24', '2023-02-01', '2023-03-06',
+            '2023-03-18', '2023-04-11', '2023-05-28', '2023-06-02', '2023-06-08', '2023-06-29',
+            '2023-07-29']
     
-    
-    data_rows = top_addresses_by_hour(date)
-    
-    # name of csv file 
-    filename = "top5_addresses_by_hour_" + date + ".csv"
-    
-    completeName = os.path.join(save_path, filename)
+    for date in dates:
+        data_rows = top_addresses_by_hour(date)
         
-    # writing to csv file 
-    with open(completeName, 'w') as csvfile: 
-        # creating a csv writer object 
-        csvwriter = csv.writer(csvfile) 
+        # name of csv file 
+        filename = "top5_addresses_by_hour_" + date + ".csv"
+        
+        completeName = os.path.join(save_path, filename)
             
-        # writing the fields 
-        csvwriter.writerow(fields) 
+        # writing to csv file 
+        with open(completeName, 'w') as csvfile: 
+            # creating a csv writer object 
+            csvwriter = csv.writer(csvfile) 
+                
+            # writing the fields 
+            csvwriter.writerow(fields) 
+                
+            # writing the data rows 
+            csvwriter.writerows(data_rows)
             
-        # writing the data rows 
-        csvwriter.writerows(data_rows)
+writingToFrequencyCSVFile()
+        
+
         
 
 

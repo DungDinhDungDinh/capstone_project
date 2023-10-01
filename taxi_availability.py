@@ -75,20 +75,67 @@ six_month_data['day_of_week'] = [d.weekday() for d in six_month_data['date_time'
 # taxi_stop_df = pd.DataFrame(taxi_stop_geo_df)
 # singapore_subzones_df = pd.DataFrame(singapore_subzones)
 
-#Function to get taxi_count of June 2023
-def getTaxiCounts():
-    time = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24']
-    results = []
-    for x in time:
-        request = 'https://api.data.gov.sg/v1/transport/taxi-availability?date_time=2023-06-02T' + x + '%3A00%3A00'
-        response = requests.get(request)
-        data = response.json()
-        taxi_counts = data['features'][0]['properties']['taxi_count']
-        results.append(taxi_counts)
-    return results
-# print(getTaxiCounts())
+def even_days_creation():
+    days = range(1, 31)
+    res = []
+    for day in days:
+        res.append(f"{day:02}")
+    return res
 
+def odd_days_creation():
+    days = range(1, 32)
+    res = []
+    for day in days:
+        res.append(f"{day:02}")
+    return res
+
+def minute_creation():
+    minutes = range(0, 60)
+    res = []
+    for minute in minutes:
+        res.append(f"{minute:02}")
+    return res
+
+#Function to get taxi_count of June 2023
+def getTaxiCountsByHour():
+    hours = ['00','01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23']
+    minutes = minute_creation()
+    results = []
+    days = odd_days_creation()
     
+    for hour in hours:
+        counts = 0
+        for day in days:
+            for minute in minutes:
+                request = 'https://api.data.gov.sg/v1/transport/taxi-availability?date_time=2023-05-' + day + 'T' + hour + '%3A' + minute + '%3A00'
+                response = requests.get(request)
+                data = response.json()
+                taxi_counts = data['features'][0]['properties']['taxi_count']
+                counts = counts + taxi_counts
+        results.append([hour, counts])
+    return results
+        
+def writingTaxiCountsByHourToCSVFile():
+    fields = ['hour', 'taxi_counts']
+    
+    data_rows = getTaxiCountsByHour()
+    
+    # name of csv file 
+    filename = "taxi_counts_by_hour_05-2023.csv"
+            
+    # writing to csv file 
+    with open(filename, 'w') as csvfile: 
+        # creating a csv writer object 
+        csvwriter = csv.writer(csvfile) 
+            
+        # writing the fields 
+        csvwriter.writerow(fields) 
+            
+        # writing the data rows 
+        csvwriter.writerows(data_rows)
+
+writingTaxiCountsByHourToCSVFile()
+
 #Function to invert longtitiude and latitude
 def invertLongtitudeLatitude(coordinates):
     inverted_coordinates = []
@@ -825,14 +872,6 @@ def get_all_elements_in_list_of_lists(list_e):
         # count += len(element)
         print(len(element))
     # return count
-    
-    
-def minute_creation():
-    minutes = range(0, 60)
-    res = []
-    for minute in minutes:
-        res.append(f"{minute:02}")
-    return res
 
 minutes = minute_creation()
 
@@ -910,7 +949,7 @@ def writingToCSVFile():
             # writing the data rows 
             csvwriter.writerows(data_rows)
 
-writingToCSVFile()
+# writingToCSVFile()
 
 # print(geopy.distance.geodesic((1.25415, 103.82563), (1.25439891666667, 103.8256399)).m)
 

@@ -1,0 +1,121 @@
+date,time,address,frequency
+2023-06-02,00,Ironside Link,52
+2023-06-02,00,Resorts World Sentosa,43
+2023-06-02,00,Allanbrooke Road,39
+2023-06-02,00,Sentosa Gateway,33
+2023-06-02,00,Gateway Avenue,24
+2023-06-02,01,Allanbrooke Road,52
+2023-06-02,01,Ironside Link,43
+2023-06-02,01,Sentosa Gateway,31
+2023-06-02,01,Serapong Course,30
+2023-06-02,01,Gateway Avenue,28
+2023-06-02,02,Ironside Link,48
+2023-06-02,02,Allanbrooke Road,37
+2023-06-02,02,Sentosa Gateway,30
+2023-06-02,02,Serapong Course,24
+2023-06-02,02,Gateway Avenue,16
+2023-06-02,03,Allanbrooke Road,52
+2023-06-02,03,Ironside Link,47
+2023-06-02,03,Sentosa Gateway,33
+2023-06-02,03,Gateway Avenue,31
+2023-06-02,03,Serapong Course,14
+2023-06-02,04,Ironside Link,59
+2023-06-02,04,Allanbrooke Road,25
+2023-06-02,04,Sentosa Gateway,20
+2023-06-02,04,Gateway Avenue,18
+2023-06-02,04,Serapong Course,15
+2023-06-02,05,Ironside Link,19
+2023-06-02,05,Sentosa Gateway,16
+2023-06-02,05,Gateway Avenue,13
+2023-06-02,05,Serapong Course,12
+2023-06-02,05,Palawan Beach Walk,8
+2023-06-02,06,Gateway Avenue,45
+2023-06-02,06,Resorts World Sentosa,18
+2023-06-02,06,Sentosa Gateway,15
+2023-06-02,06,7-Eleven,8
+2023-06-02,06,Ironside Link,6
+2023-06-02,07,Gateway Avenue,52
+2023-06-02,07,Resorts World Sentosa,42
+2023-06-02,07,Sentosa Gateway,37
+2023-06-02,07,Imbiah Walk,33
+2023-06-02,07,Ironside Link,23
+2023-06-02,08,Sentosa Gateway,45
+2023-06-02,08,Resorts World Sentosa,43
+2023-06-02,08,Gateway Avenue,39
+2023-06-02,08,Siloso Road,20
+2023-06-02,08,Artillery Avenue,19
+2023-06-02,09,Sentosa Gateway,54
+2023-06-02,09,Gateway Avenue,38
+2023-06-02,09,Resorts World Sentosa,35
+2023-06-02,09,Serapong Course,23
+2023-06-02,09,Sentosa Boardwalk,21
+2023-06-02,10,Gateway Avenue,109
+2023-06-02,10,Resorts World Sentosa,108
+2023-06-02,10,Sentosa Gateway,105
+2023-06-02,10,Ironside Link,49
+2023-06-02,10,Sentosa Boardwalk,49
+2023-06-02,11,Resorts World Sentosa,139
+2023-06-02,11,Sentosa Gateway,107
+2023-06-02,11,Allanbrooke Road,74
+2023-06-02,11,Gateway Avenue,62
+2023-06-02,11,Ironside Link,50
+2023-06-02,12,Sentosa Gateway,89
+2023-06-02,12,Resorts World Sentosa,66
+2023-06-02,12,Gateway Avenue,59
+2023-06-02,12,Ironside Link,58
+2023-06-02,12,Serapong Course,41
+2023-06-02,13,Resorts World Sentosa,89
+2023-06-02,13,Ironside Link,56
+2023-06-02,13,Gateway Avenue,55
+2023-06-02,13,Sentosa Gateway,47
+2023-06-02,13,Serapong Course,40
+2023-06-02,14,Resorts World Sentosa,88
+2023-06-02,14,Gateway Avenue,85
+2023-06-02,14,Sentosa Gateway,74
+2023-06-02,14,Ironside Link,59
+2023-06-02,14,Allanbrooke Road,35
+2023-06-02,15,Resorts World Sentosa,80
+2023-06-02,15,Gateway Avenue,70
+2023-06-02,15,Ironside Link,59
+2023-06-02,15,Sentosa Gateway,44
+2023-06-02,15,Serapong Course,29
+2023-06-02,16,Gateway Avenue,66
+2023-06-02,16,Resorts World Sentosa,58
+2023-06-02,16,Allanbrooke Road,51
+2023-06-02,16,Sentosa Gateway,44
+2023-06-02,16,Ironside Link,26
+2023-06-02,17,Resorts World Sentosa,70
+2023-06-02,17,Gateway Avenue,68
+2023-06-02,17,Ironside Link,53
+2023-06-02,17,Sentosa Gateway,51
+2023-06-02,17,Allanbrooke Road,40
+2023-06-02,18,Gateway Avenue,55
+2023-06-02,18,Resorts World Sentosa,50
+2023-06-02,18,Sentosa Gateway,43
+2023-06-02,18,Universal Studios Singapore,33
+2023-06-02,18,Allanbrooke Road,32
+2023-06-02,19,Gateway Avenue,123
+2023-06-02,19,Resorts World Sentosa,73
+2023-06-02,19,Sentosa Gateway,72
+2023-06-02,19,Ironside Link,45
+2023-06-02,19,Universal Studios Singapore,35
+2023-06-02,20,Gateway Avenue,87
+2023-06-02,20,Serapong Course,74
+2023-06-02,20,Resorts World Sentosa,64
+2023-06-02,20,Allanbrooke Road,62
+2023-06-02,20,Ironside Link,58
+2023-06-02,21,Ironside Link,87
+2023-06-02,21,Serapong Course,66
+2023-06-02,21,Allanbrooke Road,52
+2023-06-02,21,Sentosa Gateway,43
+2023-06-02,21,Resorts World Sentosa,39
+2023-06-02,22,Resorts World Sentosa,70
+2023-06-02,22,Sentosa Gateway,53
+2023-06-02,22,Ironside Link,51
+2023-06-02,22,Allanbrooke Road,45
+2023-06-02,22,Gateway Avenue,43
+2023-06-02,23,Allanbrooke Road,62
+2023-06-02,23,Sentosa Gateway,57
+2023-06-02,23,Gateway Avenue,48
+2023-06-02,23,Resorts World Sentosa,45
+2023-06-02,23,Serapong Course,23

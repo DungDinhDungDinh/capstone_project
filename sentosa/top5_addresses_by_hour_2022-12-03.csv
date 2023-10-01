@@ -1,0 +1,121 @@
+date,time,address,frequency
+2022-12-03,00,Serapong Course,78
+2022-12-03,00,Sentosa Gateway,57
+2022-12-03,00,Gateway Avenue,56
+2022-12-03,00,Artillery Avenue,44
+2022-12-03,00,Ocean Drive,41
+2022-12-03,01,Ironside Link,51
+2022-12-03,01,Serapong Course,49
+2022-12-03,01,Gateway Avenue,40
+2022-12-03,01,Sentosa Gateway,38
+2022-12-03,01,Resorts World Sentosa,16
+2022-12-03,02,Sentosa Gateway,42
+2022-12-03,02,Serapong Course,30
+2022-12-03,02,Gateway Avenue,24
+2022-12-03,02,Siloso Road,20
+2022-12-03,02,Ironside Road,18
+2022-12-03,03,Ironside Link,31
+2022-12-03,03,Sentosa Gateway,25
+2022-12-03,03,Gateway Avenue,24
+2022-12-03,03,Serapong Course,17
+2022-12-03,03,Siloso Road,16
+2022-12-03,04,Gateway Avenue,54
+2022-12-03,04,Silk Road of the Sea,49
+2022-12-03,04,Serapong Course,19
+2022-12-03,04,Beach View,12
+2022-12-03,04,Siloso Beach View,12
+2022-12-03,05,Silk Road of the Sea,51
+2022-12-03,05,Gateway Avenue,39
+2022-12-03,05,Sentosa Gateway,23
+2022-12-03,05,Beach View,14
+2022-12-03,05,Ocean Way,11
+2022-12-03,06,Silk Road of the Sea,57
+2022-12-03,06,Sentosa Gateway,30
+2022-12-03,06,Gateway Avenue,25
+2022-12-03,06,Artillery Avenue,13
+2022-12-03,06,Siloso Road,13
+2022-12-03,07,Silk Road of the Sea,57
+2022-12-03,07,Resorts World Sentosa,43
+2022-12-03,07,Sentosa Gateway,42
+2022-12-03,07,Gateway Avenue,33
+2022-12-03,07,Ironside Link,27
+2022-12-03,08,Ironside Link,57
+2022-12-03,08,Silk Road of the Sea,57
+2022-12-03,08,Gateway Avenue,39
+2022-12-03,08,Resorts World Sentosa,37
+2022-12-03,08,Ocean Drive,24
+2022-12-03,09,Gateway Avenue,74
+2022-12-03,09,Ironside Link,60
+2022-12-03,09,Silk Road of the Sea,58
+2022-12-03,09,Sentosa Gateway,57
+2022-12-03,09,Resorts World Sentosa,56
+2022-12-03,10,Gateway Avenue,118
+2022-12-03,10,Sentosa Gateway,115
+2022-12-03,10,Allanbrooke Road,92
+2022-12-03,10,Resorts World Sentosa,86
+2022-12-03,10,Ironside Link,59
+2022-12-03,11,Resorts World Sentosa,117
+2022-12-03,11,Sentosa Gateway,99
+2022-12-03,11,Gateway Avenue,75
+2022-12-03,11,Ironside Link,57
+2022-12-03,11,Serapong Course,44
+2022-12-03,12,Resorts World Sentosa,98
+2022-12-03,12,Gateway Avenue,89
+2022-12-03,12,Ironside Link,59
+2022-12-03,12,Sentosa Gateway,52
+2022-12-03,12,Allanbrooke Road,48
+2022-12-03,13,Resorts World Sentosa,103
+2022-12-03,13,Gateway Avenue,89
+2022-12-03,13,Ironside Link,74
+2022-12-03,13,Ocean Drive,63
+2022-12-03,13,Universal Studios Singapore,53
+2022-12-03,14,Resorts World Sentosa,135
+2022-12-03,14,Gateway Avenue,81
+2022-12-03,14,Ironside Link,61
+2022-12-03,14,Sentosa Gateway,39
+2022-12-03,14,Serapong Course,38
+2022-12-03,15,Gateway Avenue,111
+2022-12-03,15,Resorts World Sentosa,83
+2022-12-03,15,Ironside Link,57
+2022-12-03,15,Sentosa Gateway,48
+2022-12-03,15,Siloso Road,41
+2022-12-03,16,Gateway Avenue,81
+2022-12-03,16,Ironside Link,61
+2022-12-03,16,Resorts World Sentosa,57
+2022-12-03,16,Imbiah Road,31
+2022-12-03,16,Serapong Course,31
+2022-12-03,17,Gateway Avenue,72
+2022-12-03,17,Ironside Link,63
+2022-12-03,17,Resorts World Sentosa,55
+2022-12-03,17,Allanbrooke Road,51
+2022-12-03,17,Sentosa Gateway,49
+2022-12-03,18,Gateway Avenue,94
+2022-12-03,18,Resorts World Sentosa,87
+2022-12-03,18,Ironside Link,67
+2022-12-03,18,Allanbrooke Road,51
+2022-12-03,18,Sentosa Gateway,35
+2022-12-03,19,Gateway Avenue,109
+2022-12-03,19,Resorts World Sentosa,65
+2022-12-03,19,Sentosa Gateway,59
+2022-12-03,19,Ironside Link,58
+2022-12-03,19,Allanbrooke Road,39
+2022-12-03,20,Gateway Avenue,109
+2022-12-03,20,Sentosa Gateway,100
+2022-12-03,20,Ironside Link,64
+2022-12-03,20,Resorts World Sentosa,59
+2022-12-03,20,Serapong Course,48
+2022-12-03,21,Gateway Avenue,109
+2022-12-03,21,Resorts World Sentosa,100
+2022-12-03,21,Sentosa Gateway,98
+2022-12-03,21,Allanbrooke Road,75
+2022-12-03,21,Serapong Course,61
+2022-12-03,22,Allanbrooke Road,84
+2022-12-03,22,Gateway Avenue,79
+2022-12-03,22,Resorts World Sentosa,78
+2022-12-03,22,Serapong Course,68
+2022-12-03,22,Siloso Road,68
+2022-12-03,23,Siloso Road,106
+2022-12-03,23,Sentosa Gateway,93
+2022-12-03,23,Resorts World Sentosa,79
+2022-12-03,23,Allanbrooke Road,69
+2022-12-03,23,Gateway Avenue,69

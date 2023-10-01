@@ -1,0 +1,121 @@
+date,time,address,frequency
+2023-01-19,00,Gateway Avenue,78
+2023-01-19,00,Sentosa Gateway,45
+2023-01-19,00,Ocean Drive,34
+2023-01-19,00,Serapong Course,28
+2023-01-19,00,Ironside Link,26
+2023-01-19,01,Gateway Avenue,62
+2023-01-19,01,Sentosa Gateway,58
+2023-01-19,01,Ironside Link,50
+2023-01-19,01,Resorts World Sentosa,33
+2023-01-19,01,Serapong Course,33
+2023-01-19,02,Gateway Avenue,62
+2023-01-19,02,Allanbrooke Road,60
+2023-01-19,02,Ironside Link,59
+2023-01-19,02,Resorts World Sentosa,46
+2023-01-19,02,Sentosa Gateway,46
+2023-01-19,03,Resorts World Sentosa,76
+2023-01-19,03,Gateway Avenue,68
+2023-01-19,03,Allanbrooke Road,62
+2023-01-19,03,Serapong Course,46
+2023-01-19,03,Ironside Link,37
+2023-01-19,04,Gateway Avenue,51
+2023-01-19,04,Resorts World Sentosa,26
+2023-01-19,04,Serapong Course,24
+2023-01-19,04,Sentosa Gateway,23
+2023-01-19,04,Sentosa Boardwalk,16
+2023-01-19,05,Gateway Avenue,23
+2023-01-19,05,Sentosa Gateway,20
+2023-01-19,05,Artillery Avenue,12
+2023-01-19,05,Resorts World Sentosa,8
+2023-01-19,05,Sentosa Boardwalk,7
+2023-01-19,06,Resorts World Sentosa,31
+2023-01-19,06,Gateway Avenue,28
+2023-01-19,06,Sentosa Gateway,20
+2023-01-19,06,Allanbrooke Road,19
+2023-01-19,06,Artillery Avenue,6
+2023-01-19,07,Allanbrooke Road,36
+2023-01-19,07,Gateway Avenue,35
+2023-01-19,07,Ironside Link,33
+2023-01-19,07,Cove Drive,31
+2023-01-19,07,Sentosa Gateway,31
+2023-01-19,08,Ironside Road,34
+2023-01-19,08,Ironside Link,29
+2023-01-19,08,Gateway Avenue,27
+2023-01-19,08,Resorts World Sentosa,25
+2023-01-19,08,Allanbrooke Road,20
+2023-01-19,09,Gateway Avenue,67
+2023-01-19,09,Ironside Link,53
+2023-01-19,09,Resorts World Sentosa,52
+2023-01-19,09,Ironside Road,51
+2023-01-19,09,Sentosa Gateway,47
+2023-01-19,10,Sentosa Gateway,81
+2023-01-19,10,Gateway Avenue,69
+2023-01-19,10,Ironside Link,62
+2023-01-19,10,Serapong Course,48
+2023-01-19,10,Universal Studios Singapore,45
+2023-01-19,11,Gateway Avenue,103
+2023-01-19,11,Resorts World Sentosa,101
+2023-01-19,11,Sentosa Gateway,97
+2023-01-19,11,Ironside Link,58
+2023-01-19,11,Universal Studios Singapore,52
+2023-01-19,12,Gateway Avenue,119
+2023-01-19,12,Resorts World Sentosa,71
+2023-01-19,12,Sentosa Gateway,60
+2023-01-19,12,Ironside Link,59
+2023-01-19,12,Universal Studios Singapore,33
+2023-01-19,13,Resorts World Sentosa,91
+2023-01-19,13,Gateway Avenue,61
+2023-01-19,13,Ironside Link,58
+2023-01-19,13,Sentosa Gateway,41
+2023-01-19,13,Serapong Course,24
+2023-01-19,14,Gateway Avenue,65
+2023-01-19,14,Sentosa Gateway,59
+2023-01-19,14,Ironside Link,55
+2023-01-19,14,Resorts World Sentosa,54
+2023-01-19,14,Serapong Course,15
+2023-01-19,15,Ironside Link,56
+2023-01-19,15,Gateway Avenue,42
+2023-01-19,15,Serapong Course,25
+2023-01-19,15,Resorts World Sentosa,20
+2023-01-19,15,Ocean Drive,19
+2023-01-19,16,Ironside Link,56
+2023-01-19,16,Ocean Drive,43
+2023-01-19,16,Sentosa Gateway,41
+2023-01-19,16,Gateway Avenue,38
+2023-01-19,16,Resorts World Sentosa,32
+2023-01-19,17,Ironside Link,61
+2023-01-19,17,Gateway Avenue,33
+2023-01-19,17,Sentosa Gateway,33
+2023-01-19,17,Serapong Course,27
+2023-01-19,17,Ocean Drive,17
+2023-01-19,18,Ironside Link,60
+2023-01-19,18,Resorts World Sentosa,27
+2023-01-19,18,Gateway Avenue,26
+2023-01-19,18,Serapong Course,20
+2023-01-19,18,Siloso Road,16
+2023-01-19,19,Ironside Link,58
+2023-01-19,19,Gateway Avenue,57
+2023-01-19,19,Serapong Course,52
+2023-01-19,19,Ocean Drive,49
+2023-01-19,19,Resorts World Sentosa,43
+2023-01-19,20,Resorts World Sentosa,99
+2023-01-19,20,Gateway Avenue,76
+2023-01-19,20,Ironside Link,66
+2023-01-19,20,Sentosa Gateway,48
+2023-01-19,20,Serapong Course,46
+2023-01-19,21,Ironside Link,59
+2023-01-19,21,Resorts World Sentosa,50
+2023-01-19,21,Serapong Course,41
+2023-01-19,21,Sentosa Gateway,37
+2023-01-19,21,Allanbrooke Road,36
+2023-01-19,22,Sentosa Gateway,42
+2023-01-19,22,Gateway Avenue,41
+2023-01-19,22,Serapong Course,40
+2023-01-19,22,Resorts World Sentosa,32
+2023-01-19,22,Ironside Link,29
+2023-01-19,23,Gateway Avenue,73
+2023-01-19,23,Resorts World Sentosa,48
+2023-01-19,23,Sentosa Gateway,30
+2023-01-19,23,Serapong Course,27
+2023-01-19,23,Ocean Drive,20

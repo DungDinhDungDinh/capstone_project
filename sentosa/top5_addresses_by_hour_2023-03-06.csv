@@ -1,0 +1,121 @@
+date,time,address,frequency
+2023-03-06,00,Gateway Avenue,34
+2023-03-06,00,Ironside Link,21
+2023-03-06,00,Sentosa Gateway,11
+2023-03-06,00,Serapong Course,9
+2023-03-06,00,Artillery Avenue,4
+2023-03-06,01,Serapong Course,59
+2023-03-06,01,Ironside Link,45
+2023-03-06,01,Gateway Avenue,17
+2023-03-06,01,Cove Way,11
+2023-03-06,01,Sentosa Gateway,11
+2023-03-06,02,Gateway Avenue,45
+2023-03-06,02,Ironside Link,29
+2023-03-06,02,Sentosa Gateway,8
+2023-03-06,02,Sentosa Cove Arrival Plaza,5
+2023-03-06,02,Cove Way,3
+2023-03-06,03,Ironside Link,26
+2023-03-06,03,Gateway Avenue,20
+2023-03-06,03,Serapong Course,19
+2023-03-06,03,Resorts World Sentosa,9
+2023-03-06,03,Sentosa Gateway,9
+2023-03-06,04,Gateway Avenue,41
+2023-03-06,04,Ironside Link,38
+2023-03-06,04,Resorts World Sentosa,18
+2023-03-06,04,Sentosa Gateway,14
+2023-03-06,04,Allanbrooke Road,6
+2023-03-06,05,Village Hotel @ Sentosa,11
+2023-03-06,05,Gateway Avenue,10
+2023-03-06,05,Ironside Link,10
+2023-03-06,05,Sentosa Gateway,5
+2023-03-06,05,Sentosa Boardwalk,4
+2023-03-06,06,Ironside Link,14
+2023-03-06,06,Sentosa Gateway,8
+2023-03-06,06,Allanbrooke Road,2
+2023-03-06,06,Bukit Manis Road,2
+2023-03-06,06,Cove Way,2
+2023-03-06,07,Ironside Link,25
+2023-03-06,07,Ocean Drive,14
+2023-03-06,07,Allanbrooke Road,4
+2023-03-06,07,Artillery Avenue,3
+2023-03-06,07,Sentosa Gateway,3
+2023-03-06,08,Gateway Avenue,26
+2023-03-06,08,Resorts World Sentosa,5
+2023-03-06,08,Ironside Link,4
+2023-03-06,08,Ironside Road,4
+2023-03-06,08,Beach Arrival Plaza,2
+2023-03-06,09,Sentosa Gateway,20
+2023-03-06,09,Gateway Avenue,19
+2023-03-06,09,Resorts World Sentosa,17
+2023-03-06,09,Cove Way,11
+2023-03-06,09,Sentosa Boardwalk,10
+2023-03-06,10,Ironside Link,102
+2023-03-06,10,Gateway Avenue,79
+2023-03-06,10,Resorts World Sentosa,42
+2023-03-06,10,Serapong Course,34
+2023-03-06,10,Sentosa Gateway,17
+2023-03-06,11,Ironside Link,95
+2023-03-06,11,Gateway Avenue,58
+2023-03-06,11,Sentosa Gateway,42
+2023-03-06,11,Universal Studios Singapore,38
+2023-03-06,11,Palawan,19
+2023-03-06,12,Ironside Link,104
+2023-03-06,12,Sentosa Gateway,34
+2023-03-06,12,Gateway Avenue,20
+2023-03-06,12,Serapong Course,19
+2023-03-06,12,Resorts World Sentosa,6
+2023-03-06,13,Ironside Link,76
+2023-03-06,13,Resorts World Sentosa,21
+2023-03-06,13,Gateway Avenue,17
+2023-03-06,13,Sentosa Gateway,12
+2023-03-06,13,Allanbrooke Road,9
+2023-03-06,14,Ironside Link,43
+2023-03-06,14,Artillery Avenue,40
+2023-03-06,14,Allanbrooke Road,18
+2023-03-06,14,Ocean Drive,17
+2023-03-06,14,Sentosa Gateway,12
+2023-03-06,15,Artillery Avenue,66
+2023-03-06,15,Allanbrooke Road,25
+2023-03-06,15,Ocean Drive,23
+2023-03-06,15,Gateway Avenue,22
+2023-03-06,15,Ironside Link,14
+2023-03-06,16,Artillery Avenue,61
+2023-03-06,16,Gateway Avenue,24
+2023-03-06,16,Ocean Drive,17
+2023-03-06,16,Ironside Link,16
+2023-03-06,16,Sentosa Gateway,14
+2023-03-06,17,Artillery Avenue,63
+2023-03-06,17,Resorts World Sentosa,18
+2023-03-06,17,Ocean Drive,17
+2023-03-06,17,Allanbrooke Road,9
+2023-03-06,17,Gateway Avenue,9
+2023-03-06,18,Artillery Avenue,57
+2023-03-06,18,Sentosa Gateway,10
+2023-03-06,18,Serapong Course,10
+2023-03-06,18,Allanbrooke Road,7
+2023-03-06,18,Ocean Way,6
+2023-03-06,19,Artillery Avenue,63
+2023-03-06,19,Serapong Course,44
+2023-03-06,19,Ironside Link,42
+2023-03-06,19,Sentosa Gateway,19
+2023-03-06,19,Gateway Avenue,16
+2023-03-06,20,Ironside Link,71
+2023-03-06,20,Universal Studios Singapore,19
+2023-03-06,20,Artillery Avenue,17
+2023-03-06,20,Ironside Road,13
+2023-03-06,20,Sentosa Gateway,8
+2023-03-06,21,Ironside Link,69
+2023-03-06,21,Gateway Avenue,45
+2023-03-06,21,Resorts World Sentosa,24
+2023-03-06,21,Serapong Course,19
+2023-03-06,21,Sentosa Gateway,15
+2023-03-06,22,Ironside Link,61
+2023-03-06,22,Serapong Course,26
+2023-03-06,22,Gateway Avenue,17
+2023-03-06,22,Sentosa Gateway,9
+2023-03-06,22,Resorts World Sentosa,8
+2023-03-06,23,Ironside Link,70
+2023-03-06,23,Gateway Avenue,48
+2023-03-06,23,Sentosa Gateway,19
+2023-03-06,23,Universal Studios Singapore,15
+2023-03-06,23,Resorts World Sentosa,10

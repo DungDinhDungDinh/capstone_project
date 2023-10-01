@@ -1,0 +1,121 @@
+date,time,address,frequency
+2021-04-02,00,Gateway Avenue,96
+2021-04-02,00,Ironside Link,75
+2021-04-02,00,Sentosa Gateway,67
+2021-04-02,00,Allanbrooke Road,21
+2021-04-02,00,Sentosa Boardwalk,20
+2021-04-02,01,Gateway Avenue,97
+2021-04-02,01,Ironside Link,93
+2021-04-02,01,Sentosa Gateway,49
+2021-04-02,01,Serapong Course,38
+2021-04-02,01,Bukit Manis Road,10
+2021-04-02,02,Gateway Avenue,90
+2021-04-02,02,Ironside Link,87
+2021-04-02,02,Serapong Course,64
+2021-04-02,02,Sentosa Gateway,45
+2021-04-02,02,Allanbrooke Road,24
+2021-04-02,03,Ironside Link,76
+2021-04-02,03,Gateway Avenue,60
+2021-04-02,03,Sentosa Gateway,40
+2021-04-02,03,Serapong Course,36
+2021-04-02,03,Sentosa Boardwalk,32
+2021-04-02,04,Serapong Course,67
+2021-04-02,04,Ironside Link,58
+2021-04-02,04,Gateway Avenue,54
+2021-04-02,04,Sentosa Gateway,28
+2021-04-02,04,Sentosa Boardwalk,22
+2021-04-02,05,Serapong Course,66
+2021-04-02,05,Ironside Link,59
+2021-04-02,05,Gateway Avenue,43
+2021-04-02,05,Ironside Road,36
+2021-04-02,05,Resorts World Sentosa,26
+2021-04-02,06,Ironside Link,73
+2021-04-02,06,Gateway Avenue,67
+2021-04-02,06,Serapong Course,46
+2021-04-02,06,Sentosa Gateway,31
+2021-04-02,06,Sentosa Cove Arrival Plaza,17
+2021-04-02,07,Gateway Avenue,54
+2021-04-02,07,Sentosa Gateway,42
+2021-04-02,07,Ironside Link,37
+2021-04-02,07,Resorts World Sentosa,22
+2021-04-02,07,Serapong Course,22
+2021-04-02,08,Gateway Avenue,105
+2021-04-02,08,Resorts World Sentosa,63
+2021-04-02,08,Ironside Link,37
+2021-04-02,08,Sentosa Gateway,35
+2021-04-02,08,Sentosa Cove Arrival Plaza,31
+2021-04-02,09,Gateway Avenue,129
+2021-04-02,09,Sentosa Gateway,80
+2021-04-02,09,Resorts World Sentosa,67
+2021-04-02,09,Ironside Link,62
+2021-04-02,09,Sentosa Boardwalk,45
+2021-04-02,10,Gateway Avenue,121
+2021-04-02,10,Resorts World Sentosa,80
+2021-04-02,10,Sentosa Gateway,66
+2021-04-02,10,Ironside Link,59
+2021-04-02,10,Serapong Course,54
+2021-04-02,11,Sentosa Gateway,93
+2021-04-02,11,Gateway Avenue,81
+2021-04-02,11,Serapong Course,75
+2021-04-02,11,Ironside Link,66
+2021-04-02,11,Resorts World Sentosa,41
+2021-04-02,12,Gateway Avenue,77
+2021-04-02,12,Sentosa Gateway,75
+2021-04-02,12,Ironside Link,57
+2021-04-02,12,Serapong Course,49
+2021-04-02,12,Resorts World Sentosa,40
+2021-04-02,13,Gateway Avenue,106
+2021-04-02,13,Sentosa Gateway,89
+2021-04-02,13,Serapong Course,64
+2021-04-02,13,Allanbrooke Road,46
+2021-04-02,13,Sentosa Boardwalk,33
+2021-04-02,14,Gateway Avenue,137
+2021-04-02,14,Sentosa Gateway,95
+2021-04-02,14,Resorts World Sentosa,71
+2021-04-02,14,Serapong Course,66
+2021-04-02,14,Universal Studios Singapore,53
+2021-04-02,15,Gateway Avenue,119
+2021-04-02,15,Sentosa Gateway,86
+2021-04-02,15,Serapong Course,58
+2021-04-02,15,Ironside Link,42
+2021-04-02,15,Resorts World Sentosa,36
+2021-04-02,16,Gateway Avenue,86
+2021-04-02,16,Sentosa Gateway,66
+2021-04-02,16,Serapong Course,59
+2021-04-02,16,Ironside Link,45
+2021-04-02,16,Ocean Drive,31
+2021-04-02,17,Gateway Avenue,126
+2021-04-02,17,Ironside Link,96
+2021-04-02,17,Sentosa Gateway,74
+2021-04-02,17,Serapong Course,63
+2021-04-02,17,Resorts World Sentosa,27
+2021-04-02,18,Gateway Avenue,94
+2021-04-02,18,Sentosa Gateway,71
+2021-04-02,18,Serapong Course,67
+2021-04-02,18,Allanbrooke Road,37
+2021-04-02,18,Ironside Link,36
+2021-04-02,19,Gateway Avenue,74
+2021-04-02,19,Sentosa Gateway,64
+2021-04-02,19,Serapong Course,60
+2021-04-02,19,Ironside Link,31
+2021-04-02,19,Ocean Way,10
+2021-04-02,20,Sentosa Gateway,97
+2021-04-02,20,Gateway Avenue,93
+2021-04-02,20,Serapong Course,62
+2021-04-02,20,Ironside Link,57
+2021-04-02,20,Allanbrooke Road,55
+2021-04-02,21,Gateway Avenue,104
+2021-04-02,21,Ironside Link,89
+2021-04-02,21,Serapong Course,83
+2021-04-02,21,Sentosa Gateway,82
+2021-04-02,21,Allanbrooke Road,77
+2021-04-02,22,Serapong Course,78
+2021-04-02,22,Ironside Link,73
+2021-04-02,22,Sentosa Gateway,48
+2021-04-02,22,Gateway Avenue,45
+2021-04-02,22,Allanbrooke Road,37
+2021-04-02,23,Sentosa Gateway,76
+2021-04-02,23,Gateway Avenue,73
+2021-04-02,23,Ironside Link,63
+2021-04-02,23,Serapong Course,59
+2021-04-02,23,Allanbrooke Road,44

@@ -1,0 +1,121 @@
+date,time,address,frequency
+2021-10-23,00,Resorts World Sentosa,136
+2021-10-23,00,Gateway Avenue,110
+2021-10-23,00,Sentosa Gateway,89
+2021-10-23,00,Serapong Course,81
+2021-10-23,00,Ironside Link,75
+2021-10-23,01,Gateway Avenue,115
+2021-10-23,01,Ironside Link,77
+2021-10-23,01,Sentosa Gateway,48
+2021-10-23,01,Serapong Course,36
+2021-10-23,01,Sentosa Cove Arrival Plaza,32
+2021-10-23,02,Gateway Avenue,97
+2021-10-23,02,Universal Studios Singapore,60
+2021-10-23,02,Ironside Link,53
+2021-10-23,02,Serapong Course,52
+2021-10-23,02,Sentosa Gateway,39
+2021-10-23,03,Gateway Avenue,60
+2021-10-23,03,Serapong Course,60
+2021-10-23,03,Sentosa Gateway,31
+2021-10-23,03,Ironside Link,29
+2021-10-23,03,Universal Studios Singapore,28
+2021-10-23,04,Serapong Course,60
+2021-10-23,04,Gateway Avenue,35
+2021-10-23,04,Sentosa Gateway,25
+2021-10-23,04,Ironside Link,23
+2021-10-23,04,Shangri-La's Rasa Sentosa Resort & Spa,22
+2021-10-23,05,Gateway Avenue,86
+2021-10-23,05,Sentosa Gateway,51
+2021-10-23,05,Serapong Course,40
+2021-10-23,05,Shangri-La's Rasa Sentosa Resort & Spa,21
+2021-10-23,05,Bukit Manis Road,16
+2021-10-23,06,Gateway Avenue,73
+2021-10-23,06,Sentosa Gateway,40
+2021-10-23,06,Ironside Road,32
+2021-10-23,06,Artillery Avenue,19
+2021-10-23,06,Serapong Course,18
+2021-10-23,07,Allanbrooke Road,52
+2021-10-23,07,Resorts World Sentosa,48
+2021-10-23,07,Sentosa Gateway,46
+2021-10-23,07,Gateway Avenue,40
+2021-10-23,07,Ironside Link,18
+2021-10-23,08,Resorts World Sentosa,89
+2021-10-23,08,Ironside Link,59
+2021-10-23,08,Sentosa Gateway,40
+2021-10-23,08,Gateway Avenue,30
+2021-10-23,08,Serapong Course,21
+2021-10-23,09,Sentosa Gateway,90
+2021-10-23,09,Ironside Link,77
+2021-10-23,09,Gateway Avenue,56
+2021-10-23,09,Resorts World Sentosa,55
+2021-10-23,09,Allanbrooke Road,41
+2021-10-23,10,Sentosa Gateway,105
+2021-10-23,10,Gateway Avenue,84
+2021-10-23,10,Ironside Link,74
+2021-10-23,10,Sentosa Cove Arrival Plaza,41
+2021-10-23,10,Allanbrooke Road,38
+2021-10-23,11,Gateway Avenue,111
+2021-10-23,11,Sentosa Gateway,70
+2021-10-23,11,Ironside Link,60
+2021-10-23,11,Resorts World Sentosa,55
+2021-10-23,11,Serapong Course,48
+2021-10-23,12,Gateway Avenue,85
+2021-10-23,12,Sentosa Gateway,61
+2021-10-23,12,Ironside Link,60
+2021-10-23,12,Artillery Avenue,59
+2021-10-23,12,Resorts World Sentosa,59
+2021-10-23,13,Resorts World Sentosa,119
+2021-10-23,13,Sentosa Gateway,78
+2021-10-23,13,Gateway Avenue,70
+2021-10-23,13,Serapong Course,69
+2021-10-23,13,Ironside Link,60
+2021-10-23,14,Gateway Avenue,114
+2021-10-23,14,Sentosa Gateway,100
+2021-10-23,14,Universal Studios Singapore,91
+2021-10-23,14,Resorts World Sentosa,65
+2021-10-23,14,Ironside Link,60
+2021-10-23,15,Allanbrooke Road,125
+2021-10-23,15,Gateway Avenue,125
+2021-10-23,15,Resorts World Sentosa,109
+2021-10-23,15,Sentosa Gateway,98
+2021-10-23,15,Ocean Drive,68
+2021-10-23,16,Gateway Avenue,93
+2021-10-23,16,Sentosa Gateway,91
+2021-10-23,16,Resorts World Sentosa,84
+2021-10-23,16,Ironside Link,79
+2021-10-23,16,Serapong Course,64
+2021-10-23,17,Sentosa Gateway,78
+2021-10-23,17,Gateway Avenue,73
+2021-10-23,17,Serapong Course,63
+2021-10-23,17,Ironside Link,61
+2021-10-23,17,Resorts World Sentosa,59
+2021-10-23,18,Gateway Avenue,111
+2021-10-23,18,Sentosa Gateway,79
+2021-10-23,18,Ironside Link,70
+2021-10-23,18,Ocean Drive,56
+2021-10-23,18,Resorts World Sentosa,46
+2021-10-23,19,Gateway Avenue,121
+2021-10-23,19,Sentosa Gateway,114
+2021-10-23,19,Resorts World Sentosa,77
+2021-10-23,19,Allanbrooke Road,49
+2021-10-23,19,Ocean Drive,44
+2021-10-23,20,Sentosa Gateway,140
+2021-10-23,20,Gateway Avenue,120
+2021-10-23,20,Resorts World Sentosa,112
+2021-10-23,20,Allanbrooke Road,67
+2021-10-23,20,Ironside Link,65
+2021-10-23,21,Gateway Avenue,150
+2021-10-23,21,Sentosa Gateway,105
+2021-10-23,21,Allanbrooke Road,62
+2021-10-23,21,Artillery Avenue,60
+2021-10-23,21,Serapong Course,60
+2021-10-23,22,Gateway Avenue,102
+2021-10-23,22,Sentosa Gateway,85
+2021-10-23,22,Resorts World Sentosa,50
+2021-10-23,22,Allanbrooke Road,46
+2021-10-23,22,Serapong Course,38
+2021-10-23,23,Gateway Avenue,26
+2021-10-23,23,Bukit Manis Road,23
+2021-10-23,23,Allanbrooke Road,19
+2021-10-23,23,Serapong Course,18
+2021-10-23,23,Universal Studios Singapore,10

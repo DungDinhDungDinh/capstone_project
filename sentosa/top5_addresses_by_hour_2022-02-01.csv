@@ -1,0 +1,121 @@
+date,time,address,frequency
+2022-02-01,00,Gateway Avenue,60
+2022-02-01,00,Ironside Link,52
+2022-02-01,00,Sentosa Gateway,32
+2022-02-01,00,Serapong Course,27
+2022-02-01,00,Artillery Avenue,17
+2022-02-01,01,Ironside Link,58
+2022-02-01,01,Serapong Course,41
+2022-02-01,01,Gateway Avenue,30
+2022-02-01,01,Sentosa Gateway,22
+2022-02-01,01,Sentosa Boardwalk,7
+2022-02-01,02,Ironside Link,58
+2022-02-01,02,Gateway Avenue,43
+2022-02-01,02,Serapong Course,22
+2022-02-01,02,Sentosa Gateway,16
+2022-02-01,02,Sentosa Boardwalk,15
+2022-02-01,03,Ironside Link,59
+2022-02-01,03,Gateway Avenue,46
+2022-02-01,03,Sentosa Gateway,46
+2022-02-01,03,Serapong Course,20
+2022-02-01,03,Sentosa Boardwalk,13
+2022-02-01,04,Ironside Link,59
+2022-02-01,04,Gateway Avenue,35
+2022-02-01,04,Sentosa Gateway,33
+2022-02-01,04,Serapong Course,18
+2022-02-01,04,Sentosa Boardwalk,13
+2022-02-01,05,Ironside Link,60
+2022-02-01,05,Gateway Avenue,48
+2022-02-01,05,Sentosa Gateway,39
+2022-02-01,05,Serapong Course,23
+2022-02-01,05,Sentosa Golf Club,15
+2022-02-01,06,Ironside Link,56
+2022-02-01,06,Gateway Avenue,24
+2022-02-01,06,Sentosa Gateway,22
+2022-02-01,06,Resorts World Sentosa,19
+2022-02-01,06,Artillery Avenue,15
+2022-02-01,07,Ironside Link,59
+2022-02-01,07,Sentosa Gateway,45
+2022-02-01,07,Gateway Avenue,43
+2022-02-01,07,Resorts World Sentosa,36
+2022-02-01,07,Serapong Course,34
+2022-02-01,08,Gateway Avenue,73
+2022-02-01,08,Ironside Link,59
+2022-02-01,08,Sentosa Gateway,50
+2022-02-01,08,Resorts World Sentosa,39
+2022-02-01,08,Serapong Course,28
+2022-02-01,09,Gateway Avenue,98
+2022-02-01,09,Sentosa Gateway,70
+2022-02-01,09,Resorts World Sentosa,65
+2022-02-01,09,Ironside Link,47
+2022-02-01,09,Artillery Avenue,38
+2022-02-01,10,Sentosa Gateway,89
+2022-02-01,10,Gateway Avenue,82
+2022-02-01,10,Universal Studios Singapore,79
+2022-02-01,10,Resorts World Sentosa,70
+2022-02-01,10,Artillery Avenue,38
+2022-02-01,11,Gateway Avenue,76
+2022-02-01,11,Sentosa Gateway,59
+2022-02-01,11,Universal Studios Singapore,41
+2022-02-01,11,Allanbrooke Road,35
+2022-02-01,11,Resorts World Sentosa,30
+2022-02-01,12,Gateway Avenue,64
+2022-02-01,12,Sentosa Gateway,46
+2022-02-01,12,Resorts World Sentosa,23
+2022-02-01,12,Universal Studios Singapore,20
+2022-02-01,12,Allanbrooke Road,18
+2022-02-01,13,Serapong Course,37
+2022-02-01,13,Gateway Avenue,31
+2022-02-01,13,Sentosa Gateway,26
+2022-02-01,13,Ironside Link,25
+2022-02-01,13,Resorts World Sentosa,17
+2022-02-01,14,Gateway Avenue,90
+2022-02-01,14,Ironside Link,60
+2022-02-01,14,Sentosa Gateway,36
+2022-02-01,14,Ironside Road,25
+2022-02-01,14,Serapong Course,24
+2022-02-01,15,Ironside Link,59
+2022-02-01,15,Gateway Avenue,58
+2022-02-01,15,Sentosa Gateway,38
+2022-02-01,15,Resorts World Sentosa,28
+2022-02-01,15,Serapong Course,28
+2022-02-01,16,Gateway Avenue,73
+2022-02-01,16,Ironside Link,59
+2022-02-01,16,Serapong Course,38
+2022-02-01,16,Sentosa Gateway,21
+2022-02-01,16,Resorts World Sentosa,12
+2022-02-01,17,Ironside Link,61
+2022-02-01,17,Serapong Course,33
+2022-02-01,17,Gateway Avenue,21
+2022-02-01,17,Universal Studios Singapore,15
+2022-02-01,17,Sentosa Boardwalk,11
+2022-02-01,18,Ironside Link,59
+2022-02-01,18,Serapong Course,49
+2022-02-01,18,Gateway Avenue,34
+2022-02-01,18,Sentosa Gateway,22
+2022-02-01,18,Artillery Avenue,17
+2022-02-01,19,Ironside Link,55
+2022-02-01,19,Sentosa Gateway,50
+2022-02-01,19,Gateway Avenue,48
+2022-02-01,19,Serapong Course,37
+2022-02-01,19,Artillery Avenue,19
+2022-02-01,20,Gateway Avenue,74
+2022-02-01,20,Ironside Link,62
+2022-02-01,20,Sentosa Gateway,59
+2022-02-01,20,Serapong Course,29
+2022-02-01,20,Ocean Drive,15
+2022-02-01,21,Ironside Link,66
+2022-02-01,21,Resorts World Sentosa,55
+2022-02-01,21,Serapong Course,54
+2022-02-01,21,Gateway Avenue,42
+2022-02-01,21,Sentosa Gateway,36
+2022-02-01,22,Ironside Link,66
+2022-02-01,22,Gateway Avenue,46
+2022-02-01,22,Sentosa Gateway,46
+2022-02-01,22,Serapong Course,42
+2022-02-01,22,Resorts World Sentosa,32
+2022-02-01,23,Gateway Avenue,76
+2022-02-01,23,Ironside Link,63
+2022-02-01,23,Sentosa Gateway,32
+2022-02-01,23,Serapong Course,32
+2022-02-01,23,Resorts World Sentosa,26
