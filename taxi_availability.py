@@ -67,14 +67,6 @@ six_month_data['month'] = six_month_data['date_time'].dt.month
 six_month_data['day_of_week'] = [d.weekday() for d in six_month_data['date_time']] 
 # print(six_month_data['day_of_week'])
 
-
-# print(one_week_dinner['time'])
-
-# Create Pandas Dataframe from GeoPandas 
-# hawker_df = pd.DataFrame(hawker_geo_df)
-# taxi_stop_df = pd.DataFrame(taxi_stop_geo_df)
-# singapore_subzones_df = pd.DataFrame(singapore_subzones)
-
 def even_days_creation():
     days = range(1, 31)
     res = []
@@ -134,7 +126,7 @@ def writingTaxiCountsByHourToCSVFile():
         # writing the data rows 
         csvwriter.writerows(data_rows)
 
-writingTaxiCountsByHourToCSVFile()
+# writingTaxiCountsByHourToCSVFile()
 
 #Function to invert longtitiude and latitude
 def invertLongtitudeLatitude(coordinates):
@@ -397,12 +389,6 @@ def getTaxiCountsByHour():
     
     time = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24']
     
-    # taxi_count_dataset = pd.DataFrame([], columns=['date', 'time', 'taxi_counts'])
-    # taxi_count_dataset = pd.DataFrame({
-    #                         'date': [],
-    #                         'time': [],
-    #                         'taxi_counts': []
-    #                         }, index=['date', 'time', 'taxi_counts'])
      
     for day in even_days:
         for x in time:
@@ -469,24 +455,6 @@ def taxiCountsByArea(day, time):
     
 # taxiCountsByArea('27','23')
 
-# print(singapore_subzones.Description[20])
-    
-
-
-# coordinates = data['features'][0]['geometry']['coordinates']
-# coordinates = taxi_available_df.get('geometry')
-# coordinates_x = coordinates.apply(lambda p: p.x)
-# print(data['features'][0]['properties'])
-
-# print(data['features'][0]['properties']['taxi_count'])
-
-# print(data['features'][0]['geometry']['coordinates'][0])
-
-
-# print(singapore_subzones)
-
-# getMaxHawker('21')
-
 
 #Measure the change on taxi drivers after 1 minute
 def measureTaxiMovementByMinute(day, time1, time2):
@@ -515,8 +483,6 @@ def measureTaxiMovementByMinute(day, time1, time2):
     
     return taxi1_changes, taxi2_changes
     
-# taxi1_changes, taxi2_changes = measureTaxiMovementByMinute('28', '00%3A00%3A00', '00%3A01%3A00')
-
 def convertFromCoordinatestoDataframe(coordinates):
     lats = []
     longs = []
@@ -529,21 +495,7 @@ def convertFromCoordinatestoDataframe(coordinates):
     df = pd.DataFrame({'lat': lats, 'long': longs})
     return df
 
-# taxi1_changes_df = convertFromCoordinatestoDataframe(taxi1_changes)
-# taxi2_changes_df = convertFromCoordinatestoDataframe(taxi2_changes)
-
-
-
-#CALCULATE AVERAGE
-# three_to_four_am = pd.read_csv('./capstone_project - Sentosa_3_4AM.csv')
-# four_to_five_am = pd.read_csv('./capstone_project - Sentosa_4_5AM.csv')
-# five_to_six_am = pd.read_csv('./capstone_project - Sentosa_11_12PM.csv')
-
-
-# four_to_five_am_groupby = five_to_six_am.groupby(['time']).count()
-# print(sum(four_to_five_am_groupby['index'])/len(four_to_five_am_groupby))
-
-#GENERATING DATASETS
+#GENERATING SENTOSA DATASETS
 def getSentosaTaxiClusters(date, time):
     request = 'https://api.data.gov.sg/v1/transport/taxi-availability?date_time=' + date + 'T' + time
     response = requests.get(request)
@@ -867,11 +819,8 @@ def matchingClusterNames(clusters):
                 break
 
 def get_all_elements_in_list_of_lists(list_e):
-    # count = 0
     for element in list_e:
-        # count += len(element)
         print(len(element))
-    # return count
 
 minutes = minute_creation()
 
@@ -971,7 +920,7 @@ def writingToCSVFile():
 #     gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.lons, df.lats), crs="EPSG:4326")
 #     return gdf
 
-# taxi1_changes_df = getTaxiCoordinatesByTime('05-29', '02%3A18%3A00')
+# taxi1_changes_df = getTaxiCoordinatesByTime('01-19', '06%3A03%3A00')
 
 # #SCATTER
 # ax.scatter(taxi1_changes_df['lons'], taxi1_changes_df['lats'], s=2, picker=True)
