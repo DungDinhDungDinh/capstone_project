@@ -85,7 +85,7 @@ def get_all_taxi_clusters(date, time):
         for j in range(0, changi_length):
             distance = geopy.distance.geodesic(changi_area_inverted[i], changi_area_inverted[j]).m
             #distance by bird flight
-            if distance <= 16.86:
+            if distance <= 8.009:
                 if changi_area_inverted[i] == changi_area_inverted[j]:
                     string_i = str(changi_area_inverted[i])
                     clusters.append([string_i[1:-1]])
@@ -120,9 +120,6 @@ def get_all_taxi_clusters(date, time):
 def plotting_clusters(clusters):
     cluster_list = list(clusters)
     
-    # fig, ax = plt.subplots()
-    # print(cluster_list)
-    
     x = []
     y = []
 
@@ -141,18 +138,16 @@ def plotting_clusters(clusters):
     count = 0
     for cluster in x:
         for element in list(cluster):
-            
             clustering_result.append(count)
-            # print(clustering_result)
         count = count + 1
-    # print(clustering_result)
     x_merged = sum(x, [])
     y_merged = sum(y, [])
         
     fig, ax = plt.subplots()
     df = pd.DataFrame({'lons': y_merged, 'lats': x_merged})
     gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.lons, df.lats), crs="EPSG:4326")
-    ax.scatter(gdf['lons'], gdf['lats'], s=2, picker=True, c = clustering_result, cmap='tab20')
+    ax.scatter(gdf['lons'], gdf['lats'], s=3, picker=True, c = clustering_result, cmap='prism')
+    # print(clustering_result)
     
     def onpick(event):
         ind = event.ind
@@ -164,44 +159,10 @@ def plotting_clusters(clusters):
     
     fig.canvas.mpl_connect('pick_event', onpick)
     plt.show()
-            
-    # plots = zip(x,y)
-    # def loop_plot(plots):
-    #     figs={}
-    #     axs={}
-    #     for idx,plot in enumerate(plots):
-    #         # figs[idx]=plt.figure()
-    #         # axs[idx]=figs[idx].add_subplot(111)
-    #         axs[idx].plot(plot[0],plot[1])
-    #     return figs, axs  
-            
-    # figs, axs = loop_plot(plots)
-    
-    # x_len = len(x) - 1
-    # # print(x[2])
-    # for set_index in range(0, x_len):
-    #     # print(y[set_index])
-    #     plt.scatter(x[set_index], y[set_index])
 
-    # plt.show()
-        
-        # df = pd.DataFrame({'lons': lons, 'lats': lats})
-        # gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.lons, df.lats), crs="EPSG:4326")
-        # geo_dfs.append(gdf)
-        # ax.scatter(gdf['lons'], gdf['lats'], s=2)
-    # print(geo_dfs[0])
-    # gdf = list(cluster_list[0:2])
-    # # print(list(gdf[0])[0].split(',')[0])
-    
-    # ax.scatter(list(gdf[0])[0].split(',')[0], list(gdf[0])[0].split(',')[1], s=2)
-    # ax.scatter(list(gdf[1])[0].split(',')[0], list(gdf[1])[0].split(',')[1], s=2)
-    
-    # for geo_df in geo_dfs:
-        
-        
-        
-clusters = get_all_taxi_clusters('2018-12-25', '21:00:00')
-plotting_clusters(clusters)
+# clusters = get_all_taxi_clusters('2021-12-24', '00:00:00')
+# plotting_clusters(clusters)
+
 
 def minute_creation():
     minutes = range(0, 60)
@@ -209,35 +170,43 @@ def minute_creation():
     for minute in minutes:
         res.append(f"{minute:02}")
     return res
+
 minutes = minute_creation()
 
 def getChangiAddresses(date, hour, day_type):
-    geoLoc = Nominatim(user_agent="GetLoc")
+    geoLoc = Nominatim(user_agent="GetLoc", timeout=15)
     
     
     data_rows = []
 
     
-    # for minute in minutes:
-    minute = '00'
+    for minute in minutes:  
+        print('minute: ', minute)          
+        time_input = hour + '%3A' + minute + '%3A00'
         
-    time_input = hour + '%3A' + minute + '%3A00'
-    
-    time = time_input.replace('%3A', ':')
-    
-    clusters = get_all_taxi_clusters(date, time_input)
-    
-    cluster_list = list(clusters)
-    
-    for cluster in cluster_list:
-        try:
-            locname = geoLoc.reverse(list(cluster)[0])
-            address = locname.address
-            data_rows.append([date, time, len(cluster), address, day_type])
-        except:
-            data_rows.append([date, time, len(cluster), "", day_type])
+        time = time_input.replace('%3A', ':')
+        
+        clusters = get_all_taxi_clusters(date, time_input)
+        
+        cluster_list = list(clusters)
+        
+        for cluster in cluster_list:
+            try:
+                locname = geoLoc.reverse(list(cluster)[0])
+                address = locname.address
+                data_rows.append([date, time, len(cluster), address, day_type])
+            except:
+                print('geo catch errors')
+                data_rows.append([date, time, len(cluster), "", day_type])
             
     return(data_rows)
+
+def hour_creation():
+    hours = range(0, 24)
+    res = []
+    for hour in hours:
+        res.append(f"{hour:02}")
+    return res
 
 def writingTaxiAddressesToCSV():
     fields = ['date', 'time', 'cluster_size', 'address', 'day_type']
@@ -245,28 +214,34 @@ def writingTaxiAddressesToCSV():
     save_path = 'changi'
     
     #EDIT 2 PLACES !!!!
-    date = '2018-12-25'
-    day_type = 'holiday'
-    time = '21%3A00%3A00'
+    date = '2018-12-23'
+    day_type = 'weekend'
     
-    #creating rows
-    data_rows = getChangiAddresses(date, '21', day_type)
+    hours = hour_creation()
     
-    # name of csv file 
-    filename = 'address.csv'
+    twelve_hours = ['12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23']
     
-    completeName = os.path.join(save_path, filename)
+    one_hours = ['23']
+    
+    for hour in one_hours:
+        #creating rows
+        data_rows = getChangiAddresses(date, hour, day_type)
         
-    # writing to csv file 
-    with open(completeName, 'w') as csvfile: 
-        # creating a csv writer object 
-        csvwriter = csv.writer(csvfile) 
-            
-        # writing the fields 
-        csvwriter.writerow(fields) 
-            
-        # writing the data rows 
-        csvwriter.writerows(data_rows)
+        # name of csv file 
+        filename = "changi_" + date + "_" + hour + ".csv"
         
-# writingTaxiAddressesToCSV()
+        completeName = os.path.join(save_path, date, filename)
+            
+        # writing to csv file 
+        with open(completeName, 'w') as csvfile: 
+            # creating a csv writer object 
+            csvwriter = csv.writer(csvfile) 
+                
+            # writing the fields 
+            csvwriter.writerow(fields) 
+                
+            # writing the data rows 
+            csvwriter.writerows(data_rows)
+        
+writingTaxiAddressesToCSV()
     

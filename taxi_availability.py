@@ -865,7 +865,7 @@ def getSentosaAddresses(date, hour, day_type):
 # getSentosaAddresses(sentosa_clusters, date, time, day_type)
 # get_all_elements_in_list_of_lists(sentosa_clusters)
 
-distance = geopy.distance.geodesic((1.35121, 103.9843), (1.35145, 103.98443)).m
+distance = geopy.distance.geodesic((1.35102966666667, 103.984821), (1.35096, 103.98483)).m
 print(distance)
 
 

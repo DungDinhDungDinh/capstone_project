@@ -115,10 +115,85 @@ def writingToFrequencyCSVFile():
             # writing the data rows 
             csvwriter.writerows(data_rows)
             
-writingToFrequencyCSVFile()
-        
+# writingToFrequencyCSVFile()
 
+def finding_congestion_at_changi():
+    file_name = './changi/2018-12-23/changi_2018-12-23_00.csv'
+    
+    data = pd.read_csv(file_name)
+    
+    big_clusters = data[data['cluster_size'] >= 20]
+    
+    big_clusters['time'] = big_clusters['time'].apply(lambda x: int(x.split(':')[1]))
+    
+    big_clusters_len = len(big_clusters)
+    congestion_location = {}
+    for i in range(0, big_clusters_len-1):
+        for j in range(i+1, big_clusters_len-1):
+            if big_clusters.iloc[i]['address'] ==  big_clusters.iloc[j]['address']:
+                if ((big_clusters.iloc[j]['time'] - big_clusters.iloc[i]['time']) == 1):
+                    key = big_clusters.iloc[j]['address']
+                    value = congestion_location.get(key)
+                    if value:
+                        congestion_location[key].append(big_clusters.iloc[i]['time'])
+                        congestion_location[key].append(big_clusters.iloc[j]['time'])
+                    else:
+                        congestion_location[key] = [big_clusters.iloc[i]['time']]
+                        congestion_location[key].append(big_clusters.iloc[j]['time'])
+    
+    #counting congestion minutes
+    congestion_minutes = []                 
+    for address in congestion_location:
+        minutes = congestion_location[address]
         
+        minutes_set_list = list(set(minutes))
+        
+        
+        i = 0
+        count = 0
+        minutes = []
+        while i < len(minutes_set_list) - 1:
+            j = i + 1
+
+            if (minutes_set_list[j] - minutes_set_list[i]) == 1:
+                count = count + 1
+                minutes.append(minutes_set_list[j])
+            else:
+                congestion_minutes.append([address, minutes, count + 1])
+                count = 0 
+                minutes = []
+            
+            i = i + 1
+                    
+            
+    print(congestion_minutes)
+                
+finding_congestion_at_changi()
+
+def find_congestion_times():
+    times = [0, 1, 2, 5, 6, 7, 10]
+    
+    congestions = []
+    i = 0
+    count = 0
+    minutes = []
+    while i < len(times) - 1:
+        j = i + 1
+
+        if (times[j] - times[i]) == 1:
+            count = count + 1
+            minutes.append(times[j])
+            print(j)
+        else:
+            congestions.append([minutes, count])
+            count = 0 
+            minutes = []
+        
+        i = i + 1
+            
+    print(congestions)
+
+# find_congestion_times()        
 
 
 
