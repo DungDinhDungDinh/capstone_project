@@ -160,8 +160,8 @@ def plotting_clusters(clusters):
     fig.canvas.mpl_connect('pick_event', onpick)
     plt.show()
 
-# clusters = get_all_taxi_clusters('2021-12-24', '00:00:00')
-# plotting_clusters(clusters)
+clusters = get_all_taxi_clusters('2023-10-02', '00:00:00')
+plotting_clusters(clusters)
 
 
 def minute_creation():
@@ -214,14 +214,15 @@ def writingTaxiAddressesToCSV():
     save_path = 'changi'
     
     #EDIT 2 PLACES !!!!
-    date = '2018-12-23'
-    day_type = 'weekend'
+    date = '2019-12-19'
+    day_type = 'weekday'
     
     hours = hour_creation()
     
     twelve_hours = ['12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23']
     
-    one_hours = ['23']
+    #RUNNING 04
+    one_hours = ['10']
     
     for hour in one_hours:
         #creating rows
@@ -243,5 +244,5 @@ def writingTaxiAddressesToCSV():
             # writing the data rows 
             csvwriter.writerows(data_rows)
         
-writingTaxiAddressesToCSV()
+# writingTaxiAddressesToCSV()
     
