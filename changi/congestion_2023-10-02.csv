@@ -1,0 +1,4 @@
+date,time,address,congestion_minutes,congestion_minute_counts
+2023-10-02,20,"Changi Airport Terminal 2, 60, Airport Boulevard, Changi, Singapore, Southeast, 819643, Singapore","[16, 17, 18, 19, 20]",5
+2023-10-02,20,"Changi Airport Terminal 2, 60, Airport Boulevard, Changi, Singapore, Southeast, 819643, Singapore","[23, 24, 25, 26, 27]",5
+2023-10-02,20,"Changi Airport Terminal 2, 60, Airport Boulevard, Changi, Singapore, Southeast, 819643, Singapore","[29, 30, 31]",3

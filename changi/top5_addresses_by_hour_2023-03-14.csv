@@ -1,0 +1,121 @@
+date,time,address,frequency
+2023-03-14,00,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",1157
+2023-03-14,00,"Changi Airport Aircraft Flyover, Airport Boulevard, Changi, Southeast, 819645, Singapore",572
+2023-03-14,00,"Changi Airport Connector, Changi, Southeast, 819658, Singapore",420
+2023-03-14,00,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",405
+2023-03-14,00,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",398
+2023-03-14,01,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",541
+2023-03-14,01,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",504
+2023-03-14,01,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",311
+2023-03-14,01,"T1 Basement Drive, Changi, Southeast, 819642, Singapore",239
+2023-03-14,01,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",213
+2023-03-14,02,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",275
+2023-03-14,02,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",235
+2023-03-14,02,"T1 Basement Drive, Changi, Southeast, 819642, Singapore",227
+2023-03-14,02,"Changi Airport Terminal 1, 80, T1 Boulevard, Changi, Singapore, Southeast, 819642, Singapore",215
+2023-03-14,02,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",184
+2023-03-14,03,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",299
+2023-03-14,03,"T1 Basement Drive, Changi, Southeast, 819642, Singapore",208
+2023-03-14,03,"The Coffee Bean & Tea Leaf, #02-44, T1 Basement Drive, Changi, Singapore, Southeast, 819642, Singapore",194
+2023-03-14,03,"Changi Airport Terminal 1, 80, T1 Boulevard, Changi, Singapore, Southeast, 819642, Singapore",189
+2023-03-14,03,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",174
+2023-03-14,04,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",262
+2023-03-14,04,"Changi Airport Terminal 1, 80, T1 Boulevard, Changi, Singapore, Southeast, 819642, Singapore",252
+2023-03-14,04,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",249
+2023-03-14,04,"T1 Basement Drive, Changi, Southeast, 819642, Singapore",210
+2023-03-14,04,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",207
+2023-03-14,05,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",704
+2023-03-14,05,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",255
+2023-03-14,05,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",239
+2023-03-14,05,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",238
+2023-03-14,05,"Changi Airport Terminal 1, 80, T1 Boulevard, Changi, Singapore, Southeast, 819642, Singapore",204
+2023-03-14,06,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",822
+2023-03-14,06,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",751
+2023-03-14,06,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",275
+2023-03-14,06,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",253
+2023-03-14,06,"Changi Airport Terminal 2, 60, T1 Boulevard, Changi, Singapore, Southeast, 819643, Singapore",209
+2023-03-14,07,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",916
+2023-03-14,07,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",823
+2023-03-14,07,"T2 Departure Drive, Changi, Southeast, 918141, Singapore",589
+2023-03-14,07,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",423
+2023-03-14,07,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",312
+2023-03-14,08,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",734
+2023-03-14,08,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",595
+2023-03-14,08,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",438
+2023-03-14,08,"T2 Departure Drive, Changi, Southeast, 918141, Singapore",367
+2023-03-14,08,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",362
+2023-03-14,09,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",424
+2023-03-14,09,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",423
+2023-03-14,09,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",253
+2023-03-14,09,"Car Park 4B, T4 Way, Changi, Southeast, 819665, Singapore",249
+2023-03-14,09,"Changi Airport Terminal 2, 60, T1 Boulevard, Changi, Singapore, Southeast, 819643, Singapore",186
+2023-03-14,10,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",442
+2023-03-14,10,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",323
+2023-03-14,10,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",322
+2023-03-14,10,"Car Park 4B, T4 Way, Changi, Southeast, 819665, Singapore",244
+2023-03-14,10,"T1 Basement Drive, Changi, Southeast, 819642, Singapore",232
+2023-03-14,11,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",729
+2023-03-14,11,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",582
+2023-03-14,11,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",554
+2023-03-14,11,"T4 Departure Drive, Changi, Southeast, 819665, Singapore",318
+2023-03-14,11,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",257
+2023-03-14,12,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",499
+2023-03-14,12,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",496
+2023-03-14,12,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",492
+2023-03-14,12,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",320
+2023-03-14,12,"T4 Departure Drive, Changi, Southeast, 819665, Singapore",307
+2023-03-14,13,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",518
+2023-03-14,13,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",478
+2023-03-14,13,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",354
+2023-03-14,13,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",295
+2023-03-14,13,"T4 Departure Drive, Changi, Southeast, 819665, Singapore",261
+2023-03-14,14,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",424
+2023-03-14,14,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",382
+2023-03-14,14,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",302
+2023-03-14,14,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",299
+2023-03-14,14,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",222
+2023-03-14,15,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",775
+2023-03-14,15,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",609
+2023-03-14,15,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",498
+2023-03-14,15,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",425
+2023-03-14,15,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",239
+2023-03-14,16,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",476
+2023-03-14,16,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",464
+2023-03-14,16,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",415
+2023-03-14,16,"T1 Departure Crescent, Changi, Southeast, 819642, Singapore",305
+2023-03-14,16,"Car Park 4B, T4 Way, Changi, Southeast, 819665, Singapore",289
+2023-03-14,17,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",797
+2023-03-14,17,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",565
+2023-03-14,17,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",475
+2023-03-14,17,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",465
+2023-03-14,17,"T3 Arrival Drive, Changi, Southeast, 819661, Singapore",377
+2023-03-14,18,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",845
+2023-03-14,18,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",753
+2023-03-14,18,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",738
+2023-03-14,18,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",433
+2023-03-14,18,"T3 Arrival Drive, Changi, Southeast, 819661, Singapore",374
+2023-03-14,19,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",1191
+2023-03-14,19,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",1172
+2023-03-14,19,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",780
+2023-03-14,19,"T3 Arrival Drive, Changi, Southeast, 819643, Singapore",508
+2023-03-14,19,"T2 Departure Drive, Changi, Southeast, 918141, Singapore",459
+2023-03-14,20,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",1158
+2023-03-14,20,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",863
+2023-03-14,20,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",694
+2023-03-14,20,"T3 Arrival Drive, Changi, Southeast, 819661, Singapore",448
+2023-03-14,20,"Changi Airport Aircraft Flyover, Airport Boulevard, Changi, Southeast, 819645, Singapore",432
+2023-03-14,21,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",874
+2023-03-14,21,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",780
+2023-03-14,21,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",606
+2023-03-14,21,"T3 Arrival Drive, Changi, Southeast, 819661, Singapore",482
+2023-03-14,21,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",474
+2023-03-14,22,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",885
+2023-03-14,22,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",726
+2023-03-14,22,"Terminal 3, T3 Basement Drive, Changi, Southeast, 819663, Singapore",601
+2023-03-14,22,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",520
+2023-03-14,22,"T2 Departure Drive, Changi, Southeast, 918141, Singapore",492
+2023-03-14,23,"T3 Arrival Drive, Changi, Southeast, 819663, Singapore",1063
+2023-03-14,23,"Changi Airport Terminal 3, 65, Airport Boulevard, Changi, Singapore, Southeast, 819663, Singapore",760
+2023-03-14,23,"T3 Arrival Drive, Changi, Southeast, 819661, Singapore",542
+2023-03-14,23,"T3 Departure Drive, Changi, Southeast, 818937, Singapore",457
+2023-03-14,23,"T2 Departure Drive, Changi, Southeast, 918141, Singapore",371

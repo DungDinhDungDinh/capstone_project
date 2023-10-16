@@ -15,6 +15,7 @@ from geopy.geocoders import Nominatim
 import os
 import csv
 import geopy.distance
+import time as t
 
 #Import datasets
 supported_drivers['KML'] = 'rw'
@@ -30,30 +31,6 @@ def getTaxiCoordinatesByTime(date, time):
     df = pd.DataFrame({'lons': lons, 'lats': lats})
     gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.lons, df.lats), crs="EPSG:4326")
     return gdf
-
-#Plotting taxi_availability 
-def plot_taxi_availability():
-    fig, ax = plt.subplots()
-    
-    singapore_subzones.plot(ax=ax, color='black')
-    
-    taxi1_changes_df = getTaxiCoordinatesByTime('2018-12-25', '21%3A00%3A00')
-    
-    #SCATTER
-    ax.scatter(taxi1_changes_df['lons'], taxi1_changes_df['lats'], s=2, picker=True)
-    
-    def onpick(event):
-        ind = event.ind
-        data = taxi1_changes_df.iloc[ind]
-        x = data['lons']
-        y = data['lats']
-        comment = '{}, {}'
-        print(comment.format(y.iloc[0], x.iloc[0]))
-    
-    fig.canvas.mpl_connect('pick_event', onpick)
-    plt.show()
-    
-# plot_taxi_availability()
 
 #Function to invert longtitiude and latitude
 def invertLongtitudeLatitude(coordinates):
@@ -117,6 +94,61 @@ def get_all_taxi_clusters(date, time):
 
     return merged_clusters_set
 
+#Plotting taxi_availability 
+def plot_taxi_availability():
+    fig, ax = plt.subplots()
+    
+    singapore_subzones.plot(ax=ax, color='black')
+    
+    taxi1_changes_df = getTaxiCoordinatesByTime('2018-12-25', '21%3A00%3A00')
+    
+    #SCATTER
+    ax.scatter(taxi1_changes_df['lons'], taxi1_changes_df['lats'], s=2, picker=True)
+    
+    clusters = get_all_taxi_clusters('2018-12-25', '21%3A00%3A00')
+    cluster_list = list(clusters)
+    
+    x = []
+    y = []
+
+    for cluster_set in cluster_list:
+        cluster_set_list = list(cluster_set)
+        lats = []
+        lons = []
+        for coordinate in cluster_set_list:
+            string_split = coordinate.split(',')
+            lons.append(float(string_split[1]))
+            lats.append(float(string_split[0]))
+        x.append(lats)
+        y.append(lons)
+    
+    clustering_result = []
+    count = 0
+    for cluster in x:
+        for element in list(cluster):
+            clustering_result.append(count)
+        count = count + 1
+    x_merged = sum(x, [])
+    y_merged = sum(y, [])
+        
+    df = pd.DataFrame({'lons': y_merged, 'lats': x_merged})
+    gdf = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.lons, df.lats), crs="EPSG:4326")
+    ax.scatter(gdf['lons'], gdf['lats'], s=3, picker=True, c = 'red')
+    
+    def onpick(event):
+        ind = event.ind
+        data = taxi1_changes_df.iloc[ind]
+        x = data['lons']
+        y = data['lats']
+        comment = '{}, {}'
+        print(comment.format(y.iloc[0], x.iloc[0]))
+    
+    fig.canvas.mpl_connect('pick_event', onpick)
+    plt.show()
+    
+# plot_taxi_availability()
+
+
 def plotting_clusters(clusters):
     cluster_list = list(clusters)
     
@@ -160,8 +192,8 @@ def plotting_clusters(clusters):
     fig.canvas.mpl_connect('pick_event', onpick)
     plt.show()
 
-clusters = get_all_taxi_clusters('2023-10-02', '00:00:00')
-plotting_clusters(clusters)
+# clusters = get_all_taxi_clusters('2019-12-21', '16%3A58%3A00')
+# plotting_clusters(clusters)
 
 
 def minute_creation():
@@ -192,8 +224,11 @@ def getChangiAddresses(date, hour, day_type):
         
         for cluster in cluster_list:
             try:
+                start = t.time()
                 locname = geoLoc.reverse(list(cluster)[0])
                 address = locname.address
+                end = t.time()
+                print(end-start)
                 data_rows.append([date, time, len(cluster), address, day_type])
             except:
                 print('geo catch errors')
@@ -214,17 +249,17 @@ def writingTaxiAddressesToCSV():
     save_path = 'changi'
     
     #EDIT 2 PLACES !!!!
-    date = '2019-12-19'
-    day_type = 'weekday'
+    date = '2018-12-23'
+    day_type = 'weekend'
     
-    hours = hour_creation()
+    # hours = hour_creation()
     
-    twelve_hours = ['12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23']
+    four_hours = ['20']
     
     #RUNNING 04
-    one_hours = ['10']
+    # one_hours = ['10']
     
-    for hour in one_hours:
+    for hour in four_hours:
         #creating rows
         data_rows = getChangiAddresses(date, hour, day_type)
         
@@ -244,5 +279,5 @@ def writingTaxiAddressesToCSV():
             # writing the data rows 
             csvwriter.writerows(data_rows)
         
-# writingTaxiAddressesToCSV()
+writingTaxiAddressesToCSV()
     
