@@ -16,6 +16,7 @@ import os
 import csv
 import geopy.distance
 import time as t
+import gmplot 
 
 #Import datasets
 supported_drivers['KML'] = 'rw'
@@ -105,7 +106,7 @@ def plot_taxi_availability():
     #SCATTER
     ax.scatter(taxi1_changes_df['lons'], taxi1_changes_df['lats'], s=2, picker=True)
     
-    clusters = get_all_taxi_clusters('2018-12-25', '21%3A00%3A00')
+    clusters = get_all_taxi_clusters('2018-12-25', '16%3A00%3A00')
     cluster_list = list(clusters)
     
     x = []
@@ -192,8 +193,31 @@ def plotting_clusters(clusters):
     fig.canvas.mpl_connect('pick_event', onpick)
     plt.show()
 
-# clusters = get_all_taxi_clusters('2019-12-21', '16%3A58%3A00')
+clusters = get_all_taxi_clusters('2018-12-23', '07%3A21%3A00')
 # plotting_clusters(clusters)
+
+def coordinates_on_map_base():
+    gmap1 = gmplot.GoogleMapPlotter(1.3521, 103.8198, 13, apikey='AIzaSyCWSsxr7oe7Xf11wFI_sUCMTxQRmJAzuuc') 
+    
+    coordinates = getTaxiCoordinatesByTime('2018-12-23', '07%3A21%3A00')    
+    
+    # latitude_list = []
+    # longitude_list = []
+    # for coordinate in clusters:
+    #     coordinate_list = list(coordinate)
+    #     print(coordinate_list)
+    #     latitude_list.append(coordinate_list[0])
+    #     longitude_list.append(coordinate_list[1])
+    # print(latitude_list)
+    
+    # print(coordinates['lats'])
+    
+    gmap1.scatter(coordinates['lats'], coordinates['lons'], '#FF0000',size = 2, marker = False)
+  
+    # Pass the absolute path 
+    gmap1.draw( "./map11.html" ) 
+
+coordinates_on_map_base()
 
 
 def minute_creation():
@@ -279,5 +303,5 @@ def writingTaxiAddressesToCSV():
             # writing the data rows 
             csvwriter.writerows(data_rows)
         
-writingTaxiAddressesToCSV()
+# writingTaxiAddressesToCSV()
     

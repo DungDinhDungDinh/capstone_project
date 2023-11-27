@@ -251,7 +251,7 @@ def writingCongestionToCSVFile():
             # writing the data rows 
             csvwriter.writerows(data_rows)
 
-writingCongestionToCSVFile()
+# writingCongestionToCSVFile()
 
 def test_congestion():
     congestion_location = {'Changi Airport Terminal 2, 60, T1 Boulevard, Changi, Singapore, Southeast, 819643, Singapore': [22, 23, 35, 36, 37, 38, 45, 46, 47, 48, 54, 55, 56, 57, 58, 59]}
