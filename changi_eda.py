@@ -197,7 +197,7 @@ clusters = get_all_taxi_clusters('2018-12-23', '07%3A21%3A00')
 # plotting_clusters(clusters)
 
 def coordinates_on_map_base():
-    gmap1 = gmplot.GoogleMapPlotter(1.3521, 103.8198, 13, apikey='AIzaSyCWSsxr7oe7Xf11wFI_sUCMTxQRmJAzuuc') 
+    gmap1 = gmplot.GoogleMapPlotter(1.3521, 103.8198, 13) 
     
     coordinates = getTaxiCoordinatesByTime('2018-12-23', '07%3A21%3A00')    
     
