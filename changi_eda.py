@@ -17,6 +17,7 @@ import csv
 import geopy.distance
 import time as t
 import gmplot 
+import plotly.express as px
 
 #Import datasets
 supported_drivers['KML'] = 'rw'
@@ -187,37 +188,71 @@ def plotting_clusters(clusters):
         data = df.iloc[ind]
         x = data['lons']
         y = data['lats']
-        comment = '{}, {}'
-        print(comment.format(y.iloc[0], x.iloc[0]))
+        print('"{}, {}"'.format(y.iloc[0], x.iloc[0]))
     
     fig.canvas.mpl_connect('pick_event', onpick)
     plt.show()
 
-clusters = get_all_taxi_clusters('2018-12-23', '07%3A21%3A00')
+# clusters = get_all_taxi_clusters('2023-08-08', '14%3A00%3A00')
 # plotting_clusters(clusters)
 
 def coordinates_on_map_base():
-    gmap1 = gmplot.GoogleMapPlotter(1.3521, 103.8198, 15) 
+    gmap1 = gmplot.GoogleMapPlotter(1.3521, 103.8198, 13, apikey='AIzaSyCWSsxr7oe7Xf11wFI_sUCMTxQRmJAzuuc') 
     
-    coordinates = getTaxiCoordinatesByTime('2018-12-23', '07%3A21%3A00')    
+    coordinates = getTaxiCoordinatesByTime('2023-12-01', '22%3A09%3A00')    
     
-    # latitude_list = []
-    # longitude_list = []
-    # for coordinate in clusters:
-    #     coordinate_list = list(coordinate)
-    #     print(coordinate_list)
-    #     latitude_list.append(coordinate_list[0])
-    #     longitude_list.append(coordinate_list[1])
-    # print(latitude_list)
     
-    # print(coordinates['lats'])
-    
-    gmap1.scatter(coordinates['lats'], coordinates['lons'], '#FF0000',size = 2, marker = False)
+    gmap1.scatter(coordinates['lats'], coordinates['lons'], '#ff0ebb',size = 1, marker = False)
   
     # Pass the absolute path 
-    gmap1.draw( "./map11.html" ) 
+    gmap1.draw( "./map13.html" ) 
 
-coordinates_on_map_base()
+# coordinates_on_map_base()
+
+def time_creation_with_param(start, end):
+    minutes = range(start, end)
+    res = []
+    for minute in minutes:
+        res.append(f"{minute:02}")
+    return res
+
+def draw_seemless_lanes():    
+    one_hour = time_creation_with_param(00, 60)
+    hours = time_creation_with_param(13, 15)
+    date = '2023-08-08'
+    coordinates = pd.DataFrame()
+    for hour in hours: 
+        for minute in one_hour:
+            time = hour + '%3A' + minute + '%3A00'
+            new_coordinates = getTaxiCoordinatesByTime(date, time)  
+            coordinates = pd.concat([coordinates, new_coordinates])
+    
+    fig = px.scatter_mapbox(coordinates, lat="lats", lon="lons",
+                        color_discrete_sequence=["fuchsia"], zoom=1, opacity=0.1)
+    fig.update_layout(mapbox_style="open-street-map")
+    fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    fig.write_html('eda.html', auto_open=True)
+
+draw_seemless_lanes()
+
+def mapbox_show():
+    coordinates = getTaxiCoordinatesByTime('2023-12-01', '22%3A00%3A00') 
+    fig = px.scatter_mapbox(coordinates, lat="lats", lon="lons",
+                        color_discrete_sequence=["fuchsia"], zoom=3)
+    fig.update_layout(mapbox_style="open-street-map")
+    fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    fig.write_html('eda.html', auto_open=True)
+    
+# mapbox_show()
+
+def get_address():
+    geoLoc = Nominatim(user_agent="GetLoc", timeout=15)
+    locname = geoLoc.reverse("1.357411485947646, 103.9901988948523")
+    address = locname.address
+    print(address)
+    
+# get_address()
+    
 
 
 def minute_creation():
@@ -304,4 +339,6 @@ def writingTaxiAddressesToCSV():
             csvwriter.writerows(data_rows)
         
 # writingTaxiAddressesToCSV()
+    
+
     
