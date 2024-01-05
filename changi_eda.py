@@ -193,13 +193,13 @@ def plotting_clusters(clusters):
     fig.canvas.mpl_connect('pick_event', onpick)
     plt.show()
 
-clusters = get_all_taxi_clusters('2023-12-16', '00%3A05%3A00')
-plotting_clusters(clusters)
+# clusters = get_all_taxi_clusters('2024-01-02', '01%3A01%3A00')
+# plotting_clusters(clusters)
 
 def coordinates_on_map_base():
     gmap1 = gmplot.GoogleMapPlotter(1.3521, 103.8198, 13, apikey='AIzaSyCWSsxr7oe7Xf11wFI_sUCMTxQRmJAzuuc') 
     
-    coordinates = getTaxiCoordinatesByTime('2023-12-16', '00%3A05%3A00')    
+    coordinates = getTaxiCoordinatesByTime('2023-11-11', '00%3A00%3A00')    
     
     
     gmap1.scatter(coordinates['lats'], coordinates['lons'], '#ff0ebb',size = 1, marker = False)
@@ -207,7 +207,7 @@ def coordinates_on_map_base():
     # Pass the absolute path 
     gmap1.draw( "./map18.html" ) 
 
-coordinates_on_map_base()
+# coordinates_on_map_base()
 
 def time_creation_with_param(start, end):
     minutes = range(start, end)
@@ -340,7 +340,7 @@ def writingTaxiAddressesToCSV():
         
 # writingTaxiAddressesToCSV()
 
-def termianl_one_congestion_analysis(date, time, day_type):
+def termianl_one_congestion_analysis(count, date, time, day_type):
     request = 'https://api.data.gov.sg/v1/transport/taxi-availability?date_time=' + date + 'T' + time
     response = requests.get(request)
     data = response.json()
@@ -416,21 +416,27 @@ def termianl_one_congestion_analysis(date, time, day_type):
         unlist += cluster
             
     lat_list = [ x.split(',')[0] for x in unlist]
+    
+    if not lat_list:
+        return [count, time.replace('%3A', '.'), taxi_count, 0, 0, 0, day_type]
+    
+    else:
+        min_coordinate = min(lat_list) 
+        max_coordinate = max(lat_list) 
         
-    min_coordinate = lat_list and min(lat_list) 
-    max_coordinate = lat_list and max(lat_list) 
-    
-    #LENGTH OF THE QUEUE
-    min_index = lat_list and lat_list.index(min_coordinate)
-    max_index = lat_list and lat_list.index(max_coordinate)
-    
-    min_coordinate = unlist[min_index]
-    max_coordinate = unlist[max_index]
-
-    
-    queue_length = min_coordinate and max_index and geopy.distance.geodesic(min_coordinate, max_coordinate).m
+        #LENGTH OF THE QUEUE
+        min_index = lat_list.index(min_coordinate)
+        max_index = lat_list.index(max_coordinate)
         
-    return [time.replace('%3A', '-'), taxi_count, queue_length, day_type]
+        min_coordinate = unlist[min_index]
+        max_coordinate = unlist[max_index]
+        
+        
+        queue_length = min_coordinate and max_coordinate and geopy.distance.geodesic(min_coordinate, max_coordinate).m
+        
+        queue_length = ((not queue_length) and 0) or queue_length
+         
+        return [count, time.replace('%3A', '.'), taxi_count, queue_length, min_coordinate, max_coordinate, day_type]
  
     
     #VISUALIZE TO CHECK THE RESULTS
@@ -472,48 +478,57 @@ def termianl_one_congestion_analysis(date, time, day_type):
     # plt.show()
     
     # changi_area_inverted = invertLongtitudeLatitude(terminal_one.values.tolist()) 
-# termianl_one_congestion_analysis('2023-12-16', '00%3A05%3A00', 'weekend')
+# termianl_one_congestion_analysis(1,'2024-01-02', '03%3A24%3A00', 'weekday')
 
 #WRITE TERMINAL ONE TAXI QUEING INTO FILES
 def write_taxi_queue_of_t1():
-    fields = ['time', 'taxi_count', 'queue_length', 'day_type']
+    fields = ['id', 'time', 'taxi_count', 'queue_length', 'min_coordinate', 'max_coordinate', 'day_type']
     
     save_path = 't1_congestion'
     
-    date = '2023-12-16'
+    dates = ['2024-01-03']
     day_type = 'weekend'
     
     
-    one_hour = time_creation_with_param(0,59)
+    one_hour = time_creation_with_param(0,60)
     
-    hours = time_creation_with_param(0,23)
+    hours = time_creation_with_param(0,24)
     
-    data_rows = []
-    for hour in hours:
-        for minute in one_hour:
-            time = hour + '%3A' + minute + '%3A00'
-            
-            data_rows.append(termianl_one_congestion_analysis(date, time, day_type))
-    
-    # name of csv file 
-    filename = "t1_" + date + ".csv"
-    
-    completeName = os.path.join(save_path, filename)
+    for date in dates:
+        print(date)
+        data_rows = []
+        count = 0
+        for hour in hours:
+            print(hour)
+            for minute in one_hour:
+                time = hour + '%3A' + minute + '%3A00'
+                
+                count += 1
+                
+                data_rows.append(termianl_one_congestion_analysis(count, date, time, day_type))
         
-    # writing to csv file 
-    with open(completeName, 'w') as csvfile: 
-        # creating a csv writer object 
-        csvwriter = csv.writer(csvfile) 
-            
-        # writing the fields 
-        csvwriter.writerow(fields) 
-            
-        # writing the data rows 
-        csvwriter.writerows(data_rows)
+        # name of csv file 
+        filename = "t1_" + date + ".csv"
         
-    print('DONE')
-    
-write_taxi_queue_of_t1()
+        completeName = os.path.join(save_path, filename)
+            
+        # writing to csv file 
+        with open(completeName, 'w') as csvfile: 
+            # creating a csv writer object 
+            csvwriter = csv.writer(csvfile) 
+                
+            # writing the fields 
+            csvwriter.writerow(fields) 
+                
+            # writing the data rows 
+            csvwriter.writerows(data_rows)
+            
+        print('DONE')
+
+# start = t.time()
+# write_taxi_queue_of_t1()
+# end = t.time()
+# print(end-start)
 
     
     

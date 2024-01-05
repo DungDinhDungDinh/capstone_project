@@ -297,6 +297,181 @@ def test_congestion():
 
 # test_congestion()
 
+def t1_congestion_analysis():
+    weekdays = ['2023-12-05', '2023-11-07', '2023-10-17', '2023-09-26', '2023-08-01',
+             '2023-07-04', '2023-06-13', '2023-05-23', '2023-04-11', '2023-03-14',
+             '2023-02-07', '2022-12-20', '2022-11-08', '2022-10-11', '2022-09-06',
+             '2022-08-16', '2022-07-19', '2022-06-14', '2022-05-10', '2022-04-19',
+             '2022-03-15', '2022-02-22', '2022-01-04', '2019-01-08', '2019-02-12',
+             '2019-03-19', '2019-04-23', '2019-05-14', '2019-06-04', '2019-07-02',
+             '2019-08-27', '2019-09-17', '2019-10-15', '2019-12-17', '2019-12-24',
+             '2019-01-09', '2019-02-13', '2019-03-20', '2019-04-03', '2019-05-22',
+             '2019-06-12', '2019-07-10', '2019-08-21', '2019-09-18', '2019-10-23',
+             '2019-11-27', '2019-12-18', '2022-01-12', '2022-02-09', '2022-03-16',
+             '2022-04-27', '2022-05-18', '2022-06-01', '2022-07-13', '2022-08-24',
+             '2022-09-28', '2022-10-05', '2022-11-02', '2022-12-21', '2023-02-08',
+             '2023-03-22', '2023-04-19', '2023-05-31', '2023-06-21', '2023-07-12',
+             '2023-08-16', '2023-09-20', '2023-10-25', '2023-11-22', '2023-12-06',
+             '2023-02-09', '2023-03-16', '2023-04-13', '2023-05-25', '2023-06-15',
+             '2023-07-27', '2023-08-24', '2023-09-21', '2023-10-19', '2023-11-09',
+             '2023-12-28', '2022-01-06', '2022-02-10', '2022-03-31', '2022-04-21',
+             '2022-05-26', '2022-06-16', '2022-07-29', '2022-08-18', '2022-09-08',
+             '2022-10-21', '2022-11-04', '2022-12-23', '2019-01-03', '2019-02-14',
+             '2019-03-21', '2019-04-18', '2019-05-23', '2019-06-20', '2019-07-11',
+             '2019-08-22', '2019-09-12', '2019-10-31', '2019-11-28', '2019-12-05',
+             '2019-01-04', '2019-02-22', '2019-03-15', '2019-04-26', '2019-06-28',
+             '2019-05-24', '2019-07-19', '2019-08-16', '2019-09-06', '2019-10-04',
+             '2019-11-29', '2019-12-13', '2022-01-07', '2022-02-18', '2022-03-25',
+             '2022-04-22', '2022-05-13', '2022-06-03', '2022-07-29', '2022-08-12',
+             '2022-09-30', '2022-10-07', '2022-11-25', '2022-12-23', '2023-01-27',
+             '2023-02-24', '2023-03-31', '2023-04-14', '2023-05-19', '2023-06-09',
+             '2023-07-07', '2023-08-11', '2023-09-08', '2023-10-27', '2023-11-10',
+             '2023-12-15']
+    weekends = ['2023-01-14', '2023-02-18', '2023-03-25', '2023-04-01','2023-05-20', 
+                '2023-06-24', '2023-07-29', '2023-08-12', '2023-09-16',
+             '2023-10-21', '2023-11-18', '2023-12-30', '2023-01-29', '2023-02-26',
+             '2023-03-12', '2023-04-02', '2023-05-21', '2023-06-11', '2023-07-09',
+             '2023-08-06', '2023-09-24', '2023-10-08', '2023-11-12', '2023-12-31',
+             '2022-01-21', '2022-01-30', '2022-02-12', '2022-02-27', '2022-03-26',
+             '2022-03-13', '2022-04-30', '2022-04-10', '2022-05-14', '2022-05-15',
+             '2022-06-18', '2022-06-05', '2022-07-23', '2022-07-17', '2022-08-20',
+             '2022-08-21', '2022-09-24', '2022-09-04', '2022-10-22', '2022-10-16',
+             '2022-11-26', '2022-11-27', '2022-12-31', '2022-12-11', '2019-01-26',
+             '2019-01-06', '2019-02-23', '2019-02-24', '2019-03-09', '2019-03-17',
+             '2019-04-06', '2019-04-07', '2019-05-11', '2019-05-26', '2019-06-01',
+             '2019-06-30', '2019-07-13', '2019-07-28', '2019-08-24', '2019-08-25',
+             '2019-09-21', '2019-09-01', '2019-10-12', '2019-10-20', '2019-11-09',
+             '2019-11-10', '2019-12-07', '2019-12-15']
+    duration_list = []
+    for date in weekends:
+        d = pd.Timestamp(date)
+        file_name = './t1_congestion/t1_' + date +'.csv'
+        
+        data = pd.read_csv(file_name)
+        
+        queues = data[(data['taxi_count'] >= 10) & (data['queue_length'] >= 100)]
+            
+        i = 0
+        count = 0
+        minutes = []
+        taxi_count_list = []
+        queues_len = len(queues)
+        
+        
+        while i < queues_len - 1:
+            j = i + 1
+            
+            if (queues.iloc[j]['id']-queues.iloc[i]['id']) == 1:
+                if j == queues_len - 1:
+                    if count != 0:
+                        duration_list.append([date, d.day_name(), data['day_type'][0], minutes[0].split('.')[0], minutes, taxi_count_list, count + 1])
+                else:
+                    if count != 0:
+                        count = count + 1
+                        minutes.append(queues.iloc[j]['time'])
+                        taxi_count_list.append(queues.iloc[j]['taxi_count'])
+                    else:
+                        count = count + 1
+                        minutes.append(queues.iloc[i]['time'])
+                        taxi_count_list.append(queues.iloc[i]['taxi_count'])
+                        minutes.append(queues.iloc[j]['time'])
+                        taxi_count_list.append(queues.iloc[j]['taxi_count'])
+            else:
+                if minutes:
+                    duration_list.append([date, d.day_name(), data['day_type'][0], minutes[0].split('.')[0], minutes, taxi_count_list, count + 1])
+                    count = 0 
+                    minutes = []
+                    taxi_count_list = []
+            
+            i = i + 1
+        
+    save_path = 't1_congestion'
+    # name of csv file 
+    filename = "t1_queue_weekend_combined" + ".csv"
+    
+    fields = ['date', 'day_of_week', 'day_type','hour', 'minutes', 'taxi_count', 'sum']
+    
+    completeName = os.path.join(save_path, filename)
+    
+    # writing to csv file 
+    with open(completeName, 'w') as csvfile: 
+        # creating a csv writer object 
+        csvwriter = csv.writer(csvfile) 
+            
+        # writing the fields 
+        csvwriter.writerow(fields) 
+            
+        # writing the data rows 
+        csvwriter.writerows(duration_list)
+    
+# t1_congestion_analysis()
+
+def t1_one_day_analysis():
+    date = '2024-01-03'
+
+    d = pd.Timestamp(date)
+    file_name = './t1_congestion/t1_' + date +'.csv'
+    
+    data = pd.read_csv(file_name)
+    
+    queues = data[(data['taxi_count'] >= 10) & (data['queue_length'] >= 100)]
+        
+    i = 0
+    count = 0
+    minutes = []
+    taxi_count_list = []
+    queues_len = len(queues)
+    
+    duration_list = []
+    while i < queues_len - 1:
+        j = i + 1
+        
+        if (queues.iloc[j]['id']-queues.iloc[i]['id']) == 1:
+            if j == queues_len - 1:
+                if count != 0:
+                    duration_list.append([date, d.day_name(), data['day_type'][0], minutes[0].split('.')[0], minutes, taxi_count_list, count + 1])
+            else:
+                if count != 0:
+                    count = count + 1
+                    minutes.append(queues.iloc[j]['time'])
+                    taxi_count_list.append(queues.iloc[j]['taxi_count'])
+                else:
+                    count = count + 1
+                    minutes.append(queues.iloc[i]['time'])
+                    taxi_count_list.append(queues.iloc[i]['taxi_count'])
+                    minutes.append(queues.iloc[j]['time'])
+                    taxi_count_list.append(queues.iloc[j]['taxi_count'])
+        else:
+            if minutes:
+                duration_list.append([date, d.day_name(), data['day_type'][0], minutes[0].split('.')[0], minutes, taxi_count_list, count + 1])
+                count = 0 
+                minutes = []
+                taxi_count_list = []
+        
+        i = i + 1
+    
+    save_path = 't1_congestion'
+    # name of csv file 
+    filename = "t1_queue_" + date + ".csv"
+    
+    fields = ['date', 'day_of_week', 'day_type','hour', 'minutes', 'taxi_count', 'sum']
+    
+    completeName = os.path.join(save_path, filename)
+    
+    # writing to csv file 
+    with open(completeName, 'w') as csvfile: 
+        # creating a csv writer object 
+        csvwriter = csv.writer(csvfile) 
+            
+        # writing the fields 
+        csvwriter.writerow(fields) 
+            
+        # writing the data rows 
+        csvwriter.writerows(duration_list)
+        
+# t1_one_day_analysis()
+    
+
             
 
 
