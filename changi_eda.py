@@ -193,13 +193,13 @@ def plotting_clusters(clusters):
     fig.canvas.mpl_connect('pick_event', onpick)
     plt.show()
 
-# clusters = get_all_taxi_clusters('2024-01-02', '01%3A01%3A00')
+# clusters = get_all_taxi_clusters('2023-10-08', '00%3A00%3A00')
 # plotting_clusters(clusters)
 
 def coordinates_on_map_base():
     gmap1 = gmplot.GoogleMapPlotter(1.3521, 103.8198, 13, apikey='AIzaSyCWSsxr7oe7Xf11wFI_sUCMTxQRmJAzuuc') 
     
-    coordinates = getTaxiCoordinatesByTime('2023-11-11', '00%3A00%3A00')    
+    coordinates = getTaxiCoordinatesByTime('2023-10-08', '00%3A00%3A00')    
     
     
     gmap1.scatter(coordinates['lats'], coordinates['lons'], '#ff0ebb',size = 1, marker = False)
@@ -486,8 +486,8 @@ def write_taxi_queue_of_t1():
     
     save_path = 't1_congestion'
     
-    dates = ['2024-01-03']
-    day_type = 'weekend'
+    dates = ['2024-01-10']
+    day_type = 'weekday'
     
     
     one_hour = time_creation_with_param(0,60)
@@ -526,7 +526,7 @@ def write_taxi_queue_of_t1():
         print('DONE')
 
 # start = t.time()
-# write_taxi_queue_of_t1()
+write_taxi_queue_of_t1()
 # end = t.time()
 # print(end-start)
 

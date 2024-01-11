@@ -342,8 +342,13 @@ def t1_congestion_analysis():
              '2019-06-30', '2019-07-13', '2019-07-28', '2019-08-24', '2019-08-25',
              '2019-09-21', '2019-09-01', '2019-10-12', '2019-10-20', '2019-11-09',
              '2019-11-10', '2019-12-07', '2019-12-15']
+    holidays = ['2024-01-01', '2023-12-31', '2023-12-30', '2023-12-25', '2023-12-24', '2023-12-16',				
+                '2023-11-11', '2023-10-21', '2023-08-09', '2023-08-08', '2023-06-29', '2023-06-28',				
+                '2023-06-02', '2023-06-01', '2023-12-28', '2019-10-27', '2019-10-26', '2019-10-28',				
+                '2019-12-24', '2019-12-25', '2023-01-21', '2023-01-22', '2023-01-23', '2023-01-24',				
+                '2023-04-21', '2023-04-22', '2023-04-30', '2023-05-01', '2023-05-02']
     duration_list = []
-    for date in weekends:
+    for date in holidays:
         d = pd.Timestamp(date)
         file_name = './t1_congestion/t1_' + date +'.csv'
         
@@ -356,7 +361,7 @@ def t1_congestion_analysis():
         minutes = []
         taxi_count_list = []
         queues_len = len(queues)
-        
+        queue_start = 0
         
         while i < queues_len - 1:
             j = i + 1
@@ -364,7 +369,7 @@ def t1_congestion_analysis():
             if (queues.iloc[j]['id']-queues.iloc[i]['id']) == 1:
                 if j == queues_len - 1:
                     if count != 0:
-                        duration_list.append([date, d.day_name(), data['day_type'][0], minutes[0].split('.')[0], minutes, taxi_count_list, count + 1])
+                        duration_list.append([date, d.day_name(), data['day_type'][0], minutes[0].split('.')[0], queue_start, minutes, taxi_count_list, taxi_count_list[0], round((sum(taxi_count_list) / len(taxi_count_list)), 2),count + 1])
                 else:
                     if count != 0:
                         count = count + 1
@@ -376,9 +381,10 @@ def t1_congestion_analysis():
                         taxi_count_list.append(queues.iloc[i]['taxi_count'])
                         minutes.append(queues.iloc[j]['time'])
                         taxi_count_list.append(queues.iloc[j]['taxi_count'])
+                        queue_start = queues.iloc[i]['queue_length']
             else:
                 if minutes:
-                    duration_list.append([date, d.day_name(), data['day_type'][0], minutes[0].split('.')[0], minutes, taxi_count_list, count + 1])
+                    duration_list.append([date, d.day_name(), data['day_type'][0], minutes[0].split('.')[0], queue_start, minutes, taxi_count_list, taxi_count_list[0], round((sum(taxi_count_list) / len(taxi_count_list)), 2), count + 1])
                     count = 0 
                     minutes = []
                     taxi_count_list = []
@@ -387,9 +393,9 @@ def t1_congestion_analysis():
         
     save_path = 't1_congestion'
     # name of csv file 
-    filename = "t1_queue_weekend_combined" + ".csv"
+    filename = "t1_queue_holiday_avg_combined" + ".csv"
     
-    fields = ['date', 'day_of_week', 'day_type','hour', 'minutes', 'taxi_count', 'sum']
+    fields = ['date', 'day_of_week', 'day_type','hour', 'queue_start','minutes', 'taxi_count', 'taxi_count_start', 'taxi_count_avg', 'sum']
     
     completeName = os.path.join(save_path, filename)
     
@@ -404,7 +410,7 @@ def t1_congestion_analysis():
         # writing the data rows 
         csvwriter.writerows(duration_list)
     
-# t1_congestion_analysis()
+t1_congestion_analysis()
 
 def t1_one_day_analysis():
     date = '2024-01-03'
