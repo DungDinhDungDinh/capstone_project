@@ -54,65 +54,11 @@ X = X.drop(['minutes', 'taxi_count'], axis=1)
 
 X = pd.get_dummies(X, columns = ['day_of_week', 'day_type', 'hour'])
 
-# X = X[['taxi_count_start', 'queue_start']]
 
 # Split the data into training and test sets
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.25,random_state=42)
 
 def decision_tree_training():
-    # parameters = {'max_depth':range(3,20)}
-    # clf = GridSearchCV(tree.DecisionTreeClassifier(), parameters, n_jobs=4)
-    # clf.fit(X, y)
-    # tree_model = clf.best_estimator_
-    # print (clf.best_score_, clf.best_params_)
-    # classifier_rf = RandomForestClassifier(random_state=42, n_jobs=-1, max_depth=3,
-    #                                    n_estimators=100, oob_score=True)
-
-    # classifier_rf.fit(X_train, y_train)
-    
-    # print('oob', classifier_rf.oob_score_)
-    
-    
-    # y_pred = classifier_rf.predict(X_test)
-    
-    # accuracy = accuracy_score(y_test, y_pred)
-    # print("Accuracy:", accuracy)
-    
-    #Export decision tree
-    # r = export_text(classifier_rf)
-    # print(r)
-    
-    # rf = RandomForestClassifier(random_state=42, n_jobs=-1)
-
-    # params = {
-    #     'max_depth': [2,3,5,10,20],
-    #     'min_samples_leaf': [5,10,20,50,100,200],
-    #     'n_estimators': [10,25,30,50,100,200]
-    # }
-    
-    
-    # # Instantiate the grid search model
-    # grid_search = GridSearchCV(estimator=rf,
-    #                            param_grid=params,
-    #                            cv = 4,
-    #                            n_jobs=-1, verbose=1, scoring="accuracy")
-    
-    # grid_search.fit(X_train, y_train)
-    
-    # grid_search.best_score_
-    
-    # rf_best = grid_search.best_estimator_
-    
-    # r = export_text(rf_best[5])
-    # print(r)
-    
-    # imp_df = pd.DataFrame({
-    # "Varname": X_train.columns,
-    # "Imp": rf_best.feature_importances_
-    # })
-    
-    # imp_df.sort_values(by="Imp", ascending=False)
-    # print(imp_df)
     
     # Create Decision Tree classifer object
     clf = DecisionTreeClassifier(max_depth=4, random_state=42)
@@ -126,8 +72,16 @@ def decision_tree_training():
     accuracy = accuracy_score(y_test, y_pred)
     print("Accuracy:", accuracy)
     
-    r = export_text(clf)
-    print(r)
+    # initialize list of lists
+    # data = [[27]]
+     
+    # # Create the pandas DataFrame
+    # test_df = pd.DataFrame(data, columns=['taxi_count_start'])
+    # y_pred = clf.predict(test_df)
+    # print(y_pred)
+    
+    # r = export_text(clf)
+    # print(r)
     
     
     export_graphviz(clf, out_file='tree.dot', 
@@ -139,7 +93,7 @@ def decision_tree_training():
     call(['dot', '-Tpng', 'tree.dot', '-o', 'tree.png', '-Gdpi=600'])
     
     Image(filename = 'tree.png')
-# decision_tree_training()
+decision_tree_training()
     
 def logistic_regression_training():
     logisticRegr = LogisticRegression(random_state=42)

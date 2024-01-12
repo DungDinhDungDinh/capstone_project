@@ -347,12 +347,14 @@ def t1_congestion_analysis():
                 '2023-06-02', '2023-06-01', '2023-12-28', '2019-10-27', '2019-10-26', '2019-10-28',				
                 '2019-12-24', '2019-12-25', '2023-01-21', '2023-01-22', '2023-01-23', '2023-01-24',				
                 '2023-04-21', '2023-04-22', '2023-04-30', '2023-05-01', '2023-05-02']
+    one_day = ['2024-01-10']
     duration_list = []
-    for date in holidays:
+    for date in one_day:
         d = pd.Timestamp(date)
         file_name = './t1_congestion/t1_' + date +'.csv'
         
         data = pd.read_csv(file_name)
+    
         
         queues = data[(data['taxi_count'] >= 10) & (data['queue_length'] >= 100)]
             
@@ -393,7 +395,7 @@ def t1_congestion_analysis():
         
     save_path = 't1_congestion'
     # name of csv file 
-    filename = "t1_queue_holiday_avg_combined" + ".csv"
+    filename = "t1_queue_oneday_avg_combined" + ".csv"
     
     fields = ['date', 'day_of_week', 'day_type','hour', 'queue_start','minutes', 'taxi_count', 'taxi_count_start', 'taxi_count_avg', 'sum']
     
