@@ -33,9 +33,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
 from sklearn import svm
 
-holidays = pd.read_csv('./t1_congestion/t1_queue_holiday_avg_combined.csv')
-weekends = pd.read_csv('./t1_congestion/t1_queue_weekend_avg_combined.csv')
-weekdays = pd.read_csv('./t1_congestion/t1_queue_weekday_avg_combined.csv')
+holidays = pd.read_csv('./t4_congestion/t4_queue_holiday_avg_combined.csv')
+weekends = pd.read_csv('./t4_congestion/t4_queue_weekend_avg_combined.csv')
+weekdays = pd.read_csv('./t4_congestion/t4_queue_weekday_avg_combined.csv')
 data = pd.concat([holidays, weekends, weekdays], axis=0, ignore_index=True)
 
 # Split the data into features (X) and target (y)
@@ -49,14 +49,14 @@ y = data['heavy_congestion']
 #Data preprocessing
 X = X.drop('date', axis=1)
 X = X.drop('sum', axis=1)
-X = X.drop(['minutes', 'taxi_count'], axis=1)
+X = X.drop(['minutes', 'taxi_count', 'taxi_count_avg'], axis=1)
 
 
 X = pd.get_dummies(X, columns = ['day_of_week', 'day_type', 'hour'])
 
 
 # Split the data into training and test sets
-X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.25,random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.2,random_state=42)
 
 def decision_tree_training():
     
@@ -84,15 +84,15 @@ def decision_tree_training():
     # print(r)
     
     
-    export_graphviz(clf, out_file='tree.dot', 
+    export_graphviz(clf, out_file='tree4.dot', 
                     feature_names = X_train.columns,
                     class_names = ["no", "yes"],
                     rounded = True, proportion = False, 
                     precision = 2, filled = True)
     
-    call(['dot', '-Tpng', 'tree.dot', '-o', 'tree.png', '-Gdpi=600'])
+    call(['dot', '-Tpng', 'tree4.dot', '-o', 'tree4.png', '-Gdpi=600'])
     
-    Image(filename = 'tree.png')
+    Image(filename = 'tree4.png')
 decision_tree_training()
     
 def logistic_regression_training():
