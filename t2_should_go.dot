@@ -1,0 +1,29 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="taxi_count_minute3 <= 78.5\ngini = 0.3\nsamples = 4132\nvalue = [3373, 759]\nclass = no", fillcolor="#eb9d66"] ;
+1 [label="taxi_count_minute1 <= 17.5\ngini = 0.46\nsamples = 2056\nvalue = [1304, 752]\nclass = no", fillcolor="#f4caab"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = -2050.28\nsamples = 23\nvalue = [13, 10]\nclass = no", fillcolor="#f9e2d1"] ;
+1 -> 2 ;
+3 [label="taxi_count_minute3 <= 15.5\ngini = 0.0\nsamples = 2033\nvalue = [1291, 742]\nclass = no", fillcolor="#f4c9ab"] ;
+1 -> 3 ;
+4 [label="gini = -43512.0\nsamples = 5\nvalue = [3, 2]\nclass = no", fillcolor="#f6d5bd"] ;
+3 -> 4 ;
+5 [label="day_type_weekend <= 0.5\ngini = 0.0\nsamples = 2028\nvalue = [1288, 740]\nclass = no", fillcolor="#f4c9ab"] ;
+3 -> 5 ;
+6 [label="gini = 0.46\nsamples = 1487\nvalue = [957, 530]\nclass = no", fillcolor="#f3c7a7"] ;
+5 -> 6 ;
+7 [label="gini = nan\nsamples = 541\nvalue = [331, 210]\nclass = no", fillcolor="#f5d1b7"] ;
+5 -> 7 ;
+8 [label="taxi_count_minute0 <= 15.5\ngini = 0.01\nsamples = 2076\nvalue = [2069, 7]\nclass = no", fillcolor="#e5813a"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="gini = 0.0\nsamples = 32\nvalue = [32, 0]\nclass = no", fillcolor="#e58139"] ;
+8 -> 9 ;
+10 [label="taxi_length_minute3 <= 145.6\ngini = 0.01\nsamples = 2044\nvalue = [2037, 7]\nclass = no", fillcolor="#e5813a"] ;
+8 -> 10 ;
+11 [label="gini = 0.0\nsamples = 2004\nvalue = [2004, 0]\nclass = no", fillcolor="#e58139"] ;
+10 -> 11 ;
+12 [label="gini = 0.29\nsamples = 40\nvalue = [33, 7]\nclass = no", fillcolor="#eb9c63"] ;
+10 -> 12 ;
+}

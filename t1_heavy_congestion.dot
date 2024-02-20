@@ -1,0 +1,21 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="taxi_count_minute4 <= 33.5\ngini = 0.08\nsamples = 13815\nvalue = [13268, 547]\nclass = no", fillcolor="#e68641"] ;
+1 [label="taxi_count_minute1 <= 21.5\ngini = 0.03\nsamples = 12279\nvalue = [12091, 188]\nclass = no", fillcolor="#e5833c"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="taxi_length_minute4 <= 188.17\ngini = 0.12\nsamples = 2565\nvalue = [2541, 24]\nclass = no", fillcolor="#e5823b"] ;
+1 -> 2 ;
+3 [label="taxi_count_minute4 <= 32.5\ngini = 0.0\nsamples = 2400\nvalue = [2396, 4]\nclass = no", fillcolor="#e58139"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 2399\nvalue = [2396, 3]\nclass = no", fillcolor="#e58139"] ;
+3 -> 4 ;
+5 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = yes", fillcolor="#399de5"] ;
+3 -> 5 ;
+6 [label="gini = 0.21\nsamples = 165\nvalue = [145, 20]\nclass = no", fillcolor="#e99254"] ;
+2 -> 6 ;
+7 [label="gini = 0.01\nsamples = 9714\nvalue = [9550, 164]\nclass = no", fillcolor="#e5833c"] ;
+1 -> 7 ;
+8 [label="gini = 0.36\nsamples = 1536\nvalue = [1177, 359]\nclass = no", fillcolor="#eda775"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

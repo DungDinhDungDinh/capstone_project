@@ -199,7 +199,7 @@ def plotting_clusters(clusters):
 def coordinates_on_map_base():
     gmap1 = gmplot.GoogleMapPlotter(1.3521, 103.8198, 13, apikey='AIzaSyCWSsxr7oe7Xf11wFI_sUCMTxQRmJAzuuc') 
     
-    coordinates = getTaxiCoordinatesByTime('2023-12-16', '07%3A00%3A00')    
+    coordinates = getTaxiCoordinatesByTime('2024-01-30', '00%3A31%3A00')    
     
     
     gmap1.scatter(coordinates['lats'], coordinates['lons'], '#ff0ebb',size = 1, marker = False)
@@ -236,7 +236,7 @@ def draw_seemless_lanes():
 # draw_seemless_lanes()
 
 def mapbox_show():
-    coordinates = getTaxiCoordinatesByTime('2023-12-30', '17%3A28%3A00') 
+    coordinates = getTaxiCoordinatesByTime('2023-11-07', '00%3A58%3A00') 
     fig = px.scatter_mapbox(coordinates, lat="lats", lon="lons",
                         color_discrete_sequence=["fuchsia"], zoom=3)
     fig.update_layout(mapbox_style="open-street-map")
@@ -486,7 +486,9 @@ def write_taxi_queue_of_t1():
     
     save_path = 't1_congestion'
     
-    dates = ['2024-01-10']
+    weekdays = ['2024-01-30']
+    
+    
     day_type = 'weekday'
     
     
@@ -494,7 +496,7 @@ def write_taxi_queue_of_t1():
     
     hours = time_creation_with_param(0,24)
     
-    for date in dates:
+    for date in weekdays:
         print(date)
         data_rows = []
         count = 0
@@ -683,7 +685,9 @@ def write_taxi_queue_of_t2():
     # weekdays = ['2023-09-08', '2023-10-27', '2023-11-10','2023-12-15']
     # weekdays = ['2023-07-07', '2023-08-11', '2023-09-08', '2023-10-27', '2023-11-10',
     # '2023-12-15']
-    weekdays = ['2022-08-12']
+    weekdays = ['2024-01-30']
+    
+    
     day_type = 'weekday'
     
     
@@ -865,7 +869,7 @@ def termianl_three_congestion_analysis(count, date, time, day_type):
     # plt.show()
     
     # changi_area_inverted = invertLongtitudeLatitude(terminal_one.values.tolist()) 
-# termianl_three_congestion_analysis(1,'2023-12-24', '21%3A54%3A00', 'weekday')
+# termianl_three_congestion_analysis(1,'2024-02-01', '08%3A30%3A00', 'weekday')
 
 #WRITE TERMINAL TWO TAXI QUEING INTO FILES
 def write_taxi_queue_of_t3():
@@ -879,8 +883,8 @@ def write_taxi_queue_of_t3():
     # '2019-08-22', '2019-09-12', '2019-10-31', '2019-11-28', '2019-12-05']
     
     
-    weekends = ['2023-07-09', '2023-08-06', '2023-09-24', '2023-10-08', '2023-11-12', '2023-12-31',
-    '2022-01-21', '2022-01-30', '2022-02-12', '2022-02-27', '2022-03-26']
+    # weekends = ['2023-07-09', '2023-08-06', '2023-09-24', '2023-10-08', '2023-11-12', '2023-12-31',
+    # '2022-01-21', '2022-01-30', '2022-02-12', '2022-02-27', '2022-03-26']
     
     
     # weekends = ['2022-11-26', '2022-11-27', '2022-12-31', '2022-12-11', '2019-01-26',
@@ -898,15 +902,17 @@ def write_taxi_queue_of_t3():
     # holidays = ['2019-12-24', '2019-12-25', '2023-01-21', '2023-01-22', '2023-01-23', '2023-01-24',				
     # '2023-04-21', '2023-04-22', '2023-04-30', '2023-05-01', '2023-05-02']
     
+    weekdays = ['2023-11-07']
     
-    day_type = 'weekend'
+    
+    day_type = 'weekday'
     
     
     one_hour = time_creation_with_param(0,60)
     
     hours = time_creation_with_param(0,24)
     
-    for date in weekends:
+    for date in weekdays:
         print(date)
         data_rows = []
         count = 0
@@ -1080,7 +1086,7 @@ def termianl_four_congestion_analysis(count, date, time, day_type):
     # plt.show()
     
     # changi_area_inverted = invertLongtitudeLatitude(terminal_one.values.tolist()) 
-# termianl_four_congestion_analysis(1,'2023-12-25', '11%3A50%3A00', 'weekday')
+# termianl_four_congestion_analysis(1,'2019-11-27', '00%3A14%3A00', 'weekday')
 
 #WRITE TERMINAL TWO TAXI QUEING INTO FILES
 def write_taxi_queue_of_t4():
@@ -1100,19 +1106,22 @@ def write_taxi_queue_of_t4():
     
     # weekends = ['2019-09-21', '2019-09-01', '2019-10-12', '2019-10-20', '2019-11-09']
     
-    weekends = ['2019-11-10', '2019-12-07', '2019-12-15']
+    # weekends = ['2019-11-10', '2019-12-07', '2019-12-15']
     
     # holidays = ['2019-12-24', '2019-12-25', '2023-01-21', '2023-01-22', '2023-01-23', '2023-01-24',				
     # '2023-04-21', '2023-04-22', '2023-04-30', '2023-05-01', '2023-05-02']
     
-    day_type = 'weekend'
+    weekdays = ['2024-01-30']
+    
+    
+    day_type = 'weekday'
     
     
     one_hour = time_creation_with_param(0,60)
     
     hours = time_creation_with_param(0,24)
     
-    for date in weekends:
+    for date in weekdays:
         print(date)
         data_rows = []
         count = 0
@@ -1144,7 +1153,7 @@ def write_taxi_queue_of_t4():
         print('DONE')
 
 # start = t.time()
-# write_taxi_queue_of_t4()
+write_taxi_queue_of_t4()
 # end = t.time()
 # print(end-start)    
 
