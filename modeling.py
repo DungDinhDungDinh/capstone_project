@@ -38,7 +38,7 @@ simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
 
 
 terminal = 't4'
-is_should_go = True
+is_should_go = False
 one_date = '2023-11-07'
 
 def import_and_preprocess_should_go():
@@ -70,8 +70,8 @@ def import_and_preprocess_heavy_congestion():
     data = pd.read_csv('./' + terminal + '_congestion/' + terminal + '_queue_all_days_avg_combined.csv')
     
     # Split the data into features (X) and target (y)
-    data.loc[data['sum'] >= 17, 'heavy_congestion'] = '1'
-    data.loc[data['sum'] < 17, 'heavy_congestion'] = '0'
+    data.loc[data['sum'] >= 10, 'heavy_congestion'] = '1'
+    data.loc[data['sum'] < 10, 'heavy_congestion'] = '0'
     
     X = data.drop('heavy_congestion', axis=1)
     y = data['heavy_congestion']
