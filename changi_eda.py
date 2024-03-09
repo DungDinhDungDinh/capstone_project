@@ -236,7 +236,7 @@ def draw_seemless_lanes():
 # draw_seemless_lanes()
 
 def mapbox_show():
-    coordinates = getTaxiCoordinatesByTime('2023-11-07', '00%3A58%3A00') 
+    coordinates = getTaxiCoordinatesByTime('2024-01-02', '23%3A33%3A00') 
     fig = px.scatter_mapbox(coordinates, lat="lats", lon="lons",
                         color_discrete_sequence=["fuchsia"], zoom=3)
     fig.update_layout(mapbox_style="open-street-map")
@@ -486,7 +486,31 @@ def write_taxi_queue_of_t1():
     
     save_path = 't1_congestion'
     
-    weekdays = ['2024-01-30']
+    print('t1')
+    
+    # weekends = ['2023-01-15', '2023-01-28', '2023-02-04', '2023-02-05', '2023-02-11']
+    # weekends = ['2023-02-12', '2023-02-19', '2023-02-25', '2023-03-04', '2023-03-05']
+    # weekends = ['2023-03-11', '2023-03-18', '2023-03-26', '2023-04-08', '2023-04-09']
+    # weekends = ['2023-04-15', '2023-04-16', '2023-04-23', '2023-04-29', '2023-05-06']
+    # weekends = ['2023-05-07', '2023-05-13', '2023-05-14', '2023-05-27', '2023-05-28']
+    # weekends = ['2023-06-03', '2023-06-04', '2023-06-10', '2023-06-17', '2023-06-18']
+    # weekends = ['2023-06-25', '2023-07-01', '2023-07-02', '2023-07-08', '2023-07-15']
+    # weekends = ['2023-07-16', '2023-07-22', '2023-07-23', '2023-07-30', '2023-08-05']
+    # weekends = ['2023-08-13', '2023-08-19', '2023-08-20', '2023-08-26', '2023-08-27']
+    # weekends = ['2023-09-02', '2023-09-03', '2023-09-09', '2023-09-10', '2023-09-17']
+    # weekends = ['2023-09-23', '2023-09-30', '2023-10-01', '2023-10-07', '2023-10-14']
+    # weekends = ['2023-11-04']
+    # weekends = ['2023-11-05', '2023-11-19', '2023-11-25', '2023-11-26', '2023-12-02']
+    # weekends = ['2023-12-03', '2023-12-09', '2023-12-10', '2023-12-17', '2023-12-23']
+    # weekends = ['2022-01-08', '2022-01-09', '2022-01-15']
+    # holidays = ['2023-04-07', '2023-09-01', '2022-01-01', '2022-02-01', '2022-02-02']
+    # holidays = ['2022-04-15', '2022-05-01', '2022-05-03', '2022-05-15', '2022-07-10']
+    # holidays = ['2022-08-09', '2022-10-24', '2022-12-25', '2019-01-01', '2019-02-05']
+    # holidays = ['2019-05-01', '2019-05-19', '2019-05-20']
+    # holidays = ['2019-06-05', '2019-08-09', '2019-08-11', '2019-08-12', '2019-10-27',
+    #             '2019-10-28']
+    
+    weekdays = ['2024-01-09']
     
     
     day_type = 'weekday'
@@ -678,6 +702,8 @@ def write_taxi_queue_of_t2():
     
     save_path = 't2_congestion'
     
+    print('t2')
+    
     # weekends = ['2019-07-13', '2019-07-28', '2019-08-24', '2019-08-25',
     # '2019-09-21', '2019-09-01', '2019-10-12', '2019-10-20', '2019-11-09',
     # '2019-11-10', '2019-12-07', '2019-12-15']
@@ -685,7 +711,7 @@ def write_taxi_queue_of_t2():
     # weekdays = ['2023-09-08', '2023-10-27', '2023-11-10','2023-12-15']
     # weekdays = ['2023-07-07', '2023-08-11', '2023-09-08', '2023-10-27', '2023-11-10',
     # '2023-12-15']
-    weekdays = ['2024-01-30']
+    weekends = ['2024-01-09']
     
     
     day_type = 'weekday'
@@ -695,7 +721,7 @@ def write_taxi_queue_of_t2():
     
     hours = time_creation_with_param(0,24)
     
-    for date in weekdays:
+    for date in weekends:
         print(date)
         data_rows = []
         count = 0
@@ -876,6 +902,8 @@ def write_taxi_queue_of_t3():
     fields = ['id', 'time', 'taxi_count', 'queue_length', 'min_coordinate', 'max_coordinate', 'day_type']
     
     save_path = 't3_congestion'
+    
+    print('t3')
         
     
     # weekdays = ['2022-10-21', '2022-11-04', '2022-12-23', '2019-01-03', '2019-02-14',
@@ -902,7 +930,7 @@ def write_taxi_queue_of_t3():
     # holidays = ['2019-12-24', '2019-12-25', '2023-01-21', '2023-01-22', '2023-01-23', '2023-01-24',				
     # '2023-04-21', '2023-04-22', '2023-04-30', '2023-05-01', '2023-05-02']
     
-    weekdays = ['2023-11-07']
+    weekends = ['2024-01-09']
     
     
     day_type = 'weekday'
@@ -912,7 +940,7 @@ def write_taxi_queue_of_t3():
     
     hours = time_creation_with_param(0,24)
     
-    for date in weekdays:
+    for date in weekends:
         print(date)
         data_rows = []
         count = 0
@@ -1094,6 +1122,8 @@ def write_taxi_queue_of_t4():
     
     save_path = 't4_congestion'
     
+    print('t4')
+    
     
     # weekdays = ['2022-10-21', '2022-11-04', '2022-12-23', '2019-01-03', '2019-02-14',
     # '2019-03-21', '2019-04-18', '2019-05-23', '2019-06-20', '2019-07-11',
@@ -1111,17 +1141,16 @@ def write_taxi_queue_of_t4():
     # holidays = ['2019-12-24', '2019-12-25', '2023-01-21', '2023-01-22', '2023-01-23', '2023-01-24',				
     # '2023-04-21', '2023-04-22', '2023-04-30', '2023-05-01', '2023-05-02']
     
-    weekdays = ['2024-01-30']
+    weekends = ['2024-01-09']
     
     
     day_type = 'weekday'
-    
     
     one_hour = time_creation_with_param(0,60)
     
     hours = time_creation_with_param(0,24)
     
-    for date in weekdays:
+    for date in weekends:
         print(date)
         data_rows = []
         count = 0
@@ -1153,7 +1182,7 @@ def write_taxi_queue_of_t4():
         print('DONE')
 
 # start = t.time()
-write_taxi_queue_of_t4()
+# write_taxi_queue_of_t4()
 # end = t.time()
 # print(end-start)    
 

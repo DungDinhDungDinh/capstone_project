@@ -1,0 +1,233 @@
+date,day_of_week,day_type,hour,minutes,taxi_count_-1,taxi_count_-2,taxi_count_-3,taxi_count_-4,taxi_count_-5,taxi_count_minute0,taxi_length_minute0,taxi_count_minute1,taxi_length_minute1,taxi_count_minute2,taxi_length_minute2,taxi_count_minute3,taxi_length_minute3,taxi_count_minute4,taxi_length_minute4,taxi_count_minute5,taxi_length_minute5,taxi_count_minute6,taxi_length_minute6,taxi_count_minute7,taxi_length_minute7,taxi_count_minute8,taxi_length_minute8,taxi_count_minute9,taxi_length_minute9,taxi_count_minute10,taxi_length_minute10,taxi_count_minute11,taxi_length_minute11,taxi_count_minute12,taxi_length_minute12,taxi_count_minute13,taxi_length_minute13,taxi_count_minute14,taxi_length_minute14,taxi_count_minute15,taxi_length_minute15,taxi_count_minute16,taxi_length_minute16,taxi_count_minute17,taxi_length_minute17,taxi_count_minute18,taxi_length_minute18,taxi_count_minute19,taxi_length_minute19,taxi_count_minute20,taxi_length_minute20,taxi_count_minute21,taxi_length_minute21,taxi_count_minute22,taxi_length_minute22,taxi_count_minute23,taxi_length_minute23,taxi_count_minute24,taxi_length_minute24,taxi_count_minute25,taxi_length_minute25,taxi_count_minute26,taxi_length_minute26,taxi_count_minute27,taxi_length_minute27,taxi_count_minute28,taxi_length_minute28,taxi_count_minute29,taxi_length_minute29,taxi_count_minute30,taxi_length_minute30,taxi_count_minute31,taxi_length_minute31,taxi_count_minute32,taxi_length_minute32,taxi_count_minute33,taxi_length_minute33,taxi_count_minute34,taxi_length_minute34,taxi_count_minute35,taxi_length_minute35,taxi_count_minute36,taxi_length_minute36,taxi_count_minute37,taxi_length_minute37,taxi_count_minute38,taxi_length_minute38,taxi_count_minute39,taxi_length_minute39,taxi_count_minute40,taxi_length_minute40,taxi_count_minute41,taxi_length_minute41,taxi_count_minute42,taxi_length_minute42,taxi_count_minute43,taxi_length_minute43,taxi_count_minute44,taxi_length_minute44,taxi_count_minute45,taxi_length_minute45,taxi_count_minute46,taxi_length_minute46,taxi_count_minute47,taxi_length_minute47,taxi_count_minute48,taxi_length_minute48,taxi_count_minute49,taxi_length_minute49,taxi_count_minute50,taxi_length_minute50,taxi_count_minute51,taxi_length_minute51,taxi_count_minute52,taxi_length_minute52,taxi_count_minute53,taxi_length_minute53,taxi_count_minute54,taxi_length_minute54,taxi_count_minute55,taxi_length_minute55,taxi_count_minute56,taxi_length_minute56,taxi_count_minute57,taxi_length_minute57,taxi_count_minute58,taxi_length_minute58,taxi_count_minute59,taxi_length_minute59,taxi_count_minute60,taxi_length_minute60,taxi_count_minute61,taxi_length_minute61,taxi_count_minute62,taxi_length_minute62,taxi_count_minute63,taxi_length_minute63,taxi_count_minute64,taxi_length_minute64,taxi_count_minute65,taxi_length_minute65,taxi_count_minute66,taxi_length_minute66,taxi_count_minute67,taxi_length_minute67,taxi_count_minute68,taxi_length_minute68,taxi_count_minute69,taxi_length_minute69,taxi_count_minute70,taxi_length_minute70,taxi_count_minute71,taxi_length_minute71,taxi_count_minute72,taxi_length_minute72,taxi_count_minute73,taxi_length_minute73,taxi_count_minute74,taxi_length_minute74,taxi_count_minute75,taxi_length_minute75,taxi_count_minute76,taxi_length_minute76,taxi_count_minute77,taxi_length_minute77,taxi_count_minute78,taxi_length_minute78,taxi_count_minute79,taxi_length_minute79,taxi_count_minute80,taxi_length_minute80,taxi_count_minute81,taxi_length_minute81,taxi_count_minute82,taxi_length_minute82,taxi_count_minute83,taxi_length_minute83,taxi_count_minute84,taxi_length_minute84,taxi_count_minute85,taxi_length_minute85,taxi_count_minute86,taxi_length_minute86,taxi_count_minute87,taxi_length_minute87,taxi_count_minute88,taxi_length_minute88,taxi_count_minute89,taxi_length_minute89,taxi_count_minute90,taxi_length_minute90,taxi_count_minute91,taxi_length_minute91,taxi_count_minute92,taxi_length_minute92,taxi_count_minute93,taxi_length_minute93,taxi_count_minute94,taxi_length_minute94,taxi_count_minute95,taxi_length_minute95,taxi_count_minute96,taxi_length_minute96,taxi_count_minute97,taxi_length_minute97,taxi_count_minute98,taxi_length_minute98,taxi_count_minute99,taxi_length_minute99,taxi_count_minute100,taxi_length_minute100,taxi_count_minute101,taxi_length_minute101,taxi_count_minute102,taxi_length_minute102,taxi_count_minute103,taxi_length_minute103,taxi_count_minute104,taxi_length_minute104,taxi_count_minute105,taxi_length_minute105,taxi_count_minute106,taxi_length_minute106,taxi_count_minute107,taxi_length_minute107,taxi_count_minute108,taxi_length_minute108,taxi_count_minute109,taxi_length_minute109,taxi_count_minute110,taxi_length_minute110,taxi_count_minute111,taxi_length_minute111,taxi_count_minute112,taxi_length_minute112,taxi_count_minute113,taxi_length_minute113,taxi_count_minute114,taxi_length_minute114,taxi_count_minute115,taxi_length_minute115,taxi_count_minute116,taxi_length_minute116,taxi_count_minute117,taxi_length_minute117,taxi_count_minute118,taxi_length_minute118,taxi_count_minute119,taxi_length_minute119,taxi_count_minute120,taxi_length_minute120,taxi_count_minute121,taxi_length_minute121,taxi_count_minute122,taxi_length_minute122,taxi_count_minute123,taxi_length_minute123,taxi_count_minute124,taxi_length_minute124,taxi_count_minute125,taxi_length_minute125,taxi_count_minute126,taxi_length_minute126,taxi_count_minute127,taxi_length_minute127,taxi_count_minute128,taxi_length_minute128,taxi_count_minute129,taxi_length_minute129,taxi_count_minute130,taxi_length_minute130,taxi_count_minute131,taxi_length_minute131,taxi_count_minute132,taxi_length_minute132,taxi_count_minute133,taxi_length_minute133,taxi_count_minute134,taxi_length_minute134,taxi_count_minute135,taxi_length_minute135,taxi_count_minute136,taxi_length_minute136,taxi_count_minute137,taxi_length_minute137,taxi_count_minute138,taxi_length_minute138,taxi_count_minute139,taxi_length_minute139,taxi_count_minute140,taxi_length_minute140,taxi_count_minute141,taxi_length_minute141,taxi_count_minute142,taxi_length_minute142,taxi_count_minute143,taxi_length_minute143,taxi_count_minute144,taxi_length_minute144,taxi_count_minute145,taxi_length_minute145,taxi_count_minute146,taxi_length_minute146,taxi_count_minute147,taxi_length_minute147,taxi_count_minute148,taxi_length_minute148,taxi_count_minute149,taxi_length_minute149,taxi_count_minute150,taxi_length_minute150,taxi_count_minute151,taxi_length_minute151,taxi_count_minute152,taxi_length_minute152,taxi_count_minute153,taxi_length_minute153,taxi_count_minute154,taxi_length_minute154,taxi_count_minute155,taxi_length_minute155,taxi_count_minute156,taxi_length_minute156,taxi_count_minute157,taxi_length_minute157,taxi_count_minute158,taxi_length_minute158,taxi_count_minute159,taxi_length_minute159,taxi_count_minute160,taxi_length_minute160,taxi_count_minute161,taxi_length_minute161,taxi_count_minute162,taxi_length_minute162,taxi_count_minute163,taxi_length_minute163,taxi_count_minute164,taxi_length_minute164,taxi_count_minute165,taxi_length_minute165,taxi_count_minute166,taxi_length_minute166,taxi_count_minute167,taxi_length_minute167,taxi_count_minute168,taxi_length_minute168,taxi_count_minute169,taxi_length_minute169,taxi_count_minute170,taxi_length_minute170,taxi_count_minute171,taxi_length_minute171,taxi_count_minute172,taxi_length_minute172,taxi_count_minute173,taxi_length_minute173,taxi_count_minute174,taxi_length_minute174,taxi_count_minute175,taxi_length_minute175,taxi_count_minute176,taxi_length_minute176,taxi_count_minute177,taxi_length_minute177,taxi_count_minute178,taxi_length_minute178,taxi_count_minute179,taxi_length_minute179,taxi_count_minute180,taxi_length_minute180,taxi_count_minute181,taxi_length_minute181,taxi_count_minute182,taxi_length_minute182,taxi_count_minute183,taxi_length_minute183,taxi_count_minute184,taxi_length_minute184,taxi_count_minute185,taxi_length_minute185,taxi_count_minute186,taxi_length_minute186,taxi_count_minute187,taxi_length_minute187,taxi_count_minute188,taxi_length_minute188,taxi_count_minute189,taxi_length_minute189,taxi_count_minute190,taxi_length_minute190,taxi_count_minute191,taxi_length_minute191,taxi_count_minute192,taxi_length_minute192,taxi_count_minute193,taxi_length_minute193,taxi_count_minute194,taxi_length_minute194,taxi_count_minute195,taxi_length_minute195,taxi_count_minute196,taxi_length_minute196,taxi_count_minute197,taxi_length_minute197,taxi_count_minute198,taxi_length_minute198,taxi_count_minute199,taxi_length_minute199,taxi_count_minute200,taxi_length_minute200,taxi_count_minute201,taxi_length_minute201,taxi_count_minute202,taxi_length_minute202,taxi_count_minute203,taxi_length_minute203,taxi_count_minute204,taxi_length_minute204,taxi_count_minute205,taxi_length_minute205,taxi_count_minute206,taxi_length_minute206,taxi_count_minute207,taxi_length_minute207,taxi_count_minute208,taxi_length_minute208,taxi_count_minute209,taxi_length_minute209,taxi_count_minute210,taxi_length_minute210,taxi_count_minute211,taxi_length_minute211,taxi_count_minute212,taxi_length_minute212,taxi_count_minute213,taxi_length_minute213,taxi_count_minute214,taxi_length_minute214,taxi_count_minute215,taxi_length_minute215,taxi_count_minute216,taxi_length_minute216,taxi_count_minute217,taxi_length_minute217,taxi_count_minute218,taxi_length_minute218,taxi_count_minute219,taxi_length_minute219,taxi_count_minute220,taxi_length_minute220,taxi_count_minute221,taxi_length_minute221,taxi_count_minute222,taxi_length_minute222,taxi_count_minute223,taxi_length_minute223,taxi_count_minute224,taxi_length_minute224,taxi_count_minute225,taxi_length_minute225,taxi_count_minute226,taxi_length_minute226,taxi_count_minute227,taxi_length_minute227,taxi_count_minute228,taxi_length_minute228,taxi_count_minute229,taxi_length_minute229,taxi_count_minute230,taxi_length_minute230,taxi_count_minute231,taxi_length_minute231,taxi_count_minute232,taxi_length_minute232,taxi_count_minute233,taxi_length_minute233,taxi_count_minute234,taxi_length_minute234,taxi_count_minute235,taxi_length_minute235,taxi_count_minute236,taxi_length_minute236,taxi_count_minute237,taxi_length_minute237,taxi_count_minute238,taxi_length_minute238,taxi_count_minute239,taxi_length_minute239,taxi_count_minute240,taxi_length_minute240,taxi_count_minute241,taxi_length_minute241,taxi_count_minute242,taxi_length_minute242,taxi_count_minute243,taxi_length_minute243,taxi_count_minute244,taxi_length_minute244,taxi_count_minute245,taxi_length_minute245,taxi_count_minute246,taxi_length_minute246,taxi_count_minute247,taxi_length_minute247,taxi_count_minute248,taxi_length_minute248,taxi_count_minute249,taxi_length_minute249,taxi_count_minute250,taxi_length_minute250,taxi_count_minute251,taxi_length_minute251,taxi_count_minute252,taxi_length_minute252,taxi_count_minute253,taxi_length_minute253,taxi_count_minute254,taxi_length_minute254,taxi_count_minute255,taxi_length_minute255,taxi_count_minute256,taxi_length_minute256,taxi_count_minute257,taxi_length_minute257,taxi_count_minute258,taxi_length_minute258,taxi_count_minute259,taxi_length_minute259,taxi_count_minute260,taxi_length_minute260,taxi_count_minute261,taxi_length_minute261,taxi_count_minute262,taxi_length_minute262,taxi_count_minute263,taxi_length_minute263,taxi_count_minute264,taxi_length_minute264,taxi_count_minute265,taxi_length_minute265,taxi_count_minute266,taxi_length_minute266,taxi_count_minute267,taxi_length_minute267,taxi_count_minute268,taxi_length_minute268,taxi_count_minute269,taxi_length_minute269,taxi_count_minute270,taxi_length_minute270,taxi_count_minute271,taxi_length_minute271,taxi_count_minute272,taxi_length_minute272,taxi_count_minute273,taxi_length_minute273,taxi_count_minute274,taxi_length_minute274,taxi_count_minute275,taxi_length_minute275,taxi_count_minute276,taxi_length_minute276,taxi_count_minute277,taxi_length_minute277,taxi_count_minute278,taxi_length_minute278,taxi_count_minute279,taxi_length_minute279,taxi_count_minute280,taxi_length_minute280,taxi_count_minute281,taxi_length_minute281,taxi_count_minute282,taxi_length_minute282,taxi_count_minute283,taxi_length_minute283,taxi_count_minute284,taxi_length_minute284,taxi_count_minute285,taxi_length_minute285,taxi_count_minute286,taxi_length_minute286,taxi_count_minute287,taxi_length_minute287,taxi_count_minute288,taxi_length_minute288,taxi_count_minute289,taxi_length_minute289,taxi_count_minute290,taxi_length_minute290,taxi_count_minute291,taxi_length_minute291,taxi_count_minute292,taxi_length_minute292,taxi_count_minute293,taxi_length_minute293,taxi_count_minute294,taxi_length_minute294,taxi_count_minute295,taxi_length_minute295,taxi_count_minute296,taxi_length_minute296,taxi_count_minute297,taxi_length_minute297,taxi_count_minute298,taxi_length_minute298,taxi_count_minute299,taxi_length_minute299,taxi_count_avg,sum
+2023-09-26,Tuesday,weekday,00,"['00.00.00', '00.01.00']",,,,,,,,,,,18,211.75555142682015,17,210.88815210292464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.5,2
+2023-09-26,Tuesday,weekday,09,"['09.43.00', '09.44.00', '09.45.00']","582    12
+Name: taxi_count, dtype: int64","582    89.399353
+Name: queue_length, dtype: float64","581    9
+Name: taxi_count, dtype: int64","581    56.535905
+Name: queue_length, dtype: float64","580    12
+Name: taxi_count, dtype: int64","580    53.192763
+Name: queue_length, dtype: float64","579    11
+Name: taxi_count, dtype: int64","579    66.487236
+Name: queue_length, dtype: float64","578    13
+Name: taxi_count, dtype: int64","578    106.644283
+Name: queue_length, dtype: float64",16,129.49650171098256,19,160.0476966848188,16,116.55963765496864,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.0,3
+2023-09-26,Tuesday,weekday,10,"['10.05.00', '10.06.00', '10.07.00', '10.08.00', '10.09.00', '10.10.00', '10.11.00', '10.12.00', '10.13.00', '10.14.00']","604    10
+Name: taxi_count, dtype: int64","604    59.926028
+Name: queue_length, dtype: float64","603    17
+Name: taxi_count, dtype: int64","603    77.901889
+Name: queue_length, dtype: float64","602    14
+Name: taxi_count, dtype: int64","602    77.901889
+Name: queue_length, dtype: float64","601    14
+Name: taxi_count, dtype: int64","601    78.752772
+Name: queue_length, dtype: float64","600    12
+Name: taxi_count, dtype: int64","600    79.3536
+Name: queue_length, dtype: float64",16,109.58468015119716,16,109.58468015119716,13,109.3338310298938,21,194.2115760950852,20,191.9904344185055,20,191.1370152347407,20,189.69331777569332,22,203.05676551016623,20,198.12089895302793,22,201.61320522766383,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19.0,10
+2023-09-26,Tuesday,weekday,10,"['10.43.00', '10.44.00']","642    7
+Name: taxi_count, dtype: int64","642    50.556694
+Name: queue_length, dtype: float64","641    7
+Name: taxi_count, dtype: int64","641    41.56506
+Name: queue_length, dtype: float64","640    7
+Name: taxi_count, dtype: int64","640    32.06506
+Name: queue_length, dtype: float64","639    7
+Name: taxi_count, dtype: int64","639    48.070615
+Name: queue_length, dtype: float64","638    7
+Name: taxi_count, dtype: int64","638    34.323971
+Name: queue_length, dtype: float64",19,138.84823218039438,18,175.72583074859986,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.5,2
+2023-09-26,Tuesday,weekday,10,"['10.47.00', '10.48.00', '10.49.00', '10.50.00', '10.51.00', '10.52.00', '10.53.00']","646    11
+Name: taxi_count, dtype: int64","646    71.641349
+Name: queue_length, dtype: float64","645    10
+Name: taxi_count, dtype: int64","645    80.081646
+Name: queue_length, dtype: float64","644    18
+Name: taxi_count, dtype: int64","644    175.725831
+Name: queue_length, dtype: float64","643    19
+Name: taxi_count, dtype: int64","643    138.848232
+Name: queue_length, dtype: float64","642    7
+Name: taxi_count, dtype: int64","642    50.556694
+Name: queue_length, dtype: float64",20,134.43656730364327,26,201.6776798798811,13,102.4048360069971,17,120.28642372433184,22,168.3836845099396,18,161.41309755343937,18,135.91766307678935,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19.14,7
+2023-09-26,Tuesday,weekday,10,"['10.58.00', '10.59.00']","657    8
+Name: taxi_count, dtype: int64","657    37.003827
+Name: queue_length, dtype: float64","656    7
+Name: taxi_count, dtype: int64","656    36.232472
+Name: queue_length, dtype: float64","655    0
+Name: taxi_count, dtype: int64","655    0.0
+Name: queue_length, dtype: float64","654    0
+Name: taxi_count, dtype: int64","654    0.0
+Name: queue_length, dtype: float64","653    18
+Name: taxi_count, dtype: int64","653    135.917663
+Name: queue_length, dtype: float64",16,149.4180973939682,14,159.724722840031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.0,2
+2023-09-26,Tuesday,weekday,13,"['13.09.00', '13.10.00']","788    10
+Name: taxi_count, dtype: int64","788    50.452514
+Name: queue_length, dtype: float64","787    9
+Name: taxi_count, dtype: int64","787    31.672832
+Name: queue_length, dtype: float64","786    12
+Name: taxi_count, dtype: int64","786    56.18738
+Name: queue_length, dtype: float64","785    15
+Name: taxi_count, dtype: int64","785    162.630825
+Name: queue_length, dtype: float64","784    11
+Name: taxi_count, dtype: int64","784    60.18278
+Name: queue_length, dtype: float64",16,211.77249089802348,17,192.2083854534416,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.5,2
+2023-09-26,Tuesday,weekday,14,"['14.50.00', '14.51.00', '14.52.00', '14.53.00', '14.54.00']","889    0
+Name: taxi_count, dtype: int64","889    0.0
+Name: queue_length, dtype: float64","888    12
+Name: taxi_count, dtype: int64","888    113.659481
+Name: queue_length, dtype: float64","887    10
+Name: taxi_count, dtype: int64","887    61.478735
+Name: queue_length, dtype: float64","886    11
+Name: taxi_count, dtype: int64","886    69.4729
+Name: queue_length, dtype: float64","885    11
+Name: taxi_count, dtype: int64","885    72.832201
+Name: queue_length, dtype: float64",17,137.92568673667435,19,117.15055392391471,19,121.06737548390949,20,134.61205829180517,22,153.33425519600274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19.4,5
+2023-09-26,Tuesday,weekday,14,"['14.58.00', '14.59.00', '15.00.00']","897    0
+Name: taxi_count, dtype: int64","897    0.0
+Name: queue_length, dtype: float64","896    14
+Name: taxi_count, dtype: int64","896    69.472898
+Name: queue_length, dtype: float64","895    12
+Name: taxi_count, dtype: int64","895    61.930346
+Name: queue_length, dtype: float64","894    22
+Name: taxi_count, dtype: int64","894    153.334255
+Name: queue_length, dtype: float64","893    20
+Name: taxi_count, dtype: int64","893    134.612058
+Name: queue_length, dtype: float64",18,107.8990331090726,20,111.6187646691422,17,116.55963531523888,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.33,3
+2023-09-26,Tuesday,weekday,15,"['15.25.00', '15.26.00']","924    14
+Name: taxi_count, dtype: int64","924    93.516926
+Name: queue_length, dtype: float64","923    0
+Name: taxi_count, dtype: int64","923    0.0
+Name: queue_length, dtype: float64","922    15
+Name: taxi_count, dtype: int64","922    107.004984
+Name: queue_length, dtype: float64","921    0
+Name: taxi_count, dtype: int64","921    0.0
+Name: queue_length, dtype: float64","920    0
+Name: taxi_count, dtype: int64","920    0.0
+Name: queue_length, dtype: float64",18,127.4599407918602,17,158.70720227306737,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.5,2
+2023-09-26,Tuesday,weekday,18,"['18.21.00', '18.22.00']","1100    0
+Name: taxi_count, dtype: int64","1100    0.0
+Name: queue_length, dtype: float64","1099    15
+Name: taxi_count, dtype: int64","1099    139.576769
+Name: queue_length, dtype: float64","1098    7
+Name: taxi_count, dtype: int64","1098    45.635636
+Name: queue_length, dtype: float64","1097    0
+Name: taxi_count, dtype: int64","1097    0.0
+Name: queue_length, dtype: float64","1096    0
+Name: taxi_count, dtype: int64","1096    0.0
+Name: queue_length, dtype: float64",15,108.72234477906538,16,126.7584761601544,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.5,2
+2023-09-26,Tuesday,weekday,18,"['18.29.00', '18.30.00']","1108    8
+Name: taxi_count, dtype: int64","1108    60.133696
+Name: queue_length, dtype: float64","1107    8
+Name: taxi_count, dtype: int64","1107    54.23014
+Name: queue_length, dtype: float64","1106    9
+Name: taxi_count, dtype: int64","1106    80.809691
+Name: queue_length, dtype: float64","1105    0
+Name: taxi_count, dtype: int64","1105    0.0
+Name: queue_length, dtype: float64","1104    15
+Name: taxi_count, dtype: int64","1104    188.188853
+Name: queue_length, dtype: float64",19,203.04877713277057,15,184.28393746264683,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.0,2
+2023-09-26,Tuesday,weekday,19,"['19.03.00', '19.04.00']","1142    11
+Name: taxi_count, dtype: int64","1142    62.242036
+Name: queue_length, dtype: float64","1141    14
+Name: taxi_count, dtype: int64","1141    96.622822
+Name: queue_length, dtype: float64","1140    0
+Name: taxi_count, dtype: int64","1140    0.0
+Name: queue_length, dtype: float64","1139    0
+Name: taxi_count, dtype: int64","1139    0.0
+Name: queue_length, dtype: float64","1138    9
+Name: taxi_count, dtype: int64","1138    47.938248
+Name: queue_length, dtype: float64",19,191.40922603984816,16,208.84907512005032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.5,2
+2023-09-26,Tuesday,weekday,19,"['19.35.00', '19.36.00']","1174    9
+Name: taxi_count, dtype: int64","1174    51.028551
+Name: queue_length, dtype: float64","1173    9
+Name: taxi_count, dtype: int64","1173    54.758152
+Name: queue_length, dtype: float64","1172    7
+Name: taxi_count, dtype: int64","1172    43.967174
+Name: queue_length, dtype: float64","1171    10
+Name: taxi_count, dtype: int64","1171    63.723964
+Name: queue_length, dtype: float64","1170    10
+Name: taxi_count, dtype: int64","1170    84.258038
+Name: queue_length, dtype: float64",17,193.0803786084405,16,194.62883189355017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.5,2
+2023-09-26,Tuesday,weekday,20,"['20.12.00', '20.13.00']","1211    8
+Name: taxi_count, dtype: int64","1211    61.656591
+Name: queue_length, dtype: float64","1210    0
+Name: taxi_count, dtype: int64","1210    0.0
+Name: queue_length, dtype: float64","1209    9
+Name: taxi_count, dtype: int64","1209    50.948476
+Name: queue_length, dtype: float64","1208    11
+Name: taxi_count, dtype: int64","1208    73.839434
+Name: queue_length, dtype: float64","1207    11
+Name: taxi_count, dtype: int64","1207    68.151031
+Name: queue_length, dtype: float64",15,123.6291280915898,15,211.64545175738783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.0,2
+2023-09-26,Tuesday,weekday,20,"['20.55.00', '20.56.00', '20.57.00']","1254    8
+Name: taxi_count, dtype: int64","1254    58.434862
+Name: queue_length, dtype: float64","1253    16
+Name: taxi_count, dtype: int64","1253    176.818562
+Name: queue_length, dtype: float64","1252    7
+Name: taxi_count, dtype: int64","1252    40.283101
+Name: queue_length, dtype: float64","1251    0
+Name: taxi_count, dtype: int64","1251    0.0
+Name: queue_length, dtype: float64","1250    8
+Name: taxi_count, dtype: int64","1250    63.092756
+Name: queue_length, dtype: float64",14,113.23917630329328,18,157.25436747136288,19,204.6047740476156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.0,3
+2023-09-26,Tuesday,weekday,21,"['21.36.00', '21.37.00']","1295    8
+Name: taxi_count, dtype: int64","1295    47.275315
+Name: queue_length, dtype: float64","1294    0
+Name: taxi_count, dtype: int64","1294    0.0
+Name: queue_length, dtype: float64","1293    0
+Name: taxi_count, dtype: int64","1293    0.0
+Name: queue_length, dtype: float64","1292    10
+Name: taxi_count, dtype: int64","1292    74.867496
+Name: queue_length, dtype: float64","1291    0
+Name: taxi_count, dtype: int64","1291    0.0
+Name: queue_length, dtype: float64",25,183.56115101611724,15,166.41988242816709,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0,2
+2023-09-26,Tuesday,weekday,21,"['21.39.00', '21.40.00']","1298    8
+Name: taxi_count, dtype: int64","1298    47.091703
+Name: queue_length, dtype: float64","1297    15
+Name: taxi_count, dtype: int64","1297    166.419882
+Name: queue_length, dtype: float64","1296    25
+Name: taxi_count, dtype: int64","1296    183.561151
+Name: queue_length, dtype: float64","1295    8
+Name: taxi_count, dtype: int64","1295    47.275315
+Name: queue_length, dtype: float64","1294    0
+Name: taxi_count, dtype: int64","1294    0.0
+Name: queue_length, dtype: float64",18,174.27874250707978,18,199.77608018959555,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.0,2
+2023-09-26,Tuesday,weekday,22,"['22.20.00', '22.21.00', '22.22.00']","1339    0
+Name: taxi_count, dtype: int64","1339    0.0
+Name: queue_length, dtype: float64","1338    0
+Name: taxi_count, dtype: int64","1338    0.0
+Name: queue_length, dtype: float64","1337    0
+Name: taxi_count, dtype: int64","1337    0.0
+Name: queue_length, dtype: float64","1336    7
+Name: taxi_count, dtype: int64","1336    45.635635
+Name: queue_length, dtype: float64","1335    0
+Name: taxi_count, dtype: int64","1335    0.0
+Name: queue_length, dtype: float64",12,103.18945647553592,16,170.9897536299465,25,205.3603583917331,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.67,3
+2023-09-26,Tuesday,weekday,22,"['22.25.00', '22.26.00']","1344    9
+Name: taxi_count, dtype: int64","1344    52.615486
+Name: queue_length, dtype: float64","1343    0
+Name: taxi_count, dtype: int64","1343    0.0
+Name: queue_length, dtype: float64","1342    25
+Name: taxi_count, dtype: int64","1342    205.360358
+Name: queue_length, dtype: float64","1341    16
+Name: taxi_count, dtype: int64","1341    170.989754
+Name: queue_length, dtype: float64","1340    12
+Name: taxi_count, dtype: int64","1340    103.189456
+Name: queue_length, dtype: float64",18,172.52088589644725,17,128.91536865666714,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.5,2
+2023-09-26,Tuesday,weekday,23,"['23.31.00', '23.32.00']","1410    8
+Name: taxi_count, dtype: int64","1410    51.457553
+Name: queue_length, dtype: float64","1409    15
+Name: taxi_count, dtype: int64","1409    118.704427
+Name: queue_length, dtype: float64","1408    10
+Name: taxi_count, dtype: int64","1408    89.399353
+Name: queue_length, dtype: float64","1407    0
+Name: taxi_count, dtype: int64","1407    0.0
+Name: queue_length, dtype: float64","1406    7
+Name: taxi_count, dtype: int64","1406    55.314211
+Name: queue_length, dtype: float64",22,213.54938463919623,15,142.62708402962235,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.5,2
+2023-09-26,Tuesday,weekday,23,"['23.34.00', '23.35.00']","1413    0
+Name: taxi_count, dtype: int64","1413    0.0
+Name: queue_length, dtype: float64","1412    15
+Name: taxi_count, dtype: int64","1412    142.627084
+Name: queue_length, dtype: float64","1411    22
+Name: taxi_count, dtype: int64","1411    213.549385
+Name: queue_length, dtype: float64","1410    8
+Name: taxi_count, dtype: int64","1410    51.457553
+Name: queue_length, dtype: float64","1409    15
+Name: taxi_count, dtype: int64","1409    118.704427
+Name: queue_length, dtype: float64",15,133.29709531089662,11,100.90893377767304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13.0,2
