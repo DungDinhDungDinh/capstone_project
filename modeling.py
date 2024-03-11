@@ -42,7 +42,7 @@ from warnings import simplefilter
 simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
 
 
-terminal = 't2'
+terminal = 't4'
 is_should_go = False
 one_date = '2023-11-12'
 
@@ -223,22 +223,22 @@ def decision_tree_training():
     # r = export_text(clf)
     # print(r)
     
-    # if is_should_go:
-    #     dot_name = terminal + '_should_go.dot'
-    #     png_name = terminal + '_should_go.png'
-    # else:
-    #     dot_name = terminal + '_heavy_congestion.dot'
-    #     png_name = terminal + '_heavy_congestion.png'
+    if is_should_go:
+        dot_name = terminal + '_should_go.dot'
+        png_name = terminal + '_should_go.png'
+    else:
+        dot_name = terminal + '_heavy_congestion.dot'
+        png_name = terminal + '_heavy_congestion.png'
         
-    # export_graphviz(clf, out_file= dot_name, 
-    #                 feature_names = X_train.columns,
-    #                 class_names = ["no", "yes"],
-    #                 rounded = True, proportion = False, 
-    #                 precision = 2, filled = True)
+    export_graphviz(clf, out_file= dot_name, 
+                    feature_names = X_train.columns,
+                    class_names = ["no", "yes"],
+                    rounded = True, proportion = False, 
+                    precision = 2, filled = True)
     
-    # call(['dot', '-Tpng', dot_name, '-o', png_name, '-Gdpi=600'])
+    call(['dot', '-Tpng', dot_name, '-o', png_name, '-Gdpi=600'])
     
-    # Image(filename = png_name)
+    Image(filename = png_name)
 decision_tree_training()
 
 def linear_regression_model():

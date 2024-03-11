@@ -1,9 +1,33 @@
 digraph Tree {
 node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
 edge [fontname="helvetica"] ;
-0 [label="taxi_length_minute4 <= inf\ngini = 0.05\nsamples = 222\nvalue = [216, 6]\nclass = no", fillcolor="#e6843e"] ;
-1 [label="gini = 0.0\nsamples = 6\nvalue = [0, 6]\nclass = yes", fillcolor="#399de5"] ;
+0 [label="taxi_count_minute-3 <= 77.5\ngini = 0.05\nsamples = 222\nvalue = [216, 6]\nclass = no", fillcolor="#e6843e"] ;
+1 [label="taxi_length_minute0 <= 100.3\ngini = 0.04\nsamples = 219\nvalue = [215, 4]\nclass = no", fillcolor="#e5833d"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="gini = 0.0\nsamples = 216\nvalue = [216, 0]\nclass = no", fillcolor="#e58139"] ;
-0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+2 [label="taxi_length_minute-4 <= 76.35\ngini = 0.38\nsamples = 4\nvalue = [3, 1]\nclass = no", fillcolor="#eeab7b"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = yes", fillcolor="#399de5"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 3\nvalue = [3, 0]\nclass = no", fillcolor="#e58139"] ;
+2 -> 4 ;
+5 [label="taxi_count_minute0 <= 68.5\ngini = 0.03\nsamples = 215\nvalue = [212, 3]\nclass = no", fillcolor="#e5833c"] ;
+1 -> 5 ;
+6 [label="taxi_count_minute-5 <= 40.5\ngini = 0.02\nsamples = 211\nvalue = [209, 2]\nclass = no", fillcolor="#e5823b"] ;
+5 -> 6 ;
+7 [label="gini = 0.0\nsamples = 156\nvalue = [156, 0]\nclass = no", fillcolor="#e58139"] ;
+6 -> 7 ;
+8 [label="gini = 0.07\nsamples = 55\nvalue = [53, 2]\nclass = no", fillcolor="#e68640"] ;
+6 -> 8 ;
+9 [label="taxi_length_minute-3 <= 83.95\ngini = 0.38\nsamples = 4\nvalue = [3, 1]\nclass = no", fillcolor="#eeab7b"] ;
+5 -> 9 ;
+10 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = yes", fillcolor="#399de5"] ;
+9 -> 10 ;
+11 [label="gini = 0.0\nsamples = 3\nvalue = [3, 0]\nclass = no", fillcolor="#e58139"] ;
+9 -> 11 ;
+12 [label="taxi_count_minute-3 <= 79.5\ngini = 0.44\nsamples = 3\nvalue = [1, 2]\nclass = yes", fillcolor="#9ccef2"] ;
+0 -> 12 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+13 [label="gini = 0.0\nsamples = 2\nvalue = [0, 2]\nclass = yes", fillcolor="#399de5"] ;
+12 -> 13 ;
+14 [label="gini = 0.0\nsamples = 1\nvalue = [1, 0]\nclass = no", fillcolor="#e58139"] ;
+12 -> 14 ;
 }
