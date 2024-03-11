@@ -236,14 +236,14 @@ def draw_seemless_lanes():
 # draw_seemless_lanes()
 
 def mapbox_show():
-    coordinates = getTaxiCoordinatesByTime('2024-01-02', '23%3A33%3A00') 
+    coordinates = getTaxiCoordinatesByTime('2023-12-16', '05%3A33%3A00') 
     fig = px.scatter_mapbox(coordinates, lat="lats", lon="lons",
                         color_discrete_sequence=["fuchsia"], zoom=3)
     fig.update_layout(mapbox_style="open-street-map")
     fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     fig.write_html('eda1.html', auto_open=True)
     
-# mapbox_show()
+mapbox_show()
 
 def get_address():
     geoLoc = Nominatim(user_agent="GetLoc", timeout=15)
